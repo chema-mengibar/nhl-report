@@ -1,0 +1,52 @@
+:root {
+    /* fonts */
+    --regular: 400;
+    --bold: 600;
+    --font-hl: 'Mochiy', serif;
+    --font-copy: 'OpenSans', serif;
+    /* colors */
+    /* >> colors: primary */
+
+    --color-1: 80, 99, 133;
+    --color-1_rgb: rgb(80, 133, 60);
+    --color-1-m: 121, 177, 60;
+    --color-1-m_rgb: rgb(121, 177, 60);
+    --color-1-M: 121, 156, 219;
+    --color-1-M_rgb: rgb(121, 156, 219);
+    --color-2: 208, 202, 43;
+    --color-2_rgb: rgb(208, 202, 43);
+    --color-2-m: 236, 229, 70;
+    --color-2-m_rgb: rgb(236, 229, 70);
+    --color-2-M: 149, 144, 29;
+    --color-2-M_rgb: rgb( 149, 144, 29);
+    /* >> colors: grey */
+    --grey-0: #101015;
+    --grey-1: #1F1F22;
+    --grey-2: #343435;
+    --grey-3: #B2B1A8;
+    --grey-4: #D9D9D9;
+    --app-bg-color: #101015;
+    --text-color: 255, 255, 255;
+    --text-color-rgb: rgb(255, 255, 255);
+    /* vertical baseline */
+    --vm10: 240px;
+    --vm8: 192px;
+    --vm6: 144px;
+    --vm4: 96px;
+    --vm2: 48px;
+    --vb: 24px;
+    --vd2: 12px;
+    --vd4: 6px;
+    --vd6: 4px;
+    --vd8: 3px;
+    --vd10: 2.4px;
+}
+
+
+/*
+
+[data-theme=light] {
+  
+
+}
+*/

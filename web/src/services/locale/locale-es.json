@@ -1,0 +1,49 @@
+{
+    "menuHeadline": "Menú",
+    "menuIntro": "¿Como se juega?",
+    "menuSettings": "Configurar",
+    "menuJuega": "¡Jugar!",
+    "menuJuegaTiempo": "Jugar con tiempo",
+    "menuInfo": "Sobre nosotros",
+    "footerZoom": "Zoom",
+    "footerNext": "Siguiente",
+    "footerShow": "Concentrado",
+    "buttonSave": "Guardar",
+    "msgSaveConfigSuccess": "Configuración guardada",
+    "introHeadline": "¿Como se juega?",
+    
+    "loading": "Cargando...",
+    "gameReady": "¿Preparado?",
+    "gameStart": "Empezar",
+    "gameLoadError": "Error al cargar el juego",
+    "timerUnit": "seg.",
+
+    "settingsHeadline": "Configuración",
+    "settingsCardstypeLabel": "Tipo de tarjetas",
+
+    "settingsObjectLabel": "Objeto",
+    "settingsColumnLabel": "Columna",
+    "settingsPyramidLabel": "Pirámide",
+
+    "settingsTimeLabel": "Tiempo",
+    "settingsLevelLabel": "Nivel",
+    "settingsAddSubLevelLabel": "Añadir niveles inferiores",
+
+    "settingsLanguageLabel": "Idioma",
+    "settingsLangEsLabel": "Español",
+    "settingsLangEnLabel": "English",
+
+    "aboutusHeadline": "Sobre nosotros",
+    "aboutusText1": "Si quieres contactor con nosotros hazlo a traves de la direccion de correo:",
+    "aboutusEmail": "hello@cup-cards.motuo.info",
+
+    "notyButtonExtraLabel": "De acuerdo!",
+    "msgBeReady": "Preparate!",
+
+    "buttonRetry": "Probar otra vez",
+    "consentText": "Antes de empezar... <br /> informarte ue esta web guarda únicamente tu configuración del juego y el idioma. <br /> Si estás deacuerdo cierra este mensaje y continua jugando. <br /> Si no, cierra la pestaña en tu navegador.",
+    "featureClick": "¿Sabias que... <br /> durante el juego puedes pasar a la siguiente imagen haciendo click en ella?",
+    "dummy": "dummy"
+
+
+}

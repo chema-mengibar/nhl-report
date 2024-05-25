@@ -1,0 +1,82 @@
+@font-face {
+    font-family: 'Mochiy';
+    font-weight: 400;
+    font-display: swap;
+    src: url('./assets/fonts/MochiyPopPOne-Regular.ttf') format('truetype');
+}
+
+
+@font-face {
+    font-family: 'OpenSans';
+    font-display: swap;
+    src: url('./assets/fonts/OpenSans-Regular.ttf') format('truetype');
+}
+
+body {
+    font-family: var(--font-copy);
+    font-style: normal;
+    font-weight: var(--regular);
+    font-size: 14px;
+    color: var(--text-color-rgb);
+}
+
+h1 {
+    font-family: var(--font-hl);
+    font-size: 28px;
+    color: var(--primary-color-rgb);
+    margin-bottom: var(--vb);
+}
+
+h2 {
+    font-family: var(--font-hl);
+    font-size: 18px;
+    line-height: 18px;
+    color: var(--primary-color-rgb);
+    margin: var(--vb) 0 ;
+}
+
+h3,
+h4,
+h5 {
+    margin-bottom: var(--vd2);
+    font-family: var(--font-hl);
+    font-size: 16px;
+    line-height: 16px;
+}
+
+.text_accent {
+    font-family: var(--font-hl);
+}
+
+p {
+    line-height: 1.5em;
+    font-size:16px;
+    margin: 7px 0;
+}
+
+ol{
+    margin:20px;
+    font-size:16px;
+    line-height: 1.5em;
+}
+
+a:link,
+a:visited,
+a:active {
+    text-decoration: underline;
+    color: var(--accent-rgb);
+    font-family: var(--font-hl);
+}
+
+a:hover{
+    text-decoration: none;
+    color: var(--secondary-color-rgb);
+}
+
+.colorAccent {
+    color: var(--accent-rgb);
+}
+
+b {
+    font-weight: bold;
+}

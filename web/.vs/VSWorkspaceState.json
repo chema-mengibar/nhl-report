@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\icons",
+    "\\src\\components\\widgets",
+    "\\src\\router",
+    "\\src\\services",
+    "\\src\\services\\data",
+    "\\src\\styles"
+  ],
+  "SelectedNode": "\\src\\services\\data\\shoots-counter_8f36d70b-a463-452e-9f02-65dd5d37d2c9.json",
+  "PreviewInSolutionExplorer": false
+}
