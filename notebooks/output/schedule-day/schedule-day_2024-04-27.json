@@ -1,0 +1,343 @@
+{
+  "date": "2024-04-27",
+  "league": {
+    "id": "fd560107-a85b-4388-ab0d-655ad022aff7",
+    "name": "NHL",
+    "alias": "NHL"
+  },
+  "games": [
+    {
+      "id": "729e32df-183d-475e-a37c-8c6191fcbefd",
+      "title": "Game 4",
+      "status": "closed",
+      "coverage": "full",
+      "scheduled": "2024-04-27T18:00:00Z",
+      "home_points": 3,
+      "away_points": 2,
+      "sr_id": "sr:match:49470689",
+      "reference": "30144",
+      "venue": {
+        "id": "e256f8f5-5469-43b0-a95e-8d3adb3cb7ee",
+        "name": "UBS Arena",
+        "capacity": 17113,
+        "address": "2150 Hempstead Turnpike",
+        "city": "Belmont Park",
+        "state": "NY",
+        "zip": "11003",
+        "country": "USA",
+        "time_zone": "US/Eastern",
+        "sr_id": "sr:venue:59880"
+      },
+      "broadcasts": [
+        {
+          "network": "TBS",
+          "type": "TV",
+          "locale": "National",
+          "channel": "247"
+        },
+        {
+          "network": "truTV",
+          "type": "TV",
+          "locale": "National",
+          "channel": "246"
+        },
+        {
+          "network": "SportsNet",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "TVAS",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "Max",
+          "type": "Internet",
+          "locale": "National"
+        },
+        {
+          "network": "BSSO",
+          "type": "TV",
+          "locale": "Away",
+          "channel": "646-1"
+        },
+        {
+          "network": "MSGSN",
+          "type": "TV",
+          "locale": "Home",
+          "channel": "635"
+        }
+      ],
+      "home": {
+        "id": "441766b9-0f24-11e2-8525-18a905767e44",
+        "name": "New York Islanders",
+        "alias": "NYI",
+        "seed": 7,
+        "sr_id": "sr:team:3703",
+        "reference": "2"
+      },
+      "away": {
+        "id": "44182a9d-0f24-11e2-8525-18a905767e44",
+        "name": "Carolina Hurricanes",
+        "alias": "CAR",
+        "seed": 2,
+        "sr_id": "sr:team:3680",
+        "reference": "12"
+      }
+    },
+    {
+      "id": "e30237bc-de0c-46c6-9a34-ba26d4d4722e",
+      "title": "Game 4",
+      "status": "closed",
+      "coverage": "full",
+      "scheduled": "2024-04-27T21:00:00Z",
+      "home_points": 6,
+      "away_points": 3,
+      "sr_id": "sr:match:49470499",
+      "reference": "30114",
+      "venue": {
+        "id": "05aa49b2-f72d-4d42-ab30-f219d32ed97b",
+        "name": "Amalie Arena",
+        "capacity": 19092,
+        "address": "401 Channelside Drive",
+        "city": "Tampa",
+        "state": "FL",
+        "zip": "33602",
+        "country": "USA",
+        "time_zone": "US/Eastern",
+        "sr_id": "sr:venue:6036"
+      },
+      "broadcasts": [
+        {
+          "network": "TBS",
+          "type": "TV",
+          "locale": "National",
+          "channel": "247"
+        },
+        {
+          "network": "truTV",
+          "type": "TV",
+          "locale": "National",
+          "channel": "246"
+        },
+        {
+          "network": "TVAS",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "SNE",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "SNW",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "SNP",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "Max",
+          "type": "Internet",
+          "locale": "National"
+        },
+        {
+          "network": "BSSUN",
+          "type": "TV",
+          "locale": "Home",
+          "channel": "653"
+        },
+        {
+          "network": "BSFL",
+          "type": "TV",
+          "locale": "Away",
+          "channel": "654"
+        }
+      ],
+      "home": {
+        "id": "4417d3cb-0f24-11e2-8525-18a905767e44",
+        "name": "Tampa Bay Lightning",
+        "alias": "TB",
+        "seed": 6,
+        "sr_id": "sr:team:3694",
+        "reference": "14"
+      },
+      "away": {
+        "id": "4418464d-0f24-11e2-8525-18a905767e44",
+        "name": "Florida Panthers",
+        "alias": "FLA",
+        "seed": 3,
+        "sr_id": "sr:team:3687",
+        "reference": "13"
+      }
+    },
+    {
+      "id": "c38ba98f-af04-40ee-b7aa-3cc112f32d95",
+      "title": "Game 4",
+      "status": "closed",
+      "coverage": "full",
+      "scheduled": "2024-04-28T00:00:00Z",
+      "home_points": 1,
+      "away_points": 3,
+      "sr_id": "sr:match:49470483",
+      "reference": "30124",
+      "venue": {
+        "id": "a84c7004-18b2-4c5d-a036-f0c368c08bc5",
+        "name": "Scotiabank Arena",
+        "capacity": 18819,
+        "address": "40 Bay Street",
+        "city": "Toronto",
+        "state": "ON",
+        "zip": "M5J 2X2",
+        "country": "CAN",
+        "time_zone": "US/Eastern",
+        "sr_id": "sr:venue:6030"
+      },
+      "broadcasts": [
+        {
+          "network": "TBS",
+          "type": "TV",
+          "locale": "National",
+          "channel": "247"
+        },
+        {
+          "network": "truTV",
+          "type": "TV",
+          "locale": "National",
+          "channel": "246"
+        },
+        {
+          "network": "SportsNet",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "TVAS",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "CBC",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "Max",
+          "type": "Internet",
+          "locale": "National"
+        },
+        {
+          "network": "NESN",
+          "type": "TV",
+          "locale": "Away",
+          "channel": "628"
+        }
+      ],
+      "home": {
+        "id": "441730a9-0f24-11e2-8525-18a905767e44",
+        "name": "Toronto Maple Leafs",
+        "alias": "TOR",
+        "seed": 5,
+        "sr_id": "sr:team:3693",
+        "reference": "10"
+      },
+      "away": {
+        "id": "4416ba1a-0f24-11e2-8525-18a905767e44",
+        "name": "Boston Bruins",
+        "alias": "BOS",
+        "seed": 4,
+        "sr_id": "sr:team:3677",
+        "reference": "6"
+      }
+    },
+    {
+      "id": "aeb8ae96-fb47-49aa-9030-4d60567107f6",
+      "title": "Game 3",
+      "status": "closed",
+      "coverage": "full",
+      "scheduled": "2024-04-28T02:30:00Z",
+      "home_points": 2,
+      "away_points": 3,
+      "sr_id": "sr:match:49470679",
+      "reference": "30153",
+      "venue": {
+        "id": "17d90f56-d6fc-4d73-9cc7-4991d6da72f4",
+        "name": "T-Mobile Arena",
+        "capacity": 17367,
+        "address": "3780 South Las Vegas Boulevard",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89158",
+        "country": "USA",
+        "time_zone": "US/Pacific",
+        "sr_id": "sr:venue:66045"
+      },
+      "broadcasts": [
+        {
+          "network": "TBS",
+          "type": "TV",
+          "locale": "National",
+          "channel": "247"
+        },
+        {
+          "network": "truTV",
+          "type": "TV",
+          "locale": "National",
+          "channel": "246"
+        },
+        {
+          "network": "SportsNet",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "SN360",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "TVAS",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "Max",
+          "type": "Internet",
+          "locale": "National"
+        },
+        {
+          "network": "BSSW",
+          "type": "TV",
+          "locale": "Away",
+          "channel": "676"
+        },
+        {
+          "network": "SCRIPPS",
+          "type": "TV",
+          "locale": "Home"
+        }
+      ],
+      "home": {
+        "id": "42376e1c-6da8-461e-9443-cfcf0a9fcc4d",
+        "name": "Vegas Golden Knights",
+        "alias": "VGK",
+        "seed": 8,
+        "sr_id": "sr:team:344158",
+        "reference": "54"
+      },
+      "away": {
+        "id": "44157522-0f24-11e2-8525-18a905767e44",
+        "name": "Dallas Stars",
+        "alias": "DAL",
+        "seed": 1,
+        "sr_id": "sr:team:3684",
+        "reference": "25"
+      }
+    }
+  ]
+}

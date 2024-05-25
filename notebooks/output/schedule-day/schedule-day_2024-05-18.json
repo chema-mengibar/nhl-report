@@ -1,0 +1,108 @@
+{
+  "date": "2024-05-18",
+  "league": {
+    "id": "fd560107-a85b-4388-ab0d-655ad022aff7",
+    "name": "NHL",
+    "alias": "NHL"
+  },
+  "games": [
+    {
+      "id": "a0809aa9-87ef-4585-8772-d75aa01b817d",
+      "title": "Game 7 (if necessary)",
+      "status": "unnecessary",
+      "coverage": "full",
+      "scheduled": "2024-05-18T17:00:00Z",
+      "reference": "30227",
+      "venue": {
+        "id": "bd8053e4-3bdf-4a70-914f-9f6d0051d66d",
+        "name": "Madison Square Garden",
+        "capacity": 18006,
+        "address": "4 Pennsylvania Plaza",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10001",
+        "country": "USA",
+        "time_zone": "US/Eastern",
+        "sr_id": "sr:venue:6054"
+      },
+      "home": {
+        "id": "441781b9-0f24-11e2-8525-18a905767e44",
+        "name": "New York Rangers",
+        "alias": "NYR",
+        "seed": 1,
+        "sr_id": "sr:team:3701",
+        "reference": "3"
+      },
+      "away": {
+        "id": "44182a9d-0f24-11e2-8525-18a905767e44",
+        "name": "Carolina Hurricanes",
+        "alias": "CAR",
+        "seed": 2,
+        "sr_id": "sr:team:3680",
+        "reference": "12"
+      }
+    },
+    {
+      "id": "e7d9a52b-34bb-4ddd-a636-a79a3c3601f5",
+      "title": "Game 6",
+      "status": "closed",
+      "coverage": "full",
+      "scheduled": "2024-05-19T00:00:00Z",
+      "home_points": 5,
+      "away_points": 1,
+      "sr_id": "sr:match:49470561",
+      "reference": "30246",
+      "venue": {
+        "id": "5d6670d2-01ea-4bc2-ae88-93563620328d",
+        "name": "Rogers Place",
+        "capacity": 18641,
+        "address": "10214 104 Avenue NW",
+        "city": "Edmonton",
+        "state": "AB",
+        "zip": "T5J 0H6",
+        "country": "CAN",
+        "time_zone": "US/Mountain",
+        "sr_id": "sr:venue:18335"
+      },
+      "broadcasts": [
+        {
+          "network": "ESPN",
+          "type": "TV",
+          "locale": "National",
+          "channel": "206"
+        },
+        {
+          "network": "SportsNet",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "CBC",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "TVAS",
+          "type": "TV",
+          "locale": "International"
+        }
+      ],
+      "home": {
+        "id": "4415ea6c-0f24-11e2-8525-18a905767e44",
+        "name": "Edmonton Oilers",
+        "alias": "EDM",
+        "seed": 5,
+        "sr_id": "sr:team:3686",
+        "reference": "22"
+      },
+      "away": {
+        "id": "4415b0a7-0f24-11e2-8525-18a905767e44",
+        "name": "Vancouver Canucks",
+        "alias": "VAN",
+        "seed": 3,
+        "sr_id": "sr:team:3692",
+        "reference": "23"
+      }
+    }
+  ]
+}

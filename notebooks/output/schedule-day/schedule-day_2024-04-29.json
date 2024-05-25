@@ -1,0 +1,147 @@
+{
+  "date": "2024-04-29",
+  "league": {
+    "id": "fd560107-a85b-4388-ab0d-655ad022aff7",
+    "name": "NHL",
+    "alias": "NHL"
+  },
+  "games": [
+    {
+      "id": "506c3ccd-61c1-4170-b19f-751e6ccae992",
+      "title": "Game 5",
+      "status": "closed",
+      "coverage": "full",
+      "scheduled": "2024-04-29T23:00:00Z",
+      "home_points": 6,
+      "away_points": 1,
+      "sr_id": "sr:match:49470495",
+      "reference": "30115",
+      "venue": {
+        "id": "7cc8e88f-9196-4dbc-aa6a-d6f1a0550673",
+        "name": "Amerant Bank Arena",
+        "capacity": 19250,
+        "address": "1 Panther Parkway",
+        "city": "Sunrise",
+        "state": "FL",
+        "zip": "33323",
+        "country": "USA",
+        "time_zone": "US/Eastern",
+        "sr_id": "sr:venue:6004"
+      },
+      "broadcasts": [
+        {
+          "network": "ESPN",
+          "type": "TV",
+          "locale": "National",
+          "channel": "206"
+        },
+        {
+          "network": "BSFL",
+          "type": "TV",
+          "locale": "Home",
+          "channel": "654"
+        },
+        {
+          "network": "BSSUN",
+          "type": "TV",
+          "locale": "Away",
+          "channel": "653"
+        },
+        {
+          "network": "SportsNet",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "TVAS",
+          "type": "TV",
+          "locale": "International"
+        }
+      ],
+      "home": {
+        "id": "4418464d-0f24-11e2-8525-18a905767e44",
+        "name": "Florida Panthers",
+        "alias": "FLA",
+        "seed": 3,
+        "sr_id": "sr:team:3687",
+        "reference": "13"
+      },
+      "away": {
+        "id": "4417d3cb-0f24-11e2-8525-18a905767e44",
+        "name": "Tampa Bay Lightning",
+        "alias": "TB",
+        "seed": 6,
+        "sr_id": "sr:team:3694",
+        "reference": "14"
+      }
+    },
+    {
+      "id": "6c78dbbb-b580-44f7-b000-d9964beaa371",
+      "title": "Game 4",
+      "status": "closed",
+      "coverage": "full",
+      "scheduled": "2024-04-30T01:30:00Z",
+      "home_points": 2,
+      "away_points": 4,
+      "sr_id": "sr:match:49470675",
+      "reference": "30154",
+      "venue": {
+        "id": "17d90f56-d6fc-4d73-9cc7-4991d6da72f4",
+        "name": "T-Mobile Arena",
+        "capacity": 17367,
+        "address": "3780 South Las Vegas Boulevard",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89158",
+        "country": "USA",
+        "time_zone": "US/Pacific",
+        "sr_id": "sr:venue:66045"
+      },
+      "broadcasts": [
+        {
+          "network": "ESPN",
+          "type": "TV",
+          "locale": "National",
+          "channel": "206"
+        },
+        {
+          "network": "BSSW",
+          "type": "TV",
+          "locale": "Away",
+          "channel": "676"
+        },
+        {
+          "network": "SCRIPPS",
+          "type": "TV",
+          "locale": "Home"
+        },
+        {
+          "network": "SportsNet",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "TVAS",
+          "type": "TV",
+          "locale": "International"
+        }
+      ],
+      "home": {
+        "id": "42376e1c-6da8-461e-9443-cfcf0a9fcc4d",
+        "name": "Vegas Golden Knights",
+        "alias": "VGK",
+        "seed": 8,
+        "sr_id": "sr:team:344158",
+        "reference": "54"
+      },
+      "away": {
+        "id": "44157522-0f24-11e2-8525-18a905767e44",
+        "name": "Dallas Stars",
+        "alias": "DAL",
+        "seed": 1,
+        "sr_id": "sr:team:3684",
+        "reference": "25"
+      }
+    }
+  ]
+}

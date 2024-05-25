@@ -1,0 +1,24 @@
+{
+  "id": "04a92a0a-5155-4eca-beea-43745e27644c",
+  "status": "scheduled",
+  "coverage": "full",
+  "scheduled": "2024-05-26T19:00:00+00:00",
+  "sr_id": "sr:match:49470549",
+  "reference": "30313",
+  "home": {
+    "id": "4418464d-0f24-11e2-8525-18a905767e44",
+    "name": "Panthers",
+    "market": "Florida",
+    "alias": "FLA",
+    "sr_id": "sr:team:3687"
+  },
+  "away": {
+    "id": "441781b9-0f24-11e2-8525-18a905767e44",
+    "name": "Rangers",
+    "market": "New York",
+    "alias": "NYR",
+    "sr_id": "sr:team:3701",
+    "reference": "3"
+  },
+  "deleted_events": []
+}

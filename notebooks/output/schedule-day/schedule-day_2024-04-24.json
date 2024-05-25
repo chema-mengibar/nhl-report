@@ -1,0 +1,179 @@
+{
+  "date": "2024-04-24",
+  "league": {
+    "id": "fd560107-a85b-4388-ab0d-655ad022aff7",
+    "name": "NHL",
+    "alias": "NHL"
+  },
+  "games": [
+    {
+      "id": "473409c1-db77-40d7-8d3d-650affdf9867",
+      "title": "Game 3",
+      "status": "closed",
+      "coverage": "full",
+      "scheduled": "2024-04-24T23:00:00Z",
+      "home_points": 2,
+      "away_points": 4,
+      "sr_id": "sr:match:49470489",
+      "reference": "30123",
+      "venue": {
+        "id": "a84c7004-18b2-4c5d-a036-f0c368c08bc5",
+        "name": "Scotiabank Arena",
+        "capacity": 18819,
+        "address": "40 Bay Street",
+        "city": "Toronto",
+        "state": "ON",
+        "zip": "M5J 2X2",
+        "country": "CAN",
+        "time_zone": "US/Eastern",
+        "sr_id": "sr:venue:6030"
+      },
+      "broadcasts": [
+        {
+          "network": "ESPN",
+          "type": "TV",
+          "locale": "National",
+          "channel": "206"
+        },
+        {
+          "network": "NESN",
+          "type": "TV",
+          "locale": "Away",
+          "channel": "628"
+        }
+      ],
+      "home": {
+        "id": "441730a9-0f24-11e2-8525-18a905767e44",
+        "name": "Toronto Maple Leafs",
+        "alias": "TOR",
+        "seed": 5,
+        "sr_id": "sr:team:3693",
+        "reference": "10"
+      },
+      "away": {
+        "id": "4416ba1a-0f24-11e2-8525-18a905767e44",
+        "name": "Boston Bruins",
+        "alias": "BOS",
+        "seed": 4,
+        "sr_id": "sr:team:3677",
+        "reference": "6"
+      }
+    },
+    {
+      "id": "e00fd532-c67b-4846-ae6b-3d01e0e7d40a",
+      "title": "Game 2",
+      "status": "closed",
+      "coverage": "full",
+      "scheduled": "2024-04-25T01:30:00Z",
+      "home_points": 1,
+      "away_points": 3,
+      "sr_id": "sr:match:49470671",
+      "reference": "30152",
+      "venue": {
+        "id": "adbd1acb-a053-4944-ba15-383eda91c12e",
+        "name": "American Airlines Center",
+        "capacity": 18532,
+        "address": "2500 Victory Avenue",
+        "city": "Dallas",
+        "state": "TX",
+        "zip": "75219",
+        "country": "USA",
+        "time_zone": "US/Central",
+        "sr_id": "sr:venue:5988"
+      },
+      "broadcasts": [
+        {
+          "network": "ESPN",
+          "type": "TV",
+          "locale": "National",
+          "channel": "206"
+        },
+        {
+          "network": "BSSW",
+          "type": "TV",
+          "locale": "Home",
+          "channel": "676"
+        },
+        {
+          "network": "SCRIPPS",
+          "type": "TV",
+          "locale": "Away"
+        }
+      ],
+      "home": {
+        "id": "44157522-0f24-11e2-8525-18a905767e44",
+        "name": "Dallas Stars",
+        "alias": "DAL",
+        "seed": 1,
+        "sr_id": "sr:team:3684",
+        "reference": "25"
+      },
+      "away": {
+        "id": "42376e1c-6da8-461e-9443-cfcf0a9fcc4d",
+        "name": "Vegas Golden Knights",
+        "alias": "VGK",
+        "seed": 8,
+        "sr_id": "sr:team:344158",
+        "reference": "54"
+      }
+    },
+    {
+      "id": "3a2dd324-e165-405d-9480-b6a9742aef68",
+      "title": "Game 2",
+      "status": "closed",
+      "coverage": "full",
+      "scheduled": "2024-04-25T02:00:00Z",
+      "home_points": 4,
+      "away_points": 5,
+      "sr_id": "sr:match:49470621",
+      "reference": "30182",
+      "venue": {
+        "id": "5d6670d2-01ea-4bc2-ae88-93563620328d",
+        "name": "Rogers Place",
+        "capacity": 18641,
+        "address": "10214 104 Avenue NW",
+        "city": "Edmonton",
+        "state": "AB",
+        "zip": "T5J 0H6",
+        "country": "CAN",
+        "time_zone": "US/Mountain",
+        "sr_id": "sr:venue:18335"
+      },
+      "broadcasts": [
+        {
+          "network": "TBS",
+          "type": "TV",
+          "locale": "National",
+          "channel": "247"
+        },
+        {
+          "network": "BSW",
+          "type": "TV",
+          "locale": "Away",
+          "channel": "692"
+        },
+        {
+          "network": "Max",
+          "type": "Internet",
+          "locale": "National"
+        }
+      ],
+      "home": {
+        "id": "4415ea6c-0f24-11e2-8525-18a905767e44",
+        "name": "Edmonton Oilers",
+        "alias": "EDM",
+        "seed": 5,
+        "sr_id": "sr:team:3686",
+        "reference": "22"
+      },
+      "away": {
+        "id": "44151f7a-0f24-11e2-8525-18a905767e44",
+        "name": "Los Angeles Kings",
+        "alias": "LA",
+        "seed": 7,
+        "sr_id": "sr:team:3688",
+        "reference": "26"
+      }
+    }
+  ]
+}

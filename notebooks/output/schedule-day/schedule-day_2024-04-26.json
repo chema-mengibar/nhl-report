@@ -1,0 +1,300 @@
+{
+  "date": "2024-04-26",
+  "league": {
+    "id": "fd560107-a85b-4388-ab0d-655ad022aff7",
+    "name": "NHL",
+    "alias": "NHL"
+  },
+  "games": [
+    {
+      "id": "c936f64a-f651-4d49-ab4e-84e0400738fa",
+      "title": "Game 3",
+      "status": "closed",
+      "coverage": "full",
+      "scheduled": "2024-04-26T23:00:00Z",
+      "home_points": 1,
+      "away_points": 3,
+      "sr_id": "sr:match:49470711",
+      "reference": "30133",
+      "venue": {
+        "id": "48f092ed-ce49-4a08-97c6-def284ba6721",
+        "name": "Capital One Arena",
+        "capacity": 18277,
+        "address": "601 F Street NW",
+        "city": "Washington",
+        "state": "DC",
+        "zip": "20004",
+        "country": "USA",
+        "time_zone": "US/Eastern",
+        "sr_id": "sr:venue:6016"
+      },
+      "broadcasts": [
+        {
+          "network": "TNT",
+          "type": "TV",
+          "locale": "National",
+          "channel": "245"
+        },
+        {
+          "network": "truTV",
+          "type": "TV",
+          "locale": "National",
+          "channel": "246"
+        },
+        {
+          "network": "SN360",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "TVAS",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "Max",
+          "type": "Internet",
+          "locale": "National"
+        },
+        {
+          "network": "MNMT",
+          "type": "TV",
+          "locale": "Home",
+          "channel": "642"
+        },
+        {
+          "network": "MSG",
+          "type": "TV",
+          "locale": "Away",
+          "channel": "634"
+        }
+      ],
+      "home": {
+        "id": "4417eede-0f24-11e2-8525-18a905767e44",
+        "name": "Washington Capitals",
+        "alias": "WSH",
+        "seed": 8,
+        "sr_id": "sr:team:3691",
+        "reference": "15"
+      },
+      "away": {
+        "id": "441781b9-0f24-11e2-8525-18a905767e44",
+        "name": "New York Rangers",
+        "alias": "NYR",
+        "seed": 1,
+        "sr_id": "sr:team:3701",
+        "reference": "3"
+      }
+    },
+    {
+      "id": "e1da10b9-5ff2-474b-99e6-301ef7eb4cee",
+      "title": "Game 3",
+      "status": "closed",
+      "coverage": "full",
+      "scheduled": "2024-04-26T23:30:00Z",
+      "home_points": 1,
+      "away_points": 2,
+      "sr_id": "sr:match:49470647",
+      "reference": "30173",
+      "venue": {
+        "id": "cc4e7a62-fae8-4ebb-9a64-f4384385d0b6",
+        "name": "Bridgestone Arena",
+        "capacity": 17113,
+        "address": "501 Broadway",
+        "city": "Nashville",
+        "state": "TN",
+        "zip": "37203",
+        "country": "USA",
+        "time_zone": "US/Central",
+        "sr_id": "sr:venue:6044"
+      },
+      "broadcasts": [
+        {
+          "network": "TBS",
+          "type": "TV",
+          "locale": "National",
+          "channel": "247"
+        },
+        {
+          "network": "SportsNet",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "TVAS",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "Max",
+          "type": "Internet",
+          "locale": "National"
+        },
+        {
+          "network": "BSSO",
+          "type": "TV",
+          "locale": "Home",
+          "channel": "646-1"
+        }
+      ],
+      "home": {
+        "id": "441643b7-0f24-11e2-8525-18a905767e44",
+        "name": "Nashville Predators",
+        "alias": "NSH",
+        "seed": 6,
+        "sr_id": "sr:team:3705",
+        "reference": "18"
+      },
+      "away": {
+        "id": "4415b0a7-0f24-11e2-8525-18a905767e44",
+        "name": "Vancouver Canucks",
+        "alias": "VAN",
+        "seed": 3,
+        "sr_id": "sr:team:3692",
+        "reference": "23"
+      }
+    },
+    {
+      "id": "530f5f18-c1cc-49f8-89b1-19accf6d43b8",
+      "title": "Game 3",
+      "status": "closed",
+      "coverage": "full",
+      "scheduled": "2024-04-27T02:00:00Z",
+      "home_points": 6,
+      "away_points": 2,
+      "sr_id": "sr:match:49470663",
+      "reference": "30163",
+      "venue": {
+        "id": "a75eea49-c384-4edb-99f1-d5252773ec83",
+        "name": "Ball Arena",
+        "capacity": 18007,
+        "address": "1000 Chopper Circle",
+        "city": "Denver",
+        "state": "CO",
+        "zip": "80204",
+        "country": "USA",
+        "time_zone": "US/Mountain",
+        "sr_id": "sr:venue:5976"
+      },
+      "broadcasts": [
+        {
+          "network": "TNT",
+          "type": "TV",
+          "locale": "National",
+          "channel": "245"
+        },
+        {
+          "network": "truTV",
+          "type": "TV",
+          "locale": "National",
+          "channel": "246"
+        },
+        {
+          "network": "CBC",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "TVAS",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "Max",
+          "type": "Internet",
+          "locale": "National"
+        },
+        {
+          "network": "ALT",
+          "type": "TV",
+          "locale": "Home",
+          "channel": "681"
+        }
+      ],
+      "home": {
+        "id": "4415ce44-0f24-11e2-8525-18a905767e44",
+        "name": "Colorado Avalanche",
+        "alias": "COL",
+        "seed": 4,
+        "sr_id": "sr:team:3682",
+        "reference": "21"
+      },
+      "away": {
+        "id": "44180e55-0f24-11e2-8525-18a905767e44",
+        "name": "Winnipeg Jets",
+        "alias": "WPG",
+        "seed": 2,
+        "sr_id": "sr:team:3676",
+        "reference": "52"
+      }
+    },
+    {
+      "id": "972395a5-5a16-4663-ab4b-e40af7deea7e",
+      "title": "Game 3",
+      "status": "closed",
+      "coverage": "full",
+      "scheduled": "2024-04-27T02:30:00Z",
+      "home_points": 1,
+      "away_points": 6,
+      "sr_id": "sr:match:49470631",
+      "reference": "30183",
+      "venue": {
+        "id": "dec253d4-68df-470b-b8fc-d663a7fa4704",
+        "name": "Crypto.com Arena",
+        "capacity": 18230,
+        "address": "1111 S Figueroa Street",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "90015",
+        "country": "USA",
+        "time_zone": "US/Pacific",
+        "sr_id": "sr:venue:6008"
+      },
+      "broadcasts": [
+        {
+          "network": "TBS",
+          "type": "TV",
+          "locale": "National",
+          "channel": "247"
+        },
+        {
+          "network": "SportsNet",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "TVAS",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "Max",
+          "type": "Internet",
+          "locale": "National"
+        },
+        {
+          "network": "BSW",
+          "type": "TV",
+          "locale": "Home",
+          "channel": "692"
+        }
+      ],
+      "home": {
+        "id": "44151f7a-0f24-11e2-8525-18a905767e44",
+        "name": "Los Angeles Kings",
+        "alias": "LA",
+        "seed": 7,
+        "sr_id": "sr:team:3688",
+        "reference": "26"
+      },
+      "away": {
+        "id": "4415ea6c-0f24-11e2-8525-18a905767e44",
+        "name": "Edmonton Oilers",
+        "alias": "EDM",
+        "seed": 5,
+        "sr_id": "sr:team:3686",
+        "reference": "22"
+      }
+    }
+  ]
+}

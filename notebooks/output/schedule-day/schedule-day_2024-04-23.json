@@ -1,0 +1,284 @@
+{
+  "date": "2024-04-23",
+  "league": {
+    "id": "fd560107-a85b-4388-ab0d-655ad022aff7",
+    "name": "NHL",
+    "alias": "NHL"
+  },
+  "games": [
+    {
+      "id": "10c2b293-3adb-4bfa-8955-5b4d21c941ef",
+      "title": "Game 2",
+      "status": "closed",
+      "coverage": "full",
+      "scheduled": "2024-04-23T23:00:00Z",
+      "home_points": 4,
+      "away_points": 3,
+      "sr_id": "sr:match:49470703",
+      "reference": "30132",
+      "venue": {
+        "id": "bd8053e4-3bdf-4a70-914f-9f6d0051d66d",
+        "name": "Madison Square Garden",
+        "capacity": 18006,
+        "address": "4 Pennsylvania Plaza",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10001",
+        "country": "USA",
+        "time_zone": "US/Eastern",
+        "sr_id": "sr:venue:6054"
+      },
+      "broadcasts": [
+        {
+          "network": "ESPN",
+          "type": "TV",
+          "locale": "National",
+          "channel": "206"
+        },
+        {
+          "network": "TVAS",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "SNE",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "SNO",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "SNW",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "MNMT",
+          "type": "TV",
+          "locale": "Away",
+          "channel": "642"
+        },
+        {
+          "network": "MSG",
+          "type": "TV",
+          "locale": "Home",
+          "channel": "634"
+        }
+      ],
+      "home": {
+        "id": "441781b9-0f24-11e2-8525-18a905767e44",
+        "name": "New York Rangers",
+        "alias": "NYR",
+        "seed": 1,
+        "sr_id": "sr:team:3701",
+        "reference": "3"
+      },
+      "away": {
+        "id": "4417eede-0f24-11e2-8525-18a905767e44",
+        "name": "Washington Capitals",
+        "alias": "WSH",
+        "seed": 8,
+        "sr_id": "sr:team:3691",
+        "reference": "15"
+      }
+    },
+    {
+      "id": "702a554f-67c6-4628-b468-48c9a642d8ef",
+      "title": "Game 2",
+      "status": "closed",
+      "coverage": "full",
+      "scheduled": "2024-04-23T23:30:00Z",
+      "home_points": 3,
+      "away_points": 2,
+      "sr_id": "sr:match:49470493",
+      "reference": "30112",
+      "venue": {
+        "id": "7cc8e88f-9196-4dbc-aa6a-d6f1a0550673",
+        "name": "Amerant Bank Arena",
+        "capacity": 19250,
+        "address": "1 Panther Parkway",
+        "city": "Sunrise",
+        "state": "FL",
+        "zip": "33323",
+        "country": "USA",
+        "time_zone": "US/Eastern",
+        "sr_id": "sr:venue:6004"
+      },
+      "broadcasts": [
+        {
+          "network": "ESPN2",
+          "type": "TV",
+          "locale": "National",
+          "channel": "209"
+        },
+        {
+          "network": "SN360",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "TVAS",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "BSFL",
+          "type": "TV",
+          "locale": "Home",
+          "channel": "654"
+        },
+        {
+          "network": "BSSUN",
+          "type": "TV",
+          "locale": "Away",
+          "channel": "653"
+        }
+      ],
+      "home": {
+        "id": "4418464d-0f24-11e2-8525-18a905767e44",
+        "name": "Florida Panthers",
+        "alias": "FLA",
+        "seed": 3,
+        "sr_id": "sr:team:3687",
+        "reference": "13"
+      },
+      "away": {
+        "id": "4417d3cb-0f24-11e2-8525-18a905767e44",
+        "name": "Tampa Bay Lightning",
+        "alias": "TB",
+        "seed": 6,
+        "sr_id": "sr:team:3694",
+        "reference": "14"
+      }
+    },
+    {
+      "id": "0e7ea5a5-3e58-46cf-afa1-2bbd506d5ef6",
+      "title": "Game 2",
+      "status": "closed",
+      "coverage": "full",
+      "scheduled": "2024-04-24T01:30:00Z",
+      "home_points": 2,
+      "away_points": 5,
+      "sr_id": "sr:match:49470655",
+      "reference": "30162",
+      "venue": {
+        "id": "900327b2-73d0-4e44-a138-fbf4fcbb058f",
+        "name": "Canada Life Centre",
+        "capacity": 15321,
+        "address": "300 Portage Avenue",
+        "city": "Winnipeg",
+        "state": "MB",
+        "zip": "R3C 5S4",
+        "country": "CAN",
+        "time_zone": "US/Central",
+        "sr_id": "sr:venue:6012"
+      },
+      "broadcasts": [
+        {
+          "network": "ESPN",
+          "type": "TV",
+          "locale": "National",
+          "channel": "206"
+        },
+        {
+          "network": "CBC",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "TVAS",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "ALT",
+          "type": "TV",
+          "locale": "Away",
+          "channel": "681"
+        }
+      ],
+      "home": {
+        "id": "44180e55-0f24-11e2-8525-18a905767e44",
+        "name": "Winnipeg Jets",
+        "alias": "WPG",
+        "seed": 2,
+        "sr_id": "sr:team:3676",
+        "reference": "52"
+      },
+      "away": {
+        "id": "4415ce44-0f24-11e2-8525-18a905767e44",
+        "name": "Colorado Avalanche",
+        "alias": "COL",
+        "seed": 4,
+        "sr_id": "sr:team:3682",
+        "reference": "21"
+      }
+    },
+    {
+      "id": "1e7d85f0-c9d0-4c51-b7b7-1207f60c5bba",
+      "title": "Game 2",
+      "status": "closed",
+      "coverage": "full",
+      "scheduled": "2024-04-24T02:00:00Z",
+      "home_points": 1,
+      "away_points": 4,
+      "sr_id": "sr:match:49470637",
+      "reference": "30172",
+      "venue": {
+        "id": "3b8e1099-8050-42c9-b545-2aa74e93b2e8",
+        "name": "Rogers Arena",
+        "capacity": 18910,
+        "address": "800 Griffiths Way",
+        "city": "Vancouver",
+        "state": "BC",
+        "zip": "V6B 6G1",
+        "country": "CAN",
+        "time_zone": "US/Pacific",
+        "sr_id": "sr:venue:6022"
+      },
+      "broadcasts": [
+        {
+          "network": "ESPN2",
+          "type": "TV",
+          "locale": "National",
+          "channel": "209"
+        },
+        {
+          "network": "SportsNet",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "TVAS",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "BSSO",
+          "type": "TV",
+          "locale": "Away",
+          "channel": "646-1"
+        }
+      ],
+      "home": {
+        "id": "4415b0a7-0f24-11e2-8525-18a905767e44",
+        "name": "Vancouver Canucks",
+        "alias": "VAN",
+        "seed": 3,
+        "sr_id": "sr:team:3692",
+        "reference": "23"
+      },
+      "away": {
+        "id": "441643b7-0f24-11e2-8525-18a905767e44",
+        "name": "Nashville Predators",
+        "alias": "NSH",
+        "seed": 6,
+        "sr_id": "sr:team:3705",
+        "reference": "18"
+      }
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "date": "2024-05-19",
+  "league": {
+    "id": "fd560107-a85b-4388-ab0d-655ad022aff7",
+    "name": "NHL",
+    "alias": "NHL"
+  },
+  "games": [
+    {
+      "id": "2ac9518a-2269-4171-875c-5287092374fc",
+      "title": "Game 7 (if necessary)",
+      "status": "unnecessary",
+      "coverage": "full",
+      "scheduled": "2024-05-19T17:00:00Z",
+      "reference": "30217",
+      "venue": {
+        "id": "7cc8e88f-9196-4dbc-aa6a-d6f1a0550673",
+        "name": "Amerant Bank Arena",
+        "capacity": 19250,
+        "address": "1 Panther Parkway",
+        "city": "Sunrise",
+        "state": "FL",
+        "zip": "33323",
+        "country": "USA",
+        "time_zone": "US/Eastern",
+        "sr_id": "sr:venue:6004"
+      },
+      "home": {
+        "id": "4418464d-0f24-11e2-8525-18a905767e44",
+        "name": "Florida Panthers",
+        "alias": "FLA",
+        "seed": 3,
+        "sr_id": "sr:team:3687",
+        "reference": "13"
+      },
+      "away": {
+        "id": "4416ba1a-0f24-11e2-8525-18a905767e44",
+        "name": "Boston Bruins",
+        "alias": "BOS",
+        "seed": 4,
+        "sr_id": "sr:team:3677",
+        "reference": "6"
+      }
+    },
+    {
+      "id": "64caf4c5-4b60-4a09-a4cb-341102af99e5",
+      "title": "Game 7 (if necessary)",
+      "status": "unnecessary",
+      "coverage": "full",
+      "scheduled": "2024-05-19T17:00:00Z",
+      "reference": "30237",
+      "venue": {
+        "id": "adbd1acb-a053-4944-ba15-383eda91c12e",
+        "name": "American Airlines Center",
+        "capacity": 18532,
+        "address": "2500 Victory Avenue",
+        "city": "Dallas",
+        "state": "TX",
+        "zip": "75219",
+        "country": "USA",
+        "time_zone": "US/Central",
+        "sr_id": "sr:venue:5988"
+      },
+      "home": {
+        "id": "44157522-0f24-11e2-8525-18a905767e44",
+        "name": "Dallas Stars",
+        "alias": "DAL",
+        "seed": 1,
+        "sr_id": "sr:team:3684",
+        "reference": "25"
+      },
+      "away": {
+        "id": "4415ce44-0f24-11e2-8525-18a905767e44",
+        "name": "Colorado Avalanche",
+        "alias": "COL",
+        "seed": 4,
+        "sr_id": "sr:team:3682",
+        "reference": "21"
+      }
+    }
+  ]
+}

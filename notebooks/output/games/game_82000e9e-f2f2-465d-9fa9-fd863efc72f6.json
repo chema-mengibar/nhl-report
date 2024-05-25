@@ -1,0 +1,25 @@
+{
+  "id": "82000e9e-f2f2-465d-9fa9-fd863efc72f6",
+  "status": "unnecessary",
+  "coverage": "full",
+  "scheduled": "2024-05-04T17:00:00+00:00",
+  "reference": "30117",
+  "home": {
+    "id": "4418464d-0f24-11e2-8525-18a905767e44",
+    "name": "Panthers",
+    "market": "Florida",
+    "points": 0,
+    "alias": "FLA",
+    "sr_id": "sr:team:3687"
+  },
+  "away": {
+    "id": "4417d3cb-0f24-11e2-8525-18a905767e44",
+    "name": "Lightning",
+    "market": "Tampa Bay",
+    "points": 0,
+    "alias": "TB",
+    "sr_id": "sr:team:3694",
+    "reference": "14"
+  },
+  "deleted_events": []
+}

@@ -1,0 +1,57 @@
+{
+  "date": "2024-05-06",
+  "league": {
+    "id": "fd560107-a85b-4388-ab0d-655ad022aff7",
+    "name": "NHL",
+    "alias": "NHL"
+  },
+  "games": [
+    {
+      "id": "4909deea-74b0-4604-973b-530a671ac0d6",
+      "title": "Game 1",
+      "status": "closed",
+      "coverage": "full",
+      "scheduled": "2024-05-07T00:00:00Z",
+      "home_points": 1,
+      "away_points": 5,
+      "sr_id": "sr:match:49470613",
+      "reference": "30211",
+      "venue": {
+        "id": "7cc8e88f-9196-4dbc-aa6a-d6f1a0550673",
+        "name": "Amerant Bank Arena",
+        "capacity": 19250,
+        "address": "1 Panther Parkway",
+        "city": "Sunrise",
+        "state": "FL",
+        "zip": "33323",
+        "country": "USA",
+        "time_zone": "US/Eastern",
+        "sr_id": "sr:venue:6004"
+      },
+      "broadcasts": [
+        {
+          "network": "ESPN",
+          "type": "TV",
+          "locale": "National",
+          "channel": "206"
+        }
+      ],
+      "home": {
+        "id": "4418464d-0f24-11e2-8525-18a905767e44",
+        "name": "Florida Panthers",
+        "alias": "FLA",
+        "seed": 3,
+        "sr_id": "sr:team:3687",
+        "reference": "13"
+      },
+      "away": {
+        "id": "4416ba1a-0f24-11e2-8525-18a905767e44",
+        "name": "Boston Bruins",
+        "alias": "BOS",
+        "seed": 4,
+        "sr_id": "sr:team:3677",
+        "reference": "6"
+      }
+    }
+  ]
+}

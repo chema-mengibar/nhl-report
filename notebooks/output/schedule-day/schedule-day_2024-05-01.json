@@ -1,0 +1,238 @@
+{
+  "date": "2024-05-01",
+  "league": {
+    "id": "fd560107-a85b-4388-ab0d-655ad022aff7",
+    "name": "NHL",
+    "alias": "NHL"
+  },
+  "games": [
+    {
+      "id": "a8d4081b-a19a-4472-a601-dde938f16095",
+      "title": "Game 5 (if necessary)",
+      "status": "unnecessary",
+      "coverage": "full",
+      "scheduled": "2024-05-01T17:00:00Z",
+      "reference": "30135",
+      "venue": {
+        "id": "bd8053e4-3bdf-4a70-914f-9f6d0051d66d",
+        "name": "Madison Square Garden",
+        "capacity": 18006,
+        "address": "4 Pennsylvania Plaza",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10001",
+        "country": "USA",
+        "time_zone": "US/Eastern",
+        "sr_id": "sr:venue:6054"
+      },
+      "home": {
+        "id": "441781b9-0f24-11e2-8525-18a905767e44",
+        "name": "New York Rangers",
+        "alias": "NYR",
+        "seed": 1,
+        "sr_id": "sr:team:3701",
+        "reference": "3"
+      },
+      "away": {
+        "id": "4417eede-0f24-11e2-8525-18a905767e44",
+        "name": "Washington Capitals",
+        "alias": "WSH",
+        "seed": 8,
+        "sr_id": "sr:team:3691",
+        "reference": "15"
+      }
+    },
+    {
+      "id": "d5d3b215-31da-41cd-a008-8fdf36e12dfe",
+      "title": "Game 6 (if necessary)",
+      "status": "unnecessary",
+      "coverage": "full",
+      "scheduled": "2024-05-01T17:00:00Z",
+      "reference": "30116",
+      "venue": {
+        "id": "05aa49b2-f72d-4d42-ab30-f219d32ed97b",
+        "name": "Amalie Arena",
+        "capacity": 19092,
+        "address": "401 Channelside Drive",
+        "city": "Tampa",
+        "state": "FL",
+        "zip": "33602",
+        "country": "USA",
+        "time_zone": "US/Eastern",
+        "sr_id": "sr:venue:6036"
+      },
+      "home": {
+        "id": "4417d3cb-0f24-11e2-8525-18a905767e44",
+        "name": "Tampa Bay Lightning",
+        "alias": "TB",
+        "seed": 6,
+        "sr_id": "sr:team:3694",
+        "reference": "14"
+      },
+      "away": {
+        "id": "4418464d-0f24-11e2-8525-18a905767e44",
+        "name": "Florida Panthers",
+        "alias": "FLA",
+        "seed": 3,
+        "sr_id": "sr:team:3687",
+        "reference": "13"
+      }
+    },
+    {
+      "id": "434eefcf-d69b-42fa-b8d9-2159cbd96a19",
+      "title": "Game 5",
+      "status": "closed",
+      "coverage": "full",
+      "scheduled": "2024-05-01T23:30:00Z",
+      "home_points": 3,
+      "away_points": 2,
+      "sr_id": "sr:match:49470669",
+      "reference": "30155",
+      "venue": {
+        "id": "adbd1acb-a053-4944-ba15-383eda91c12e",
+        "name": "American Airlines Center",
+        "capacity": 18532,
+        "address": "2500 Victory Avenue",
+        "city": "Dallas",
+        "state": "TX",
+        "zip": "75219",
+        "country": "USA",
+        "time_zone": "US/Central",
+        "sr_id": "sr:venue:5988"
+      },
+      "broadcasts": [
+        {
+          "network": "ESPN",
+          "type": "TV",
+          "locale": "National",
+          "channel": "206"
+        },
+        {
+          "network": "BSSW",
+          "type": "TV",
+          "locale": "Home",
+          "channel": "676"
+        },
+        {
+          "network": "SCRIPPS",
+          "type": "TV",
+          "locale": "Away"
+        },
+        {
+          "network": "SN360",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "SNP",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "SNO",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "SNE",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "TVAS",
+          "type": "TV",
+          "locale": "International"
+        }
+      ],
+      "home": {
+        "id": "44157522-0f24-11e2-8525-18a905767e44",
+        "name": "Dallas Stars",
+        "alias": "DAL",
+        "seed": 1,
+        "sr_id": "sr:team:3684",
+        "reference": "25"
+      },
+      "away": {
+        "id": "42376e1c-6da8-461e-9443-cfcf0a9fcc4d",
+        "name": "Vegas Golden Knights",
+        "alias": "VGK",
+        "seed": 8,
+        "sr_id": "sr:team:344158",
+        "reference": "54"
+      }
+    },
+    {
+      "id": "5c492b5b-20df-4307-896d-69223c1d6f1e",
+      "title": "Game 5",
+      "status": "closed",
+      "coverage": "full",
+      "scheduled": "2024-05-02T02:00:00Z",
+      "home_points": 4,
+      "away_points": 3,
+      "sr_id": "sr:match:49470623",
+      "reference": "30185",
+      "venue": {
+        "id": "5d6670d2-01ea-4bc2-ae88-93563620328d",
+        "name": "Rogers Place",
+        "capacity": 18641,
+        "address": "10214 104 Avenue NW",
+        "city": "Edmonton",
+        "state": "AB",
+        "zip": "T5J 0H6",
+        "country": "CAN",
+        "time_zone": "US/Mountain",
+        "sr_id": "sr:venue:18335"
+      },
+      "broadcasts": [
+        {
+          "network": "ESPN",
+          "type": "TV",
+          "locale": "National",
+          "channel": "206"
+        },
+        {
+          "network": "BSW",
+          "type": "TV",
+          "locale": "Away",
+          "channel": "692"
+        },
+        {
+          "network": "SportsNet",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "SN1",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "CBC",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "TVAS",
+          "type": "TV",
+          "locale": "International"
+        }
+      ],
+      "home": {
+        "id": "4415ea6c-0f24-11e2-8525-18a905767e44",
+        "name": "Edmonton Oilers",
+        "alias": "EDM",
+        "seed": 5,
+        "sr_id": "sr:team:3686",
+        "reference": "22"
+      },
+      "away": {
+        "id": "44151f7a-0f24-11e2-8525-18a905767e44",
+        "name": "Los Angeles Kings",
+        "alias": "LA",
+        "seed": 7,
+        "sr_id": "sr:team:3688",
+        "reference": "26"
+      }
+    }
+  ]
+}

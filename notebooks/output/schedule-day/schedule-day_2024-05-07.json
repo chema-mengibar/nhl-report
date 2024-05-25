@@ -1,0 +1,134 @@
+{
+  "date": "2024-05-07",
+  "league": {
+    "id": "fd560107-a85b-4388-ab0d-655ad022aff7",
+    "name": "NHL",
+    "alias": "NHL"
+  },
+  "games": [
+    {
+      "id": "8f36d70b-a463-452e-9f02-65dd5d37d2c9",
+      "title": "Game 2",
+      "status": "closed",
+      "coverage": "full",
+      "scheduled": "2024-05-07T23:00:00Z",
+      "home_points": 4,
+      "away_points": 3,
+      "sr_id": "sr:match:49470589",
+      "reference": "30222",
+      "venue": {
+        "id": "bd8053e4-3bdf-4a70-914f-9f6d0051d66d",
+        "name": "Madison Square Garden",
+        "capacity": 18006,
+        "address": "4 Pennsylvania Plaza",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10001",
+        "country": "USA",
+        "time_zone": "US/Eastern",
+        "sr_id": "sr:venue:6054"
+      },
+      "broadcasts": [
+        {
+          "network": "ESPN",
+          "type": "TV",
+          "locale": "National",
+          "channel": "206"
+        },
+        {
+          "network": "SportsNet",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "TVAS",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "CBC",
+          "type": "TV",
+          "locale": "International"
+        }
+      ],
+      "home": {
+        "id": "441781b9-0f24-11e2-8525-18a905767e44",
+        "name": "New York Rangers",
+        "alias": "NYR",
+        "seed": 1,
+        "sr_id": "sr:team:3701",
+        "reference": "3"
+      },
+      "away": {
+        "id": "44182a9d-0f24-11e2-8525-18a905767e44",
+        "name": "Carolina Hurricanes",
+        "alias": "CAR",
+        "seed": 2,
+        "sr_id": "sr:team:3680",
+        "reference": "12"
+      }
+    },
+    {
+      "id": "c3e715bc-dfd1-4e46-beb0-fe012abe9f6a",
+      "title": "Game 1",
+      "status": "closed",
+      "coverage": "full",
+      "scheduled": "2024-05-08T01:30:00Z",
+      "home_points": 3,
+      "away_points": 4,
+      "sr_id": "sr:match:49470581",
+      "reference": "30231",
+      "venue": {
+        "id": "adbd1acb-a053-4944-ba15-383eda91c12e",
+        "name": "American Airlines Center",
+        "capacity": 18532,
+        "address": "2500 Victory Avenue",
+        "city": "Dallas",
+        "state": "TX",
+        "zip": "75219",
+        "country": "USA",
+        "time_zone": "US/Central",
+        "sr_id": "sr:venue:5988"
+      },
+      "broadcasts": [
+        {
+          "network": "ESPN",
+          "type": "TV",
+          "locale": "National",
+          "channel": "206"
+        },
+        {
+          "network": "TVAS",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "SportsNet",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "SN360",
+          "type": "TV",
+          "locale": "International"
+        }
+      ],
+      "home": {
+        "id": "44157522-0f24-11e2-8525-18a905767e44",
+        "name": "Dallas Stars",
+        "alias": "DAL",
+        "seed": 1,
+        "sr_id": "sr:team:3684",
+        "reference": "25"
+      },
+      "away": {
+        "id": "4415ce44-0f24-11e2-8525-18a905767e44",
+        "name": "Colorado Avalanche",
+        "alias": "COL",
+        "seed": 4,
+        "sr_id": "sr:team:3682",
+        "reference": "21"
+      }
+    }
+  ]
+}

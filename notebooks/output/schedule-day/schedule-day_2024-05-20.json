@@ -1,0 +1,72 @@
+{
+  "date": "2024-05-20",
+  "league": {
+    "id": "fd560107-a85b-4388-ab0d-655ad022aff7",
+    "name": "NHL",
+    "alias": "NHL"
+  },
+  "games": [
+    {
+      "id": "7ddc653f-b5c4-44fe-8cf3-2e24ba0da941",
+      "title": "Game 7",
+      "status": "closed",
+      "coverage": "full",
+      "scheduled": "2024-05-21T01:00:00Z",
+      "home_points": 2,
+      "away_points": 3,
+      "sr_id": "sr:match:49470569",
+      "reference": "30247",
+      "venue": {
+        "id": "3b8e1099-8050-42c9-b545-2aa74e93b2e8",
+        "name": "Rogers Arena",
+        "capacity": 18910,
+        "address": "800 Griffiths Way",
+        "city": "Vancouver",
+        "state": "BC",
+        "zip": "V6B 6G1",
+        "country": "CAN",
+        "time_zone": "US/Pacific",
+        "sr_id": "sr:venue:6022"
+      },
+      "broadcasts": [
+        {
+          "network": "ESPN",
+          "type": "TV",
+          "locale": "National",
+          "channel": "206"
+        },
+        {
+          "network": "CBC",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "TVAS",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "SportsNet",
+          "type": "TV",
+          "locale": "International"
+        }
+      ],
+      "home": {
+        "id": "4415b0a7-0f24-11e2-8525-18a905767e44",
+        "name": "Vancouver Canucks",
+        "alias": "VAN",
+        "seed": 3,
+        "sr_id": "sr:team:3692",
+        "reference": "23"
+      },
+      "away": {
+        "id": "4415ea6c-0f24-11e2-8525-18a905767e44",
+        "name": "Edmonton Oilers",
+        "alias": "EDM",
+        "seed": 5,
+        "sr_id": "sr:team:3686",
+        "reference": "22"
+      }
+    }
+  ]
+}

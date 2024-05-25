@@ -1,0 +1,232 @@
+{
+  "date": "2024-05-05",
+  "league": {
+    "id": "fd560107-a85b-4388-ab0d-655ad022aff7",
+    "name": "NHL",
+    "alias": "NHL"
+  },
+  "games": [
+    {
+      "id": "000b2223-1847-4479-8fde-3402aa5e9df4",
+      "title": "Game 7 (if necessary)",
+      "status": "unnecessary",
+      "coverage": "full",
+      "scheduled": "2024-05-05T17:00:00Z",
+      "reference": "30137",
+      "venue": {
+        "id": "bd8053e4-3bdf-4a70-914f-9f6d0051d66d",
+        "name": "Madison Square Garden",
+        "capacity": 18006,
+        "address": "4 Pennsylvania Plaza",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10001",
+        "country": "USA",
+        "time_zone": "US/Eastern",
+        "sr_id": "sr:venue:6054"
+      },
+      "home": {
+        "id": "441781b9-0f24-11e2-8525-18a905767e44",
+        "name": "New York Rangers",
+        "alias": "NYR",
+        "seed": 1,
+        "sr_id": "sr:team:3701",
+        "reference": "3"
+      },
+      "away": {
+        "id": "4417eede-0f24-11e2-8525-18a905767e44",
+        "name": "Washington Capitals",
+        "alias": "WSH",
+        "seed": 8,
+        "sr_id": "sr:team:3691",
+        "reference": "15"
+      }
+    },
+    {
+      "id": "e6c482b8-7ec1-4baa-bb0d-f85ab8a52fa5",
+      "title": "Game 7 (if necessary)",
+      "status": "unnecessary",
+      "coverage": "full",
+      "scheduled": "2024-05-05T17:00:00Z",
+      "reference": "30187",
+      "venue": {
+        "id": "5d6670d2-01ea-4bc2-ae88-93563620328d",
+        "name": "Rogers Place",
+        "capacity": 18641,
+        "address": "10214 104 Avenue NW",
+        "city": "Edmonton",
+        "state": "AB",
+        "zip": "T5J 0H6",
+        "country": "CAN",
+        "time_zone": "US/Mountain",
+        "sr_id": "sr:venue:18335"
+      },
+      "home": {
+        "id": "4415ea6c-0f24-11e2-8525-18a905767e44",
+        "name": "Edmonton Oilers",
+        "alias": "EDM",
+        "seed": 5,
+        "sr_id": "sr:team:3686",
+        "reference": "22"
+      },
+      "away": {
+        "id": "44151f7a-0f24-11e2-8525-18a905767e44",
+        "name": "Los Angeles Kings",
+        "alias": "LA",
+        "seed": 7,
+        "sr_id": "sr:team:3688",
+        "reference": "26"
+      }
+    },
+    {
+      "id": "6b09ee87-e668-4371-a082-e91eba27bfcd",
+      "title": "Game 7 (if necessary)",
+      "status": "unnecessary",
+      "coverage": "full",
+      "scheduled": "2024-05-05T19:00:00Z",
+      "reference": "30177",
+      "venue": {
+        "id": "3b8e1099-8050-42c9-b545-2aa74e93b2e8",
+        "name": "Rogers Arena",
+        "capacity": 18910,
+        "address": "800 Griffiths Way",
+        "city": "Vancouver",
+        "state": "BC",
+        "zip": "V6B 6G1",
+        "country": "CAN",
+        "time_zone": "US/Pacific",
+        "sr_id": "sr:venue:6022"
+      },
+      "home": {
+        "id": "4415b0a7-0f24-11e2-8525-18a905767e44",
+        "name": "Vancouver Canucks",
+        "alias": "VAN",
+        "seed": 3,
+        "sr_id": "sr:team:3692",
+        "reference": "23"
+      },
+      "away": {
+        "id": "441643b7-0f24-11e2-8525-18a905767e44",
+        "name": "Nashville Predators",
+        "alias": "NSH",
+        "seed": 6,
+        "sr_id": "sr:team:3705",
+        "reference": "18"
+      }
+    },
+    {
+      "id": "40dbf88a-0209-4a70-b319-9735f081d6a2",
+      "title": "Game 1",
+      "status": "closed",
+      "coverage": "full",
+      "scheduled": "2024-05-05T20:00:00Z",
+      "home_points": 4,
+      "away_points": 3,
+      "sr_id": "sr:match:49470597",
+      "reference": "30221",
+      "venue": {
+        "id": "bd8053e4-3bdf-4a70-914f-9f6d0051d66d",
+        "name": "Madison Square Garden",
+        "capacity": 18006,
+        "address": "4 Pennsylvania Plaza",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10001",
+        "country": "USA",
+        "time_zone": "US/Eastern",
+        "sr_id": "sr:venue:6054"
+      },
+      "broadcasts": [
+        {
+          "network": "ESPN",
+          "type": "TV",
+          "locale": "National",
+          "channel": "206"
+        }
+      ],
+      "home": {
+        "id": "441781b9-0f24-11e2-8525-18a905767e44",
+        "name": "New York Rangers",
+        "alias": "NYR",
+        "seed": 1,
+        "sr_id": "sr:team:3701",
+        "reference": "3"
+      },
+      "away": {
+        "id": "44182a9d-0f24-11e2-8525-18a905767e44",
+        "name": "Carolina Hurricanes",
+        "alias": "CAR",
+        "seed": 2,
+        "sr_id": "sr:team:3680",
+        "reference": "12"
+      }
+    },
+    {
+      "id": "cd0be372-99e6-4254-8531-a472194ac7cb",
+      "title": "Game 7",
+      "status": "closed",
+      "coverage": "full",
+      "scheduled": "2024-05-05T23:30:00Z",
+      "home_points": 2,
+      "away_points": 1,
+      "sr_id": "sr:match:49470681",
+      "reference": "30157",
+      "venue": {
+        "id": "adbd1acb-a053-4944-ba15-383eda91c12e",
+        "name": "American Airlines Center",
+        "capacity": 18532,
+        "address": "2500 Victory Avenue",
+        "city": "Dallas",
+        "state": "TX",
+        "zip": "75219",
+        "country": "USA",
+        "time_zone": "US/Central",
+        "sr_id": "sr:venue:5988"
+      },
+      "broadcasts": [
+        {
+          "network": "TBS",
+          "type": "TV",
+          "locale": "National",
+          "channel": "247"
+        },
+        {
+          "network": "truTV",
+          "type": "TV",
+          "locale": "National",
+          "channel": "246"
+        },
+        {
+          "network": "Max",
+          "type": "Internet",
+          "locale": "National"
+        },
+        {
+          "network": "BSSW",
+          "type": "TV",
+          "channel": "676"
+        },
+        {
+          "network": "SCRIPPS",
+          "type": "TV"
+        }
+      ],
+      "home": {
+        "id": "44157522-0f24-11e2-8525-18a905767e44",
+        "name": "Dallas Stars",
+        "alias": "DAL",
+        "seed": 1,
+        "sr_id": "sr:team:3684",
+        "reference": "25"
+      },
+      "away": {
+        "id": "42376e1c-6da8-461e-9443-cfcf0a9fcc4d",
+        "name": "Vegas Golden Knights",
+        "alias": "VGK",
+        "seed": 8,
+        "sr_id": "sr:team:344158",
+        "reference": "54"
+      }
+    }
+  ]
+}

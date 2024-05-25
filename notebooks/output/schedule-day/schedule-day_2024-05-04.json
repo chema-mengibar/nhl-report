@@ -1,0 +1,169 @@
+{
+  "date": "2024-05-04",
+  "league": {
+    "id": "fd560107-a85b-4388-ab0d-655ad022aff7",
+    "name": "NHL",
+    "alias": "NHL"
+  },
+  "games": [
+    {
+      "id": "26dbafbd-767f-42b2-8a6a-9e3fd920f18d",
+      "title": "Game 7 (if necessary)",
+      "status": "unnecessary",
+      "coverage": "full",
+      "scheduled": "2024-05-04T17:00:00Z",
+      "reference": "30147",
+      "venue": {
+        "id": "1ea58cb6-6a28-4619-b010-747ecbc30aa7",
+        "name": "PNC Arena",
+        "capacity": 18680,
+        "address": "1400 Edwards Mill Road",
+        "city": "Raleigh",
+        "state": "NC",
+        "zip": "27607",
+        "country": "USA",
+        "time_zone": "US/Eastern",
+        "sr_id": "sr:venue:5956"
+      },
+      "home": {
+        "id": "44182a9d-0f24-11e2-8525-18a905767e44",
+        "name": "Carolina Hurricanes",
+        "alias": "CAR",
+        "seed": 2,
+        "sr_id": "sr:team:3680",
+        "reference": "12"
+      },
+      "away": {
+        "id": "441766b9-0f24-11e2-8525-18a905767e44",
+        "name": "New York Islanders",
+        "alias": "NYI",
+        "seed": 7,
+        "sr_id": "sr:team:3703",
+        "reference": "2"
+      }
+    },
+    {
+      "id": "82000e9e-f2f2-465d-9fa9-fd863efc72f6",
+      "title": "Game 7 (if necessary)",
+      "status": "unnecessary",
+      "coverage": "full",
+      "scheduled": "2024-05-04T17:00:00Z",
+      "reference": "30117",
+      "venue": {
+        "id": "7cc8e88f-9196-4dbc-aa6a-d6f1a0550673",
+        "name": "Amerant Bank Arena",
+        "capacity": 19250,
+        "address": "1 Panther Parkway",
+        "city": "Sunrise",
+        "state": "FL",
+        "zip": "33323",
+        "country": "USA",
+        "time_zone": "US/Eastern",
+        "sr_id": "sr:venue:6004"
+      },
+      "home": {
+        "id": "4418464d-0f24-11e2-8525-18a905767e44",
+        "name": "Florida Panthers",
+        "alias": "FLA",
+        "seed": 3,
+        "sr_id": "sr:team:3687",
+        "reference": "13"
+      },
+      "away": {
+        "id": "4417d3cb-0f24-11e2-8525-18a905767e44",
+        "name": "Tampa Bay Lightning",
+        "alias": "TB",
+        "seed": 6,
+        "sr_id": "sr:team:3694",
+        "reference": "14"
+      }
+    },
+    {
+      "id": "bd6a81c1-3312-4219-a34c-f3afe742aa21",
+      "title": "Game 7 (if necessary)",
+      "status": "unnecessary",
+      "coverage": "full",
+      "scheduled": "2024-05-04T17:00:00Z",
+      "reference": "30167",
+      "venue": {
+        "id": "900327b2-73d0-4e44-a138-fbf4fcbb058f",
+        "name": "Canada Life Centre",
+        "capacity": 15321,
+        "address": "300 Portage Avenue",
+        "city": "Winnipeg",
+        "state": "MB",
+        "zip": "R3C 5S4",
+        "country": "CAN",
+        "time_zone": "US/Central",
+        "sr_id": "sr:venue:6012"
+      },
+      "home": {
+        "id": "44180e55-0f24-11e2-8525-18a905767e44",
+        "name": "Winnipeg Jets",
+        "alias": "WPG",
+        "seed": 2,
+        "sr_id": "sr:team:3676",
+        "reference": "52"
+      },
+      "away": {
+        "id": "4415ce44-0f24-11e2-8525-18a905767e44",
+        "name": "Colorado Avalanche",
+        "alias": "COL",
+        "seed": 4,
+        "sr_id": "sr:team:3682",
+        "reference": "21"
+      }
+    },
+    {
+      "id": "eca1e1e3-b1f0-4658-bbe1-a832431f77e2",
+      "title": "Game 7",
+      "status": "closed",
+      "coverage": "full",
+      "scheduled": "2024-05-05T00:00:00Z",
+      "home_points": 2,
+      "away_points": 1,
+      "sr_id": "sr:match:49470487",
+      "reference": "30127",
+      "venue": {
+        "id": "854ca968-b25f-44f9-abc5-52bcf8825f15",
+        "name": "TD Garden",
+        "capacity": 17565,
+        "address": "100 Legends Way",
+        "city": "Boston",
+        "state": "MA",
+        "zip": "02114",
+        "country": "USA",
+        "time_zone": "US/Eastern",
+        "sr_id": "sr:venue:5940"
+      },
+      "broadcasts": [
+        {
+          "network": "ABC",
+          "type": "TV",
+          "locale": "National"
+        },
+        {
+          "network": "ESPN+",
+          "type": "Internet",
+          "locale": "National"
+        }
+      ],
+      "home": {
+        "id": "4416ba1a-0f24-11e2-8525-18a905767e44",
+        "name": "Boston Bruins",
+        "alias": "BOS",
+        "seed": 4,
+        "sr_id": "sr:team:3677",
+        "reference": "6"
+      },
+      "away": {
+        "id": "441730a9-0f24-11e2-8525-18a905767e44",
+        "name": "Toronto Maple Leafs",
+        "alias": "TOR",
+        "seed": 5,
+        "sr_id": "sr:team:3693",
+        "reference": "10"
+      }
+    }
+  ]
+}

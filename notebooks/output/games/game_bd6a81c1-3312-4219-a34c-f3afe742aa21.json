@@ -1,0 +1,24 @@
+{
+  "id": "bd6a81c1-3312-4219-a34c-f3afe742aa21",
+  "status": "unnecessary",
+  "coverage": "full",
+  "scheduled": "2024-05-04T17:00:00+00:00",
+  "reference": "30167",
+  "home": {
+    "id": "44180e55-0f24-11e2-8525-18a905767e44",
+    "name": "Jets",
+    "market": "Winnipeg",
+    "points": 0,
+    "alias": "WPG",
+    "sr_id": "sr:team:3676"
+  },
+  "away": {
+    "id": "4415ce44-0f24-11e2-8525-18a905767e44",
+    "name": "Avalanche",
+    "market": "Colorado",
+    "points": 0,
+    "alias": "COL",
+    "sr_id": "sr:team:3682"
+  },
+  "deleted_events": []
+}

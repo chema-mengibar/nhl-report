@@ -1,0 +1,25 @@
+{
+  "id": "2ac9518a-2269-4171-875c-5287092374fc",
+  "status": "unnecessary",
+  "coverage": "full",
+  "scheduled": "2024-05-19T17:00:00+00:00",
+  "reference": "30217",
+  "home": {
+    "id": "4418464d-0f24-11e2-8525-18a905767e44",
+    "name": "Panthers",
+    "market": "Florida",
+    "points": 0,
+    "alias": "FLA",
+    "sr_id": "sr:team:3687"
+  },
+  "away": {
+    "id": "4416ba1a-0f24-11e2-8525-18a905767e44",
+    "name": "Bruins",
+    "market": "Boston",
+    "points": 0,
+    "alias": "BOS",
+    "sr_id": "sr:team:3677",
+    "reference": "6"
+  },
+  "deleted_events": []
+}

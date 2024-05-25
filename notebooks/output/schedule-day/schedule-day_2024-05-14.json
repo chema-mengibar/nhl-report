@@ -1,0 +1,139 @@
+{
+  "date": "2024-05-14",
+  "league": {
+    "id": "fd560107-a85b-4388-ab0d-655ad022aff7",
+    "name": "NHL",
+    "alias": "NHL"
+  },
+  "games": [
+    {
+      "id": "e1c9e7c1-64a8-45a7-aba8-e114df0b0ac6",
+      "title": "Game 5",
+      "status": "closed",
+      "coverage": "full",
+      "scheduled": "2024-05-14T23:00:00Z",
+      "home_points": 1,
+      "away_points": 2,
+      "sr_id": "sr:match:49470607",
+      "reference": "30215",
+      "venue": {
+        "id": "7cc8e88f-9196-4dbc-aa6a-d6f1a0550673",
+        "name": "Amerant Bank Arena",
+        "capacity": 19250,
+        "address": "1 Panther Parkway",
+        "city": "Sunrise",
+        "state": "FL",
+        "zip": "33323",
+        "country": "USA",
+        "time_zone": "US/Eastern",
+        "sr_id": "sr:venue:6004"
+      },
+      "broadcasts": [
+        {
+          "network": "ESPN",
+          "type": "TV",
+          "locale": "National",
+          "channel": "206"
+        },
+        {
+          "network": "SNE",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "SNO",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "CBC",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "TVAS",
+          "type": "TV",
+          "locale": "International"
+        }
+      ],
+      "home": {
+        "id": "4418464d-0f24-11e2-8525-18a905767e44",
+        "name": "Florida Panthers",
+        "alias": "FLA",
+        "seed": 3,
+        "sr_id": "sr:team:3687",
+        "reference": "13"
+      },
+      "away": {
+        "id": "4416ba1a-0f24-11e2-8525-18a905767e44",
+        "name": "Boston Bruins",
+        "alias": "BOS",
+        "seed": 4,
+        "sr_id": "sr:team:3677",
+        "reference": "6"
+      }
+    },
+    {
+      "id": "5997930f-3819-4935-bd1d-a72af9197285",
+      "title": "Game 4",
+      "status": "closed",
+      "coverage": "full",
+      "scheduled": "2024-05-15T01:30:00Z",
+      "home_points": 3,
+      "away_points": 2,
+      "sr_id": "sr:match:49470563",
+      "reference": "30244",
+      "venue": {
+        "id": "5d6670d2-01ea-4bc2-ae88-93563620328d",
+        "name": "Rogers Place",
+        "capacity": 18641,
+        "address": "10214 104 Avenue NW",
+        "city": "Edmonton",
+        "state": "AB",
+        "zip": "T5J 0H6",
+        "country": "CAN",
+        "time_zone": "US/Mountain",
+        "sr_id": "sr:venue:18335"
+      },
+      "broadcasts": [
+        {
+          "network": "ESPN",
+          "type": "TV",
+          "locale": "National",
+          "channel": "206"
+        },
+        {
+          "network": "TVAS",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "SportsNet",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "CBC",
+          "type": "TV",
+          "locale": "International"
+        }
+      ],
+      "home": {
+        "id": "4415ea6c-0f24-11e2-8525-18a905767e44",
+        "name": "Edmonton Oilers",
+        "alias": "EDM",
+        "seed": 5,
+        "sr_id": "sr:team:3686",
+        "reference": "22"
+      },
+      "away": {
+        "id": "4415b0a7-0f24-11e2-8525-18a905767e44",
+        "name": "Vancouver Canucks",
+        "alias": "VAN",
+        "seed": 3,
+        "sr_id": "sr:team:3692",
+        "reference": "23"
+      }
+    }
+  ]
+}

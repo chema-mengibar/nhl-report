@@ -1,0 +1,26 @@
+{
+  "id": "e9544eb0-0b6d-4f6b-ad8f-6e65e7a6d726",
+  "status": "unnecessary",
+  "coverage": "full",
+  "scheduled": "2024-05-02T17:00:00+00:00",
+  "reference": "30146",
+  "home": {
+    "id": "441766b9-0f24-11e2-8525-18a905767e44",
+    "name": "Islanders",
+    "market": "New York",
+    "points": 0,
+    "alias": "NYI",
+    "sr_id": "sr:team:3703",
+    "reference": "2"
+  },
+  "away": {
+    "id": "44182a9d-0f24-11e2-8525-18a905767e44",
+    "name": "Hurricanes",
+    "market": "Carolina",
+    "points": 0,
+    "alias": "CAR",
+    "sr_id": "sr:team:3680",
+    "reference": "12"
+  },
+  "deleted_events": []
+}

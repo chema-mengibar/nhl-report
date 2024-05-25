@@ -1,0 +1,156 @@
+{
+  "date": "2024-05-11",
+  "league": {
+    "id": "fd560107-a85b-4388-ab0d-655ad022aff7",
+    "name": "NHL",
+    "alias": "NHL"
+  },
+  "games": [
+    {
+      "id": "0d4df134-96d0-4682-ad06-864dd91e3afa",
+      "title": "Game 4",
+      "status": "closed",
+      "coverage": "full",
+      "scheduled": "2024-05-11T23:00:00Z",
+      "home_points": 4,
+      "away_points": 3,
+      "sr_id": "sr:match:49470595",
+      "reference": "30224",
+      "venue": {
+        "id": "1ea58cb6-6a28-4619-b010-747ecbc30aa7",
+        "name": "PNC Arena",
+        "capacity": 18680,
+        "address": "1400 Edwards Mill Road",
+        "city": "Raleigh",
+        "state": "NC",
+        "zip": "27607",
+        "country": "USA",
+        "time_zone": "US/Eastern",
+        "sr_id": "sr:venue:5956"
+      },
+      "broadcasts": [
+        {
+          "network": "TNT",
+          "type": "TV",
+          "locale": "National",
+          "channel": "245"
+        },
+        {
+          "network": "truTV",
+          "type": "TV",
+          "locale": "National",
+          "channel": "246"
+        },
+        {
+          "network": "Max",
+          "type": "Internet",
+          "locale": "National"
+        },
+        {
+          "network": "CBC",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "SportsNet",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "TVAS",
+          "type": "TV",
+          "locale": "International"
+        }
+      ],
+      "home": {
+        "id": "44182a9d-0f24-11e2-8525-18a905767e44",
+        "name": "Carolina Hurricanes",
+        "alias": "CAR",
+        "seed": 2,
+        "sr_id": "sr:team:3680",
+        "reference": "12"
+      },
+      "away": {
+        "id": "441781b9-0f24-11e2-8525-18a905767e44",
+        "name": "New York Rangers",
+        "alias": "NYR",
+        "seed": 1,
+        "sr_id": "sr:team:3701",
+        "reference": "3"
+      }
+    },
+    {
+      "id": "fd8be1d7-f572-4f58-8909-69e6a065e1fa",
+      "title": "Game 3",
+      "status": "closed",
+      "coverage": "full",
+      "scheduled": "2024-05-12T02:00:00Z",
+      "home_points": 1,
+      "away_points": 4,
+      "sr_id": "sr:match:49470583",
+      "reference": "30233",
+      "venue": {
+        "id": "a75eea49-c384-4edb-99f1-d5252773ec83",
+        "name": "Ball Arena",
+        "capacity": 18007,
+        "address": "1000 Chopper Circle",
+        "city": "Denver",
+        "state": "CO",
+        "zip": "80204",
+        "country": "USA",
+        "time_zone": "US/Mountain",
+        "sr_id": "sr:venue:5976"
+      },
+      "broadcasts": [
+        {
+          "network": "TNT",
+          "type": "TV",
+          "locale": "National",
+          "channel": "245"
+        },
+        {
+          "network": "truTV",
+          "type": "TV",
+          "locale": "National",
+          "channel": "246"
+        },
+        {
+          "network": "Max",
+          "type": "Internet",
+          "locale": "National"
+        },
+        {
+          "network": "TVAS",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "SN1",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "SportsNet",
+          "type": "TV",
+          "locale": "International"
+        }
+      ],
+      "home": {
+        "id": "4415ce44-0f24-11e2-8525-18a905767e44",
+        "name": "Colorado Avalanche",
+        "alias": "COL",
+        "seed": 4,
+        "sr_id": "sr:team:3682",
+        "reference": "21"
+      },
+      "away": {
+        "id": "44157522-0f24-11e2-8525-18a905767e44",
+        "name": "Dallas Stars",
+        "alias": "DAL",
+        "seed": 1,
+        "sr_id": "sr:team:3684",
+        "reference": "25"
+      }
+    }
+  ]
+}

@@ -1,0 +1,918 @@
+{
+  "teams": {
+    "home": {
+      "reference": "13",
+      "name": "Panthers",
+      "market": "Florida"
+    },
+    "away": {
+      "reference": "6",
+      "name": "Bruins",
+      "market": "Boston"
+    }
+  },
+  "scoring": {
+    "total": {
+      "home": 6,
+      "away": 1
+    },
+    "periods": [
+      {
+        "home": 0,
+        "away": 1,
+        "period_number": 1,
+        "period_type": "period"
+      },
+      {
+        "home": 3,
+        "away": 0,
+        "period_number": 2,
+        "period_type": "period"
+      },
+      {
+        "home": 3,
+        "away": 0,
+        "period_number": 3,
+        "period_type": "period"
+      }
+    ]
+  },
+  "shoots": {
+    "home": [
+      {
+        "clock_period": "19:45",
+        "time_game": 15,
+        "time_period": 15,
+        "type": "shotsaved",
+        "current_len": 1,
+        "period": 1
+      },
+      {
+        "clock_period": "19:25",
+        "time_game": 35,
+        "time_period": 35,
+        "type": "shotsaved",
+        "current_len": 2,
+        "period": 1
+      },
+      {
+        "clock_period": "18:46",
+        "time_game": 74,
+        "time_period": 74,
+        "type": "shotmissed",
+        "current_len": 3,
+        "period": 1
+      },
+      {
+        "clock_period": "18:23",
+        "time_game": 97,
+        "time_period": 97,
+        "type": "shotmissed",
+        "current_len": 4,
+        "period": 1
+      },
+      {
+        "clock_period": "11:15",
+        "time_game": 525,
+        "time_period": 525,
+        "type": "shotmissed",
+        "current_len": 5,
+        "period": 1
+      },
+      {
+        "clock_period": "10:49",
+        "time_game": 551,
+        "time_period": 551,
+        "type": "shotmissed",
+        "current_len": 6,
+        "period": 1
+      },
+      {
+        "clock_period": "10:48",
+        "time_game": 552,
+        "time_period": 552,
+        "type": "shotmissed",
+        "current_len": 7,
+        "period": 1
+      },
+      {
+        "clock_period": "10:12",
+        "time_game": 588,
+        "time_period": 588,
+        "type": "shotmissed",
+        "current_len": 8,
+        "period": 1
+      },
+      {
+        "clock_period": "9:44",
+        "time_game": 616,
+        "time_period": 616,
+        "type": "shotsaved",
+        "current_len": 9,
+        "period": 1
+      },
+      {
+        "clock_period": "8:58",
+        "time_game": 662,
+        "time_period": 662,
+        "type": "shotsaved",
+        "current_len": 10,
+        "period": 1
+      },
+      {
+        "clock_period": "8:13",
+        "time_game": 707,
+        "time_period": 707,
+        "type": "shotmissed",
+        "current_len": 11,
+        "period": 1
+      },
+      {
+        "clock_period": "7:31",
+        "time_game": 749,
+        "time_period": 749,
+        "type": "shotmissed",
+        "current_len": 12,
+        "period": 1
+      },
+      {
+        "clock_period": "7:12",
+        "time_game": 768,
+        "time_period": 768,
+        "type": "shotmissed",
+        "current_len": 13,
+        "period": 1
+      },
+      {
+        "clock_period": "5:25",
+        "time_game": 875,
+        "time_period": 875,
+        "type": "shotmissed",
+        "current_len": 14,
+        "period": 1
+      },
+      {
+        "clock_period": "5:21",
+        "time_game": 879,
+        "time_period": 879,
+        "type": "shotmissed",
+        "current_len": 15,
+        "period": 1
+      },
+      {
+        "clock_period": "5:13",
+        "time_game": 887,
+        "time_period": 887,
+        "type": "shotsaved",
+        "current_len": 16,
+        "period": 1
+      },
+      {
+        "clock_period": "5:12",
+        "time_game": 888,
+        "time_period": 888,
+        "type": "shotmissed",
+        "current_len": 17,
+        "period": 1
+      },
+      {
+        "clock_period": "5:08",
+        "time_game": 892,
+        "time_period": 892,
+        "type": "shotmissed",
+        "current_len": 18,
+        "period": 1
+      },
+      {
+        "clock_period": "4:59",
+        "time_game": 901,
+        "time_period": 901,
+        "type": "shotmissed",
+        "current_len": 19,
+        "period": 1
+      },
+      {
+        "clock_period": "4:51",
+        "time_game": 909,
+        "time_period": 909,
+        "type": "shotmissed",
+        "current_len": 20,
+        "period": 1
+      },
+      {
+        "clock_period": "3:55",
+        "time_game": 965,
+        "time_period": 965,
+        "type": "shotmissed",
+        "current_len": 21,
+        "period": 1
+      },
+      {
+        "clock_period": "3:36",
+        "time_game": 984,
+        "time_period": 984,
+        "type": "shotsaved",
+        "current_len": 22,
+        "period": 1
+      },
+      {
+        "clock_period": "2:39",
+        "time_game": 1041,
+        "time_period": 1041,
+        "type": "shotsaved",
+        "current_len": 23,
+        "period": 1
+      },
+      {
+        "clock_period": "2:23",
+        "time_game": 1057,
+        "time_period": 1057,
+        "type": "shotmissed",
+        "current_len": 24,
+        "period": 1
+      },
+      {
+        "clock_period": "2:17",
+        "time_game": 1063,
+        "time_period": 1063,
+        "type": "shotmissed",
+        "current_len": 25,
+        "period": 1
+      },
+      {
+        "clock_period": "1:54",
+        "time_game": 1086,
+        "time_period": 1086,
+        "type": "shotmissed",
+        "current_len": 26,
+        "period": 1
+      },
+      {
+        "clock_period": "18:56",
+        "time_game": 1264,
+        "time_period": 64,
+        "type": "shotmissed",
+        "current_len": 27,
+        "period": 2
+      },
+      {
+        "clock_period": "18:51",
+        "time_game": 1269,
+        "time_period": 69,
+        "type": "shotmissed",
+        "current_len": 28,
+        "period": 2
+      },
+      {
+        "clock_period": "18:25",
+        "time_game": 1295,
+        "time_period": 95,
+        "type": "shotsaved",
+        "current_len": 29,
+        "period": 2
+      },
+      {
+        "clock_period": "18:04",
+        "time_game": 1316,
+        "time_period": 116,
+        "type": "goal",
+        "current_len": 30,
+        "period": 2
+      },
+      {
+        "clock_period": "14:40",
+        "time_game": 1520,
+        "time_period": 320,
+        "type": "shotsaved",
+        "current_len": 31,
+        "period": 2
+      },
+      {
+        "clock_period": "14:36",
+        "time_game": 1524,
+        "time_period": 324,
+        "type": "shotsaved",
+        "current_len": 32,
+        "period": 2
+      },
+      {
+        "clock_period": "13:28",
+        "time_game": 1592,
+        "time_period": 392,
+        "type": "shotmissed",
+        "current_len": 33,
+        "period": 2
+      },
+      {
+        "clock_period": "12:51",
+        "time_game": 1629,
+        "time_period": 429,
+        "type": "shotmissed",
+        "current_len": 34,
+        "period": 2
+      },
+      {
+        "clock_period": "10:42",
+        "time_game": 1758,
+        "time_period": 558,
+        "type": "shotmissed",
+        "current_len": 35,
+        "period": 2
+      },
+      {
+        "clock_period": "10:21",
+        "time_game": 1779,
+        "time_period": 579,
+        "type": "shotsaved",
+        "current_len": 36,
+        "period": 2
+      },
+      {
+        "clock_period": "10:13",
+        "time_game": 1787,
+        "time_period": 587,
+        "type": "shotsaved",
+        "current_len": 37,
+        "period": 2
+      },
+      {
+        "clock_period": "10:11",
+        "time_game": 1789,
+        "time_period": 589,
+        "type": "goal",
+        "current_len": 38,
+        "period": 2
+      },
+      {
+        "clock_period": "6:41",
+        "time_game": 1999,
+        "time_period": 799,
+        "type": "shotmissed",
+        "current_len": 39,
+        "period": 2
+      },
+      {
+        "clock_period": "6:28",
+        "time_game": 2012,
+        "time_period": 812,
+        "type": "shotsaved",
+        "current_len": 40,
+        "period": 2
+      },
+      {
+        "clock_period": "5:34",
+        "time_game": 2066,
+        "time_period": 866,
+        "type": "shotmissed",
+        "current_len": 41,
+        "period": 2
+      },
+      {
+        "clock_period": "5:20",
+        "time_game": 2080,
+        "time_period": 880,
+        "type": "shotsaved",
+        "current_len": 42,
+        "period": 2
+      },
+      {
+        "clock_period": "5:15",
+        "time_game": 2085,
+        "time_period": 885,
+        "type": "shotmissed",
+        "current_len": 43,
+        "period": 2
+      },
+      {
+        "clock_period": "4:56",
+        "time_game": 2104,
+        "time_period": 904,
+        "type": "shotmissed",
+        "current_len": 44,
+        "period": 2
+      },
+      {
+        "clock_period": "3:31",
+        "time_game": 2189,
+        "time_period": 989,
+        "type": "shotmissed",
+        "current_len": 45,
+        "period": 2
+      },
+      {
+        "clock_period": "3:21",
+        "time_game": 2199,
+        "time_period": 999,
+        "type": "shotsaved",
+        "current_len": 46,
+        "period": 2
+      },
+      {
+        "clock_period": "3:13",
+        "time_game": 2207,
+        "time_period": 1007,
+        "type": "shotmissed",
+        "current_len": 47,
+        "period": 2
+      },
+      {
+        "clock_period": "2:43",
+        "time_game": 2237,
+        "time_period": 1037,
+        "type": "shotmissed",
+        "current_len": 48,
+        "period": 2
+      },
+      {
+        "clock_period": "2:41",
+        "time_game": 2239,
+        "time_period": 1039,
+        "type": "shotmissed",
+        "current_len": 49,
+        "period": 2
+      },
+      {
+        "clock_period": "2:12",
+        "time_game": 2268,
+        "time_period": 1068,
+        "type": "shotmissed",
+        "current_len": 50,
+        "period": 2
+      },
+      {
+        "clock_period": "00:44",
+        "time_game": 2356,
+        "time_period": 1156,
+        "type": "shotsaved",
+        "current_len": 51,
+        "period": 2
+      },
+      {
+        "clock_period": "00:16",
+        "time_game": 2384,
+        "time_period": 1184,
+        "type": "shotmissed",
+        "current_len": 52,
+        "period": 2
+      },
+      {
+        "clock_period": "00:15",
+        "time_game": 2385,
+        "time_period": 1185,
+        "type": "shotsaved",
+        "current_len": 53,
+        "period": 2
+      },
+      {
+        "clock_period": "00:14",
+        "time_game": 2386,
+        "time_period": 1186,
+        "type": "shotsaved",
+        "current_len": 54,
+        "period": 2
+      },
+      {
+        "clock_period": "00:06",
+        "time_game": 2394,
+        "time_period": 1194,
+        "type": "shotmissed",
+        "current_len": 55,
+        "period": 2
+      },
+      {
+        "clock_period": "00:02",
+        "time_game": 2398,
+        "time_period": 1198,
+        "type": "goal",
+        "current_len": 56,
+        "period": 2
+      },
+      {
+        "clock_period": "19:30",
+        "time_game": 2430,
+        "time_period": 30,
+        "type": "shotsaved",
+        "current_len": 57,
+        "period": 3
+      },
+      {
+        "clock_period": "18:56",
+        "time_game": 2464,
+        "time_period": 64,
+        "type": "shotmissed",
+        "current_len": 58,
+        "period": 3
+      },
+      {
+        "clock_period": "18:35",
+        "time_game": 2485,
+        "time_period": 85,
+        "type": "shotmissed",
+        "current_len": 59,
+        "period": 3
+      },
+      {
+        "clock_period": "18:32",
+        "time_game": 2488,
+        "time_period": 88,
+        "type": "goal",
+        "current_len": 60,
+        "period": 3
+      },
+      {
+        "clock_period": "16:50",
+        "time_game": 2590,
+        "time_period": 190,
+        "type": "shotsaved",
+        "current_len": 61,
+        "period": 3
+      },
+      {
+        "clock_period": "12:30",
+        "time_game": 2850,
+        "time_period": 450,
+        "type": "shotmissed",
+        "current_len": 62,
+        "period": 3
+      },
+      {
+        "clock_period": "9:36",
+        "time_game": 3024,
+        "time_period": 624,
+        "type": "shotsaved",
+        "current_len": 63,
+        "period": 3
+      },
+      {
+        "clock_period": "9:08",
+        "time_game": 3052,
+        "time_period": 652,
+        "type": "goal",
+        "current_len": 64,
+        "period": 3
+      },
+      {
+        "clock_period": "8:02",
+        "time_game": 3118,
+        "time_period": 718,
+        "type": "goal",
+        "current_len": 65,
+        "period": 3
+      },
+      {
+        "clock_period": "7:13",
+        "time_game": 3167,
+        "time_period": 767,
+        "type": "shotsaved",
+        "current_len": 66,
+        "period": 3
+      },
+      {
+        "clock_period": "6:02",
+        "time_game": 3238,
+        "time_period": 838,
+        "type": "shotsaved",
+        "current_len": 67,
+        "period": 3
+      },
+      {
+        "clock_period": "5:40",
+        "time_game": 3260,
+        "time_period": 860,
+        "type": "shotsaved",
+        "current_len": 68,
+        "period": 3
+      },
+      {
+        "clock_period": "5:30",
+        "time_game": 3270,
+        "time_period": 870,
+        "type": "shotsaved",
+        "current_len": 69,
+        "period": 3
+      },
+      {
+        "clock_period": "3:40",
+        "time_game": 3380,
+        "time_period": 980,
+        "type": "shotsaved",
+        "current_len": 70,
+        "period": 3
+      },
+      {
+        "clock_period": "2:37",
+        "time_game": 3443,
+        "time_period": 1043,
+        "type": "shotsaved",
+        "current_len": 71,
+        "period": 3
+      },
+      {
+        "clock_period": "2:03",
+        "time_game": 3477,
+        "time_period": 1077,
+        "type": "shotmissed",
+        "current_len": 72,
+        "period": 3
+      },
+      {
+        "clock_period": "1:26",
+        "time_game": 3514,
+        "time_period": 1114,
+        "type": "shotmissed",
+        "current_len": 73,
+        "period": 3
+      },
+      {
+        "clock_period": "1:24",
+        "time_game": 3516,
+        "time_period": 1116,
+        "type": "shotmissed",
+        "current_len": 74,
+        "period": 3
+      }
+    ],
+    "away": [
+      {
+        "clock_period": "17:49",
+        "time_game": 131,
+        "time_period": 131,
+        "type": "shotmissed",
+        "current_len": 1,
+        "period": 1
+      },
+      {
+        "clock_period": "17:15",
+        "time_game": 165,
+        "time_period": 165,
+        "type": "shotsaved",
+        "current_len": 2,
+        "period": 1
+      },
+      {
+        "clock_period": "17:13",
+        "time_game": 167,
+        "time_period": 167,
+        "type": "shotmissed",
+        "current_len": 3,
+        "period": 1
+      },
+      {
+        "clock_period": "16:14",
+        "time_game": 226,
+        "time_period": 226,
+        "type": "shotmissed",
+        "current_len": 4,
+        "period": 1
+      },
+      {
+        "clock_period": "15:42",
+        "time_game": 258,
+        "time_period": 258,
+        "type": "shotmissed",
+        "current_len": 5,
+        "period": 1
+      },
+      {
+        "clock_period": "15:41",
+        "time_game": 259,
+        "time_period": 259,
+        "type": "shotsaved",
+        "current_len": 6,
+        "period": 1
+      },
+      {
+        "clock_period": "15:37",
+        "time_game": 263,
+        "time_period": 263,
+        "type": "shotmissed",
+        "current_len": 7,
+        "period": 1
+      },
+      {
+        "clock_period": "14:14",
+        "time_game": 346,
+        "time_period": 346,
+        "type": "shotsaved",
+        "current_len": 8,
+        "period": 1
+      },
+      {
+        "clock_period": "13:49",
+        "time_game": 371,
+        "time_period": 371,
+        "type": "shotmissed",
+        "current_len": 9,
+        "period": 1
+      },
+      {
+        "clock_period": "12:14",
+        "time_game": 466,
+        "time_period": 466,
+        "type": "shotsaved",
+        "current_len": 10,
+        "period": 1
+      },
+      {
+        "clock_period": "12:00",
+        "time_game": 480,
+        "time_period": 480,
+        "type": "shotmissed",
+        "current_len": 11,
+        "period": 1
+      },
+      {
+        "clock_period": "7:48",
+        "time_game": 732,
+        "time_period": 732,
+        "type": "goal",
+        "current_len": 12,
+        "period": 1
+      },
+      {
+        "clock_period": "3:04",
+        "time_game": 1016,
+        "time_period": 1016,
+        "type": "shotmissed",
+        "current_len": 13,
+        "period": 1
+      },
+      {
+        "clock_period": "1:29",
+        "time_game": 1111,
+        "time_period": 1111,
+        "type": "shotsaved",
+        "current_len": 14,
+        "period": 1
+      },
+      {
+        "clock_period": "1:28",
+        "time_game": 1112,
+        "time_period": 1112,
+        "type": "shotmissed",
+        "current_len": 15,
+        "period": 1
+      },
+      {
+        "clock_period": "1:26",
+        "time_game": 1114,
+        "time_period": 1114,
+        "type": "shotmissed",
+        "current_len": 16,
+        "period": 1
+      },
+      {
+        "clock_period": "00:08",
+        "time_game": 1192,
+        "time_period": 1192,
+        "type": "shotmissed",
+        "current_len": 17,
+        "period": 1
+      },
+      {
+        "clock_period": "17:16",
+        "time_game": 1364,
+        "time_period": 164,
+        "type": "shotmissed",
+        "current_len": 18,
+        "period": 2
+      },
+      {
+        "clock_period": "17:00",
+        "time_game": 1380,
+        "time_period": 180,
+        "type": "shotsaved",
+        "current_len": 19,
+        "period": 2
+      },
+      {
+        "clock_period": "16:40",
+        "time_game": 1400,
+        "time_period": 200,
+        "type": "shotmissed",
+        "current_len": 20,
+        "period": 2
+      },
+      {
+        "clock_period": "15:22",
+        "time_game": 1478,
+        "time_period": 278,
+        "type": "shotsaved",
+        "current_len": 21,
+        "period": 2
+      },
+      {
+        "clock_period": "14:06",
+        "time_game": 1554,
+        "time_period": 354,
+        "type": "shotsaved",
+        "current_len": 22,
+        "period": 2
+      },
+      {
+        "clock_period": "13:15",
+        "time_game": 1605,
+        "time_period": 405,
+        "type": "shotsaved",
+        "current_len": 23,
+        "period": 2
+      },
+      {
+        "clock_period": "11:36",
+        "time_game": 1704,
+        "time_period": 504,
+        "type": "shotmissed",
+        "current_len": 24,
+        "period": 2
+      },
+      {
+        "clock_period": "10:04",
+        "time_game": 1796,
+        "time_period": 596,
+        "type": "shotmissed",
+        "current_len": 25,
+        "period": 2
+      },
+      {
+        "clock_period": "8:58",
+        "time_game": 1862,
+        "time_period": 662,
+        "type": "shotmissed",
+        "current_len": 26,
+        "period": 2
+      },
+      {
+        "clock_period": "8:24",
+        "time_game": 1896,
+        "time_period": 696,
+        "type": "shotsaved",
+        "current_len": 27,
+        "period": 2
+      },
+      {
+        "clock_period": "7:45",
+        "time_game": 1935,
+        "time_period": 735,
+        "type": "shotmissed",
+        "current_len": 28,
+        "period": 2
+      },
+      {
+        "clock_period": "5:10",
+        "time_game": 2090,
+        "time_period": 890,
+        "type": "shotsaved",
+        "current_len": 29,
+        "period": 2
+      },
+      {
+        "clock_period": "18:21",
+        "time_game": 2499,
+        "time_period": 99,
+        "type": "shotmissed",
+        "current_len": 30,
+        "period": 3
+      },
+      {
+        "clock_period": "14:10",
+        "time_game": 2750,
+        "time_period": 350,
+        "type": "shotmissed",
+        "current_len": 31,
+        "period": 3
+      },
+      {
+        "clock_period": "14:04",
+        "time_game": 2756,
+        "time_period": 356,
+        "type": "shotmissed",
+        "current_len": 32,
+        "period": 3
+      },
+      {
+        "clock_period": "8:58",
+        "time_game": 3062,
+        "time_period": 662,
+        "type": "shotsaved",
+        "current_len": 33,
+        "period": 3
+      },
+      {
+        "clock_period": "6:10",
+        "time_game": 3230,
+        "time_period": 830,
+        "type": "shotsaved",
+        "current_len": 34,
+        "period": 3
+      },
+      {
+        "clock_period": "4:08",
+        "time_game": 3352,
+        "time_period": 952,
+        "type": "shotsaved",
+        "current_len": 35,
+        "period": 3
+      }
+    ]
+  }
+}

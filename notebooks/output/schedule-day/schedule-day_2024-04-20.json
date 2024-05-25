@@ -1,0 +1,166 @@
+{
+  "date": "2024-04-20",
+  "league": {
+    "id": "fd560107-a85b-4388-ab0d-655ad022aff7",
+    "name": "NHL",
+    "alias": "NHL"
+  },
+  "games": [
+    {
+      "id": "4e0a7b20-f312-46b3-aa0e-5763b7a18623",
+      "title": "Game 1",
+      "status": "closed",
+      "coverage": "full",
+      "scheduled": "2024-04-20T21:00:00Z",
+      "home_points": 3,
+      "away_points": 1,
+      "sr_id": "sr:match:49470693",
+      "reference": "30141",
+      "venue": {
+        "id": "1ea58cb6-6a28-4619-b010-747ecbc30aa7",
+        "name": "PNC Arena",
+        "capacity": 18680,
+        "address": "1400 Edwards Mill Road",
+        "city": "Raleigh",
+        "state": "NC",
+        "zip": "27607",
+        "country": "USA",
+        "time_zone": "US/Eastern",
+        "sr_id": "sr:venue:5956"
+      },
+      "broadcasts": [
+        {
+          "network": "TBS",
+          "type": "TV",
+          "locale": "National",
+          "channel": "247"
+        },
+        {
+          "network": "truTV",
+          "type": "TV",
+          "locale": "National",
+          "channel": "246"
+        },
+        {
+          "network": "SN360",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "TVAS",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "MSGSN",
+          "type": "TV",
+          "channel": "635"
+        },
+        {
+          "network": "BSSO",
+          "type": "TV",
+          "channel": "646-1"
+        },
+        {
+          "network": "SNW",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "SNE",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "SNP",
+          "type": "TV",
+          "locale": "International"
+        }
+      ],
+      "home": {
+        "id": "44182a9d-0f24-11e2-8525-18a905767e44",
+        "name": "Carolina Hurricanes",
+        "alias": "CAR",
+        "seed": 2,
+        "sr_id": "sr:team:3680",
+        "reference": "12"
+      },
+      "away": {
+        "id": "441766b9-0f24-11e2-8525-18a905767e44",
+        "name": "New York Islanders",
+        "alias": "NYI",
+        "seed": 7,
+        "sr_id": "sr:team:3703",
+        "reference": "2"
+      }
+    },
+    {
+      "id": "bd8cf25f-8574-4bcd-bae2-28203a1216aa",
+      "title": "Game 1",
+      "status": "closed",
+      "coverage": "full",
+      "scheduled": "2024-04-21T00:00:00Z",
+      "home_points": 5,
+      "away_points": 1,
+      "sr_id": "sr:match:49470485",
+      "reference": "30121",
+      "venue": {
+        "id": "854ca968-b25f-44f9-abc5-52bcf8825f15",
+        "name": "TD Garden",
+        "capacity": 17565,
+        "address": "100 Legends Way",
+        "city": "Boston",
+        "state": "MA",
+        "zip": "02114",
+        "country": "USA",
+        "time_zone": "US/Eastern",
+        "sr_id": "sr:venue:5940"
+      },
+      "broadcasts": [
+        {
+          "network": "TBS",
+          "type": "TV",
+          "locale": "National",
+          "channel": "247"
+        },
+        {
+          "network": "truTV",
+          "type": "TV",
+          "locale": "National",
+          "channel": "246"
+        },
+        {
+          "network": "SportsNet",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "TVAS",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "CBC",
+          "type": "TV",
+          "locale": "International"
+        }
+      ],
+      "home": {
+        "id": "4416ba1a-0f24-11e2-8525-18a905767e44",
+        "name": "Boston Bruins",
+        "alias": "BOS",
+        "seed": 4,
+        "sr_id": "sr:team:3677",
+        "reference": "6"
+      },
+      "away": {
+        "id": "441730a9-0f24-11e2-8525-18a905767e44",
+        "name": "Toronto Maple Leafs",
+        "alias": "TOR",
+        "seed": 5,
+        "sr_id": "sr:team:3693",
+        "reference": "10"
+      }
+    }
+  ]
+}

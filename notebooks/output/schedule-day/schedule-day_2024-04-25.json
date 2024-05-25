@@ -1,0 +1,159 @@
+{
+  "date": "2024-04-25",
+  "league": {
+    "id": "fd560107-a85b-4388-ab0d-655ad022aff7",
+    "name": "NHL",
+    "alias": "NHL"
+  },
+  "games": [
+    {
+      "id": "dda2b533-c6c2-4c6a-b9c0-5eb3f13e153d",
+      "title": "Game 3",
+      "status": "closed",
+      "coverage": "full",
+      "scheduled": "2024-04-25T23:00:00Z",
+      "home_points": 3,
+      "away_points": 5,
+      "sr_id": "sr:match:49470503",
+      "reference": "30113",
+      "venue": {
+        "id": "05aa49b2-f72d-4d42-ab30-f219d32ed97b",
+        "name": "Amalie Arena",
+        "capacity": 19092,
+        "address": "401 Channelside Drive",
+        "city": "Tampa",
+        "state": "FL",
+        "zip": "33602",
+        "country": "USA",
+        "time_zone": "US/Eastern",
+        "sr_id": "sr:venue:6036"
+      },
+      "broadcasts": [
+        {
+          "network": "TBS",
+          "type": "TV",
+          "locale": "National",
+          "channel": "247"
+        },
+        {
+          "network": "SportsNet",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "TVAS",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "Max",
+          "type": "Internet",
+          "locale": "National"
+        },
+        {
+          "network": "BSSUN",
+          "type": "TV",
+          "locale": "Home",
+          "channel": "653"
+        },
+        {
+          "network": "BSFL",
+          "type": "TV",
+          "locale": "Away",
+          "channel": "654"
+        },
+        {
+          "network": "BSFLX",
+          "type": "TV",
+          "locale": "Away",
+          "channel": "654-1"
+        }
+      ],
+      "home": {
+        "id": "4417d3cb-0f24-11e2-8525-18a905767e44",
+        "name": "Tampa Bay Lightning",
+        "alias": "TB",
+        "seed": 6,
+        "sr_id": "sr:team:3694",
+        "reference": "14"
+      },
+      "away": {
+        "id": "4418464d-0f24-11e2-8525-18a905767e44",
+        "name": "Florida Panthers",
+        "alias": "FLA",
+        "seed": 3,
+        "sr_id": "sr:team:3687",
+        "reference": "13"
+      }
+    },
+    {
+      "id": "06aa6ee7-b10f-463f-a5dc-beb136825df0",
+      "title": "Game 3",
+      "status": "closed",
+      "coverage": "full",
+      "scheduled": "2024-04-25T23:30:00Z",
+      "home_points": 2,
+      "away_points": 3,
+      "sr_id": "sr:match:49470695",
+      "reference": "30143",
+      "venue": {
+        "id": "e256f8f5-5469-43b0-a95e-8d3adb3cb7ee",
+        "name": "UBS Arena",
+        "capacity": 17113,
+        "address": "2150 Hempstead Turnpike",
+        "city": "Belmont Park",
+        "state": "NY",
+        "zip": "11003",
+        "country": "USA",
+        "time_zone": "US/Eastern",
+        "sr_id": "sr:venue:59880"
+      },
+      "broadcasts": [
+        {
+          "network": "ESPN2",
+          "type": "TV",
+          "locale": "National",
+          "channel": "209"
+        },
+        {
+          "network": "SN360",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "TVAS",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "BSSO",
+          "type": "TV",
+          "locale": "Away",
+          "channel": "646-1"
+        },
+        {
+          "network": "MSGSN",
+          "type": "TV",
+          "locale": "Home",
+          "channel": "635"
+        }
+      ],
+      "home": {
+        "id": "441766b9-0f24-11e2-8525-18a905767e44",
+        "name": "New York Islanders",
+        "alias": "NYI",
+        "seed": 7,
+        "sr_id": "sr:team:3703",
+        "reference": "2"
+      },
+      "away": {
+        "id": "44182a9d-0f24-11e2-8525-18a905767e44",
+        "name": "Carolina Hurricanes",
+        "alias": "CAR",
+        "seed": 2,
+        "sr_id": "sr:team:3680",
+        "reference": "12"
+      }
+    }
+  ]
+}

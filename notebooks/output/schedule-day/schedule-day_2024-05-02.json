@@ -1,0 +1,155 @@
+{
+  "date": "2024-05-02",
+  "league": {
+    "id": "fd560107-a85b-4388-ab0d-655ad022aff7",
+    "name": "NHL",
+    "alias": "NHL"
+  },
+  "games": [
+    {
+      "id": "e9544eb0-0b6d-4f6b-ad8f-6e65e7a6d726",
+      "title": "Game 6 (if necessary)",
+      "status": "unnecessary",
+      "coverage": "full",
+      "scheduled": "2024-05-02T17:00:00Z",
+      "reference": "30146",
+      "venue": {
+        "id": "e256f8f5-5469-43b0-a95e-8d3adb3cb7ee",
+        "name": "UBS Arena",
+        "capacity": 17113,
+        "address": "2150 Hempstead Turnpike",
+        "city": "Belmont Park",
+        "state": "NY",
+        "zip": "11003",
+        "country": "USA",
+        "time_zone": "US/Eastern",
+        "sr_id": "sr:venue:59880"
+      },
+      "home": {
+        "id": "441766b9-0f24-11e2-8525-18a905767e44",
+        "name": "New York Islanders",
+        "alias": "NYI",
+        "seed": 7,
+        "sr_id": "sr:team:3703",
+        "reference": "2"
+      },
+      "away": {
+        "id": "44182a9d-0f24-11e2-8525-18a905767e44",
+        "name": "Carolina Hurricanes",
+        "alias": "CAR",
+        "seed": 2,
+        "sr_id": "sr:team:3680",
+        "reference": "12"
+      }
+    },
+    {
+      "id": "ef3d013d-4ff0-48fc-9c36-1121e5e75ed2",
+      "title": "Game 6 (if necessary)",
+      "status": "unnecessary",
+      "coverage": "full",
+      "scheduled": "2024-05-02T17:00:00Z",
+      "reference": "30166",
+      "venue": {
+        "id": "a75eea49-c384-4edb-99f1-d5252773ec83",
+        "name": "Ball Arena",
+        "capacity": 18007,
+        "address": "1000 Chopper Circle",
+        "city": "Denver",
+        "state": "CO",
+        "zip": "80204",
+        "country": "USA",
+        "time_zone": "US/Mountain",
+        "sr_id": "sr:venue:5976"
+      },
+      "home": {
+        "id": "4415ce44-0f24-11e2-8525-18a905767e44",
+        "name": "Colorado Avalanche",
+        "alias": "COL",
+        "seed": 4,
+        "sr_id": "sr:team:3682",
+        "reference": "21"
+      },
+      "away": {
+        "id": "44180e55-0f24-11e2-8525-18a905767e44",
+        "name": "Winnipeg Jets",
+        "alias": "WPG",
+        "seed": 2,
+        "sr_id": "sr:team:3676",
+        "reference": "52"
+      }
+    },
+    {
+      "id": "24c9ccce-601d-4c45-9300-f170e82bb800",
+      "title": "Game 6",
+      "status": "closed",
+      "coverage": "full",
+      "scheduled": "2024-05-03T00:00:00Z",
+      "home_points": 2,
+      "away_points": 1,
+      "sr_id": "sr:match:49470481",
+      "reference": "30126",
+      "venue": {
+        "id": "a84c7004-18b2-4c5d-a036-f0c368c08bc5",
+        "name": "Scotiabank Arena",
+        "capacity": 18819,
+        "address": "40 Bay Street",
+        "city": "Toronto",
+        "state": "ON",
+        "zip": "M5J 2X2",
+        "country": "CAN",
+        "time_zone": "US/Eastern",
+        "sr_id": "sr:venue:6030"
+      },
+      "broadcasts": [
+        {
+          "network": "TBS",
+          "type": "TV",
+          "locale": "National",
+          "channel": "247"
+        },
+        {
+          "network": "NESN",
+          "type": "TV",
+          "locale": "Away",
+          "channel": "628"
+        },
+        {
+          "network": "SportsNet",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "Max",
+          "type": "Internet",
+          "locale": "National"
+        },
+        {
+          "network": "TVAS",
+          "type": "TV",
+          "locale": "International"
+        },
+        {
+          "network": "CBC",
+          "type": "TV",
+          "locale": "International"
+        }
+      ],
+      "home": {
+        "id": "441730a9-0f24-11e2-8525-18a905767e44",
+        "name": "Toronto Maple Leafs",
+        "alias": "TOR",
+        "seed": 5,
+        "sr_id": "sr:team:3693",
+        "reference": "10"
+      },
+      "away": {
+        "id": "4416ba1a-0f24-11e2-8525-18a905767e44",
+        "name": "Boston Bruins",
+        "alias": "BOS",
+        "seed": 4,
+        "sr_id": "sr:team:3677",
+        "reference": "6"
+      }
+    }
+  ]
+}
