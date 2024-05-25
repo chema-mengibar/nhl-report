@@ -1,1 +1,1 @@
-# nhl-report
+# nhl-report -s
