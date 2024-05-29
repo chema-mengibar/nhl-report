@@ -22,6 +22,7 @@
               "lead": "2-0",
               "lead_team": "Hurricanes",
               "date": "23.4",
+              "id": "44a404ce-37b3-4247-9abd-9ea99f14af46",
               "game": 2
             },
             {
@@ -37,6 +38,7 @@
               "lead": "3-1",
               "lead_team": "Hurricanes",
               "date": "27.4",
+              "id": "729e32df-183d-475e-a37c-8c6191fcbefd",
               "game": 4
             },
             {
@@ -60,6 +62,7 @@
               "lead": "1-0",
               "lead_team": "Bruins",
               "date": "21.4",
+              "id": "bd8cf25f-8574-4bcd-bae2-28203a1216aa",
               "game": 1
             },
             {
@@ -75,6 +78,7 @@
               "lead": "2:1",
               "lead_team": "Bruins",
               "date": "25.4",
+              "id": "473409c1-db77-40d7-8d3d-650affdf9867",
               "game": 3
             },
             {
@@ -82,6 +86,7 @@
               "lead": "3:1",
               "lead_team": "Bruins",
               "date": "28.4",
+              "id": "c38ba98f-af04-40ee-b7aa-3cc112f32d95",
               "game": 4
             },
             {
@@ -89,6 +94,7 @@
               "lead": "3:2",
               "lead_team": "Bruins",
               "date": "1.5",
+              "id": "a92b531a-df70-4604-a919-904ee74bc333",
               "game": 5
             },
             {
@@ -104,6 +110,7 @@
               "lead": "4:3",
               "lead_team": "Bruins",
               "date": "5.5",
+              "id": "eca1e1e3-b1f0-4658-bbe1-a832431f77e2",
               "game": 7
             }
           ]
@@ -127,6 +134,7 @@
               "lead": "2-0",
               "lead_team": "Panthers",
               "date": "24.4",
+              "id": "702a554f-67c6-4628-b468-48c9a642d8ef",
               "game": 2
             },
             {
@@ -134,6 +142,7 @@
               "lead": "3-0",
               "lead_team": "Panthers",
               "date": "26.4",
+              "id": "dda2b533-c6c2-4c6a-b9c0-5eb3f13e153d",
               "game": 3
             },
             {
@@ -141,6 +150,7 @@
               "lead": "3-1",
               "lead_team": "Panthers",
               "date": "27.4",
+              "id": "e30237bc-de0c-46c6-9a34-ba26d4d4722e",
               "game": 4
             },
             {
@@ -148,6 +158,7 @@
               "lead": "4-1",
               "lead_team": "Panthers",
               "date": "30.4",
+              "id": "506c3ccd-61c1-4170-b19f-751e6ccae992",
               "game": 5
             }
           ]
@@ -179,6 +190,7 @@
               "lead": "3-0",
               "lead_team": "Rangers",
               "date": "27.4",
+              "id": "c936f64a-f651-4d49-ab4e-84e0400738fa",
               "game": 3
             },
             {
@@ -218,6 +230,7 @@
               "lead": "1-2",
               "lead_team": "Avalanche",
               "date": "27.4",
+              "id": "530f5f18-c1cc-49f8-89b1-19accf6d43b8",
               "game": 3
             },
             {
@@ -225,6 +238,7 @@
               "lead": "1-3",
               "lead_team": "Avalanche",
               "date": "28.4",
+              "id": "e34a1460-41a8-457b-be9c-dec84d640254",
               "game": 4
             },
             {
@@ -232,6 +246,7 @@
               "lead": "1-4",
               "lead_team": "Avalanche",
               "date": "1.5",
+              "id": "499aa087-b75a-4f65-ad9d-bc93a0feaaaa",
               "game": 5
             }
           ]
@@ -247,6 +262,7 @@
               "lead": "1-0",
               "lead_team": "Canucks",
               "date": "22.4",
+              "id": "bfdf7998-fc52-47be-b7bc-58caccfd3327",
               "game": 1
             },
             {
@@ -262,6 +278,7 @@
               "lead": "2-1",
               "lead_team": "Canucks",
               "date": "27.4",
+              "id": "e1da10b9-5ff2-474b-99e6-301ef7eb4cee",
               "game": 3
             },
             {
@@ -269,6 +286,7 @@
               "lead": "3-1",
               "lead_team": "Canucks",
               "date": "28.4",
+              "id": "825b2b48-74a6-4088-8aba-68b3c4ac3d0e",
               "game": 4
             },
             {
@@ -276,6 +294,7 @@
               "lead": "3-2",
               "lead_team": "Canucks",
               "date": "1.5",
+              "id": "bd61115a-229c-4c54-9fde-f774ff31432b",
               "game": 5
             },
             {
@@ -303,10 +322,11 @@
               "game": 1
             },
             {
-              "score": "1:2",
+              "score": "1:3",
               "lead": "0-2",
               "lead_team": "Knights",
               "date": "25.4",
+              "id": "e00fd532-c67b-4846-ae6b-3d01e0e7d40a",
               "game": 2
             },
             {
@@ -314,6 +334,7 @@
               "lead": "1-2",
               "lead_team": "Knights",
               "date": "28.4",
+              "id": "aeb8ae96-fb47-49aa-9030-4d60567107f6",
               "game": 3
             },
             {
@@ -329,6 +350,7 @@
               "lead": "3-2",
               "lead_team": "Stars",
               "date": "2.5",
+              "id": "434eefcf-d69b-42fa-b8d9-2159cbd96a19",
               "game": 5
             },
             {
@@ -336,6 +358,7 @@
               "lead": "3-3",
               "lead_team": "-",
               "date": "4.5",
+              "id": "fcb6fdd0-10fa-468f-8ddf-b3d3716af119",
               "game": 6
             },
             {
@@ -343,6 +366,7 @@
               "lead": "4-3",
               "lead_team": "Stars",
               "date": "6.5",
+              "id": "cd0be372-99e6-4254-8531-a472194ac7cb",
               "game": 7
             }
           ]
@@ -374,6 +398,7 @@
               "lead": "2-1",
               "lead_team": "Oilers",
               "date": "27.4",
+              "id": "972395a5-5a16-4663-ab4b-e40af7deea7e",
               "game": 3
             },
             {
@@ -381,6 +406,7 @@
               "lead": "3-1",
               "lead_team": "Oilers",
               "date": "29.4",
+              "id": "a667aa25-7b52-454f-a6ee-569aa436f70d",
               "game": 4
             },
             {
@@ -409,6 +435,7 @@
               "lead": "1-0",
               "lead_team": "Rangers",
               "date": "5.5",
+              "id": "40dbf88a-0209-4a70-b319-9735f081d6a2",
               "game": 1
             },
             {
@@ -440,6 +467,7 @@
               "lead": "3-2",
               "lead_team": "Rangers",
               "date": "14.5",
+              "id": "568c3ab9-7b39-4f22-a80c-d5a045b57b0a",
               "game": 6
             },
             {
@@ -463,6 +491,7 @@
               "lead": "0-1",
               "lead_team": "Bruins",
               "date": "7.5",
+              "id": "4909deea-74b0-4604-973b-530a671ac0d6",
               "game": 1
             },
             {
@@ -478,6 +507,7 @@
               "lead": "2-1",
               "lead_team": "Panthers",
               "date": "11.5",
+              "id": "ed7ab7d8-b51c-4cc5-9f8f-07efd0c3e39d",
               "game": 3
             },
             {
@@ -485,6 +515,7 @@
               "lead": "3-1",
               "lead_team": "Panthers",
               "date": "13.5",
+              "id": "cdeade2b-fc13-4014-8b3f-f3384e1a739c",
               "game": 4
             },
             {
@@ -492,6 +523,7 @@
               "lead": "3-2",
               "lead_team": "Panthers",
               "date": "15.5",
+              "id": "e1c9e7c1-64a8-45a7-aba8-e114df0b0ac6",
               "game":5
             },
             {
@@ -499,6 +531,7 @@
               "lead": "4-2",
               "lead_team": "Panthers",
               "date": "18.5",
+              "id": "f55669b2-ed64-44f9-98a2-ac20d1512638",
               "game":6
             } 
           ]
@@ -514,6 +547,7 @@
               "lead": "0-1",
               "lead_team": "Avalanche",
               "date": "8.5",
+              "id": "c3e715bc-dfd1-4e46-beb0-fe012abe9f6a",
               "game": 1
             },
             {
@@ -529,6 +563,7 @@
               "lead": "2-1",
               "lead_team": "Stars",
               "date": "12.5",
+              "id": "fd8be1d7-f572-4f58-8909-69e6a065e1fa",
               "game": 3
             },
             {
@@ -568,13 +603,15 @@
               "lead": "1-0",
               "lead_team": "Canucks",
               "date": "9.5",
+              "id": "267c3ef4-e49a-463c-9eb6-eb2523fbc4aa",
               "game": 1
             },
             {
-              "score": "1:0",
+              "score": "3:4",
               "lead": "1-1",
               "lead_team": "-",
               "date": "11.5",
+              "id": "d8faeb20-b615-4f7e-ad1a-242f26a04528",
               "game": 2
             },
             {
@@ -590,6 +627,7 @@
               "lead": "2-2",
               "lead_team": "-",
               "date": "15.5",
+              "id": "5997930f-3819-4935-bd1d-a72af9197285",
               "game": 4
             },
             {
@@ -597,6 +635,7 @@
               "lead": "3-2",
               "lead_team": "Canucks",
               "date": "17.5",
+              "id": "97f90c91-347d-4e2b-bff2-b95d5d75d9d0",
               "game": 5
             } ,
             {
@@ -604,6 +643,7 @@
               "lead": "3-3",
               "lead_team": "-",
               "date": "19.5",
+              "id": "e7d9a52b-34bb-4ddd-a636-a79a3c3601f5",
               "game": 6
             },
             {

@@ -15,8 +15,8 @@
   "clock_decimal": "00:00",
   "home": {
     "id": "4415ce44-0f24-11e2-8525-18a905767e44",
-    "name": "Avalanche",
     "market": "Colorado",
+    "name": "Avalanche",
     "points": 1,
     "sr_id": "sr:team:3682",
     "reference": "21",

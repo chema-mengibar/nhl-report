@@ -6,7 +6,9 @@ export default {
   inject: ["$services"],
   name: "Widget01",
   props: {
-    id: { type: String, default: null },
+    id: {type: String, default: null},
+    reportId: {type: String, default: null},
+    gameIdx: {type: Number, default: 0},
   },
   data: () => ({
     t: {},
@@ -31,6 +33,11 @@ export default {
       this.svg = d3.select(`#${this.id}-svg`);
     },
     render: function () {
+
+      const reportId = this.reportId;
+      const gameIdx = this.gameIdx;
+
+
       this.svg.selectAll("*").remove();
 
       const divWidth = document.getElementById(this.id).offsetWidth;
@@ -40,95 +47,149 @@ export default {
       this.attr.height = divHeight;
       this.attr.viewBox = `0 0 ${divWidth} ${divHeight}`;
 
-      this.dataset = this.$services.toolService.getData();
+
+      const _data = this.$services.toolService.getData(reportId);
+
+      this.dataset = _data.games_reports[gameIdx]
 
       const svgData = {
-        home:[],
-        away:[],
+        home: [],
+        away: [],
       };
 
-      let maxX = 0;
-      let maxY = 0;
-
-
-
-      this.dataset.shoots.home.forEach( shootItem =>{
-        svgData.home.push([ shootItem.time_game_seconds, shootItem.shoot_counter_onclock ])
-        maxX = Math.max(maxX, shootItem.time_game_seconds)
-        maxY = Math.max(maxY, shootItem.shoot_counter_onclock)
-      })
-
-
-      this.dataset.shoots.away.forEach( shootItem =>{
-        svgData.away.push([ shootItem.time_game_seconds, shootItem.shoot_counter_onclock ])
-        maxX = Math.max(maxX, shootItem.time_game_seconds)
-        maxY = Math.max(maxY, shootItem.shoot_counter_onclock)
-      })
+      let maxX = 4000; // seconds in game -> 20*3 * 60
+      let maxY = 100;
 
       const margin = 10;
 
+      const {report, schedule_data} = this.dataset;
+
+
+      const colorHome = `var(--color-${report.teams.home.name.replace(' ', '-')})`;
+      const colorAway = `var(--color-${report.teams.away.name.replace(' ', '-')})`;
+
+
+      report.shoots.home.forEach(shootItem => {
+
+        let color = null;
+        if (shootItem.shoot_type === "shotmissed") {
+          color = 'var(--color-shotmissed)'
+        }
+        if (shootItem.shoot_type === "goal") {
+          color = 'var(--color-goal)'
+        }
+        svgData.home.push([shootItem.time_game_seconds, shootItem.shoot_counter_onclock, color])
+        // maxX = Math.max(maxX, shootItem.time_game_seconds)
+        // maxY = Math.max(maxY, shootItem.shoot_counter_onclock)
+      })
+
+
+      report.shoots.away.forEach(shootItem => {
+        let color = null;
+        if (shootItem.shoot_type === "shotmissed") {
+          color = 'var(--color-shotmissed)'
+        }
+        if (shootItem.shoot_type === "goal") {
+          color = 'var(--color-goal)'
+        }
+        svgData.away.push([shootItem.time_game_seconds, shootItem.shoot_counter_onclock, color])
+        // maxX = Math.max(maxX, shootItem.time_game_seconds)
+        // maxY = Math.max(maxY, shootItem.shoot_counter_onclock)
+      })
+
+      
+
 
       const xScale = d3
-        .scaleLinear()
-        .domain([0, maxX])
-        .range([margin, this.attr.width - margin]);
+          .scaleLinear()
+          .domain([0, maxX])
+          .range([margin, this.attr.width - margin]);
 
       const yScale = d3
-        .scaleLinear()
-        .domain([0, maxY])
-        .range([this.attr.height - margin, margin]);
+          .scaleLinear()
+          .domain([0, maxY])
+          .range([this.attr.height - margin, margin]);
 
-      this.svg.append("g").style('color', 'var(--grey-3)').call(d3.axisBottom(xScale));
-      this.svg.append("g").style('color',  'var(--grey-3)').call(d3.axisRight(yScale));
-
+      // this.svg.append("g").style('color', 'var(--grey-4)').call(d3.axisBottom(xScale));
+      this.svg.append("g").style('color', 'var(--grey-3)').call(d3.axisRight(yScale));
 
 
       var line = d3.line()
-        .x( (d)=> xScale(d[0]))
-        .y( (d)=>  yScale(d[1]))
-        .curve(d3.curveMonotoneX);
+          .x((d) => xScale(d[0]))
+          .y((d) => yScale(d[1]))
+          .curve(d3.curveMonotoneX);
+
+      
+      // Period Line
+       this.svg
+          .append("line")
+          .attr('x1', xScale(1200))
+          .attr('y1', yScale(0))
+          .attr('x2', xScale(1200))
+          .attr('y2', yScale(120))
+          .style("fill", "none")
+          .style("stroke-opacity", ".5")
+          .style("stroke", 'var(--grey-2)')
+          .style("stroke-width", 2);
 
       this.svg
-        .append("g")
-        .selectAll("dot")
-        .data(svgData.home)
-        .enter()
-        .append("circle")
-        .attr("cx", (d) => xScale(d[0]))
-        .attr("cy", (d) => yScale(d[1]))
-        .attr("r", 2)
-        .style("fill", "var(--color-1_rgb)");
+          .append("line")
+          .attr('x1', xScale(2400))
+          .attr('y1', yScale(0))
+          .attr('x2', xScale(2400))
+          .attr('y2', yScale(120))
+          .style("fill", "none")
+          .style("stroke-opacity", ".5")
+          .style("stroke", 'var(--grey-2)')
+          .style("stroke-width", 2);
+      
+
 
       this.svg
-        .append("path")
-        .datum(svgData.home)
-        .attr("class", "line")
-        .attr("d", line)
-        .style("fill", "none")
-        .style("stroke", "var(--color-1_rgb)")
-        .style("stroke-width", "4");
+          .append("path")
+          .datum(svgData.home)
+          .attr("class", "line")
+          .attr("d", line)
+          .style("fill", "none")
+                    .style("stroke", colorHome)
+          .style("stroke-width", 1);
 
-
-
-              this.svg
-        .append("g")
-        .selectAll("dot")
-        .data(svgData.away)
-        .enter()
-        .append("circle")
-        .attr("cx", (d) => xScale(d[0]))
-        .attr("cy", (d) => yScale(d[1]))
-        .attr("r", 2)
-        .style("fill", "var(--color-2_rgb)");
-        
       this.svg
-        .append("path")
-        .datum(svgData.away)
-        .attr("class", "line")
-        .attr("d", line)
-        .style("fill", "none")
-        .style("stroke", "var(--color-2_rgb)")
-        .style("stroke-width", "4");
+          .append("g")
+          .selectAll("dot")
+          .data(svgData.home)
+          .enter()
+          .append("circle")
+          .attr("cx", (d) => xScale(d[0]))
+          .attr("cy", (d) => yScale(d[1]))
+          .attr("r", 3)
+          .style("fill-opacity", "1")
+          .style("fill", (d) => d[2] || colorHome);
+
+
+
+
+      this.svg
+          .append("path")
+          .datum(svgData.away)
+          .attr("class", "line")
+          .attr("d", line)
+          .style("fill", "none")
+          .style("stroke", colorAway)
+          .style("stroke-width", 1);
+
+      this.svg
+          .append("g")
+          .selectAll("dot")
+          .data(svgData.away)
+          .enter()
+          .append("circle")
+          .attr("cx", (d) => xScale(d[0]))
+          .attr("cy", (d) => yScale(d[1]))
+          .attr("r", 3)
+          .style("fill-opacity", "1")
+          .style("fill", (d) => d[2] || colorAway);
+
     },
   },
   mounted() {
@@ -136,8 +197,8 @@ export default {
     this.render();
 
     window.addEventListener(
-      "resize",
-      this.$services.toolService.debounce(this.render)
+        "resize",
+        this.$services.toolService.debounce(this.render)
     );
   },
   components: {
@@ -158,11 +219,13 @@ export default {
 
 <template>
   <div :id="id" class="widget" :data-cy="$options.name">
+
+    <div v-if="dataset">Game {{ dataset.schedule_data.game }} ({{ dataset.schedule_data.score }})</div>
     <svg
-      :id="`${id}-svg`"
-      :width="attr.width"
-      :height="attr.height"
-      :viewBox="attr.viewBox"
+        :id="`${id}-svg`"
+        :width="attr.width"
+        :height="attr.height"
+        :viewBox="attr.viewBox"
     ></svg>
   </div>
 </template>

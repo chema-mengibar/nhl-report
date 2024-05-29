@@ -1,8 +1,8 @@
 @font-face {
-    font-family: 'Mochiy';
+    font-family: 'Roboto';
     font-weight: 400;
     font-display: swap;
-    src: url('./assets/fonts/MochiyPopPOne-Regular.ttf') format('truetype');
+    src: url('./assets/fonts/RobotoSlab-Bold.ttf') format('truetype');
 }
 
 
@@ -22,7 +22,7 @@ body {
 
 h1 {
     font-family: var(--font-hl);
-    font-size: 28px;
+    font-size: 24px;
     color: var(--primary-color-rgb);
     margin-bottom: var(--vb);
 }
