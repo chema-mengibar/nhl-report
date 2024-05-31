@@ -41,29 +41,11 @@ export default {
 .header-container {
   display: flex;
   align-items: center;
-  z-index: 10;
-  background-color: var(--app-bg-color);
-  border-bottom: 1px solid rgba(255, 255, 255, 1);
-  height: var(--header-height);
-  padding: 40px 20px;
-  margin-bottom: 20px;
 }
 
 .header-logo {
-  margin-right: auto;
   cursor: pointer;
-
-  color: var(--text-color-rgb);
-  font-family: var(--font-hl);
-  font-size:42px;
-  align-items: center;
-  display:flex;
-
-  .home-logo-icon{
-    color: var(--primary-color-rgb);
-  }
 }
-
 
 .menu-button {
   display: flex;
@@ -77,16 +59,18 @@ export default {
   filter: drop-shadow(0px 1px 4px rgba(0, 0, 0, 0.10));
   cursor: pointer;
 }
+
 </style>
 
 <template>
   <div class="app-layout-header header-container">
-    <div class="header-logo" v-on:click="goHome()">
-      Nhl Playoffs report
-    </div>
 
-<!--    <div class="menu-button" v-on:click="goToMenu()">-->
-<!--      <IconBars w="18" h="18"/>-->
-<!--    </div>-->
+    <h1 class="header-logo" v-on:click="goHome()">
+      Nhl Playoffs report
+    </h1>
+
+    <!--    <div class="menu-button" v-on:click="goToMenu()">-->
+    <!--      <IconBars w="18" h="18"/>-->
+    <!--    </div>-->
   </div>
 </template>

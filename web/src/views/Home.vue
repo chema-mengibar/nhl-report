@@ -32,58 +32,16 @@ export default {
 @import "../styles/media";
 
 
-.legends {
-  border: 1px solid var(--grey-2);
-  padding: 10px;
-  width: fit-content;
-  display: flex;
-  gap: 20px;
-
-  .legend {
-    font-style: italic;
-  }
-
-  .legend-color {
-
-    display: inline-block;
-    height: 10px;
-    width: 10px;
-    border-radius: 10px;
-    margin-right: 7px;
-
-    &.missed {
-      background-color: var(--color-shotmissed);
-    }
-
-    &.goal {
-      background-color: var(--color-goal);
-    }
-  }
-
-}
-
-
 </style>
 
 <template>
   <Header/>
-  <div class="app-layout-body">
+  <div class="app-layout-body dashboard">
 
-    <h1>Shots counter x game </h1>
-
-    <div :set="reportId='shoots-counter_round-1_Canucks-Predators'">
-
-      <br/>
-      <div class="dashboard-row">
-        <HeadlineTeams :reportId="reportId"/>
-      </div>
-      <div class="dashboard-row">
-        
-        <div class="dashboard-cell">
-          <Widget01 id="special_0" :reportId="reportId" :gameIdx="1"/>
-        </div>
-        <div class="dashboard-cell">
-          <h2>Explanation</h2>
+    <div class="row">
+      <div class="col">
+        <div class="cell h0 color-none">
+          <h2> Game 2</h2>
           <p>
             This graph shows the shots made by each team during the 3 periods of each game. <br/>
             Type "shotsaved", "shotmissed", "goal". <br/>
@@ -95,36 +53,126 @@ export default {
       </div>
     </div>
 
-    <h2>Legends</h2>
-    <div class="legends">
-      <small class="legend"><span class="legend-color missed"></span>Missed </small>
-      <small class="legend"><span class="legend-color goal"></span>Goal </small>
+    <div class="row">
+      <div class="col ">
+        <div class="row">
+          <div class="cell">
+            <div class="cell-header">
+              TODAY´S FOCUS
+            </div>
+            <Widget01 id="a1" reportId="shoots-counter_round-1_Canucks-Predators" :gameIdx="0"/>
+          </div>
+        </div>
+        <div class="row">
+          <div class="cell">
+            <div class="cell-header">
+              TODAY´S FOCUS
+            </div>
+            <Widget01 id="a2" reportId="shoots-counter_round-1_Canucks-Predators" :gameIdx="0"/>
+          </div>
+        </div>
+      </div>
+      <div class="col ">
+        <div class="cell h1">
+          <div class="cell-header">
+            TODAY´S FOCUS
+          </div>
+          <Widget01 id="c" reportId="shoots-counter_round-1_Canucks-Predators" :gameIdx="0"/>
+        </div>
+      </div>
+      <div class="col w50">
+        <div class="cell h1">
+          <div class="cell-header">
+            TODAY´S FOCUS
+          </div>
+          <Widget01 id="d" reportId="shoots-counter_round-1_Canucks-Predators" :gameIdx="0"/>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col w50">
+        <div class="cell h2">
+          <div class="cell-header">
+            TODAY´S FOCUS
+          </div>
+          <Widget01 id="e" reportId="shoots-counter_round-1_Canucks-Predators" :gameIdx="0"/>
+        </div>
+      </div>
+      <div class="col w50">
+        <div class="row">
+          <div class="col w50">
+            <div class="cell h1">F</div>
+          </div>
+          <div class="col w50">
+            <div class="cell  h1">G</div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="cell">H</div>
+        </div>
+      </div>
     </div>
 
-    <h2>Round 1</h2>
-    <template v-for="reportId in this.$services.toolService.keysRound1">
-      <div class="dashboard-row">
-        <HeadlineTeams :reportId="reportId"/>
-      </div>
-      <div class="dashboard-row">
-        <div class="dashboard-cell" v-for=" idx in  this.$services.toolService.getNumGamesByFileId(reportId, true) ">
-          <Widget01 :id="`${reportId}__${idx}`" :reportId="reportId" :gameIdx="idx"/>
+
+    <div class="row">
+      
+      <div class="col w75">
+        <div class="cell h2">
+          <div class="cell-header">
+            TODAY´S FOCUS
+          </div>
+          <Widget01 id="dfdge" reportId="shoots-counter_round-1_Canucks-Predators" :gameIdx="0"/>
         </div>
       </div>
-    </template>
-
-
-    <h2>Round 2</h2>
-    <template v-for="reportId in this.$services.toolService.keysRound2">
-      <div class="dashboard-row">
-        <HeadlineTeams :reportId="reportId"/>
-      </div>
-      <div class="dashboard-row">
-        <div class="dashboard-cell" v-for=" idx in  this.$services.toolService.getNumGamesByFileId(reportId, true) ">
-          <Widget01 :id="`${reportId}__${idx}`" :reportId="reportId" :gameIdx="idx"/>
+      
+      <div class="col">
+        <div class="row">
+          <div class="col w50">
+            <div class="cell h1">F1</div>
+          </div>
+          <div class="col w50">
+            <div class="cell  h1">G1</div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="cell">H1</div>
         </div>
       </div>
-    </template>
+    </div>
+
+
+    <div class="row">
+
+      <div class="col w75">
+        <div class="cell h2">
+          <div class="cell-header">
+            TODAY´S FOCUS
+          </div>
+          <Widget01 id="dfdguoiue" reportId="shoots-counter_round-1_Canucks-Predators" :gameIdx="0"/>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="row">
+         
+            <div class="cell">F</div>
+         
+  
+        </div>
+      
+      </div>
+    </div>
+    
+    <div class="row">
+      <div class="col">
+        <div class="cell h1">
+          <div class="cell-header">
+            TODAY´S FOCUS
+          </div>
+          <Widget01 id="h" reportId="shoots-counter_round-1_Canucks-Predators" :gameIdx="0"/>
+        </div>
+      </div>
+    </div>
 
 
   </div>

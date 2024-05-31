@@ -57,7 +57,7 @@ export default {
         away: [],
       };
 
-      let maxX = 4000; // seconds in game -> 20*3 * 60
+      let maxX = 3600; // seconds in game -> 20*3 * 60
       let maxY = 100;
 
       const margin = 10;
@@ -110,7 +110,7 @@ export default {
           .domain([0, maxY])
           .range([this.attr.height - margin, margin]);
 
-      // this.svg.append("g").style('color', 'var(--grey-4)').call(d3.axisBottom(xScale));
+      this.svg.append("g").style('color', 'var(--grey-3)').call(d3.axisBottom(xScale));
       this.svg.append("g").style('color', 'var(--grey-3)').call(d3.axisRight(yScale));
 
 
@@ -220,7 +220,7 @@ export default {
 <template>
   <div :id="id" class="widget" :data-cy="$options.name">
 
-    <div v-if="dataset">Game {{ dataset.schedule_data.game }} ({{ dataset.schedule_data.score }})</div>
+<!--    <div v-if="dataset">Game {{ dataset.schedule_data.game }} ({{ dataset.schedule_data.score }})</div>-->
     <svg
         :id="`${id}-svg`"
         :width="attr.width"
