@@ -44,7 +44,7 @@
     
 
     .col {
-        min-height: 20px;
+        min-width: 15%;
        // min-width: 100%;
         min-width:calc(25% - 7px);
         flex: 1;
@@ -62,7 +62,7 @@
         }
 
         @include desktop {
-            min-width: 20px;
+            min-width: 15%;
 
             &.w75{
                 min-width:calc(75% - 15px);

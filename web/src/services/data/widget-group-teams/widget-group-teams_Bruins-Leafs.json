@@ -1,0 +1,105 @@
+{
+  "round": 1,
+  "teams": {
+    "a": "Bruins",
+    "b": "Leafs"
+  },
+  "leader": "a",
+  "lead_result": {
+    "a": 4,
+    "b": 3
+  },
+  "games": [
+    {
+      "score": {
+        "a": 5,
+        "b": 1
+      },
+      "lead": {
+        "a": 1,
+        "b": 0
+      },
+      "lead_team": "a",
+      "game_idx": 1,
+      "date": "2024-04-21"
+    },
+    {
+      "score": {
+        "a": 2,
+        "b": 3
+      },
+      "lead": {
+        "a": 1,
+        "b": 1
+      },
+      "lead_team": "x",
+      "game_idx": 2,
+      "date": "2024-04-23"
+    },
+    {
+      "score": {
+        "a": 4,
+        "b": 2
+      },
+      "lead": {
+        "a": 2,
+        "b": 1
+      },
+      "lead_team": "a",
+      "game_idx": 3,
+      "date": "2024-04-25"
+    },
+    {
+      "score": {
+        "a": 3,
+        "b": 1
+      },
+      "lead": {
+        "a": 3,
+        "b": 1
+      },
+      "lead_team": "a",
+      "game_idx": 4,
+      "date": "2024-04-28"
+    },
+    {
+      "score": {
+        "a": 1,
+        "b": 2
+      },
+      "lead": {
+        "a": 3,
+        "b": 2
+      },
+      "lead_team": "a",
+      "game_idx": 5,
+      "date": "2024-05-01"
+    },
+    {
+      "score": {
+        "a": 1,
+        "b": 2
+      },
+      "lead": {
+        "a": 3,
+        "b": 3
+      },
+      "lead_team": "a",
+      "game_idx": 6,
+      "date": "2024-05-03"
+    },
+    {
+      "score": {
+        "a": 2,
+        "b": 1
+      },
+      "lead": {
+        "a": 4,
+        "b": 3
+      },
+      "lead_team": "a",
+      "game_idx": 7,
+      "date": "2024-05-05"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "round": 1,
+  "teams": {
+    "a": "Canucks",
+    "b": "Predators"
+  },
+  "leader": "a",
+  "lead_result": {
+    "a": 4,
+    "b": 2
+  },
+  "games": [
+    {
+      "score": {
+        "a": 4,
+        "b": 2
+      },
+      "lead": {
+        "a": 1,
+        "b": 0
+      },
+      "lead_team": "a",
+      "game_idx": 1,
+      "date": "2024-04-22"
+    },
+    {
+      "score": {
+        "a": 1,
+        "b": 4
+      },
+      "lead": {
+        "a": 1,
+        "b": 1
+      },
+      "lead_team": "x",
+      "game_idx": 2,
+      "date": "2024-04-24"
+    },
+    {
+      "score": {
+        "a": 2,
+        "b": 1
+      },
+      "lead": {
+        "a": 2,
+        "b": 1
+      },
+      "lead_team": "a",
+      "game_idx": 3,
+      "date": "2024-04-27"
+    },
+    {
+      "score": {
+        "a": 4,
+        "b": 3
+      },
+      "lead": {
+        "a": 3,
+        "b": 1
+      },
+      "lead_team": "a",
+      "game_idx": 4,
+      "date": "2024-04-28"
+    },
+    {
+      "score": {
+        "a": 1,
+        "b": 2
+      },
+      "lead": {
+        "a": 3,
+        "b": 2
+      },
+      "lead_team": "a",
+      "game_idx": 5,
+      "date": "2024-05-01"
+    },
+    {
+      "score": {
+        "a": 1,
+        "b": 0
+      },
+      "lead": {
+        "a": 4,
+        "b": 2
+      },
+      "lead_team": "a",
+      "game_idx": 6,
+      "date": "2024-05-04"
+    }
+  ]
+}
