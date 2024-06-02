@@ -1,0 +1,92 @@
+{
+  "round": 3,
+  "teams": {
+    "a": "Rangers",
+    "b": "Panthers"
+  },
+  "leader": "b",
+  "lead_result": {
+    "a": 2,
+    "b": 4
+  },
+  "games": [
+    {
+      "score": {
+        "a": 0,
+        "b": 3
+      },
+      "lead": {
+        "a": 0,
+        "b": 1
+      },
+      "lead_team": "b",
+      "game_idx": 1,
+      "date": "2024-05-22"
+    },
+    {
+      "score": {
+        "a": 2,
+        "b": 1
+      },
+      "lead": {
+        "a": 1,
+        "b": 1
+      },
+      "lead_team": "x",
+      "game_idx": 2,
+      "date": "2024-05-24"
+    },
+    {
+      "score": {
+        "a": 5,
+        "b": 4
+      },
+      "lead": {
+        "a": 2,
+        "b": 1
+      },
+      "lead_team": "a",
+      "game_idx": 3,
+      "date": "2024-05-26"
+    },
+    {
+      "score": {
+        "a": 2,
+        "b": 3
+      },
+      "lead": {
+        "a": 2,
+        "b": 2
+      },
+      "lead_team": "x",
+      "game_idx": 4,
+      "date": "2024-05-29"
+    },
+    {
+      "score": {
+        "a": 2,
+        "b": 3
+      },
+      "lead": {
+        "a": 2,
+        "b": 3
+      },
+      "lead_team": "b",
+      "game_idx": 5,
+      "date": "2024-05-31"
+    },
+    {
+      "score": {
+        "a": 1,
+        "b": 2
+      },
+      "lead": {
+        "a": 2,
+        "b": 4
+      },
+      "lead_team": "b",
+      "game_idx": 6,
+      "date": "2024-06-02"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "round": 3,
+  "teams": {
+    "a": "Stars",
+    "b": "Oilers"
+  },
+  "leader": "b",
+  "lead_result": {
+    "a": 2,
+    "b": 3
+  },
+  "games": [
+    {
+      "score": {
+        "a": 2,
+        "b": 3
+      },
+      "lead": {
+        "a": 0,
+        "b": 1
+      },
+      "lead_team": "b",
+      "game_idx": 1,
+      "date": "2024-05-23"
+    },
+    {
+      "score": {
+        "a": 3,
+        "b": 1
+      },
+      "lead": {
+        "a": 1,
+        "b": 1
+      },
+      "lead_team": "x",
+      "game_idx": 2,
+      "date": "2024-05-26"
+    },
+    {
+      "score": {
+        "a": 5,
+        "b": 3
+      },
+      "lead": {
+        "a": 2,
+        "b": 1
+      },
+      "lead_team": "a",
+      "game_idx": 3,
+      "date": "2024-05-28"
+    },
+    {
+      "score": {
+        "a": 2,
+        "b": 5
+      },
+      "lead": {
+        "a": 2,
+        "b": 2
+      },
+      "lead_team": "x",
+      "game_idx": 4,
+      "date": "2024-05-30"
+    },
+    {
+      "score": {
+        "a": 1,
+        "b": 3
+      },
+      "lead": {
+        "a": 2,
+        "b": 3
+      },
+      "lead_team": "b",
+      "game_idx": 5,
+      "date": "2024-06-01"
+    }
+  ]
+}

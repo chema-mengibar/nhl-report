@@ -45,10 +45,10 @@ export default {
 
 <template>
   <Header/>
-  <div class="app-layout-body dashboard">
+  <div class="app-layout-body dashboard ">
 
     <div class="row">
-      <div class="col">
+      <div class="col-12-md col-3">
         <div class="cell">
           <div class="cell-header">
             TEAMS
@@ -57,7 +57,7 @@ export default {
         </div>
       </div>
 
-       <div class="col w75">
+       <div class="col-12-md col-9">
         <div class="cell">
           <div class="cell-header">
             PLACEHOLDER
@@ -70,7 +70,7 @@ export default {
     </div>
 
     <div class="row">
-      <div class="col" v-bind:key="idx" v-for=" idx in  [0,1,2,3] ">
+      <div class="col-12-sm  col-6-md col-3" v-bind:key="idx" v-for=" idx in  [0,1,2,3] ">
         <div class="cell h2">
           <div class="cell-header">
              SHOTS COUNTER by GAME: {{ idx + 1 }}

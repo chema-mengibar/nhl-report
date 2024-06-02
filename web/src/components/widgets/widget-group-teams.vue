@@ -1,5 +1,4 @@
 <script>
-// import IconBase from "../icons/icon-base.vue";
 
 export default {
   inject: ["$services"],
@@ -20,9 +19,7 @@ export default {
       const _ = this;
     },
   },
-  components: {
-    // IconBase,
-  },
+  components: {  },
   mounted() {
     console.log("[widget-group-teams] groupKey:", this.groupKey);
   },
@@ -34,6 +31,7 @@ export default {
             .getDataSet(newVal, "widget-group-teams")
             .then((resp) => {
               this.dataSet = resp;
+              console.log(resp)
             })
             .finally(() => {
               this.loading = false;

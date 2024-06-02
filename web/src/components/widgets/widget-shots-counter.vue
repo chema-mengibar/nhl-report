@@ -37,6 +37,9 @@ export default {
       const divWidth = document.getElementById(this.id).offsetWidth;
       const divHeight = document.getElementById(this.id).offsetHeight;
 
+      console.log(document.getElementById(this.id))
+      console.log(divWidth, divWidth)
+
       this.attr.width = divWidth;
       this.attr.height = divHeight;
       this.attr.viewBox = `0 0 ${divWidth} ${divHeight}`;
@@ -198,13 +201,15 @@ export default {
         this.$services.toolService
           .getDataSet(this.groupKey, "widget-shots-counter")
           .then((resp) => {
+            
+     
             this.dataSet = resp;
             this.loading = false;
 
             setTimeout(() => {
               this.init();
               this.render();
-            }, 100);
+            }, 500);
           });
       } catch (e) {
         console.error("[widget-shots-counter] getDataSet", e);

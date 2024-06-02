@@ -16,12 +16,14 @@ export default {
     'Rangers-Hurricanes',
     'Stars-Avalanche',
     'Stars-Knights',
+    'Rangers-Panthers',
+    'Stars-Oilers'
   ],
   widgets: [
     'widget-group-teams',
     'widget-shots-counter'
   ],
-  groups_round1: [
+  groups_round_1: [
     'Bruins-Leafs',
     'Canucks-Predators',
     'Hurricanes-Islanders',
@@ -31,11 +33,15 @@ export default {
     'Rangers-Capitals',
     'Stars-Knights'
   ],
-  groups_round2: [
+  groups_round_2: [
     'Canucks-Oilers',
     'Panthers-Bruins',
     'Rangers-Hurricanes',
     'Stars-Avalanche'
+  ],
+  groups_round_3: [
+    'Rangers-Panthers',
+    'Stars-Oilers'
   ]
 
 }

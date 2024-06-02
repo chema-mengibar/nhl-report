@@ -1,0 +1,25 @@
+{
+  "id": "6b65a1f3-bcff-4697-adc6-87aded4dce34",
+  "status": "scheduled",
+  "coverage": "full",
+  "scheduled": "2024-06-03T00:00:00+00:00",
+  "sr_id": "sr:match:49470529",
+  "reference": "30326",
+  "home": {
+    "id": "4415ea6c-0f24-11e2-8525-18a905767e44",
+    "name": "Oilers",
+    "market": "Edmonton",
+    "alias": "EDM",
+    "sr_id": "sr:team:3686",
+    "reference": "22"
+  },
+  "away": {
+    "id": "44157522-0f24-11e2-8525-18a905767e44",
+    "name": "Stars",
+    "market": "Dallas",
+    "alias": "DAL",
+    "sr_id": "sr:team:3684",
+    "reference": "25"
+  },
+  "deleted_events": []
+}
