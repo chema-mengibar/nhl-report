@@ -37,8 +37,8 @@ export default {
       const divWidth = document.getElementById(this.id).offsetWidth;
       const divHeight = document.getElementById(this.id).offsetHeight;
 
-      console.log(document.getElementById(this.id))
-      console.log(divWidth, divWidth)
+      // console.log(document.getElementById(this.id))
+      // console.log(divWidth, divWidth)
 
       this.attr.width = divWidth;
       this.attr.height = divHeight;

@@ -74,12 +74,15 @@ datalist {
 
 
 select{
-  accent-color: var(--primary-color-rgb);
+  accent-color: var(--grey-4_rgb);
+  color: var(--grey-4_rgb);
   width: 100%;
   height: 48px;
   font-size: 18px;
   font-family: var(--font-hl);
   padding:  0 7px;
+  border: 1px solid var(--grey-4_rgb);
+  background-color: var(--app-bg-color) ;
 }
 
 option {

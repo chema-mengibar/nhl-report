@@ -27,6 +27,10 @@ export default class ToolService {
     }
 
 
+    getRoundGroups( roundIdx ){
+        return ReportsDictionary['groups_round_' + roundIdx]
+    }
+
     checkGroupId( groupId ){
         const teams = groupId.split('-');
         const a = teams[0];

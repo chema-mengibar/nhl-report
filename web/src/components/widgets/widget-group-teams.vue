@@ -26,6 +26,7 @@ export default {
   watch: {
     groupKey: function (newVal, oldVal) {
       if (newVal) {
+        console.log('--->' , newVal)
         try {
           this.$services.toolService
             .getDataSet(newVal, "widget-group-teams")
