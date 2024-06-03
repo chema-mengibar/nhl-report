@@ -1,0 +1,193 @@
+{
+  "team_a": "Panthers",
+  "team_b": "Lightning",
+  "round": 1,
+  "games_reports": [
+    {
+      "schedule_data": {
+        "game": 1,
+        "id": "5bb5e41f-ddeb-4f62-81d0-6838a2566e35",
+        "date": "21.4",
+        "date_format": "2024-04-21"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Panthers",
+          "away": "Lightning"
+        },
+        "score": {
+          "home": 3,
+          "away": 2
+        },
+        "shots": {
+          "home": {
+            "deflected": 2,
+            "wrist": 34,
+            "snap": 8,
+            "tip-in": 11,
+            "slap": 5,
+            "backhand": 4
+          },
+          "away": {
+            "wrist": 37,
+            "snap": 7,
+            "slap": 5,
+            "tip-in": 4,
+            "backhand": 3
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 2,
+        "id": "702a554f-67c6-4628-b468-48c9a642d8ef",
+        "date": "24.4",
+        "date_format": "2024-04-24"
+      },
+      "report": {
+        "periods": 4,
+        "teams": {
+          "home": "Panthers",
+          "away": "Lightning"
+        },
+        "score": {
+          "home": 3,
+          "away": 2
+        },
+        "shots": {
+          "home": {
+            "tip-in": 7,
+            "deflected": 1,
+            "backhand": 4,
+            "snap": 20,
+            "wrist": 38,
+            "slap": 6
+          },
+          "away": {
+            "snap": 15,
+            "wrist": 21,
+            "slap": 9,
+            "tip-in": 4,
+            "backhand": 4,
+            "deflected": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 3,
+        "id": "dda2b533-c6c2-4c6a-b9c0-5eb3f13e153d",
+        "date": "26.4",
+        "date_format": "2024-04-26"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Lightning",
+          "away": "Panthers"
+        },
+        "score": {
+          "home": 3,
+          "away": 5
+        },
+        "shots": {
+          "home": {
+            "wrist": 40,
+            "slap": 11,
+            "deflected": 2,
+            "backhand": 3,
+            "tip-in": 3,
+            "snap": 5
+          },
+          "away": {
+            "wrist": 42,
+            "snap": 4,
+            "backhand": 2,
+            "slap": 8,
+            "deflected": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 4,
+        "id": "e30237bc-de0c-46c6-9a34-ba26d4d4722e",
+        "date": "27.4",
+        "date_format": "2024-04-27"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Lightning",
+          "away": "Panthers"
+        },
+        "score": {
+          "home": 6,
+          "away": 3
+        },
+        "shots": {
+          "home": {
+            "wrist": 45,
+            "poke": 2,
+            "tip-in": 6,
+            "backhand": 2,
+            "wrap-around": 1,
+            "snap": 4,
+            "deflected": 1,
+            "slap": 4
+          },
+          "away": {
+            "wrist": 39,
+            "snap": 10,
+            "slap": 4,
+            "tip-in": 3,
+            "backhand": 2
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 5,
+        "id": "506c3ccd-61c1-4170-b19f-751e6ccae992",
+        "date": "30.4",
+        "date_format": "2024-04-30"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Panthers",
+          "away": "Lightning"
+        },
+        "score": {
+          "home": 6,
+          "away": 1
+        },
+        "shots": {
+          "home": {
+            "wrist": 40,
+            "snap": 7,
+            "deflected": 3,
+            "tip-in": 5,
+            "wrap-around": 1,
+            "slap": 8,
+            "backhand": 1
+          },
+          "away": {
+            "snap": 18,
+            "wrist": 36,
+            "tip-in": 6,
+            "slap": 6,
+            "backhand": 2,
+            "bat": 1,
+            "deflected": 1
+          }
+        }
+      }
+    }
+  ]
+}

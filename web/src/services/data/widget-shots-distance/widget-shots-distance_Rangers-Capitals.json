@@ -1,0 +1,5244 @@
+{
+  "team_a": "Rangers",
+  "team_b": "Capitals",
+  "round": 1,
+  "games_reports": [
+    {
+      "schedule_data": {
+        "game": 1,
+        "id": "1c47e4e0-f9e4-4fdc-bb21-6af587dbb8ed",
+        "date": "21.4",
+        "date_format": "2024-04-21"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Rangers",
+          "away": "Capitals"
+        },
+        "score": {
+          "home": 4,
+          "away": 1
+        },
+        "shots": {
+          "home": [
+            {
+              "saved": false,
+              "shot_type": "slap",
+              "distance": 84,
+              "time_in_game": 48,
+              "location": {
+                "coord_x": 1068,
+                "coord_y": 132,
+                "action_area": "neutralzone"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "slap",
+              "distance": 44,
+              "time_in_game": 317,
+              "location": {
+                "coord_x": 660,
+                "coord_y": 396,
+                "action_area": "rightpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 66,
+              "time_in_game": 335,
+              "location": {
+                "coord_x": 816,
+                "coord_y": 900,
+                "action_area": "leftpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 32,
+              "time_in_game": 383,
+              "location": {
+                "coord_x": 504,
+                "coord_y": 600,
+                "action_area": "highslot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 7,
+              "time_in_game": 384,
+              "location": {
+                "coord_x": 204,
+                "coord_y": 552,
+                "action_area": "lowslot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 38,
+              "time_in_game": 398,
+              "location": {
+                "coord_x": 552,
+                "coord_y": 696,
+                "action_area": "lowleftpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 34,
+              "time_in_game": 563,
+              "location": {
+                "coord_x": 528,
+                "coord_y": 456,
+                "action_area": "lowcenterpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 38,
+              "time_in_game": 627,
+              "location": {
+                "coord_x": 564,
+                "coord_y": 408,
+                "action_area": "lowcenterpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 43,
+              "time_in_game": 636,
+              "location": {
+                "coord_x": 636,
+                "coord_y": 372,
+                "action_area": "rightpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "deflected",
+              "distance": 21,
+              "time_in_game": 637,
+              "location": {
+                "coord_x": 336,
+                "coord_y": 372,
+                "action_area": "insiderightcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "snap",
+              "distance": 34,
+              "time_in_game": 677,
+              "location": {
+                "coord_x": 540,
+                "coord_y": 444,
+                "action_area": "lowcenterpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "tip-in",
+              "distance": 7,
+              "time_in_game": 698,
+              "location": {
+                "coord_x": 204,
+                "coord_y": 504,
+                "action_area": "lowslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "slap",
+              "distance": 53,
+              "time_in_game": 707,
+              "location": {
+                "coord_x": 732,
+                "coord_y": 300,
+                "action_area": "rightpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 29,
+              "time_in_game": 819,
+              "location": {
+                "coord_x": 480,
+                "coord_y": 480,
+                "action_area": "highslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "slap",
+              "distance": 35,
+              "time_in_game": 862,
+              "location": {
+                "coord_x": 552,
+                "coord_y": 468,
+                "action_area": "lowcenterpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "slap",
+              "distance": 30,
+              "time_in_game": 868,
+              "location": {
+                "coord_x": 324,
+                "coord_y": 804,
+                "action_area": "lowleft"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "snap",
+              "distance": 40,
+              "time_in_game": 871,
+              "location": {
+                "coord_x": 612,
+                "coord_y": 540,
+                "action_area": "lowcenterpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "snap",
+              "distance": 8,
+              "time_in_game": 945,
+              "location": {
+                "coord_x": 168,
+                "coord_y": 588,
+                "action_area": "lowslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 37,
+              "time_in_game": 948,
+              "location": {
+                "coord_x": 444,
+                "coord_y": 192,
+                "action_area": "outsiderightcircle"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 15,
+              "time_in_game": 954,
+              "location": {
+                "coord_x": 144,
+                "coord_y": 324,
+                "action_area": "lowright"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 10,
+              "time_in_game": 961,
+              "location": {
+                "coord_x": 192,
+                "coord_y": 612,
+                "action_area": "lowslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 39,
+              "time_in_game": 967,
+              "location": {
+                "coord_x": 504,
+                "coord_y": 228,
+                "action_area": "outsiderightcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 11,
+              "time_in_game": 1026,
+              "location": {
+                "coord_x": 228,
+                "coord_y": 420,
+                "action_area": "lowslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "backhand",
+              "distance": 8,
+              "time_in_game": 1252,
+              "location": {
+                "coord_x": 2208,
+                "coord_y": 588,
+                "action_area": "lowslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 53,
+              "time_in_game": 1305,
+              "location": {
+                "coord_x": 1836,
+                "coord_y": 996,
+                "action_area": "lowrightpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 15,
+              "time_in_game": 1307,
+              "location": {
+                "coord_x": 2076,
+                "coord_y": 480,
+                "action_area": "slot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 8,
+              "time_in_game": 1457,
+              "location": {
+                "coord_x": 2196,
+                "coord_y": 420,
+                "action_area": "lowslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 22,
+              "time_in_game": 1470,
+              "location": {
+                "coord_x": 2040,
+                "coord_y": 324,
+                "action_area": "insideleftcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 25,
+              "time_in_game": 1490,
+              "location": {
+                "coord_x": 2028,
+                "coord_y": 708,
+                "action_area": "insiderightcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 48,
+              "time_in_game": 1498,
+              "location": {
+                "coord_x": 1836,
+                "coord_y": 912,
+                "action_area": "lowrightpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "slap",
+              "distance": 47,
+              "time_in_game": 1512,
+              "location": {
+                "coord_x": 1692,
+                "coord_y": 576,
+                "action_area": "centerpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 16,
+              "time_in_game": 1549,
+              "location": {
+                "coord_x": 2076,
+                "coord_y": 432,
+                "action_area": "slot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 38,
+              "time_in_game": 1579,
+              "location": {
+                "coord_x": 1824,
+                "coord_y": 660,
+                "action_area": "lowrightpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 42,
+              "time_in_game": 1583,
+              "location": {
+                "coord_x": 1764,
+                "coord_y": 660,
+                "action_area": "rightpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "tip-in",
+              "distance": 8,
+              "time_in_game": 1621,
+              "location": {
+                "coord_x": 2208,
+                "coord_y": 420,
+                "action_area": "lowslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "slap",
+              "distance": 21,
+              "time_in_game": 1841,
+              "location": {
+                "coord_x": 2100,
+                "coord_y": 708,
+                "action_area": "rightslot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "deflected",
+              "distance": 18,
+              "time_in_game": 2064,
+              "location": {
+                "coord_x": 2076,
+                "coord_y": 384,
+                "action_area": "leftslot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 39,
+              "time_in_game": 2128,
+              "location": {
+                "coord_x": 1872,
+                "coord_y": 228,
+                "action_area": "lowleftpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "snap",
+              "distance": 39,
+              "time_in_game": 2232,
+              "location": {
+                "coord_x": 1908,
+                "coord_y": 180,
+                "action_area": "outsideleftcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 33,
+              "time_in_game": 2237,
+              "location": {
+                "coord_x": 1944,
+                "coord_y": 768,
+                "action_area": "insiderightcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "slap",
+              "distance": 9,
+              "time_in_game": 2244,
+              "location": {
+                "coord_x": 2136,
+                "coord_y": 504,
+                "action_area": "slot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "deflected",
+              "distance": 73,
+              "time_in_game": 2285,
+              "location": {
+                "coord_x": 1500,
+                "coord_y": 960,
+                "action_area": "neutralzone"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 44,
+              "time_in_game": 2314,
+              "location": {
+                "coord_x": 1752,
+                "coord_y": 324,
+                "action_area": "leftpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 36,
+              "time_in_game": 2330,
+              "location": {
+                "coord_x": 1944,
+                "coord_y": 816,
+                "action_area": "outsiderightcircle"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "backhand",
+              "distance": 61,
+              "time_in_game": 2413,
+              "location": {
+                "coord_x": 744,
+                "coord_y": 924,
+                "action_area": "leftpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 49,
+              "time_in_game": 2420,
+              "location": {
+                "coord_x": 708,
+                "coord_y": 384,
+                "action_area": "rightpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 63,
+              "time_in_game": 2426,
+              "location": {
+                "coord_x": 828,
+                "coord_y": 216,
+                "action_area": "rightpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "tip-in",
+              "distance": 8,
+              "time_in_game": 2429,
+              "location": {
+                "coord_x": 228,
+                "coord_y": 504,
+                "action_area": "lowslot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 150,
+              "time_in_game": 2528,
+              "location": {
+                "coord_x": 1908,
+                "coord_y": 708,
+                "action_area": "defensivezone"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 29,
+              "time_in_game": 2680,
+              "location": {
+                "coord_x": 360,
+                "coord_y": 768,
+                "action_area": "insideleftcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "snap",
+              "distance": 28,
+              "time_in_game": 2756,
+              "location": {
+                "coord_x": 432,
+                "coord_y": 648,
+                "action_area": "insideleftcircle"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 56,
+              "time_in_game": 2856,
+              "location": {
+                "coord_x": 672,
+                "coord_y": 900,
+                "action_area": "leftpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 53,
+              "time_in_game": 2938,
+              "location": {
+                "coord_x": 756,
+                "coord_y": 420,
+                "action_area": "centerpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "tip-in",
+              "distance": 10,
+              "time_in_game": 3017,
+              "location": {
+                "coord_x": 240,
+                "coord_y": 528,
+                "action_area": "slot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 43,
+              "time_in_game": 3045,
+              "location": {
+                "coord_x": 576,
+                "coord_y": 252,
+                "action_area": "lowrightpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "snap",
+              "distance": 29,
+              "time_in_game": 3095,
+              "location": {
+                "coord_x": 276,
+                "coord_y": 180,
+                "action_area": "lowright"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 23,
+              "time_in_game": 3099,
+              "location": {
+                "coord_x": 312,
+                "coord_y": 300,
+                "action_area": "rightslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "slap",
+              "distance": 43,
+              "time_in_game": 3105,
+              "location": {
+                "coord_x": 576,
+                "coord_y": 264,
+                "action_area": "lowrightpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 61,
+              "time_in_game": 3111,
+              "location": {
+                "coord_x": 684,
+                "coord_y": 984,
+                "action_area": "leftpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 22,
+              "time_in_game": 3189,
+              "location": {
+                "coord_x": 288,
+                "coord_y": 288,
+                "action_area": "rightslot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "snap",
+              "distance": 36,
+              "time_in_game": 3250,
+              "location": {
+                "coord_x": 432,
+                "coord_y": 816,
+                "action_area": "outsideleftcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "tip-in",
+              "distance": 14,
+              "time_in_game": 3255,
+              "location": {
+                "coord_x": 288,
+                "coord_y": 528,
+                "action_area": "slot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "snap",
+              "distance": 19,
+              "time_in_game": 3258,
+              "location": {
+                "coord_x": 360,
+                "coord_y": 516,
+                "action_area": "highslot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 47,
+              "time_in_game": 3324,
+              "location": {
+                "coord_x": 564,
+                "coord_y": 156,
+                "action_area": "lowrightpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "backhand",
+              "distance": 6,
+              "time_in_game": 3377,
+              "location": {
+                "coord_x": 180,
+                "coord_y": 444,
+                "action_area": "lowslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 53,
+              "time_in_game": 3426,
+              "location": {
+                "coord_x": 552,
+                "coord_y": 984,
+                "action_area": "lowleftpoint"
+              }
+            }
+          ],
+          "away": [
+            {
+              "saved": false,
+              "shot_type": "snap",
+              "distance": 32,
+              "time_in_game": 73,
+              "location": {
+                "coord_x": 1932,
+                "coord_y": 288,
+                "action_area": "insideleftcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "slap",
+              "distance": 18,
+              "time_in_game": 168,
+              "location": {
+                "coord_x": 2040,
+                "coord_y": 456,
+                "action_area": "highslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "snap",
+              "distance": 31,
+              "time_in_game": 174,
+              "location": {
+                "coord_x": 1908,
+                "coord_y": 348,
+                "action_area": "insideleftcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "snap",
+              "distance": 18,
+              "time_in_game": 192,
+              "location": {
+                "coord_x": 2040,
+                "coord_y": 564,
+                "action_area": "highslot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "snap",
+              "distance": 28,
+              "time_in_game": 200,
+              "location": {
+                "coord_x": 2004,
+                "coord_y": 264,
+                "action_area": "insideleftcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 12,
+              "time_in_game": 223,
+              "location": {
+                "coord_x": 2112,
+                "coord_y": 480,
+                "action_area": "slot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "tip-in",
+              "distance": 23,
+              "time_in_game": 246,
+              "location": {
+                "coord_x": 2016,
+                "coord_y": 660,
+                "action_area": "insiderightcircle"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "backhand",
+              "distance": 97,
+              "time_in_game": 290,
+              "location": {
+                "coord_x": 1188,
+                "coord_y": 24,
+                "action_area": "neutralzone"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "slap",
+              "distance": 52,
+              "time_in_game": 1070,
+              "location": {
+                "coord_x": 1728,
+                "coord_y": 156,
+                "action_area": "leftpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 42,
+              "time_in_game": 1079,
+              "location": {
+                "coord_x": 1836,
+                "coord_y": 780,
+                "action_area": "lowrightpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 5,
+              "time_in_game": 1080,
+              "location": {
+                "coord_x": 2208,
+                "coord_y": 564,
+                "action_area": "lowslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "slap",
+              "distance": 39,
+              "time_in_game": 1136,
+              "location": {
+                "coord_x": 1848,
+                "coord_y": 252,
+                "action_area": "lowleftpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 11,
+              "time_in_game": 1142,
+              "location": {
+                "coord_x": 2136,
+                "coord_y": 576,
+                "action_area": "slot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "snap",
+              "distance": 18,
+              "time_in_game": 1216,
+              "location": {
+                "coord_x": 336,
+                "coord_y": 540,
+                "action_area": "highslot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 83,
+              "time_in_game": 1258,
+              "location": {
+                "coord_x": 1128,
+                "coord_y": 552,
+                "action_area": "neutralzone"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 47,
+              "time_in_game": 1287,
+              "location": {
+                "coord_x": 540,
+                "coord_y": 120,
+                "action_area": "lowrightpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "snap",
+              "distance": 56,
+              "time_in_game": 1323,
+              "location": {
+                "coord_x": 648,
+                "coord_y": 72,
+                "action_area": "rightpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 47,
+              "time_in_game": 1333,
+              "location": {
+                "coord_x": 492,
+                "coord_y": 60,
+                "action_area": "outsiderightcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 27,
+              "time_in_game": 1427,
+              "location": {
+                "coord_x": 300,
+                "coord_y": 780,
+                "action_area": "lowleft"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "snap",
+              "distance": 54,
+              "time_in_game": 1439,
+              "location": {
+                "coord_x": 648,
+                "coord_y": 900,
+                "action_area": "leftpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 35,
+              "time_in_game": 1533,
+              "location": {
+                "coord_x": 336,
+                "coord_y": 876,
+                "action_area": "outsideleftcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 42,
+              "time_in_game": 1556,
+              "location": {
+                "coord_x": 624,
+                "coord_y": 552,
+                "action_area": "centerpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 43,
+              "time_in_game": 1592,
+              "location": {
+                "coord_x": 528,
+                "coord_y": 168,
+                "action_area": "lowrightpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "deflected",
+              "distance": 8,
+              "time_in_game": 1651,
+              "location": {
+                "coord_x": 216,
+                "coord_y": 516,
+                "action_area": "lowslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 11,
+              "time_in_game": 1708,
+              "location": {
+                "coord_x": 240,
+                "coord_y": 576,
+                "action_area": "slot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 39,
+              "time_in_game": 1748,
+              "location": {
+                "coord_x": 600,
+                "coord_y": 480,
+                "action_area": "lowcenterpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "tip-in",
+              "distance": 11,
+              "time_in_game": 1857,
+              "location": {
+                "coord_x": 252,
+                "coord_y": 516,
+                "action_area": "slot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "backhand",
+              "distance": 34,
+              "time_in_game": 1960,
+              "location": {
+                "coord_x": 480,
+                "coord_y": 288,
+                "action_area": "insiderightcircle"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 86,
+              "time_in_game": 2097,
+              "location": {
+                "coord_x": 1164,
+                "coord_y": 588,
+                "action_area": "neutralzone"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "slap",
+              "distance": 42,
+              "time_in_game": 2195,
+              "location": {
+                "coord_x": 504,
+                "coord_y": 156,
+                "action_area": "outsiderightcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "tip-in",
+              "distance": 11,
+              "time_in_game": 2203,
+              "location": {
+                "coord_x": 252,
+                "coord_y": 456,
+                "action_area": "slot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 43,
+              "time_in_game": 2223,
+              "location": {
+                "coord_x": 636,
+                "coord_y": 624,
+                "action_area": "leftpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 13,
+              "time_in_game": 2225,
+              "location": {
+                "coord_x": 276,
+                "coord_y": 456,
+                "action_area": "slot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 46,
+              "time_in_game": 2343,
+              "location": {
+                "coord_x": 648,
+                "coord_y": 708,
+                "action_area": "leftpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "slap",
+              "distance": 64,
+              "time_in_game": 2382,
+              "location": {
+                "coord_x": 828,
+                "coord_y": 180,
+                "action_area": "rightpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "slap",
+              "distance": 41,
+              "time_in_game": 2389,
+              "location": {
+                "coord_x": 456,
+                "coord_y": 132,
+                "action_area": "outsiderightcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 31,
+              "time_in_game": 2439,
+              "location": {
+                "coord_x": 1908,
+                "coord_y": 672,
+                "action_area": "insiderightcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 47,
+              "time_in_game": 2479,
+              "location": {
+                "coord_x": 1860,
+                "coord_y": 96,
+                "action_area": "lowleftpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "slap",
+              "distance": 32,
+              "time_in_game": 2594,
+              "location": {
+                "coord_x": 1860,
+                "coord_y": 528,
+                "action_area": "lowcenterpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 54,
+              "time_in_game": 2621,
+              "location": {
+                "coord_x": 1680,
+                "coord_y": 804,
+                "action_area": "rightpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 17,
+              "time_in_game": 2819,
+              "location": {
+                "coord_x": 2052,
+                "coord_y": 504,
+                "action_area": "highslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 29,
+              "time_in_game": 2915,
+              "location": {
+                "coord_x": 1944,
+                "coord_y": 672,
+                "action_area": "insiderightcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "tip-in",
+              "distance": 27,
+              "time_in_game": 2987,
+              "location": {
+                "coord_x": 1956,
+                "coord_y": 636,
+                "action_area": "insiderightcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 10,
+              "time_in_game": 3080,
+              "location": {
+                "coord_x": 2136,
+                "coord_y": 456,
+                "action_area": "slot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "slap",
+              "distance": 82,
+              "time_in_game": 3136,
+              "location": {
+                "coord_x": 1368,
+                "coord_y": 48,
+                "action_area": "neutralzone"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "snap",
+              "distance": 39,
+              "time_in_game": 3146,
+              "location": {
+                "coord_x": 2016,
+                "coord_y": 96,
+                "action_area": "outsideleftcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 11,
+              "time_in_game": 3180,
+              "location": {
+                "coord_x": 2112,
+                "coord_y": 528,
+                "action_area": "slot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 33,
+              "time_in_game": 3203,
+              "location": {
+                "coord_x": 2040,
+                "coord_y": 168,
+                "action_area": "outsideleftcircle"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 31,
+              "time_in_game": 3233,
+              "location": {
+                "coord_x": 2016,
+                "coord_y": 804,
+                "action_area": "outsiderightcircle"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 10,
+              "time_in_game": 3234,
+              "location": {
+                "coord_x": 2232,
+                "coord_y": 624,
+                "action_area": "rightslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 24,
+              "time_in_game": 3283,
+              "location": {
+                "coord_x": 1980,
+                "coord_y": 588,
+                "action_area": "highslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 14,
+              "time_in_game": 3339,
+              "location": {
+                "coord_x": 2100,
+                "coord_y": 588,
+                "action_area": "slot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 5,
+              "time_in_game": 3395,
+              "location": {
+                "coord_x": 2232,
+                "coord_y": 444,
+                "action_area": "lowslot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 11,
+              "time_in_game": 3537,
+              "location": {
+                "coord_x": 2124,
+                "coord_y": 480,
+                "action_area": "slot"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 2,
+        "id": "10c2b293-3adb-4bfa-8955-5b4d21c941ef",
+        "date": "24.4",
+        "date_format": "2024-04-24"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Rangers",
+          "away": "Capitals"
+        },
+        "score": {
+          "home": 4,
+          "away": 3
+        },
+        "shots": {
+          "home": [
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 70,
+              "time_in_game": 71,
+              "location": {
+                "coord_x": 840,
+                "coord_y": 960,
+                "action_area": "leftpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 64,
+              "time_in_game": 75,
+              "location": {
+                "coord_x": 804,
+                "coord_y": 864,
+                "action_area": "leftpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 43,
+              "time_in_game": 82,
+              "location": {
+                "coord_x": 552,
+                "coord_y": 804,
+                "action_area": "lowleftpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 21,
+              "time_in_game": 152,
+              "location": {
+                "coord_x": 336,
+                "coord_y": 360,
+                "action_area": "insiderightcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 34,
+              "time_in_game": 156,
+              "location": {
+                "coord_x": 480,
+                "coord_y": 300,
+                "action_area": "insiderightcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 58,
+              "time_in_game": 193,
+              "location": {
+                "coord_x": 720,
+                "coord_y": 144,
+                "action_area": "rightpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 48,
+              "time_in_game": 201,
+              "location": {
+                "coord_x": 684,
+                "coord_y": 348,
+                "action_area": "rightpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "tip-in",
+              "distance": 14,
+              "time_in_game": 476,
+              "location": {
+                "coord_x": 252,
+                "coord_y": 384,
+                "action_area": "rightslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 37,
+              "time_in_game": 526,
+              "location": {
+                "coord_x": 288,
+                "coord_y": 912,
+                "action_area": "lowleft"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "deflected",
+              "distance": 25,
+              "time_in_game": 556,
+              "location": {
+                "coord_x": 420,
+                "coord_y": 540,
+                "action_area": "highslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "slap",
+              "distance": 35,
+              "time_in_game": 566,
+              "location": {
+                "coord_x": 504,
+                "coord_y": 312,
+                "action_area": "insiderightcircle"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 32,
+              "time_in_game": 670,
+              "location": {
+                "coord_x": 456,
+                "coord_y": 312,
+                "action_area": "insiderightcircle"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 33,
+              "time_in_game": 695,
+              "location": {
+                "coord_x": 528,
+                "coord_y": 504,
+                "action_area": "lowcenterpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "slap",
+              "distance": 39,
+              "time_in_game": 806,
+              "location": {
+                "coord_x": 456,
+                "coord_y": 828,
+                "action_area": "outsideleftcircle"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 48,
+              "time_in_game": 813,
+              "location": {
+                "coord_x": 696,
+                "coord_y": 384,
+                "action_area": "rightpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 28,
+              "time_in_game": 868,
+              "location": {
+                "coord_x": 408,
+                "coord_y": 312,
+                "action_area": "insiderightcircle"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "backhand",
+              "distance": 56,
+              "time_in_game": 924,
+              "location": {
+                "coord_x": 648,
+                "coord_y": 924,
+                "action_area": "leftpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "snap",
+              "distance": 26,
+              "time_in_game": 966,
+              "location": {
+                "coord_x": 384,
+                "coord_y": 336,
+                "action_area": "insiderightcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 9,
+              "time_in_game": 973,
+              "location": {
+                "coord_x": 228,
+                "coord_y": 480,
+                "action_area": "lowslot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 165,
+              "time_in_game": 1180,
+              "location": {
+                "coord_x": 2088,
+                "coord_y": 372,
+                "action_area": "defensivezone"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "snap",
+              "distance": 46,
+              "time_in_game": 1197,
+              "location": {
+                "coord_x": 492,
+                "coord_y": 936,
+                "action_area": "outsideleftcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 63,
+              "time_in_game": 1235,
+              "location": {
+                "coord_x": 1632,
+                "coord_y": 48,
+                "action_area": "leftpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "slap",
+              "distance": 44,
+              "time_in_game": 1498,
+              "location": {
+                "coord_x": 1788,
+                "coord_y": 240,
+                "action_area": "lowleftpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "slap",
+              "distance": 34,
+              "time_in_game": 1519,
+              "location": {
+                "coord_x": 1836,
+                "coord_y": 504,
+                "action_area": "lowcenterpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "tip-in",
+              "distance": 8,
+              "time_in_game": 1529,
+              "location": {
+                "coord_x": 2160,
+                "coord_y": 516,
+                "action_area": "slot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "snap",
+              "distance": 63,
+              "time_in_game": 1610,
+              "location": {
+                "coord_x": 1656,
+                "coord_y": 36,
+                "action_area": "leftpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "backhand",
+              "distance": 40,
+              "time_in_game": 1708,
+              "location": {
+                "coord_x": 2004,
+                "coord_y": 912,
+                "action_area": "outsiderightcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "tip-in",
+              "distance": 10,
+              "time_in_game": 1823,
+              "location": {
+                "coord_x": 2184,
+                "coord_y": 408,
+                "action_area": "lowslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 33,
+              "time_in_game": 1832,
+              "location": {
+                "coord_x": 1896,
+                "coord_y": 708,
+                "action_area": "insiderightcircle"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "snap",
+              "distance": 28,
+              "time_in_game": 1840,
+              "location": {
+                "coord_x": 1980,
+                "coord_y": 300,
+                "action_area": "insideleftcircle"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "snap",
+              "distance": 34,
+              "time_in_game": 1848,
+              "location": {
+                "coord_x": 1896,
+                "coord_y": 720,
+                "action_area": "insiderightcircle"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 28,
+              "time_in_game": 1889,
+              "location": {
+                "coord_x": 1932,
+                "coord_y": 636,
+                "action_area": "insiderightcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "slap",
+              "distance": 39,
+              "time_in_game": 1915,
+              "location": {
+                "coord_x": 1956,
+                "coord_y": 144,
+                "action_area": "outsideleftcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "slap",
+              "distance": 20,
+              "time_in_game": 1921,
+              "location": {
+                "coord_x": 2100,
+                "coord_y": 312,
+                "action_area": "leftslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "snap",
+              "distance": 27,
+              "time_in_game": 1946,
+              "location": {
+                "coord_x": 2100,
+                "coord_y": 792,
+                "action_area": "lowright"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "deflected",
+              "distance": 18,
+              "time_in_game": 1993,
+              "location": {
+                "coord_x": 2328,
+                "coord_y": 288,
+                "action_area": "downlow"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 46,
+              "time_in_game": 2008,
+              "location": {
+                "coord_x": 1776,
+                "coord_y": 228,
+                "action_area": "leftpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "snap",
+              "distance": 24,
+              "time_in_game": 2212,
+              "location": {
+                "coord_x": 1968,
+                "coord_y": 456,
+                "action_area": "highslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "slap",
+              "distance": 29,
+              "time_in_game": 2309,
+              "location": {
+                "coord_x": 1908,
+                "coord_y": 396,
+                "action_area": "insideleftcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 43,
+              "time_in_game": 2311,
+              "location": {
+                "coord_x": 1812,
+                "coord_y": 240,
+                "action_area": "lowleftpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 39,
+              "time_in_game": 2360,
+              "location": {
+                "coord_x": 1788,
+                "coord_y": 456,
+                "action_area": "lowcenterpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 41,
+              "time_in_game": 2542,
+              "location": {
+                "coord_x": 444,
+                "coord_y": 120,
+                "action_area": "outsiderightcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 52,
+              "time_in_game": 2623,
+              "location": {
+                "coord_x": 648,
+                "coord_y": 156,
+                "action_area": "rightpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 22,
+              "time_in_game": 2789,
+              "location": {
+                "coord_x": 336,
+                "coord_y": 348,
+                "action_area": "insiderightcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "slap",
+              "distance": 9,
+              "time_in_game": 2814,
+              "location": {
+                "coord_x": 228,
+                "coord_y": 540,
+                "action_area": "lowslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 37,
+              "time_in_game": 2832,
+              "location": {
+                "coord_x": 564,
+                "coord_y": 504,
+                "action_area": "lowcenterpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "slap",
+              "distance": 21,
+              "time_in_game": 2892,
+              "location": {
+                "coord_x": 336,
+                "coord_y": 372,
+                "action_area": "insiderightcircle"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 4,
+              "time_in_game": 2936,
+              "location": {
+                "coord_x": 168,
+                "coord_y": 528,
+                "action_area": "lowslot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 38,
+              "time_in_game": 2946,
+              "location": {
+                "coord_x": 432,
+                "coord_y": 156,
+                "action_area": "outsiderightcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 11,
+              "time_in_game": 2953,
+              "location": {
+                "coord_x": 216,
+                "coord_y": 420,
+                "action_area": "lowslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 28,
+              "time_in_game": 2967,
+              "location": {
+                "coord_x": 468,
+                "coord_y": 504,
+                "action_area": "highslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "snap",
+              "distance": 9,
+              "time_in_game": 2978,
+              "location": {
+                "coord_x": 216,
+                "coord_y": 444,
+                "action_area": "lowslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "tip-in",
+              "distance": 27,
+              "time_in_game": 3001,
+              "location": {
+                "coord_x": 444,
+                "coord_y": 564,
+                "action_area": "highslot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 9,
+              "time_in_game": 3041,
+              "location": {
+                "coord_x": 192,
+                "coord_y": 420,
+                "action_area": "lowslot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 38,
+              "time_in_game": 3158,
+              "location": {
+                "coord_x": 576,
+                "coord_y": 624,
+                "action_area": "lowleftpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 11,
+              "time_in_game": 3162,
+              "location": {
+                "coord_x": 228,
+                "coord_y": 420,
+                "action_area": "lowslot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 17,
+              "time_in_game": 3164,
+              "location": {
+                "coord_x": 300,
+                "coord_y": 624,
+                "action_area": "leftslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "slap",
+              "distance": 49,
+              "time_in_game": 3199,
+              "location": {
+                "coord_x": 708,
+                "coord_y": 636,
+                "action_area": "leftpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 63,
+              "time_in_game": 3263,
+              "location": {
+                "coord_x": 816,
+                "coord_y": 816,
+                "action_area": "leftpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 30,
+              "time_in_game": 3374,
+              "location": {
+                "coord_x": 444,
+                "coord_y": 684,
+                "action_area": "insideleftcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 142,
+              "time_in_game": 3438,
+              "location": {
+                "coord_x": 1824,
+                "coord_y": 516,
+                "action_area": "defensivezone"
+              }
+            }
+          ],
+          "away": [
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 45,
+              "time_in_game": 13,
+              "location": {
+                "coord_x": 1848,
+                "coord_y": 876,
+                "action_area": "lowrightpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 28,
+              "time_in_game": 25,
+              "location": {
+                "coord_x": 2028,
+                "coord_y": 756,
+                "action_area": "insiderightcircle"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 35,
+              "time_in_game": 129,
+              "location": {
+                "coord_x": 1968,
+                "coord_y": 204,
+                "action_area": "outsideleftcircle"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "slap",
+              "distance": 71,
+              "time_in_game": 134,
+              "location": {
+                "coord_x": 1488,
+                "coord_y": 876,
+                "action_area": "neutralzone"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "snap",
+              "distance": 27,
+              "time_in_game": 138,
+              "location": {
+                "coord_x": 1956,
+                "coord_y": 636,
+                "action_area": "insiderightcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 14,
+              "time_in_game": 249,
+              "location": {
+                "coord_x": 2208,
+                "coord_y": 660,
+                "action_area": "rightslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 15,
+              "time_in_game": 309,
+              "location": {
+                "coord_x": 2088,
+                "coord_y": 432,
+                "action_area": "slot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 31,
+              "time_in_game": 382,
+              "location": {
+                "coord_x": 1908,
+                "coord_y": 348,
+                "action_area": "insideleftcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "slap",
+              "distance": 21,
+              "time_in_game": 601,
+              "location": {
+                "coord_x": 2028,
+                "coord_y": 624,
+                "action_area": "insiderightcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 13,
+              "time_in_game": 630,
+              "location": {
+                "coord_x": 2088,
+                "coord_y": 528,
+                "action_area": "slot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 25,
+              "time_in_game": 742,
+              "location": {
+                "coord_x": 2004,
+                "coord_y": 684,
+                "action_area": "insiderightcircle"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 111,
+              "time_in_game": 934,
+              "location": {
+                "coord_x": 924,
+                "coord_y": 564,
+                "action_area": "neutralzone"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 8,
+              "time_in_game": 1159,
+              "location": {
+                "coord_x": 2172,
+                "coord_y": 444,
+                "action_area": "lowslot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 53,
+              "time_in_game": 1309,
+              "location": {
+                "coord_x": 636,
+                "coord_y": 120,
+                "action_area": "rightpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "tip-in",
+              "distance": 54,
+              "time_in_game": 1320,
+              "location": {
+                "coord_x": 768,
+                "coord_y": 456,
+                "action_area": "centerpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 16,
+              "time_in_game": 1349,
+              "location": {
+                "coord_x": 312,
+                "coord_y": 432,
+                "action_area": "slot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 50,
+              "time_in_game": 1360,
+              "location": {
+                "coord_x": 732,
+                "coord_y": 552,
+                "action_area": "centerpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 40,
+              "time_in_game": 1402,
+              "location": {
+                "coord_x": 564,
+                "coord_y": 708,
+                "action_area": "lowleftpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 54,
+              "time_in_game": 1421,
+              "location": {
+                "coord_x": 768,
+                "coord_y": 492,
+                "action_area": "centerpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "backhand",
+              "distance": 10,
+              "time_in_game": 1422,
+              "location": {
+                "coord_x": 192,
+                "coord_y": 396,
+                "action_area": "rightslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "tip-in",
+              "distance": 5,
+              "time_in_game": 1454,
+              "location": {
+                "coord_x": 180,
+                "coord_y": 528,
+                "action_area": "lowslot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 173,
+              "time_in_game": 1478,
+              "location": {
+                "coord_x": 2148,
+                "coord_y": 84,
+                "action_area": "defensivezone"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 27,
+              "time_in_game": 1555,
+              "location": {
+                "coord_x": 384,
+                "coord_y": 708,
+                "action_area": "insideleftcircle"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 22,
+              "time_in_game": 1599,
+              "location": {
+                "coord_x": 396,
+                "coord_y": 480,
+                "action_area": "highslot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "backhand",
+              "distance": 25,
+              "time_in_game": 1643,
+              "location": {
+                "coord_x": 384,
+                "coord_y": 336,
+                "action_area": "insiderightcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 37,
+              "time_in_game": 1648,
+              "location": {
+                "coord_x": 396,
+                "coord_y": 144,
+                "action_area": "outsiderightcircle"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 60,
+              "time_in_game": 1716,
+              "location": {
+                "coord_x": 708,
+                "coord_y": 924,
+                "action_area": "leftpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 57,
+              "time_in_game": 1719,
+              "location": {
+                "coord_x": 612,
+                "coord_y": 24,
+                "action_area": "lowrightpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 25,
+              "time_in_game": 1773,
+              "location": {
+                "coord_x": 420,
+                "coord_y": 444,
+                "action_area": "highslot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 59,
+              "time_in_game": 2090,
+              "location": {
+                "coord_x": 816,
+                "coord_y": 708,
+                "action_area": "leftpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 24,
+              "time_in_game": 2118,
+              "location": {
+                "coord_x": 348,
+                "coord_y": 696,
+                "action_area": "insideleftcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "slap",
+              "distance": 17,
+              "time_in_game": 2179,
+              "location": {
+                "coord_x": 288,
+                "coord_y": 384,
+                "action_area": "rightslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 66,
+              "time_in_game": 2378,
+              "location": {
+                "coord_x": 792,
+                "coord_y": 936,
+                "action_area": "leftpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 42,
+              "time_in_game": 2388,
+              "location": {
+                "coord_x": 444,
+                "coord_y": 108,
+                "action_area": "outsiderightcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 38,
+              "time_in_game": 2415,
+              "location": {
+                "coord_x": 1800,
+                "coord_y": 396,
+                "action_area": "lowleftpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "slap",
+              "distance": 53,
+              "time_in_game": 2423,
+              "location": {
+                "coord_x": 1680,
+                "coord_y": 780,
+                "action_area": "rightpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 51,
+              "time_in_game": 2426,
+              "location": {
+                "coord_x": 1716,
+                "coord_y": 204,
+                "action_area": "leftpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "slap",
+              "distance": 41,
+              "time_in_game": 2466,
+              "location": {
+                "coord_x": 1788,
+                "coord_y": 684,
+                "action_area": "lowrightpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "tip-in",
+              "distance": 9,
+              "time_in_game": 2503,
+              "location": {
+                "coord_x": 2184,
+                "coord_y": 420,
+                "action_area": "lowslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "slap",
+              "distance": 16,
+              "time_in_game": 2510,
+              "location": {
+                "coord_x": 2076,
+                "coord_y": 600,
+                "action_area": "slot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 59,
+              "time_in_game": 2559,
+              "location": {
+                "coord_x": 1692,
+                "coord_y": 936,
+                "action_area": "rightpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 55,
+              "time_in_game": 2589,
+              "location": {
+                "coord_x": 1740,
+                "coord_y": 924,
+                "action_area": "rightpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "slap",
+              "distance": 17,
+              "time_in_game": 2595,
+              "location": {
+                "coord_x": 2052,
+                "coord_y": 432,
+                "action_area": "highslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "slap",
+              "distance": 17,
+              "time_in_game": 2670,
+              "location": {
+                "coord_x": 2052,
+                "coord_y": 516,
+                "action_area": "highslot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "tip-in",
+              "distance": 9,
+              "time_in_game": 2740,
+              "location": {
+                "coord_x": 2148,
+                "coord_y": 552,
+                "action_area": "slot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 7,
+              "time_in_game": 2741,
+              "location": {
+                "coord_x": 2172,
+                "coord_y": 540,
+                "action_area": "lowslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "slap",
+              "distance": 38,
+              "time_in_game": 2758,
+              "location": {
+                "coord_x": 1884,
+                "coord_y": 228,
+                "action_area": "lowleftpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "slap",
+              "distance": 11,
+              "time_in_game": 2760,
+              "location": {
+                "coord_x": 2160,
+                "coord_y": 408,
+                "action_area": "slot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 12,
+              "time_in_game": 2762,
+              "location": {
+                "coord_x": 2100,
+                "coord_y": 492,
+                "action_area": "slot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 48,
+              "time_in_game": 2779,
+              "location": {
+                "coord_x": 1812,
+                "coord_y": 132,
+                "action_area": "lowleftpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 108,
+              "time_in_game": 3007,
+              "location": {
+                "coord_x": 1056,
+                "coord_y": 24,
+                "action_area": "neutralzone"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "tip-in",
+              "distance": 12,
+              "time_in_game": 3105,
+              "location": {
+                "coord_x": 2112,
+                "coord_y": 504,
+                "action_area": "slot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 12,
+              "time_in_game": 3296,
+              "location": {
+                "coord_x": 2100,
+                "coord_y": 516,
+                "action_area": "slot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 31,
+              "time_in_game": 3433,
+              "location": {
+                "coord_x": 1944,
+                "coord_y": 288,
+                "action_area": "insideleftcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 49,
+              "time_in_game": 3503,
+              "location": {
+                "coord_x": 1872,
+                "coord_y": 960,
+                "action_area": "lowrightpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "slap",
+              "distance": 46,
+              "time_in_game": 3514,
+              "location": {
+                "coord_x": 1740,
+                "coord_y": 276,
+                "action_area": "leftpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "backhand",
+              "distance": 7,
+              "time_in_game": 3517,
+              "location": {
+                "coord_x": 2232,
+                "coord_y": 588,
+                "action_area": "lowslot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "tip-in",
+              "distance": 7,
+              "time_in_game": 3554,
+              "location": {
+                "coord_x": 2172,
+                "coord_y": 480,
+                "action_area": "lowslot"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 3,
+        "id": "c936f64a-f651-4d49-ab4e-84e0400738fa",
+        "date": "27.4",
+        "date_format": "2024-04-27"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Capitals",
+          "away": "Rangers"
+        },
+        "score": {
+          "home": 1,
+          "away": 3
+        },
+        "shots": {
+          "home": [
+            {
+              "saved": false,
+              "shot_type": "slap",
+              "distance": 51,
+              "time_in_game": 118,
+              "location": {
+                "coord_x": 672,
+                "coord_y": 792,
+                "action_area": "leftpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 59,
+              "time_in_game": 177,
+              "location": {
+                "coord_x": 768,
+                "coord_y": 816,
+                "action_area": "leftpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "slap",
+              "distance": 46,
+              "time_in_game": 185,
+              "location": {
+                "coord_x": 612,
+                "coord_y": 240,
+                "action_area": "lowrightpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 90,
+              "time_in_game": 248,
+              "location": {
+                "coord_x": 1188,
+                "coord_y": 240,
+                "action_area": "neutralzone"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "snap",
+              "distance": 49,
+              "time_in_game": 334,
+              "location": {
+                "coord_x": 708,
+                "coord_y": 588,
+                "action_area": "centerpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 23,
+              "time_in_game": 424,
+              "location": {
+                "coord_x": 288,
+                "coord_y": 732,
+                "action_area": "leftslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 11,
+              "time_in_game": 479,
+              "location": {
+                "coord_x": 252,
+                "coord_y": 444,
+                "action_area": "slot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 12,
+              "time_in_game": 548,
+              "location": {
+                "coord_x": 264,
+                "coord_y": 444,
+                "action_area": "slot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "tip-in",
+              "distance": 12,
+              "time_in_game": 737,
+              "location": {
+                "coord_x": 264,
+                "coord_y": 504,
+                "action_area": "slot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 11,
+              "time_in_game": 737,
+              "location": {
+                "coord_x": 204,
+                "coord_y": 396,
+                "action_area": "rightslot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "deflected",
+              "distance": 9,
+              "time_in_game": 762,
+              "location": {
+                "coord_x": 228,
+                "coord_y": 504,
+                "action_area": "lowslot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 5,
+              "time_in_game": 763,
+              "location": {
+                "coord_x": 180,
+                "coord_y": 540,
+                "action_area": "lowslot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 57,
+              "time_in_game": 767,
+              "location": {
+                "coord_x": 720,
+                "coord_y": 840,
+                "action_area": "leftpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 26,
+              "time_in_game": 861,
+              "location": {
+                "coord_x": 372,
+                "coord_y": 696,
+                "action_area": "insideleftcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 62,
+              "time_in_game": 1039,
+              "location": {
+                "coord_x": 864,
+                "coord_y": 624,
+                "action_area": "leftpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "snap",
+              "distance": 41,
+              "time_in_game": 1044,
+              "location": {
+                "coord_x": 564,
+                "coord_y": 744,
+                "action_area": "lowleftpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 50,
+              "time_in_game": 1049,
+              "location": {
+                "coord_x": 576,
+                "coord_y": 900,
+                "action_area": "lowleftpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 42,
+              "time_in_game": 1098,
+              "location": {
+                "coord_x": 636,
+                "coord_y": 528,
+                "action_area": "centerpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "tip-in",
+              "distance": 20,
+              "time_in_game": 1119,
+              "location": {
+                "coord_x": 300,
+                "coord_y": 348,
+                "action_area": "rightslot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "snap",
+              "distance": 27,
+              "time_in_game": 1163,
+              "location": {
+                "coord_x": 384,
+                "coord_y": 696,
+                "action_area": "insideleftcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "tip-in",
+              "distance": 18,
+              "time_in_game": 1225,
+              "location": {
+                "coord_x": 2040,
+                "coord_y": 528,
+                "action_area": "highslot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 93,
+              "time_in_game": 1268,
+              "location": {
+                "coord_x": 1248,
+                "coord_y": 24,
+                "action_area": "neutralzone"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 15,
+              "time_in_game": 1369,
+              "location": {
+                "coord_x": 2064,
+                "coord_y": 516,
+                "action_area": "highslot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrap-around",
+              "distance": 5,
+              "time_in_game": 1455,
+              "location": {
+                "coord_x": 2208,
+                "coord_y": 552,
+                "action_area": "lowslot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 24,
+              "time_in_game": 1463,
+              "location": {
+                "coord_x": 2028,
+                "coord_y": 324,
+                "action_area": "insideleftcircle"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 42,
+              "time_in_game": 1499,
+              "location": {
+                "coord_x": 1836,
+                "coord_y": 216,
+                "action_area": "lowleftpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 14,
+              "time_in_game": 1695,
+              "location": {
+                "coord_x": 2160,
+                "coord_y": 360,
+                "action_area": "leftslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 21,
+              "time_in_game": 1705,
+              "location": {
+                "coord_x": 1992,
+                "coord_y": 504,
+                "action_area": "highslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 60,
+              "time_in_game": 1730,
+              "location": {
+                "coord_x": 1620,
+                "coord_y": 852,
+                "action_area": "rightpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 15,
+              "time_in_game": 1737,
+              "location": {
+                "coord_x": 2124,
+                "coord_y": 636,
+                "action_area": "rightslot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 7,
+              "time_in_game": 1738,
+              "location": {
+                "coord_x": 2172,
+                "coord_y": 468,
+                "action_area": "lowslot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 4,
+              "time_in_game": 1957,
+              "location": {
+                "coord_x": 2196,
+                "coord_y": 504,
+                "action_area": "lowslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 12,
+              "time_in_game": 1979,
+              "location": {
+                "coord_x": 2100,
+                "coord_y": 492,
+                "action_area": "slot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "backhand",
+              "distance": 26,
+              "time_in_game": 1982,
+              "location": {
+                "coord_x": 1944,
+                "coord_y": 480,
+                "action_area": "highslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "slap",
+              "distance": 16,
+              "time_in_game": 2005,
+              "location": {
+                "coord_x": 2124,
+                "coord_y": 360,
+                "action_area": "leftslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "snap",
+              "distance": 15,
+              "time_in_game": 2072,
+              "location": {
+                "coord_x": 2124,
+                "coord_y": 372,
+                "action_area": "leftslot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 15,
+              "time_in_game": 2353,
+              "location": {
+                "coord_x": 2076,
+                "coord_y": 552,
+                "action_area": "slot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "snap",
+              "distance": 11,
+              "time_in_game": 2482,
+              "location": {
+                "coord_x": 204,
+                "coord_y": 396,
+                "action_area": "rightslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 10,
+              "time_in_game": 2505,
+              "location": {
+                "coord_x": 216,
+                "coord_y": 420,
+                "action_area": "lowslot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "slap",
+              "distance": 69,
+              "time_in_game": 2544,
+              "location": {
+                "coord_x": 840,
+                "coord_y": 84,
+                "action_area": "rightpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 9,
+              "time_in_game": 2585,
+              "location": {
+                "coord_x": 216,
+                "coord_y": 552,
+                "action_area": "lowslot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "slap",
+              "distance": 23,
+              "time_in_game": 2617,
+              "location": {
+                "coord_x": 264,
+                "coord_y": 264,
+                "action_area": "lowright"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "snap",
+              "distance": 8,
+              "time_in_game": 2621,
+              "location": {
+                "coord_x": 204,
+                "coord_y": 456,
+                "action_area": "lowslot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 35,
+              "time_in_game": 2658,
+              "location": {
+                "coord_x": 468,
+                "coord_y": 756,
+                "action_area": "insideleftcircle"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 6,
+              "time_in_game": 2687,
+              "location": {
+                "coord_x": 204,
+                "coord_y": 492,
+                "action_area": "lowslot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 7,
+              "time_in_game": 2688,
+              "location": {
+                "coord_x": 204,
+                "coord_y": 528,
+                "action_area": "lowslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 54,
+              "time_in_game": 2769,
+              "location": {
+                "coord_x": 684,
+                "coord_y": 840,
+                "action_area": "leftpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 17,
+              "time_in_game": 2884,
+              "location": {
+                "coord_x": 276,
+                "coord_y": 372,
+                "action_area": "rightslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 47,
+              "time_in_game": 2898,
+              "location": {
+                "coord_x": 684,
+                "coord_y": 588,
+                "action_area": "centerpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 29,
+              "time_in_game": 2983,
+              "location": {
+                "coord_x": 300,
+                "coord_y": 792,
+                "action_area": "lowleft"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 16,
+              "time_in_game": 2985,
+              "location": {
+                "coord_x": 300,
+                "coord_y": 420,
+                "action_area": "slot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 18,
+              "time_in_game": 2988,
+              "location": {
+                "coord_x": 324,
+                "coord_y": 420,
+                "action_area": "slot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 54,
+              "time_in_game": 2991,
+              "location": {
+                "coord_x": 684,
+                "coord_y": 828,
+                "action_area": "leftpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 46,
+              "time_in_game": 3026,
+              "location": {
+                "coord_x": 396,
+                "coord_y": 984,
+                "action_area": "outsideleftcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "slap",
+              "distance": 23,
+              "time_in_game": 3064,
+              "location": {
+                "coord_x": 384,
+                "coord_y": 420,
+                "action_area": "highslot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 31,
+              "time_in_game": 3283,
+              "location": {
+                "coord_x": 216,
+                "coord_y": 864,
+                "action_area": "lowleft"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 19,
+              "time_in_game": 3292,
+              "location": {
+                "coord_x": 288,
+                "coord_y": 336,
+                "action_area": "rightslot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 14,
+              "time_in_game": 3294,
+              "location": {
+                "coord_x": 252,
+                "coord_y": 396,
+                "action_area": "rightslot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 38,
+              "time_in_game": 3317,
+              "location": {
+                "coord_x": 156,
+                "coord_y": 960,
+                "action_area": "lowleft"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 75,
+              "time_in_game": 3572,
+              "location": {
+                "coord_x": 948,
+                "coord_y": 108,
+                "action_area": "neutralzone"
+              }
+            }
+          ],
+          "away": [
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 39,
+              "time_in_game": 34,
+              "location": {
+                "coord_x": 1944,
+                "coord_y": 144,
+                "action_area": "outsideleftcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "snap",
+              "distance": 27,
+              "time_in_game": 41,
+              "location": {
+                "coord_x": 1944,
+                "coord_y": 384,
+                "action_area": "insideleftcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 17,
+              "time_in_game": 43,
+              "location": {
+                "coord_x": 2100,
+                "coord_y": 372,
+                "action_area": "leftslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 16,
+              "time_in_game": 67,
+              "location": {
+                "coord_x": 2124,
+                "coord_y": 348,
+                "action_area": "leftslot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 31,
+              "time_in_game": 88,
+              "location": {
+                "coord_x": 2076,
+                "coord_y": 840,
+                "action_area": "lowright"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "snap",
+              "distance": 9,
+              "time_in_game": 89,
+              "location": {
+                "coord_x": 2172,
+                "coord_y": 432,
+                "action_area": "lowslot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "slap",
+              "distance": 58,
+              "time_in_game": 93,
+              "location": {
+                "coord_x": 1560,
+                "coord_y": 372,
+                "action_area": "leftpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 24,
+              "time_in_game": 193,
+              "location": {
+                "coord_x": 2040,
+                "coord_y": 708,
+                "action_area": "insiderightcircle"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "snap",
+              "distance": 32,
+              "time_in_game": 194,
+              "location": {
+                "coord_x": 2148,
+                "coord_y": 132,
+                "action_area": "lowleft"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "slap",
+              "distance": 56,
+              "time_in_game": 197,
+              "location": {
+                "coord_x": 1608,
+                "coord_y": 276,
+                "action_area": "leftpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 36,
+              "time_in_game": 232,
+              "location": {
+                "coord_x": 1848,
+                "coord_y": 684,
+                "action_area": "lowrightpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "tip-in",
+              "distance": 9,
+              "time_in_game": 368,
+              "location": {
+                "coord_x": 2148,
+                "coord_y": 480,
+                "action_area": "slot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 63,
+              "time_in_game": 378,
+              "location": {
+                "coord_x": 1608,
+                "coord_y": 900,
+                "action_area": "rightpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 37,
+              "time_in_game": 460,
+              "location": {
+                "coord_x": 1836,
+                "coord_y": 336,
+                "action_area": "lowleftpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "snap",
+              "distance": 18,
+              "time_in_game": 488,
+              "location": {
+                "coord_x": 2040,
+                "coord_y": 468,
+                "action_area": "highslot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "slap",
+              "distance": 44,
+              "time_in_game": 908,
+              "location": {
+                "coord_x": 1740,
+                "coord_y": 648,
+                "action_area": "rightpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "tip-in",
+              "distance": 11,
+              "time_in_game": 920,
+              "location": {
+                "coord_x": 2148,
+                "coord_y": 588,
+                "action_area": "slot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "deflected",
+              "distance": 15,
+              "time_in_game": 1022,
+              "location": {
+                "coord_x": 2100,
+                "coord_y": 408,
+                "action_area": "slot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 39,
+              "time_in_game": 1032,
+              "location": {
+                "coord_x": 2088,
+                "coord_y": 60,
+                "action_area": "lowleft"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 45,
+              "time_in_game": 1211,
+              "location": {
+                "coord_x": 636,
+                "coord_y": 684,
+                "action_area": "leftpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 38,
+              "time_in_game": 1330,
+              "location": {
+                "coord_x": 516,
+                "coord_y": 276,
+                "action_area": "lowrightpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "snap",
+              "distance": 42,
+              "time_in_game": 1339,
+              "location": {
+                "coord_x": 396,
+                "coord_y": 936,
+                "action_area": "outsideleftcircle"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "slap",
+              "distance": 51,
+              "time_in_game": 1341,
+              "location": {
+                "coord_x": 648,
+                "coord_y": 828,
+                "action_area": "leftpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 20,
+              "time_in_game": 1389,
+              "location": {
+                "coord_x": 312,
+                "coord_y": 348,
+                "action_area": "rightslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "snap",
+              "distance": 46,
+              "time_in_game": 1441,
+              "location": {
+                "coord_x": 552,
+                "coord_y": 852,
+                "action_area": "lowleftpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "bat",
+              "distance": 85,
+              "time_in_game": 1487,
+              "location": {
+                "coord_x": 1128,
+                "coord_y": 732,
+                "action_area": "neutralzone"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 58,
+              "time_in_game": 1516,
+              "location": {
+                "coord_x": 792,
+                "coord_y": 288,
+                "action_area": "rightpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "snap",
+              "distance": 26,
+              "time_in_game": 1616,
+              "location": {
+                "coord_x": 396,
+                "coord_y": 336,
+                "action_area": "insiderightcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 52,
+              "time_in_game": 1661,
+              "location": {
+                "coord_x": 756,
+                "coord_y": 552,
+                "action_area": "centerpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "slap",
+              "distance": 70,
+              "time_in_game": 1778,
+              "location": {
+                "coord_x": 828,
+                "coord_y": 36,
+                "action_area": "rightpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "snap",
+              "distance": 33,
+              "time_in_game": 2081,
+              "location": {
+                "coord_x": 432,
+                "coord_y": 264,
+                "action_area": "insiderightcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "snap",
+              "distance": 18,
+              "time_in_game": 2122,
+              "location": {
+                "coord_x": 324,
+                "coord_y": 600,
+                "action_area": "slot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 13,
+              "time_in_game": 2146,
+              "location": {
+                "coord_x": 216,
+                "coord_y": 372,
+                "action_area": "rightslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "slap",
+              "distance": 52,
+              "time_in_game": 2175,
+              "location": {
+                "coord_x": 756,
+                "coord_y": 528,
+                "action_area": "centerpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "slap",
+              "distance": 33,
+              "time_in_game": 2210,
+              "location": {
+                "coord_x": 396,
+                "coord_y": 792,
+                "action_area": "outsideleftcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "slap",
+              "distance": 49,
+              "time_in_game": 2234,
+              "location": {
+                "coord_x": 708,
+                "coord_y": 636,
+                "action_area": "leftpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "tip-in",
+              "distance": 10,
+              "time_in_game": 2240,
+              "location": {
+                "coord_x": 240,
+                "coord_y": 552,
+                "action_area": "slot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 29,
+              "time_in_game": 2249,
+              "location": {
+                "coord_x": 408,
+                "coord_y": 300,
+                "action_area": "insiderightcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "slap",
+              "distance": 46,
+              "time_in_game": 2376,
+              "location": {
+                "coord_x": 672,
+                "coord_y": 480,
+                "action_area": "centerpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 41,
+              "time_in_game": 2459,
+              "location": {
+                "coord_x": 1836,
+                "coord_y": 240,
+                "action_area": "lowleftpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 53,
+              "time_in_game": 2731,
+              "location": {
+                "coord_x": 1740,
+                "coord_y": 120,
+                "action_area": "leftpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 37,
+              "time_in_game": 3332,
+              "location": {
+                "coord_x": 1812,
+                "coord_y": 588,
+                "action_area": "lowcenterpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 47,
+              "time_in_game": 3336,
+              "location": {
+                "coord_x": 1680,
+                "coord_y": 468,
+                "action_area": "centerpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "slap",
+              "distance": 50,
+              "time_in_game": 3405,
+              "location": {
+                "coord_x": 1716,
+                "coord_y": 216,
+                "action_area": "leftpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 27,
+              "time_in_game": 3434,
+              "location": {
+                "coord_x": 1944,
+                "coord_y": 624,
+                "action_area": "insiderightcircle"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "tip-in",
+              "distance": 10,
+              "time_in_game": 3446,
+              "location": {
+                "coord_x": 2184,
+                "coord_y": 600,
+                "action_area": "lowslot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "slap",
+              "distance": 60,
+              "time_in_game": 3490,
+              "location": {
+                "coord_x": 1524,
+                "coord_y": 492,
+                "action_area": "centerpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 100,
+              "time_in_game": 3576,
+              "location": {
+                "coord_x": 1056,
+                "coord_y": 492,
+                "action_area": "neutralzone"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 80,
+              "time_in_game": 3586,
+              "location": {
+                "coord_x": 1320,
+                "coord_y": 768,
+                "action_area": "neutralzone"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "backhand",
+              "distance": 40,
+              "time_in_game": 3588,
+              "location": {
+                "coord_x": 1968,
+                "coord_y": 108,
+                "action_area": "outsideleftcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "backhand",
+              "distance": 32,
+              "time_in_game": 3591,
+              "location": {
+                "coord_x": 2148,
+                "coord_y": 876,
+                "action_area": "lowright"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 4,
+        "id": "9f3a556e-997b-49ad-ac69-c111722c27a7",
+        "date": "29.4",
+        "date_format": "2024-04-29"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Capitals",
+          "away": "Rangers"
+        },
+        "score": {
+          "home": 2,
+          "away": 4
+        },
+        "shots": {
+          "home": [
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 40,
+              "time_in_game": 22,
+              "location": {
+                "coord_x": 432,
+                "coord_y": 876,
+                "action_area": "outsideleftcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 58,
+              "time_in_game": 44,
+              "location": {
+                "coord_x": 828,
+                "coord_y": 504,
+                "action_area": "centerpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 12,
+              "time_in_game": 71,
+              "location": {
+                "coord_x": 276,
+                "coord_y": 540,
+                "action_area": "slot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 10,
+              "time_in_game": 162,
+              "location": {
+                "coord_x": 228,
+                "coord_y": 432,
+                "action_area": "lowslot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 15,
+              "time_in_game": 178,
+              "location": {
+                "coord_x": 228,
+                "coord_y": 360,
+                "action_area": "rightslot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 27,
+              "time_in_game": 214,
+              "location": {
+                "coord_x": 360,
+                "coord_y": 732,
+                "action_area": "insideleftcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 45,
+              "time_in_game": 247,
+              "location": {
+                "coord_x": 660,
+                "coord_y": 564,
+                "action_area": "centerpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 78,
+              "time_in_game": 271,
+              "location": {
+                "coord_x": 1056,
+                "coord_y": 528,
+                "action_area": "neutralzone"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 25,
+              "time_in_game": 485,
+              "location": {
+                "coord_x": 360,
+                "coord_y": 324,
+                "action_area": "insiderightcircle"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 14,
+              "time_in_game": 651,
+              "location": {
+                "coord_x": 288,
+                "coord_y": 528,
+                "action_area": "slot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "backhand",
+              "distance": 5,
+              "time_in_game": 652,
+              "location": {
+                "coord_x": 132,
+                "coord_y": 564,
+                "action_area": "lowslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "backhand",
+              "distance": 7,
+              "time_in_game": 653,
+              "location": {
+                "coord_x": 96,
+                "coord_y": 588,
+                "action_area": "downlow"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "backhand",
+              "distance": 6,
+              "time_in_game": 736,
+              "location": {
+                "coord_x": 144,
+                "coord_y": 432,
+                "action_area": "lowslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 33,
+              "time_in_game": 860,
+              "location": {
+                "coord_x": 480,
+                "coord_y": 684,
+                "action_area": "insideleftcircle"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 69,
+              "time_in_game": 863,
+              "location": {
+                "coord_x": 840,
+                "coord_y": 84,
+                "action_area": "rightpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 47,
+              "time_in_game": 868,
+              "location": {
+                "coord_x": 684,
+                "coord_y": 360,
+                "action_area": "rightpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "snap",
+              "distance": 30,
+              "time_in_game": 894,
+              "location": {
+                "coord_x": 468,
+                "coord_y": 648,
+                "action_area": "insideleftcircle"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "backhand",
+              "distance": 7,
+              "time_in_game": 1227,
+              "location": {
+                "coord_x": 2244,
+                "coord_y": 588,
+                "action_area": "lowslot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "backhand",
+              "distance": 6,
+              "time_in_game": 1303,
+              "location": {
+                "coord_x": 2196,
+                "coord_y": 552,
+                "action_area": "lowslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 21,
+              "time_in_game": 1484,
+              "location": {
+                "coord_x": 2136,
+                "coord_y": 732,
+                "action_area": "lowright"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 59,
+              "time_in_game": 1545,
+              "location": {
+                "coord_x": 1656,
+                "coord_y": 108,
+                "action_area": "leftpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "tip-in",
+              "distance": 8,
+              "time_in_game": 1577,
+              "location": {
+                "coord_x": 2160,
+                "coord_y": 480,
+                "action_area": "slot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "snap",
+              "distance": 19,
+              "time_in_game": 1625,
+              "location": {
+                "coord_x": 2052,
+                "coord_y": 612,
+                "action_area": "highslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 33,
+              "time_in_game": 1628,
+              "location": {
+                "coord_x": 1992,
+                "coord_y": 804,
+                "action_area": "outsiderightcircle"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "backhand",
+              "distance": 22,
+              "time_in_game": 1666,
+              "location": {
+                "coord_x": 2016,
+                "coord_y": 648,
+                "action_area": "insiderightcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 9,
+              "time_in_game": 1668,
+              "location": {
+                "coord_x": 2160,
+                "coord_y": 564,
+                "action_area": "slot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "tip-in",
+              "distance": 11,
+              "time_in_game": 1688,
+              "location": {
+                "coord_x": 2160,
+                "coord_y": 588,
+                "action_area": "slot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 42,
+              "time_in_game": 1778,
+              "location": {
+                "coord_x": 1956,
+                "coord_y": 84,
+                "action_area": "outsideleftcircle"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "backhand",
+              "distance": 18,
+              "time_in_game": 1798,
+              "location": {
+                "coord_x": 2112,
+                "coord_y": 336,
+                "action_area": "leftslot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 147,
+              "time_in_game": 1885,
+              "location": {
+                "coord_x": 564,
+                "coord_y": 960,
+                "action_area": "defensivezone"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 64,
+              "time_in_game": 1956,
+              "location": {
+                "coord_x": 1584,
+                "coord_y": 120,
+                "action_area": "leftpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "snap",
+              "distance": 50,
+              "time_in_game": 2015,
+              "location": {
+                "coord_x": 1740,
+                "coord_y": 816,
+                "action_area": "rightpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "slap",
+              "distance": 31,
+              "time_in_game": 2059,
+              "location": {
+                "coord_x": 1932,
+                "coord_y": 300,
+                "action_area": "insideleftcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "tip-in",
+              "distance": 11,
+              "time_in_game": 2130,
+              "location": {
+                "coord_x": 2112,
+                "coord_y": 504,
+                "action_area": "slot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "tip-in",
+              "distance": 17,
+              "time_in_game": 2164,
+              "location": {
+                "coord_x": 2052,
+                "coord_y": 492,
+                "action_area": "highslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "slap",
+              "distance": 53,
+              "time_in_game": 2324,
+              "location": {
+                "coord_x": 1608,
+                "coord_y": 420,
+                "action_area": "centerpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 17,
+              "time_in_game": 2373,
+              "location": {
+                "coord_x": 2112,
+                "coord_y": 660,
+                "action_area": "rightslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "slap",
+              "distance": 54,
+              "time_in_game": 2383,
+              "location": {
+                "coord_x": 1596,
+                "coord_y": 468,
+                "action_area": "centerpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 22,
+              "time_in_game": 2436,
+              "location": {
+                "coord_x": 324,
+                "coord_y": 336,
+                "action_area": "rightslot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 44,
+              "time_in_game": 2571,
+              "location": {
+                "coord_x": 612,
+                "coord_y": 288,
+                "action_area": "lowrightpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 35,
+              "time_in_game": 2631,
+              "location": {
+                "coord_x": 552,
+                "coord_y": 540,
+                "action_area": "lowcenterpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 27,
+              "time_in_game": 2728,
+              "location": {
+                "coord_x": 420,
+                "coord_y": 648,
+                "action_area": "insideleftcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 14,
+              "time_in_game": 2930,
+              "location": {
+                "coord_x": 300,
+                "coord_y": 492,
+                "action_area": "slot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 39,
+              "time_in_game": 2956,
+              "location": {
+                "coord_x": 480,
+                "coord_y": 804,
+                "action_area": "outsideleftcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "tip-in",
+              "distance": 27,
+              "time_in_game": 2959,
+              "location": {
+                "coord_x": 384,
+                "coord_y": 708,
+                "action_area": "insideleftcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 26,
+              "time_in_game": 2985,
+              "location": {
+                "coord_x": 336,
+                "coord_y": 732,
+                "action_area": "insideleftcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 34,
+              "time_in_game": 2988,
+              "location": {
+                "coord_x": 348,
+                "coord_y": 156,
+                "action_area": "outsiderightcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "slap",
+              "distance": 67,
+              "time_in_game": 3104,
+              "location": {
+                "coord_x": 852,
+                "coord_y": 144,
+                "action_area": "rightpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 31,
+              "time_in_game": 3145,
+              "location": {
+                "coord_x": 372,
+                "coord_y": 792,
+                "action_area": "outsideleftcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 67,
+              "time_in_game": 3253,
+              "location": {
+                "coord_x": 792,
+                "coord_y": 960,
+                "action_area": "leftpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 51,
+              "time_in_game": 3262,
+              "location": {
+                "coord_x": 576,
+                "coord_y": 84,
+                "action_area": "lowrightpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "snap",
+              "distance": 29,
+              "time_in_game": 3277,
+              "location": {
+                "coord_x": 444,
+                "coord_y": 672,
+                "action_area": "insideleftcircle"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "poke",
+              "distance": 8,
+              "time_in_game": 3278,
+              "location": {
+                "coord_x": 216,
+                "coord_y": 552,
+                "action_area": "lowslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "snap",
+              "distance": 69,
+              "time_in_game": 3321,
+              "location": {
+                "coord_x": 876,
+                "coord_y": 876,
+                "action_area": "leftpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "snap",
+              "distance": 10,
+              "time_in_game": 3324,
+              "location": {
+                "coord_x": 192,
+                "coord_y": 396,
+                "action_area": "rightslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "snap",
+              "distance": 35,
+              "time_in_game": 3328,
+              "location": {
+                "coord_x": 444,
+                "coord_y": 780,
+                "action_area": "outsideleftcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "deflected",
+              "distance": 5,
+              "time_in_game": 3387,
+              "location": {
+                "coord_x": 132,
+                "coord_y": 564,
+                "action_area": "lowslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 46,
+              "time_in_game": 3426,
+              "location": {
+                "coord_x": 576,
+                "coord_y": 828,
+                "action_area": "lowleftpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 32,
+              "time_in_game": 3504,
+              "location": {
+                "coord_x": 516,
+                "coord_y": 540,
+                "action_area": "lowcenterpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "snap",
+              "distance": 56,
+              "time_in_game": 3564,
+              "location": {
+                "coord_x": 684,
+                "coord_y": 132,
+                "action_area": "rightpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "snap",
+              "distance": 31,
+              "time_in_game": 3567,
+              "location": {
+                "coord_x": 432,
+                "coord_y": 276,
+                "action_area": "insiderightcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "slap",
+              "distance": 22,
+              "time_in_game": 3571,
+              "location": {
+                "coord_x": 396,
+                "coord_y": 432,
+                "action_area": "highslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 8,
+              "time_in_game": 3573,
+              "location": {
+                "coord_x": 156,
+                "coord_y": 600,
+                "action_area": "lowslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "backhand",
+              "distance": 54,
+              "time_in_game": 3593,
+              "location": {
+                "coord_x": 696,
+                "coord_y": 804,
+                "action_area": "leftpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "tip-in",
+              "distance": 16,
+              "time_in_game": 3598,
+              "location": {
+                "coord_x": 264,
+                "coord_y": 372,
+                "action_area": "rightslot"
+              }
+            }
+          ],
+          "away": [
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 22,
+              "time_in_game": 57,
+              "location": {
+                "coord_x": 1980,
+                "coord_y": 540,
+                "action_area": "highslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 31,
+              "time_in_game": 64,
+              "location": {
+                "coord_x": 1956,
+                "coord_y": 732,
+                "action_area": "insiderightcircle"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "slap",
+              "distance": 41,
+              "time_in_game": 262,
+              "location": {
+                "coord_x": 1800,
+                "coord_y": 300,
+                "action_area": "lowleftpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 44,
+              "time_in_game": 302,
+              "location": {
+                "coord_x": 1728,
+                "coord_y": 468,
+                "action_area": "centerpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 47,
+              "time_in_game": 305,
+              "location": {
+                "coord_x": 1716,
+                "coord_y": 684,
+                "action_area": "rightpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 7,
+              "time_in_game": 322,
+              "location": {
+                "coord_x": 2172,
+                "coord_y": 492,
+                "action_area": "lowslot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 55,
+              "time_in_game": 404,
+              "location": {
+                "coord_x": 1596,
+                "coord_y": 600,
+                "action_area": "centerpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 47,
+              "time_in_game": 408,
+              "location": {
+                "coord_x": 1896,
+                "coord_y": 960,
+                "action_area": "outsiderightcircle"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 41,
+              "time_in_game": 421,
+              "location": {
+                "coord_x": 2088,
+                "coord_y": 36,
+                "action_area": "lowleft"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 46,
+              "time_in_game": 615,
+              "location": {
+                "coord_x": 1884,
+                "coord_y": 924,
+                "action_area": "lowrightpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 61,
+              "time_in_game": 631,
+              "location": {
+                "coord_x": 1584,
+                "coord_y": 792,
+                "action_area": "rightpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 32,
+              "time_in_game": 670,
+              "location": {
+                "coord_x": 1920,
+                "coord_y": 300,
+                "action_area": "insideleftcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 57,
+              "time_in_game": 707,
+              "location": {
+                "coord_x": 1680,
+                "coord_y": 888,
+                "action_area": "rightpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 37,
+              "time_in_game": 801,
+              "location": {
+                "coord_x": 1812,
+                "coord_y": 444,
+                "action_area": "lowcenterpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 51,
+              "time_in_game": 879,
+              "location": {
+                "coord_x": 1692,
+                "coord_y": 252,
+                "action_area": "leftpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "snap",
+              "distance": 55,
+              "time_in_game": 1064,
+              "location": {
+                "coord_x": 1608,
+                "coord_y": 372,
+                "action_area": "leftpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 51,
+              "time_in_game": 1113,
+              "location": {
+                "coord_x": 1632,
+                "coord_y": 504,
+                "action_area": "centerpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "snap",
+              "distance": 14,
+              "time_in_game": 1116,
+              "location": {
+                "coord_x": 2196,
+                "coord_y": 672,
+                "action_area": "rightslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 29,
+              "time_in_game": 1144,
+              "location": {
+                "coord_x": 1956,
+                "coord_y": 684,
+                "action_area": "insiderightcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "tip-in",
+              "distance": 23,
+              "time_in_game": 1154,
+              "location": {
+                "coord_x": 1980,
+                "coord_y": 528,
+                "action_area": "highslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "snap",
+              "distance": 10,
+              "time_in_game": 1184,
+              "location": {
+                "coord_x": 2124,
+                "coord_y": 504,
+                "action_area": "slot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 55,
+              "time_in_game": 1241,
+              "location": {
+                "coord_x": 756,
+                "coord_y": 288,
+                "action_area": "rightpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "backhand",
+              "distance": 12,
+              "time_in_game": 1242,
+              "location": {
+                "coord_x": 264,
+                "coord_y": 456,
+                "action_area": "slot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 46,
+              "time_in_game": 1280,
+              "location": {
+                "coord_x": 684,
+                "coord_y": 552,
+                "action_area": "centerpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 11,
+              "time_in_game": 1296,
+              "location": {
+                "coord_x": 264,
+                "coord_y": 504,
+                "action_area": "slot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 22,
+              "time_in_game": 1610,
+              "location": {
+                "coord_x": 336,
+                "coord_y": 660,
+                "action_area": "insideleftcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 28,
+              "time_in_game": 1729,
+              "location": {
+                "coord_x": 324,
+                "coord_y": 768,
+                "action_area": "lowleft"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "snap",
+              "distance": 38,
+              "time_in_game": 1977,
+              "location": {
+                "coord_x": 420,
+                "coord_y": 144,
+                "action_area": "outsiderightcircle"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "tip-in",
+              "distance": 86,
+              "time_in_game": 1993,
+              "location": {
+                "coord_x": 1044,
+                "coord_y": 984,
+                "action_area": "neutralzone"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "backhand",
+              "distance": 11,
+              "time_in_game": 2001,
+              "location": {
+                "coord_x": 252,
+                "coord_y": 504,
+                "action_area": "slot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 7,
+              "time_in_game": 2113,
+              "location": {
+                "coord_x": 192,
+                "coord_y": 552,
+                "action_area": "lowslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 59,
+              "time_in_game": 2190,
+              "location": {
+                "coord_x": 660,
+                "coord_y": 972,
+                "action_area": "leftpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 51,
+              "time_in_game": 2231,
+              "location": {
+                "coord_x": 588,
+                "coord_y": 96,
+                "action_area": "lowrightpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 65,
+              "time_in_game": 2268,
+              "location": {
+                "coord_x": 852,
+                "coord_y": 804,
+                "action_area": "leftpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "backhand",
+              "distance": 21,
+              "time_in_game": 2308,
+              "location": {
+                "coord_x": 120,
+                "coord_y": 756,
+                "action_area": "downlow"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 52,
+              "time_in_game": 2339,
+              "location": {
+                "coord_x": 636,
+                "coord_y": 144,
+                "action_area": "rightpoint"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 43,
+              "time_in_game": 2426,
+              "location": {
+                "coord_x": 1968,
+                "coord_y": 936,
+                "action_area": "outsiderightcircle"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 7,
+              "time_in_game": 2427,
+              "location": {
+                "coord_x": 2172,
+                "coord_y": 492,
+                "action_area": "lowslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "snap",
+              "distance": 22,
+              "time_in_game": 2454,
+              "location": {
+                "coord_x": 2040,
+                "coord_y": 348,
+                "action_area": "insideleftcircle"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 9,
+              "time_in_game": 2455,
+              "location": {
+                "coord_x": 2184,
+                "coord_y": 420,
+                "action_area": "lowslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 27,
+              "time_in_game": 2479,
+              "location": {
+                "coord_x": 2076,
+                "coord_y": 780,
+                "action_area": "lowright"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 22,
+              "time_in_game": 2601,
+              "location": {
+                "coord_x": 2040,
+                "coord_y": 336,
+                "action_area": "insideleftcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 38,
+              "time_in_game": 2620,
+              "location": {
+                "coord_x": 1908,
+                "coord_y": 204,
+                "action_area": "outsideleftcircle"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "tip-in",
+              "distance": 12,
+              "time_in_game": 2847,
+              "location": {
+                "coord_x": 2112,
+                "coord_y": 480,
+                "action_area": "slot"
+              }
+            },
+            {
+              "saved": true,
+              "shot_type": "wrist",
+              "distance": 40,
+              "time_in_game": 2850,
+              "location": {
+                "coord_x": 1776,
+                "coord_y": 372,
+                "action_area": "leftpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "snap",
+              "distance": 42,
+              "time_in_game": 2852,
+              "location": {
+                "coord_x": 1824,
+                "coord_y": 240,
+                "action_area": "lowleftpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "wrist",
+              "distance": 9,
+              "time_in_game": 2870,
+              "location": {
+                "coord_x": 2148,
+                "coord_y": 468,
+                "action_area": "slot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "snap",
+              "distance": 39,
+              "time_in_game": 2890,
+              "location": {
+                "coord_x": 1776,
+                "coord_y": 564,
+                "action_area": "centerpoint"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "tip-in",
+              "distance": 17,
+              "time_in_game": 3087,
+              "location": {
+                "coord_x": 2064,
+                "coord_y": 432,
+                "action_area": "highslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "slap",
+              "distance": 27,
+              "time_in_game": 3195,
+              "location": {
+                "coord_x": 1944,
+                "coord_y": 600,
+                "action_area": "highslot"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "snap",
+              "distance": 29,
+              "time_in_game": 3229,
+              "location": {
+                "coord_x": 1932,
+                "coord_y": 336,
+                "action_area": "insideleftcircle"
+              }
+            },
+            {
+              "saved": false,
+              "shot_type": "snap",
+              "distance": 42,
+              "time_in_game": 3549,
+              "location": {
+                "coord_x": 1824,
+                "coord_y": 792,
+                "action_area": "lowrightpoint"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

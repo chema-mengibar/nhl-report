@@ -1,0 +1,395 @@
+{
+  "team_a": "Rangers",
+  "team_b": "Panthers",
+  "round": 3,
+  "games_reports": [
+    {
+      "schedule_data": {
+        "game": 1,
+        "id": "18d15999-4095-4262-976e-4d2d985099d4",
+        "date": "22.5",
+        "date_format": "2024-05-22"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Rangers",
+          "away": "Panthers"
+        },
+        "score": {
+          "home": 0,
+          "away": 3
+        },
+        "shots_total": {
+          "home": 63,
+          "away": 66
+        },
+        "shots": {
+          "home": {
+            "lowrightpoint": 1,
+            "highslot": 6,
+            "lowslot": 7,
+            "lowcenterpoint": 2,
+            "lowleftpoint": 5,
+            "rightpoint": 5,
+            "rightslot": 1,
+            "leftpoint": 6,
+            "centerpoint": 4,
+            "outsiderightcircle": 6,
+            "insideleftcircle": 3,
+            "lowleft": 1,
+            "slot": 5,
+            "outsideleftcircle": 5,
+            "downlow": 2,
+            "lowright": 1,
+            "insiderightcircle": 2,
+            "leftslot": 1
+          },
+          "away": {
+            "leftpoint": 7,
+            "outsiderightcircle": 1,
+            "downlow": 2,
+            "rightpoint": 8,
+            "insideleftcircle": 4,
+            "outsideleftcircle": 2,
+            "lowright": 3,
+            "leftslot": 4,
+            "slot": 10,
+            "lowleft": 1,
+            "highslot": 6,
+            "lowrightpoint": 2,
+            "lowleftpoint": 3,
+            "lowcenterpoint": 2,
+            "rightslot": 3,
+            "centerpoint": 3,
+            "neutralzone": 2,
+            "insiderightcircle": 3
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 2,
+        "id": "3373015e-ad83-4cfd-9468-728f91827a60",
+        "date": "24.5",
+        "date_format": "2024-05-24"
+      },
+      "report": {
+        "periods": 4,
+        "teams": {
+          "home": "Rangers",
+          "away": "Panthers"
+        },
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "shots_total": {
+          "home": 78,
+          "away": 75
+        },
+        "shots": {
+          "home": {
+            "lowcenterpoint": 4,
+            "lowright": 3,
+            "rightpoint": 3,
+            "insiderightcircle": 7,
+            "lowleftpoint": 5,
+            "neutralzone": 2,
+            "lowslot": 8,
+            "centerpoint": 5,
+            "insideleftcircle": 4,
+            "lowleft": 4,
+            "slot": 10,
+            "leftpoint": 7,
+            "outsideleftcircle": 6,
+            "highslot": 2,
+            "rightslot": 2,
+            "outsiderightcircle": 3,
+            "lowrightpoint": 1,
+            "defensivezone": 1,
+            "downlow": 1
+          },
+          "away": {
+            "outsideleftcircle": 6,
+            "lowslot": 8,
+            "leftpoint": 8,
+            "slot": 6,
+            "lowleftpoint": 5,
+            "leftslot": 3,
+            "insideleftcircle": 6,
+            "lowleft": 2,
+            "lowcenterpoint": 3,
+            "neutralzone": 2,
+            "insiderightcircle": 4,
+            "rightpoint": 4,
+            "highslot": 4,
+            "rightslot": 3,
+            "outsiderightcircle": 3,
+            "lowright": 2,
+            "lowrightpoint": 2,
+            "defensivezone": 1,
+            "downlow": 3
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 3,
+        "id": "04a92a0a-5155-4eca-beea-43745e27644c",
+        "date": "26.5",
+        "date_format": "2024-05-26"
+      },
+      "report": {
+        "periods": 4,
+        "teams": {
+          "home": "Panthers",
+          "away": "Rangers"
+        },
+        "score": {
+          "home": 4,
+          "away": 5
+        },
+        "shots_total": {
+          "home": 108,
+          "away": 43
+        },
+        "shots": {
+          "home": {
+            "lowright": 7,
+            "highslot": 10,
+            "insideleftcircle": 8,
+            "lowslot": 17,
+            "lowleftpoint": 5,
+            "slot": 9,
+            "outsideleftcircle": 7,
+            "centerpoint": 3,
+            "rightpoint": 5,
+            "rightslot": 4,
+            "lowrightpoint": 5,
+            "lowleft": 6,
+            "outsiderightcircle": 2,
+            "leftslot": 5,
+            "leftpoint": 10,
+            "lowcenterpoint": 1,
+            "insiderightcircle": 4
+          },
+          "away": {
+            "outsiderightcircle": 2,
+            "rightpoint": 3,
+            "defensivezone": 2,
+            "highslot": 5,
+            "rightslot": 4,
+            "leftslot": 3,
+            "lowslot": 4,
+            "slot": 5,
+            "insideleftcircle": 5,
+            "leftpoint": 1,
+            "insiderightcircle": 2,
+            "lowright": 1,
+            "lowrightpoint": 1,
+            "outsideleftcircle": 2,
+            "centerpoint": 1,
+            "lowcenterpoint": 1,
+            "neutralzone": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 4,
+        "id": "02501726-a798-4455-a583-f32dcfdae98c",
+        "date": "29.5",
+        "date_format": "2024-05-29"
+      },
+      "report": {
+        "periods": 4,
+        "teams": {
+          "home": "Panthers",
+          "away": "Rangers"
+        },
+        "score": {
+          "home": 3,
+          "away": 2
+        },
+        "shots_total": {
+          "home": 89,
+          "away": 44
+        },
+        "shots": {
+          "home": {
+            "rightpoint": 4,
+            "lowleftpoint": 5,
+            "insiderightcircle": 5,
+            "leftpoint": 7,
+            "lowslot": 15,
+            "centerpoint": 8,
+            "defensivezone": 1,
+            "leftslot": 1,
+            "highslot": 5,
+            "slot": 10,
+            "lowright": 2,
+            "rightslot": 1,
+            "insideleftcircle": 12,
+            "lowcenterpoint": 3,
+            "outsideleftcircle": 5,
+            "lowrightpoint": 3,
+            "lowleft": 2
+          },
+          "away": {
+            "lowslot": 3,
+            "leftpoint": 1,
+            "rightslot": 3,
+            "lowleft": 2,
+            "slot": 1,
+            "rightpoint": 5,
+            "lowcenterpoint": 3,
+            "outsideleftcircle": 3,
+            "centerpoint": 3,
+            "highslot": 2,
+            "leftslot": 3,
+            "lowright": 1,
+            "neutralzone": 4,
+            "lowleftpoint": 6,
+            "lowrightpoint": 2,
+            "insiderightcircle": 1,
+            "outsiderightcircle": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 5,
+        "id": "68db71ad-614a-4c27-870e-4244d6ab68a9",
+        "date": "31.5",
+        "date_format": "2024-05-31"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Rangers",
+          "away": "Panthers"
+        },
+        "score": {
+          "home": 2,
+          "away": 3
+        },
+        "shots_total": {
+          "home": 70,
+          "away": 71
+        },
+        "shots": {
+          "home": {
+            "lowcenterpoint": 3,
+            "centerpoint": 4,
+            "lowleftpoint": 2,
+            "outsideleftcircle": 4,
+            "lowright": 5,
+            "lowslot": 9,
+            "insiderightcircle": 1,
+            "insideleftcircle": 6,
+            "highslot": 3,
+            "slot": 7,
+            "rightpoint": 11,
+            "lowleft": 2,
+            "rightslot": 4,
+            "leftpoint": 3,
+            "lowrightpoint": 2,
+            "downlow": 1,
+            "outsiderightcircle": 3
+          },
+          "away": {
+            "lowleft": 5,
+            "leftpoint": 3,
+            "rightpoint": 6,
+            "highslot": 5,
+            "insiderightcircle": 5,
+            "insideleftcircle": 3,
+            "outsideleftcircle": 4,
+            "lowleftpoint": 4,
+            "slot": 10,
+            "rightslot": 2,
+            "outsiderightcircle": 2,
+            "lowrightpoint": 2,
+            "lowright": 2,
+            "centerpoint": 2,
+            "leftslot": 3,
+            "lowslot": 8,
+            "lowcenterpoint": 1,
+            "defensivezone": 2,
+            "neutralzone": 2
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 6,
+        "id": "276ea83a-9779-4e01-9c74-019f29a9e1b5",
+        "date": "2.6",
+        "date_format": "2024-06-02"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Panthers",
+          "away": "Rangers"
+        },
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "shots_total": {
+          "home": 60,
+          "away": 74
+        },
+        "shots": {
+          "home": {
+            "lowslot": 9,
+            "lowleft": 5,
+            "highslot": 2,
+            "insideleftcircle": 6,
+            "lowleftpoint": 4,
+            "lowcenterpoint": 1,
+            "outsideleftcircle": 2,
+            "slot": 7,
+            "leftslot": 5,
+            "lowright": 1,
+            "rightslot": 1,
+            "insiderightcircle": 5,
+            "leftpoint": 2,
+            "centerpoint": 4,
+            "rightpoint": 3,
+            "lowrightpoint": 2,
+            "neutralzone": 1
+          },
+          "away": {
+            "leftpoint": 14,
+            "insideleftcircle": 7,
+            "rightpoint": 7,
+            "lowleftpoint": 2,
+            "slot": 8,
+            "highslot": 5,
+            "defensivezone": 2,
+            "insiderightcircle": 3,
+            "outsiderightcircle": 5,
+            "neutralzone": 1,
+            "lowrightpoint": 4,
+            "outsideleftcircle": 5,
+            "lowslot": 3,
+            "lowright": 1,
+            "lowleft": 1,
+            "leftslot": 3,
+            "lowcenterpoint": 1,
+            "centerpoint": 1,
+            "rightslot": 1
+          }
+        }
+      }
+    }
+  ]
+}

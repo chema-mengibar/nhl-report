@@ -1,0 +1,463 @@
+{
+  "team_a": "Stars",
+  "team_b": "Knights",
+  "round": 1,
+  "games_reports": [
+    {
+      "schedule_data": {
+        "game": 1,
+        "id": "2c31ffd1-58bf-48a1-9c96-f357ee974072",
+        "date": "23.4",
+        "date_format": "2024-04-23"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Stars",
+          "away": "Golden Knights"
+        },
+        "score": {
+          "home": 3,
+          "away": 4
+        },
+        "shots_total": {
+          "home": 68,
+          "away": 48
+        },
+        "shots": {
+          "home": {
+            "defensivezone": 1,
+            "outsideleftcircle": 3,
+            "leftpoint": 6,
+            "centerpoint": 3,
+            "neutralzone": 1,
+            "highslot": 7,
+            "rightpoint": 5,
+            "slot": 8,
+            "rightslot": 4,
+            "insideleftcircle": 3,
+            "lowslot": 5,
+            "lowrightpoint": 3,
+            "lowright": 3,
+            "lowleft": 2,
+            "insiderightcircle": 4,
+            "leftslot": 4,
+            "downlow": 2,
+            "lowleftpoint": 2,
+            "lowcenterpoint": 1,
+            "outsiderightcircle": 1
+          },
+          "away": {
+            "highslot": 5,
+            "outsideleftcircle": 1,
+            "lowright": 2,
+            "slot": 10,
+            "leftslot": 2,
+            "rightslot": 3,
+            "insiderightcircle": 6,
+            "lowleftpoint": 4,
+            "outsiderightcircle": 1,
+            "rightpoint": 4,
+            "insideleftcircle": 1,
+            "neutralzone": 4,
+            "leftpoint": 3,
+            "centerpoint": 1,
+            "lowslot": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 2,
+        "id": "e00fd532-c67b-4846-ae6b-3d01e0e7d40a",
+        "date": "25.4",
+        "date_format": "2024-04-25"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Stars",
+          "away": "Golden Knights"
+        },
+        "score": {
+          "home": 1,
+          "away": 3
+        },
+        "shots_total": {
+          "home": 66,
+          "away": 61
+        },
+        "shots": {
+          "home": {
+            "lowrightpoint": 2,
+            "lowcenterpoint": 2,
+            "leftslot": 3,
+            "leftpoint": 5,
+            "lowright": 5,
+            "defensivezone": 1,
+            "slot": 7,
+            "lowslot": 5,
+            "insiderightcircle": 5,
+            "lowleft": 3,
+            "outsideleftcircle": 7,
+            "rightslot": 2,
+            "lowleftpoint": 3,
+            "insideleftcircle": 3,
+            "centerpoint": 1,
+            "highslot": 4,
+            "rightpoint": 4,
+            "downlow": 2,
+            "outsiderightcircle": 2
+          },
+          "away": {
+            "outsideleftcircle": 5,
+            "centerpoint": 6,
+            "lowleftpoint": 5,
+            "neutralzone": 3,
+            "leftpoint": 5,
+            "lowcenterpoint": 2,
+            "insideleftcircle": 5,
+            "rightpoint": 3,
+            "slot": 10,
+            "highslot": 2,
+            "lowslot": 7,
+            "lowright": 3,
+            "rightslot": 2,
+            "outsiderightcircle": 2,
+            "defensivezone": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 3,
+        "id": "aeb8ae96-fb47-49aa-9030-4d60567107f6",
+        "date": "28.4",
+        "date_format": "2024-04-28"
+      },
+      "report": {
+        "periods": 4,
+        "teams": {
+          "home": "Golden Knights",
+          "away": "Stars"
+        },
+        "score": {
+          "home": 2,
+          "away": 3
+        },
+        "shots_total": {
+          "home": 69,
+          "away": 108
+        },
+        "shots": {
+          "home": {
+            "leftpoint": 6,
+            "rightpoint": 7,
+            "slot": 10,
+            "lowcenterpoint": 1,
+            "insiderightcircle": 8,
+            "lowleftpoint": 5,
+            "lowrightpoint": 4,
+            "downlow": 1,
+            "defensivezone": 2,
+            "lowslot": 3,
+            "lowleft": 3,
+            "highslot": 4,
+            "neutralzone": 2,
+            "outsiderightcircle": 1,
+            "insideleftcircle": 6,
+            "outsideleftcircle": 2,
+            "centerpoint": 1,
+            "leftslot": 2,
+            "lowright": 1
+          },
+          "away": {
+            "lowcenterpoint": 2,
+            "outsiderightcircle": 5,
+            "insideleftcircle": 7,
+            "insiderightcircle": 7,
+            "slot": 15,
+            "rightpoint": 9,
+            "lowleftpoint": 8,
+            "highslot": 7,
+            "lowright": 5,
+            "lowslot": 11,
+            "centerpoint": 4,
+            "lowrightpoint": 4,
+            "leftpoint": 4,
+            "lowleft": 7,
+            "rightslot": 4,
+            "defensivezone": 2,
+            "neutralzone": 2,
+            "outsideleftcircle": 2,
+            "leftslot": 1,
+            "downlow": 2
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 4,
+        "id": "6c78dbbb-b580-44f7-b000-d9964beaa371",
+        "date": "30.4",
+        "date_format": "2024-04-30"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Golden Knights",
+          "away": "Stars"
+        },
+        "score": {
+          "home": 2,
+          "away": 4
+        },
+        "shots_total": {
+          "home": 83,
+          "away": 68
+        },
+        "shots": {
+          "home": {
+            "lowslot": 7,
+            "centerpoint": 8,
+            "rightpoint": 6,
+            "slot": 6,
+            "neutralzone": 2,
+            "insideleftcircle": 5,
+            "leftpoint": 8,
+            "lowleftpoint": 6,
+            "lowright": 3,
+            "downlow": 2,
+            "lowrightpoint": 3,
+            "outsiderightcircle": 5,
+            "insiderightcircle": 4,
+            "outsideleftcircle": 6,
+            "lowleft": 2,
+            "highslot": 6,
+            "rightslot": 2,
+            "lowcenterpoint": 1,
+            "leftslot": 1
+          },
+          "away": {
+            "outsiderightcircle": 3,
+            "neutralzone": 1,
+            "lowright": 3,
+            "slot": 6,
+            "lowslot": 11,
+            "insiderightcircle": 2,
+            "lowrightpoint": 4,
+            "rightpoint": 3,
+            "centerpoint": 2,
+            "outsideleftcircle": 4,
+            "rightslot": 2,
+            "leftpoint": 8,
+            "lowleftpoint": 6,
+            "downlow": 2,
+            "highslot": 2,
+            "lowleft": 3,
+            "insideleftcircle": 4,
+            "defensivezone": 2
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 5,
+        "id": "434eefcf-d69b-42fa-b8d9-2159cbd96a19",
+        "date": "2.5",
+        "date_format": "2024-05-02"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Stars",
+          "away": "Golden Knights"
+        },
+        "score": {
+          "home": 3,
+          "away": 2
+        },
+        "shots_total": {
+          "home": 62,
+          "away": 58
+        },
+        "shots": {
+          "home": {
+            "highslot": 7,
+            "lowslot": 7,
+            "outsideleftcircle": 3,
+            "insideleftcircle": 6,
+            "leftpoint": 2,
+            "outsiderightcircle": 2,
+            "slot": 8,
+            "lowcenterpoint": 3,
+            "neutralzone": 3,
+            "lowright": 3,
+            "lowrightpoint": 2,
+            "rightpoint": 3,
+            "insiderightcircle": 4,
+            "centerpoint": 2,
+            "rightslot": 3,
+            "leftslot": 1,
+            "downlow": 1,
+            "lowleftpoint": 1,
+            "defensivezone": 1
+          },
+          "away": {
+            "rightslot": 4,
+            "highslot": 2,
+            "insideleftcircle": 3,
+            "defensivezone": 1,
+            "lowslot": 6,
+            "insiderightcircle": 3,
+            "slot": 5,
+            "neutralzone": 2,
+            "outsideleftcircle": 4,
+            "lowrightpoint": 4,
+            "downlow": 2,
+            "rightpoint": 7,
+            "centerpoint": 3,
+            "lowleft": 2,
+            "leftpoint": 5,
+            "lowright": 2,
+            "outsiderightcircle": 1,
+            "lowleftpoint": 1,
+            "leftslot": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 6,
+        "id": "fcb6fdd0-10fa-468f-8ddf-b3d3716af119",
+        "date": "4.5",
+        "date_format": "2024-05-04"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Golden Knights",
+          "away": "Stars"
+        },
+        "score": {
+          "home": 2,
+          "away": 0
+        },
+        "shots_total": {
+          "home": 70,
+          "away": 55
+        },
+        "shots": {
+          "home": {
+            "leftslot": 5,
+            "lowleftpoint": 5,
+            "insiderightcircle": 4,
+            "lowcenterpoint": 3,
+            "lowslot": 8,
+            "outsiderightcircle": 3,
+            "highslot": 4,
+            "insideleftcircle": 4,
+            "downlow": 3,
+            "slot": 7,
+            "rightpoint": 4,
+            "leftpoint": 8,
+            "outsideleftcircle": 1,
+            "centerpoint": 1,
+            "rightslot": 3,
+            "neutralzone": 1,
+            "lowleft": 1,
+            "lowrightpoint": 2,
+            "lowright": 2,
+            "defensivezone": 1
+          },
+          "away": {
+            "insideleftcircle": 5,
+            "slot": 9,
+            "rightslot": 4,
+            "lowslot": 4,
+            "leftpoint": 3,
+            "leftslot": 4,
+            "neutralzone": 3,
+            "highslot": 6,
+            "lowleft": 3,
+            "outsideleftcircle": 1,
+            "defensivezone": 1,
+            "insiderightcircle": 4,
+            "outsiderightcircle": 3,
+            "lowleftpoint": 2,
+            "centerpoint": 1,
+            "rightpoint": 2
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 7,
+        "id": "cd0be372-99e6-4254-8531-a472194ac7cb",
+        "date": "6.5",
+        "date_format": "2024-05-06"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Stars",
+          "away": "Golden Knights"
+        },
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "shots_total": {
+          "home": 61,
+          "away": 60
+        },
+        "shots": {
+          "home": {
+            "rightpoint": 7,
+            "lowleftpoint": 4,
+            "lowleft": 5,
+            "outsiderightcircle": 3,
+            "lowrightpoint": 3,
+            "insideleftcircle": 7,
+            "lowcenterpoint": 3,
+            "leftslot": 2,
+            "neutralzone": 3,
+            "highslot": 6,
+            "slot": 5,
+            "outsideleftcircle": 3,
+            "rightslot": 3,
+            "lowslot": 4,
+            "lowright": 2,
+            "centerpoint": 1
+          },
+          "away": {
+            "neutralzone": 4,
+            "insiderightcircle": 3,
+            "leftpoint": 7,
+            "insideleftcircle": 3,
+            "outsiderightcircle": 4,
+            "outsideleftcircle": 5,
+            "lowright": 2,
+            "slot": 3,
+            "rightpoint": 6,
+            "leftslot": 3,
+            "lowslot": 7,
+            "highslot": 2,
+            "lowleft": 1,
+            "lowrightpoint": 2,
+            "lowleftpoint": 1,
+            "rightslot": 2,
+            "lowcenterpoint": 4,
+            "centerpoint": 1
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "team_a": "Hurricanes",
+  "team_b": "Islanders",
+  "round": 1,
+  "games_reports": [
+    {
+      "schedule_data": {
+        "game": 1,
+        "id": "4e0a7b20-f312-46b3-aa0e-5763b7a18623",
+        "date": "20.4",
+        "date_format": "2024-04-20"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Hurricanes",
+          "away": "Islanders"
+        },
+        "score": {
+          "home": 3,
+          "away": 1
+        },
+        "shots": {
+          "home": {
+            "snap": 21,
+            "wrist": 22,
+            "tip-in": 8,
+            "slap": 15,
+            "deflected": 1,
+            "backhand": 7
+          },
+          "away": {
+            "backhand": 4,
+            "wrist": 23,
+            "snap": 16,
+            "slap": 8,
+            "tip-in": 4,
+            "wrap-around": 1,
+            "bat": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 2,
+        "id": "44a404ce-37b3-4247-9abd-9ea99f14af46",
+        "date": "23.4",
+        "date_format": "2024-04-23"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Hurricanes",
+          "away": "Islanders"
+        },
+        "score": {
+          "home": 5,
+          "away": 3
+        },
+        "shots": {
+          "home": {
+            "wrist": 37,
+            "snap": 36,
+            "slap": 21,
+            "tip-in": 9,
+            "backhand": 6,
+            "wrap-around": 1
+          },
+          "away": {
+            "wrist": 10,
+            "deflected": 1,
+            "slap": 3,
+            "snap": 11,
+            "poke": 1,
+            "backhand": 2
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 3,
+        "id": "06aa6ee7-b10f-463f-a5dc-beb136825df0",
+        "date": "26.4",
+        "date_format": "2024-04-26"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Islanders",
+          "away": "Hurricanes"
+        },
+        "score": {
+          "home": 2,
+          "away": 3
+        },
+        "shots": {
+          "home": {
+            "backhand": 6,
+            "wrist": 44,
+            "snap": 4,
+            "slap": 5,
+            "tip-in": 5,
+            "wrap-around": 1,
+            "deflected": 1
+          },
+          "away": {
+            "wrist": 44,
+            "slap": 10,
+            "tip-in": 2,
+            "snap": 3,
+            "wrap-around": 1,
+            "backhand": 3
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 4,
+        "id": "729e32df-183d-475e-a37c-8c6191fcbefd",
+        "date": "27.4",
+        "date_format": "2024-04-27"
+      },
+      "report": {
+        "periods": 5,
+        "teams": {
+          "home": "Islanders",
+          "away": "Hurricanes"
+        },
+        "score": {
+          "home": 3,
+          "away": 2
+        },
+        "shots": {
+          "home": {
+            "wrist": 51,
+            "tip-in": 9,
+            "slap": 9,
+            "snap": 3,
+            "backhand": 5,
+            "wrap-around": 1
+          },
+          "away": {
+            "wrist": 57,
+            "snap": 3,
+            "slap": 13,
+            "backhand": 6,
+            "tip-in": 10,
+            "deflected": 4
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 5,
+        "id": "7c3872e5-2cf7-4ce0-8e8b-9f20ad531bc5",
+        "date": "1.5",
+        "date_format": "2024-05-01"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Hurricanes",
+          "away": "Islanders"
+        },
+        "score": {
+          "home": 6,
+          "away": 3
+        },
+        "shots": {
+          "home": {
+            "tip-in": 5,
+            "snap": 12,
+            "wrist": 39,
+            "backhand": 10,
+            "slap": 5
+          },
+          "away": {
+            "snap": 17,
+            "slap": 6,
+            "wrist": 29,
+            "tip-in": 5,
+            "backhand": 3,
+            "deflected": 1
+          }
+        }
+      }
+    }
+  ]
+}

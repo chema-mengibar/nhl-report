@@ -1,0 +1,398 @@
+{
+  "team_a": "Stars",
+  "team_b": "Avalanche",
+  "round": 2,
+  "games_reports": [
+    {
+      "schedule_data": {
+        "game": 1,
+        "id": "c3e715bc-dfd1-4e46-beb0-fe012abe9f6a",
+        "date": "8.5",
+        "date_format": "2024-05-08"
+      },
+      "report": {
+        "periods": 4,
+        "teams": {
+          "home": "Stars",
+          "away": "Avalanche"
+        },
+        "score": {
+          "home": 3,
+          "away": 4
+        },
+        "shots_total": {
+          "home": 63,
+          "away": 69
+        },
+        "shots": {
+          "home": {
+            "insiderightcircle": 1,
+            "outsiderightcircle": 1,
+            "leftpoint": 11,
+            "leftslot": 2,
+            "rightslot": 4,
+            "lowleftpoint": 4,
+            "slot": 7,
+            "centerpoint": 3,
+            "rightpoint": 8,
+            "highslot": 4,
+            "lowslot": 3,
+            "lowcenterpoint": 2,
+            "outsideleftcircle": 4,
+            "neutralzone": 2,
+            "lowright": 2,
+            "lowrightpoint": 2,
+            "insideleftcircle": 3
+          },
+          "away": {
+            "rightpoint": 7,
+            "slot": 11,
+            "insiderightcircle": 5,
+            "defensivezone": 2,
+            "lowleftpoint": 5,
+            "outsideleftcircle": 1,
+            "lowrightpoint": 4,
+            "highslot": 5,
+            "lowslot": 7,
+            "leftpoint": 7,
+            "insideleftcircle": 2,
+            "rightslot": 2,
+            "centerpoint": 1,
+            "lowcenterpoint": 3,
+            "lowright": 1,
+            "lowleft": 2,
+            "neutralzone": 1,
+            "leftslot": 3
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 2,
+        "id": "6b00bce7-9ac3-4b79-9ef8-fce625318f4d",
+        "date": "10.5",
+        "date_format": "2024-05-10"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Stars",
+          "away": "Avalanche"
+        },
+        "score": {
+          "home": 5,
+          "away": 3
+        },
+        "shots_total": {
+          "home": 70,
+          "away": 59
+        },
+        "shots": {
+          "home": {
+            "lowslot": 6,
+            "lowcenterpoint": 4,
+            "highslot": 7,
+            "leftpoint": 5,
+            "lowleft": 3,
+            "lowrightpoint": 5,
+            "insiderightcircle": 4,
+            "defensivezone": 3,
+            "rightpoint": 3,
+            "leftslot": 3,
+            "centerpoint": 3,
+            "rightslot": 4,
+            "outsideleftcircle": 2,
+            "slot": 5,
+            "lowright": 4,
+            "lowleftpoint": 1,
+            "outsiderightcircle": 3,
+            "neutralzone": 3,
+            "insideleftcircle": 2
+          },
+          "away": {
+            "insiderightcircle": 4,
+            "insideleftcircle": 3,
+            "lowleft": 1,
+            "leftpoint": 6,
+            "lowright": 3,
+            "centerpoint": 3,
+            "lowrightpoint": 5,
+            "lowleftpoint": 7,
+            "highslot": 2,
+            "lowslot": 6,
+            "slot": 7,
+            "leftslot": 3,
+            "rightpoint": 4,
+            "rightslot": 1,
+            "lowcenterpoint": 3,
+            "downlow": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 3,
+        "id": "fd8be1d7-f572-4f58-8909-69e6a065e1fa",
+        "date": "12.5",
+        "date_format": "2024-05-12"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Avalanche",
+          "away": "Stars"
+        },
+        "score": {
+          "home": 1,
+          "away": 4
+        },
+        "shots_total": {
+          "home": 72,
+          "away": 46
+        },
+        "shots": {
+          "home": {
+            "rightslot": 4,
+            "outsiderightcircle": 2,
+            "highslot": 4,
+            "lowleftpoint": 3,
+            "rightpoint": 8,
+            "insiderightcircle": 4,
+            "lowrightpoint": 7,
+            "slot": 9,
+            "leftslot": 3,
+            "centerpoint": 4,
+            "downlow": 1,
+            "insideleftcircle": 5,
+            "lowslot": 5,
+            "lowright": 2,
+            "outsideleftcircle": 2,
+            "defensivezone": 2,
+            "leftpoint": 4,
+            "lowleft": 2,
+            "neutralzone": 1
+          },
+          "away": {
+            "lowslot": 6,
+            "lowleftpoint": 6,
+            "lowcenterpoint": 3,
+            "slot": 2,
+            "rightpoint": 5,
+            "outsideleftcircle": 2,
+            "highslot": 3,
+            "lowrightpoint": 2,
+            "lowleft": 2,
+            "lowright": 1,
+            "leftslot": 4,
+            "rightslot": 2,
+            "centerpoint": 3,
+            "outsiderightcircle": 1,
+            "insideleftcircle": 1,
+            "leftpoint": 1,
+            "downlow": 1,
+            "defensivezone": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 4,
+        "id": "9b53c1bd-db8f-4351-8c2b-66ee8af401c6",
+        "date": "14.5",
+        "date_format": "2024-05-14"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Avalanche",
+          "away": "Stars"
+        },
+        "score": {
+          "home": 1,
+          "away": 5
+        },
+        "shots_total": {
+          "home": 73,
+          "away": 63
+        },
+        "shots": {
+          "home": {
+            "neutralzone": 1,
+            "lowslot": 8,
+            "lowright": 5,
+            "leftpoint": 6,
+            "insiderightcircle": 2,
+            "lowleftpoint": 4,
+            "highslot": 6,
+            "lowcenterpoint": 4,
+            "rightpoint": 12,
+            "slot": 8,
+            "lowrightpoint": 4,
+            "downlow": 1,
+            "outsiderightcircle": 1,
+            "outsideleftcircle": 3,
+            "lowleft": 3,
+            "centerpoint": 2,
+            "rightslot": 1,
+            "insideleftcircle": 2
+          },
+          "away": {
+            "lowcenterpoint": 2,
+            "insiderightcircle": 8,
+            "insideleftcircle": 4,
+            "rightpoint": 6,
+            "defensivezone": 3,
+            "downlow": 2,
+            "leftslot": 1,
+            "slot": 6,
+            "highslot": 4,
+            "lowslot": 9,
+            "leftpoint": 2,
+            "lowleft": 4,
+            "outsiderightcircle": 2,
+            "centerpoint": 4,
+            "rightslot": 1,
+            "lowleftpoint": 1,
+            "lowrightpoint": 1,
+            "lowright": 1,
+            "neutralzone": 2
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 5,
+        "id": "2f048a2f-5006-435d-91bd-8f20124df1c1",
+        "date": "16.5",
+        "date_format": "2024-05-16"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Stars",
+          "away": "Avalanche"
+        },
+        "score": {
+          "home": 3,
+          "away": 5
+        },
+        "shots_total": {
+          "home": 59,
+          "away": 61
+        },
+        "shots": {
+          "home": {
+            "outsiderightcircle": 3,
+            "outsideleftcircle": 3,
+            "lowslot": 7,
+            "lowleftpoint": 5,
+            "lowrightpoint": 3,
+            "slot": 8,
+            "rightpoint": 4,
+            "lowcenterpoint": 3,
+            "insiderightcircle": 4,
+            "highslot": 6,
+            "defensivezone": 1,
+            "leftpoint": 1,
+            "insideleftcircle": 3,
+            "leftslot": 3,
+            "lowleft": 4,
+            "downlow": 1
+          },
+          "away": {
+            "neutralzone": 1,
+            "slot": 11,
+            "outsideleftcircle": 3,
+            "lowrightpoint": 4,
+            "leftpoint": 7,
+            "rightpoint": 4,
+            "outsiderightcircle": 4,
+            "highslot": 8,
+            "lowleftpoint": 4,
+            "insiderightcircle": 3,
+            "lowslot": 2,
+            "lowright": 1,
+            "centerpoint": 2,
+            "lowleft": 1,
+            "leftslot": 2,
+            "insideleftcircle": 3,
+            "defensivezone": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 6,
+        "id": "9a740039-bcdd-4629-824f-949549eb7091",
+        "date": "18.5",
+        "date_format": "2024-05-18"
+      },
+      "report": {
+        "periods": 5,
+        "teams": {
+          "home": "Avalanche",
+          "away": "Stars"
+        },
+        "score": {
+          "home": 1,
+          "away": 2
+        },
+        "shots_total": {
+          "home": 84,
+          "away": 102
+        },
+        "shots": {
+          "home": {
+            "lowright": 5,
+            "lowcenterpoint": 5,
+            "rightpoint": 11,
+            "centerpoint": 2,
+            "downlow": 1,
+            "insideleftcircle": 2,
+            "insiderightcircle": 5,
+            "lowslot": 7,
+            "slot": 10,
+            "leftslot": 3,
+            "neutralzone": 2,
+            "leftpoint": 4,
+            "defensivezone": 1,
+            "rightslot": 2,
+            "highslot": 5,
+            "lowrightpoint": 5,
+            "outsiderightcircle": 6,
+            "lowleft": 2,
+            "lowleftpoint": 3,
+            "outsideleftcircle": 3
+          },
+          "away": {
+            "insiderightcircle": 9,
+            "outsiderightcircle": 2,
+            "highslot": 9,
+            "centerpoint": 6,
+            "insideleftcircle": 4,
+            "lowslot": 12,
+            "defensivezone": 2,
+            "rightpoint": 7,
+            "slot": 11,
+            "downlow": 1,
+            "lowright": 4,
+            "lowleftpoint": 4,
+            "leftpoint": 5,
+            "rightslot": 7,
+            "outsideleftcircle": 4,
+            "lowleft": 3,
+            "leftslot": 3,
+            "lowrightpoint": 3,
+            "neutralzone": 4,
+            "lowcenterpoint": 2
+          }
+        }
+      }
+    }
+  ]
+}

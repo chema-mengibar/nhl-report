@@ -1,0 +1,277 @@
+{
+  "team_a": "Stars",
+  "team_b": "Knights",
+  "round": 1,
+  "games_reports": [
+    {
+      "schedule_data": {
+        "game": 1,
+        "id": "2c31ffd1-58bf-48a1-9c96-f357ee974072",
+        "date": "23.4",
+        "date_format": "2024-04-23"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Stars",
+          "away": "Golden Knights"
+        },
+        "score": {
+          "home": 3,
+          "away": 4
+        },
+        "shots": {
+          "home": {
+            "wrist": 34,
+            "snap": 14,
+            "slap": 5,
+            "backhand": 5,
+            "tip-in": 5,
+            "poke": 1,
+            "wrap-around": 2,
+            "deflected": 1,
+            "bat": 1
+          },
+          "away": {
+            "tip-in": 5,
+            "snap": 13,
+            "backhand": 4,
+            "wrist": 22,
+            "slap": 4
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 2,
+        "id": "e00fd532-c67b-4846-ae6b-3d01e0e7d40a",
+        "date": "25.4",
+        "date_format": "2024-04-25"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Stars",
+          "away": "Golden Knights"
+        },
+        "score": {
+          "home": 1,
+          "away": 3
+        },
+        "shots": {
+          "home": {
+            "wrist": 35,
+            "snap": 18,
+            "tip-in": 7,
+            "bat": 2,
+            "slap": 1,
+            "wrap-around": 2,
+            "backhand": 1
+          },
+          "away": {
+            "snap": 9,
+            "slap": 12,
+            "wrist": 31,
+            "tip-in": 1,
+            "deflected": 2,
+            "backhand": 6
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 3,
+        "id": "aeb8ae96-fb47-49aa-9030-4d60567107f6",
+        "date": "28.4",
+        "date_format": "2024-04-28"
+      },
+      "report": {
+        "periods": 4,
+        "teams": {
+          "home": "Golden Knights",
+          "away": "Stars"
+        },
+        "score": {
+          "home": 2,
+          "away": 3
+        },
+        "shots": {
+          "home": {
+            "wrist": 46,
+            "slap": 9,
+            "tip-in": 3,
+            "snap": 5,
+            "wrap-around": 2,
+            "deflected": 1,
+            "backhand": 2,
+            "poke": 1
+          },
+          "away": {
+            "snap": 18,
+            "wrist": 63,
+            "backhand": 9,
+            "bat": 2,
+            "tip-in": 8,
+            "deflected": 3,
+            "slap": 4,
+            "wrap-around": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 4,
+        "id": "6c78dbbb-b580-44f7-b000-d9964beaa371",
+        "date": "30.4",
+        "date_format": "2024-04-30"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Golden Knights",
+          "away": "Stars"
+        },
+        "score": {
+          "home": 2,
+          "away": 4
+        },
+        "shots": {
+          "home": {
+            "wrist": 58,
+            "slap": 10,
+            "snap": 8,
+            "tip-in": 2,
+            "wrap-around": 3,
+            "backhand": 2
+          },
+          "away": {
+            "wrist": 42,
+            "snap": 11,
+            "tip-in": 3,
+            "backhand": 4,
+            "slap": 6,
+            "bat": 1,
+            "deflected": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 5,
+        "id": "434eefcf-d69b-42fa-b8d9-2159cbd96a19",
+        "date": "2.5",
+        "date_format": "2024-05-02"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Stars",
+          "away": "Golden Knights"
+        },
+        "score": {
+          "home": 3,
+          "away": 2
+        },
+        "shots": {
+          "home": {
+            "wrist": 34,
+            "backhand": 2,
+            "snap": 16,
+            "tip-in": 5,
+            "slap": 4,
+            "deflected": 1
+          },
+          "away": {
+            "wrist": 24,
+            "tip-in": 3,
+            "deflected": 1,
+            "snap": 17,
+            "backhand": 5,
+            "wrap-around": 2,
+            "slap": 6
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 6,
+        "id": "fcb6fdd0-10fa-468f-8ddf-b3d3716af119",
+        "date": "4.5",
+        "date_format": "2024-05-04"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Golden Knights",
+          "away": "Stars"
+        },
+        "score": {
+          "home": 2,
+          "away": 0
+        },
+        "shots": {
+          "home": {
+            "snap": 10,
+            "wrist": 41,
+            "wrap-around": 1,
+            "slap": 12,
+            "tip-in": 4,
+            "poke": 1,
+            "backhand": 1
+          },
+          "away": {
+            "wrist": 32,
+            "tip-in": 6,
+            "snap": 6,
+            "deflected": 3,
+            "slap": 6,
+            "wrap-around": 1,
+            "backhand": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 7,
+        "id": "cd0be372-99e6-4254-8531-a472194ac7cb",
+        "date": "6.5",
+        "date_format": "2024-05-06"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Stars",
+          "away": "Golden Knights"
+        },
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "shots": {
+          "home": {
+            "wrist": 35,
+            "snap": 11,
+            "tip-in": 5,
+            "slap": 5,
+            "deflected": 2,
+            "backhand": 3
+          },
+          "away": {
+            "slap": 8,
+            "wrist": 42,
+            "snap": 4,
+            "backhand": 3,
+            "tip-in": 2,
+            "deflected": 1
+          }
+        }
+      }
+    }
+  ]
+}

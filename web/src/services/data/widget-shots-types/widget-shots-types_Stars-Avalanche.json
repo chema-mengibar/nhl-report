@@ -1,0 +1,232 @@
+{
+  "team_a": "Stars",
+  "team_b": "Avalanche",
+  "round": 2,
+  "games_reports": [
+    {
+      "schedule_data": {
+        "game": 1,
+        "id": "c3e715bc-dfd1-4e46-beb0-fe012abe9f6a",
+        "date": "8.5",
+        "date_format": "2024-05-08"
+      },
+      "report": {
+        "periods": 4,
+        "teams": {
+          "home": "Stars",
+          "away": "Avalanche"
+        },
+        "score": {
+          "home": 3,
+          "away": 4
+        },
+        "shots": {
+          "home": {
+            "backhand": 4,
+            "slap": 7,
+            "wrist": 30,
+            "tip-in": 5,
+            "snap": 16,
+            "deflected": 1
+          },
+          "away": {
+            "wrist": 35,
+            "snap": 22,
+            "slap": 5,
+            "backhand": 4,
+            "tip-in": 2,
+            "wrap-around": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 2,
+        "id": "6b00bce7-9ac3-4b79-9ef8-fce625318f4d",
+        "date": "10.5",
+        "date_format": "2024-05-10"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Stars",
+          "away": "Avalanche"
+        },
+        "score": {
+          "home": 5,
+          "away": 3
+        },
+        "shots": {
+          "home": {
+            "tip-in": 2,
+            "wrist": 46,
+            "slap": 7,
+            "snap": 11,
+            "backhand": 3,
+            "deflected": 1
+          },
+          "away": {
+            "wrist": 30,
+            "snap": 7,
+            "deflected": 6,
+            "backhand": 4,
+            "tip-in": 6,
+            "slap": 6
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 3,
+        "id": "fd8be1d7-f572-4f58-8909-69e6a065e1fa",
+        "date": "12.5",
+        "date_format": "2024-05-12"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Avalanche",
+          "away": "Stars"
+        },
+        "score": {
+          "home": 1,
+          "away": 4
+        },
+        "shots": {
+          "home": {
+            "wrist": 46,
+            "tip-in": 7,
+            "backhand": 6,
+            "snap": 4,
+            "slap": 6,
+            "deflected": 3
+          },
+          "away": {
+            "wrist": 29,
+            "slap": 4,
+            "snap": 6,
+            "backhand": 3,
+            "tip-in": 3,
+            "wrap-around": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 4,
+        "id": "9b53c1bd-db8f-4351-8c2b-66ee8af401c6",
+        "date": "14.5",
+        "date_format": "2024-05-14"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Avalanche",
+          "away": "Stars"
+        },
+        "score": {
+          "home": 1,
+          "away": 5
+        },
+        "shots": {
+          "home": {
+            "wrist": 52,
+            "snap": 3,
+            "backhand": 3,
+            "slap": 8,
+            "tip-in": 7
+          },
+          "away": {
+            "wrist": 44,
+            "snap": 4,
+            "tip-in": 3,
+            "slap": 6,
+            "backhand": 5,
+            "wrap-around": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 5,
+        "id": "2f048a2f-5006-435d-91bd-8f20124df1c1",
+        "date": "16.5",
+        "date_format": "2024-05-16"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Stars",
+          "away": "Avalanche"
+        },
+        "score": {
+          "home": 3,
+          "away": 5
+        },
+        "shots": {
+          "home": {
+            "wrist": 25,
+            "snap": 16,
+            "backhand": 5,
+            "tip-in": 6,
+            "slap": 4,
+            "deflected": 2,
+            "bat": 1
+          },
+          "away": {
+            "wrist": 37,
+            "snap": 11,
+            "tip-in": 2,
+            "backhand": 2,
+            "slap": 6,
+            "deflected": 2,
+            "bat": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 6,
+        "id": "9a740039-bcdd-4629-824f-949549eb7091",
+        "date": "18.5",
+        "date_format": "2024-05-18"
+      },
+      "report": {
+        "periods": 5,
+        "teams": {
+          "home": "Avalanche",
+          "away": "Stars"
+        },
+        "score": {
+          "home": 1,
+          "away": 2
+        },
+        "shots": {
+          "home": {
+            "wrist": 56,
+            "snap": 11,
+            "tip-in": 4,
+            "slap": 8,
+            "backhand": 4,
+            "deflected": 1
+          },
+          "away": {
+            "wrist": 74,
+            "tip-in": 8,
+            "backhand": 7,
+            "slap": 3,
+            "snap": 5,
+            "poke": 1,
+            "wrap-around": 3,
+            "deflected": 1
+          }
+        }
+      }
+    }
+  ]
+}

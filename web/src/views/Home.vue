@@ -3,6 +3,10 @@ import Header from "../components/header.vue";
 import WidgetShotsCounter from "../components/widgets/widget-shots-counter.vue";
 import WidgetGroupTeams from "../components/widgets/widget-group-teams.vue";
 import HeadlineTeams from "../components/content/headline-teams.vue";
+import WidgetShotsTotal from "@/components/widgets/widget-shots-total.vue";
+import WidgetShotsArea from "@/components/widgets/widget-shots-area.vue";
+import WidgetShotsDistance from "@/components/widgets/widget-shots-distance.vue";
+import WidgetShotsTypes from "@/components/widgets/widget-shots-types.vue";
 
 export default {
   name: "Home",
@@ -11,6 +15,7 @@ export default {
     t: () => {},
     groupKey: null,
     isLoading: true,
+    numGames: 0
   }),
   methods: {
     check: function () {
@@ -19,8 +24,14 @@ export default {
         const { found, key } = this.$services.toolService.checkGroupId(groupId);
         if (found) {
           this.groupKey = key;
+
+          this.$services.toolService.getSerieNumGames(groupId, true).then( resp =>{
+            this.numGames = resp
+          })
+          
         } else {
           this.groupKey = null;
+          this.numGames = [];
         }
       }
     },
@@ -32,6 +43,10 @@ export default {
     this.check();
   },
   components: {
+    WidgetShotsTypes,
+    WidgetShotsDistance,
+    WidgetShotsArea,
+    WidgetShotsTotal,
     Header,
     WidgetShotsCounter,
     WidgetGroupTeams,
@@ -68,15 +83,52 @@ export default {
     </div>
 
     <div class="row">
+      <div class="col-12">
+        <div class="cell">
+          <div class="cell-header">WidgetShotsTypes</div>
+          <WidgetShotsTypes  :groupKey="groupKey"/>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-12">
+        <div class="cell">
+          <div class="cell-header">WidgetShotsArea</div>
+          <WidgetShotsArea  :groupKey="groupKey"/>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-12">
+        <div class="cell">
+          <div class="cell-header">WidgetShotsDistance</div>
+          <WidgetShotsDistance  :groupKey="groupKey"/>
+        </div>
+      </div>
+    </div>
+
+
+    <div class="row">
+      <div class="col-12">
+        <div class="cell">
+          <div class="cell-header">WidgetShotsTotal</div>
+          <WidgetShotsTotal  :groupKey="groupKey"/>
+        </div>
+      </div>
+    </div>
+
+    <div class="row scrollable">
       <div
-        class="col-12-sm col-6-md col-3"
-        v-bind:key="idx"
-        v-for="idx in [0, 1, 2, 3]"
+        class="col-md-6 col-3"
+        v-bind:key="`WidgetShotsCounter_${groupKey}_${idx}`"
+        v-for="idx in this.numGames"
       >
         <div class="cell h2">
-          <div class="cell-header">SHOTS COUNTER by GAME: {{ idx + 1 }}</div>
+          <div class="cell-header">SHOTS COUNTER by GAME: {{ idx}}</div>
           <WidgetShotsCounter
-            :gameIdx="idx"
+            :gameIdx="idx - 1"
             :id="`shots-counter_${groupKey}_${idx}`"
             :groupKey="groupKey"
           />

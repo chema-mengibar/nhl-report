@@ -1,0 +1,152 @@
+{
+  "team_a": "Panthers",
+  "team_b": "Lightning",
+  "round": 1,
+  "games_reports": [
+    {
+      "schedule_data": {
+        "game": 1,
+        "id": "5bb5e41f-ddeb-4f62-81d0-6838a2566e35",
+        "date": "21.4",
+        "date_format": "2024-04-21"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Panthers",
+          "away": "Lightning"
+        },
+        "score": {
+          "home": 3,
+          "away": 2
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 25,
+            "shotmissed": 36
+          },
+          "away": {
+            "shotsaved": 17,
+            "shotmissed": 37
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 2,
+        "id": "702a554f-67c6-4628-b468-48c9a642d8ef",
+        "date": "24.4",
+        "date_format": "2024-04-24"
+      },
+      "report": {
+        "periods": 4,
+        "teams": {
+          "home": "Panthers",
+          "away": "Lightning"
+        },
+        "score": {
+          "home": 3,
+          "away": 2
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 34,
+            "shotmissed": 39
+          },
+          "away": {
+            "shotsaved": 21,
+            "shotmissed": 31
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 3,
+        "id": "dda2b533-c6c2-4c6a-b9c0-5eb3f13e153d",
+        "date": "26.4",
+        "date_format": "2024-04-26"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Lightning",
+          "away": "Panthers"
+        },
+        "score": {
+          "home": 3,
+          "away": 5
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 26,
+            "shotmissed": 35
+          },
+          "away": {
+            "shotsaved": 26,
+            "shotmissed": 26
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 4,
+        "id": "e30237bc-de0c-46c6-9a34-ba26d4d4722e",
+        "date": "27.4",
+        "date_format": "2024-04-27"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Lightning",
+          "away": "Panthers"
+        },
+        "score": {
+          "home": 6,
+          "away": 3
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 26,
+            "shotmissed": 33
+          },
+          "away": {
+            "shotsaved": 22,
+            "shotmissed": 33
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 5,
+        "id": "506c3ccd-61c1-4170-b19f-751e6ccae992",
+        "date": "30.4",
+        "date_format": "2024-04-30"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Panthers",
+          "away": "Lightning"
+        },
+        "score": {
+          "home": 6,
+          "away": 1
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 33,
+            "shotmissed": 26
+          },
+          "away": {
+            "shotsaved": 31,
+            "shotmissed": 38
+          }
+        }
+      }
+    }
+  ]
+}

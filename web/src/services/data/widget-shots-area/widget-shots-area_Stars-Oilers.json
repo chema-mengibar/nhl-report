@@ -1,0 +1,323 @@
+{
+  "team_a": "Stars",
+  "team_b": "Oilers",
+  "round": 3,
+  "games_reports": [
+    {
+      "schedule_data": {
+        "game": 1,
+        "id": "ee1ec51e-bbce-44ee-973e-2975b102751b",
+        "date": "23.5",
+        "date_format": "2024-05-23"
+      },
+      "report": {
+        "periods": 5,
+        "teams": {
+          "home": "Stars",
+          "away": "Oilers"
+        },
+        "score": {
+          "home": 2,
+          "away": 3
+        },
+        "shots_total": {
+          "home": 78,
+          "away": 84
+        },
+        "shots": {
+          "home": {
+            "slot": 4,
+            "neutralzone": 3,
+            "highslot": 8,
+            "leftpoint": 7,
+            "centerpoint": 4,
+            "lowslot": 10,
+            "insiderightcircle": 3,
+            "lowleftpoint": 7,
+            "outsiderightcircle": 3,
+            "outsideleftcircle": 7,
+            "insideleftcircle": 4,
+            "rightslot": 6,
+            "lowleft": 1,
+            "lowcenterpoint": 2,
+            "lowright": 2,
+            "rightpoint": 1,
+            "lowrightpoint": 5,
+            "leftslot": 1
+          },
+          "away": {
+            "outsiderightcircle": 8,
+            "insideleftcircle": 6,
+            "slot": 9,
+            "lowright": 3,
+            "lowleft": 3,
+            "rightpoint": 9,
+            "leftpoint": 5,
+            "neutralzone": 3,
+            "lowleftpoint": 4,
+            "highslot": 5,
+            "centerpoint": 2,
+            "lowrightpoint": 1,
+            "rightslot": 5,
+            "outsideleftcircle": 3,
+            "lowslot": 11,
+            "defensivezone": 2,
+            "insiderightcircle": 3,
+            "lowcenterpoint": 1,
+            "leftslot": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 2,
+        "id": "06b5f401-20ea-4c4b-9290-1d0a6fb02507",
+        "date": "26.5",
+        "date_format": "2024-05-26"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Stars",
+          "away": "Oilers"
+        },
+        "score": {
+          "home": 3,
+          "away": 1
+        },
+        "shots_total": {
+          "home": 50,
+          "away": 64
+        },
+        "shots": {
+          "home": {
+            "lowrightpoint": 3,
+            "slot": 7,
+            "rightslot": 4,
+            "highslot": 6,
+            "leftpoint": 3,
+            "lowleft": 3,
+            "centerpoint": 2,
+            "outsiderightcircle": 2,
+            "lowslot": 6,
+            "rightpoint": 2,
+            "lowleftpoint": 2,
+            "lowright": 2,
+            "neutralzone": 2,
+            "insiderightcircle": 2,
+            "leftslot": 3,
+            "insideleftcircle": 1
+          },
+          "away": {
+            "slot": 11,
+            "neutralzone": 3,
+            "insideleftcircle": 3,
+            "rightpoint": 4,
+            "leftpoint": 4,
+            "lowslot": 6,
+            "lowrightpoint": 3,
+            "insiderightcircle": 3,
+            "leftslot": 1,
+            "lowcenterpoint": 3,
+            "outsiderightcircle": 2,
+            "outsideleftcircle": 4,
+            "rightslot": 4,
+            "defensivezone": 2,
+            "centerpoint": 1,
+            "lowleftpoint": 3,
+            "highslot": 4,
+            "lowleft": 2,
+            "downlow": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 3,
+        "id": "34046c33-1419-45d7-9b73-90938559cb48",
+        "date": "28.5",
+        "date_format": "2024-05-28"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Oilers",
+          "away": "Stars"
+        },
+        "score": {
+          "home": 3,
+          "away": 5
+        },
+        "shots_total": {
+          "home": 73,
+          "away": 48
+        },
+        "shots": {
+          "home": {
+            "lowcenterpoint": 1,
+            "leftslot": 3,
+            "slot": 6,
+            "leftpoint": 5,
+            "outsiderightcircle": 3,
+            "lowrightpoint": 7,
+            "lowslot": 9,
+            "highslot": 13,
+            "outsideleftcircle": 6,
+            "neutralzone": 2,
+            "rightpoint": 6,
+            "lowleftpoint": 1,
+            "insideleftcircle": 2,
+            "lowleft": 5,
+            "lowright": 3,
+            "centerpoint": 1
+          },
+          "away": {
+            "lowrightpoint": 5,
+            "outsideleftcircle": 4,
+            "lowslot": 6,
+            "insideleftcircle": 4,
+            "insiderightcircle": 4,
+            "leftslot": 3,
+            "slot": 6,
+            "rightpoint": 3,
+            "highslot": 5,
+            "lowcenterpoint": 2,
+            "neutralzone": 1,
+            "lowright": 2,
+            "rightslot": 1,
+            "downlow": 1,
+            "defensivezone": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 4,
+        "id": "413282bc-8ff9-4e7b-8e9c-d787f403f2dc",
+        "date": "30.5",
+        "date_format": "2024-05-30"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Oilers",
+          "away": "Stars"
+        },
+        "score": {
+          "home": 5,
+          "away": 2
+        },
+        "shots_total": {
+          "home": 59,
+          "away": 50
+        },
+        "shots": {
+          "home": {
+            "neutralzone": 5,
+            "lowright": 5,
+            "slot": 6,
+            "lowleftpoint": 3,
+            "centerpoint": 1,
+            "lowslot": 6,
+            "outsideleftcircle": 3,
+            "insideleftcircle": 6,
+            "lowcenterpoint": 2,
+            "rightslot": 3,
+            "leftslot": 2,
+            "insiderightcircle": 2,
+            "lowleft": 1,
+            "lowrightpoint": 1,
+            "downlow": 2,
+            "rightpoint": 1,
+            "defensivezone": 7,
+            "outsiderightcircle": 1,
+            "leftpoint": 2
+          },
+          "away": {
+            "insideleftcircle": 5,
+            "rightpoint": 7,
+            "leftpoint": 1,
+            "highslot": 5,
+            "rightslot": 3,
+            "lowleftpoint": 3,
+            "slot": 5,
+            "outsideleftcircle": 2,
+            "defensivezone": 15,
+            "centerpoint": 1,
+            "lowleft": 1,
+            "outsiderightcircle": 1,
+            "neutralzone": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 5,
+        "id": "640c3761-b0a8-4c97-a0cf-821d13b37d6a",
+        "date": "1.6",
+        "date_format": "2024-06-01"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Stars",
+          "away": "Oilers"
+        },
+        "score": {
+          "home": 1,
+          "away": 3
+        },
+        "shots_total": {
+          "home": 59,
+          "away": 67
+        },
+        "shots": {
+          "home": {
+            "centerpoint": 5,
+            "lowleftpoint": 5,
+            "lowslot": 10,
+            "slot": 8,
+            "rightslot": 2,
+            "lowleft": 2,
+            "highslot": 8,
+            "leftslot": 1,
+            "insideleftcircle": 4,
+            "lowcenterpoint": 1,
+            "insiderightcircle": 2,
+            "outsideleftcircle": 1,
+            "leftpoint": 2,
+            "rightpoint": 4,
+            "neutralzone": 1,
+            "outsiderightcircle": 1,
+            "lowrightpoint": 1,
+            "lowright": 1
+          },
+          "away": {
+            "outsiderightcircle": 1,
+            "insiderightcircle": 5,
+            "lowleft": 6,
+            "insideleftcircle": 4,
+            "lowrightpoint": 6,
+            "centerpoint": 5,
+            "rightpoint": 5,
+            "highslot": 4,
+            "slot": 4,
+            "leftslot": 4,
+            "neutralzone": 2,
+            "downlow": 3,
+            "lowleftpoint": 3,
+            "lowslot": 5,
+            "outsideleftcircle": 1,
+            "leftpoint": 7,
+            "lowcenterpoint": 1,
+            "rightslot": 1
+          }
+        }
+      }
+    }
+  ]
+}

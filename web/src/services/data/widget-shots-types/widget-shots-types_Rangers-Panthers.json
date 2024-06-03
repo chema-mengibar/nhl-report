@@ -1,0 +1,233 @@
+{
+  "team_a": "Rangers",
+  "team_b": "Panthers",
+  "round": 3,
+  "games_reports": [
+    {
+      "schedule_data": {
+        "game": 1,
+        "id": "18d15999-4095-4262-976e-4d2d985099d4",
+        "date": "22.5",
+        "date_format": "2024-05-22"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Rangers",
+          "away": "Panthers"
+        },
+        "score": {
+          "home": 0,
+          "away": 3
+        },
+        "shots": {
+          "home": {
+            "wrist": 34,
+            "slap": 18,
+            "snap": 6,
+            "tip-in": 3,
+            "backhand": 2
+          },
+          "away": {
+            "slap": 8,
+            "snap": 7,
+            "wrist": 40,
+            "tip-in": 6,
+            "backhand": 3,
+            "wrap-around": 1,
+            "": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 2,
+        "id": "3373015e-ad83-4cfd-9468-728f91827a60",
+        "date": "24.5",
+        "date_format": "2024-05-24"
+      },
+      "report": {
+        "periods": 4,
+        "teams": {
+          "home": "Rangers",
+          "away": "Panthers"
+        },
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "shots": {
+          "home": {
+            "slap": 12,
+            "wrist": 48,
+            "snap": 8,
+            "backhand": 3,
+            "tip-in": 7
+          },
+          "away": {
+            "wrist": 44,
+            "snap": 13,
+            "tip-in": 3,
+            "slap": 5,
+            "backhand": 8,
+            "bat": 1,
+            "wrap-around": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 3,
+        "id": "04a92a0a-5155-4eca-beea-43745e27644c",
+        "date": "26.5",
+        "date_format": "2024-05-26"
+      },
+      "report": {
+        "periods": 4,
+        "teams": {
+          "home": "Panthers",
+          "away": "Rangers"
+        },
+        "score": {
+          "home": 4,
+          "away": 5
+        },
+        "shots": {
+          "home": {
+            "backhand": 10,
+            "slap": 9,
+            "wrist": 61,
+            "snap": 21,
+            "deflected": 3,
+            "tip-in": 1,
+            "bat": 2,
+            "poke": 1
+          },
+          "away": {
+            "snap": 11,
+            "deflected": 3,
+            "backhand": 2,
+            "tip-in": 2,
+            "wrist": 20,
+            "slap": 5
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 4,
+        "id": "02501726-a798-4455-a583-f32dcfdae98c",
+        "date": "29.5",
+        "date_format": "2024-05-29"
+      },
+      "report": {
+        "periods": 4,
+        "teams": {
+          "home": "Panthers",
+          "away": "Rangers"
+        },
+        "score": {
+          "home": 3,
+          "away": 2
+        },
+        "shots": {
+          "home": {
+            "wrist": 43,
+            "slap": 9,
+            "snap": 23,
+            "backhand": 6,
+            "tip-in": 3,
+            "bat": 2,
+            "wrap-around": 2,
+            "deflected": 1
+          },
+          "away": {
+            "backhand": 1,
+            "slap": 6,
+            "wrist": 19,
+            "snap": 14,
+            "deflected": 3,
+            "tip-in": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 5,
+        "id": "68db71ad-614a-4c27-870e-4244d6ab68a9",
+        "date": "31.5",
+        "date_format": "2024-05-31"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Rangers",
+          "away": "Panthers"
+        },
+        "score": {
+          "home": 2,
+          "away": 3
+        },
+        "shots": {
+          "home": {
+            "snap": 3,
+            "slap": 8,
+            "wrist": 44,
+            "backhand": 7,
+            "deflected": 1,
+            "tip-in": 7
+          },
+          "away": {
+            "slap": 5,
+            "wrist": 51,
+            "backhand": 8,
+            "tip-in": 3,
+            "between legs": 2,
+            "snap": 2
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 6,
+        "id": "276ea83a-9779-4e01-9c74-019f29a9e1b5",
+        "date": "2.6",
+        "date_format": "2024-06-02"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Panthers",
+          "away": "Rangers"
+        },
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "shots": {
+          "home": {
+            "tip-in": 3,
+            "wrist": 45,
+            "backhand": 5,
+            "slap": 4,
+            "snap": 2,
+            "wrap-around": 1
+          },
+          "away": {
+            "wrist": 57,
+            "tip-in": 5,
+            "snap": 4,
+            "bat": 1,
+            "backhand": 5,
+            "slap": 2
+          }
+        }
+      }
+    }
+  ]
+}

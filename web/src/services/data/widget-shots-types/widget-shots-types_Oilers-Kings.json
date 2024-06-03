@@ -1,0 +1,198 @@
+{
+  "team_a": "Oilers",
+  "team_b": "Kings",
+  "round": 1,
+  "games_reports": [
+    {
+      "schedule_data": {
+        "game": 1,
+        "id": "0a5929c0-3ee0-4cdd-83e9-853130a3baf5",
+        "date": "23.4",
+        "date_format": "2024-04-23"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Oilers",
+          "away": "Kings"
+        },
+        "score": {
+          "home": 7,
+          "away": 4
+        },
+        "shots": {
+          "home": {
+            "slap": 11,
+            "deflected": 1,
+            "backhand": 10,
+            "wrist": 33,
+            "snap": 16,
+            "tip-in": 4,
+            "wrap-around": 2
+          },
+          "away": {
+            "wrist": 32,
+            "snap": 25,
+            "backhand": 2,
+            "slap": 7,
+            "tip-in": 7,
+            "deflected": 1,
+            "wrap-around": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 2,
+        "id": "3a2dd324-e165-405d-9480-b6a9742aef68",
+        "date": "25.4",
+        "date_format": "2024-04-25"
+      },
+      "report": {
+        "periods": 4,
+        "teams": {
+          "home": "Oilers",
+          "away": "Kings"
+        },
+        "score": {
+          "home": 4,
+          "away": 5
+        },
+        "shots": {
+          "home": {
+            "wrist": 35,
+            "tip-in": 5,
+            "wrap-around": 1,
+            "slap": 9,
+            "snap": 11,
+            "backhand": 4,
+            "deflected": 1
+          },
+          "away": {
+            "backhand": 3,
+            "slap": 7,
+            "wrist": 33,
+            "snap": 16,
+            "bat": 1,
+            "poke": 1,
+            "wrap-around": 2
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 3,
+        "id": "972395a5-5a16-4663-ab4b-e40af7deea7e",
+        "date": "27.4",
+        "date_format": "2024-04-27"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Kings",
+          "away": "Oilers"
+        },
+        "score": {
+          "home": 1,
+          "away": 6
+        },
+        "shots": {
+          "home": {
+            "snap": 6,
+            "tip-in": 5,
+            "wrist": 36,
+            "slap": 11,
+            "backhand": 3,
+            "wrap-around": 1,
+            "deflected": 1
+          },
+          "away": {
+            "wrist": 33,
+            "slap": 12,
+            "snap": 7,
+            "deflected": 2,
+            "backhand": 3,
+            "wrap-around": 1,
+            "tip-in": 1,
+            "bat": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 4,
+        "id": "a667aa25-7b52-454f-a6ee-569aa436f70d",
+        "date": "29.4",
+        "date_format": "2024-04-29"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Kings",
+          "away": "Oilers"
+        },
+        "score": {
+          "home": 0,
+          "away": 1
+        },
+        "shots": {
+          "home": {
+            "tip-in": 5,
+            "wrist": 40,
+            "slap": 11,
+            "backhand": 6,
+            "snap": 10,
+            "poke": 1,
+            "deflected": 2
+          },
+          "away": {
+            "slap": 10,
+            "snap": 9,
+            "wrist": 17,
+            "wrap-around": 2
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 5,
+        "id": "5c492b5b-20df-4307-896d-69223c1d6f1e",
+        "date": "2.5",
+        "date_format": "2024-05-02"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Oilers",
+          "away": "Kings"
+        },
+        "score": {
+          "home": 4,
+          "away": 3
+        },
+        "shots": {
+          "home": {
+            "tip-in": 2,
+            "snap": 18,
+            "slap": 5,
+            "wrist": 19,
+            "backhand": 3,
+            "deflected": 2
+          },
+          "away": {
+            "backhand": 4,
+            "snap": 23,
+            "wrap-around": 3,
+            "wrist": 18,
+            "slap": 5,
+            "tip-in": 5
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,456 @@
+{
+  "team_a": "Canucks",
+  "team_b": "Oilers",
+  "round": 2,
+  "games_reports": [
+    {
+      "schedule_data": {
+        "game": 1,
+        "id": "267c3ef4-e49a-463c-9eb6-eb2523fbc4aa",
+        "date": "9.5",
+        "date_format": "2024-05-09"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Canucks",
+          "away": "Oilers"
+        },
+        "score": {
+          "home": 5,
+          "away": 4
+        },
+        "shots_total": {
+          "home": 54,
+          "away": 45
+        },
+        "shots": {
+          "home": {
+            "lowrightpoint": 3,
+            "lowleft": 5,
+            "lowslot": 11,
+            "downlow": 1,
+            "defensivezone": 1,
+            "centerpoint": 4,
+            "insiderightcircle": 4,
+            "insideleftcircle": 3,
+            "rightpoint": 3,
+            "slot": 5,
+            "highslot": 3,
+            "leftpoint": 4,
+            "outsideleftcircle": 2,
+            "lowright": 3,
+            "neutralzone": 1,
+            "lowleftpoint": 1
+          },
+          "away": {
+            "rightslot": 4,
+            "lowleft": 4,
+            "outsiderightcircle": 2,
+            "insideleftcircle": 5,
+            "lowrightpoint": 4,
+            "neutralzone": 1,
+            "insiderightcircle": 2,
+            "leftpoint": 6,
+            "lowslot": 4,
+            "outsideleftcircle": 1,
+            "downlow": 1,
+            "rightpoint": 3,
+            "leftslot": 1,
+            "slot": 1,
+            "highslot": 2,
+            "lowright": 2,
+            "centerpoint": 2
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 2,
+        "id": "d8faeb20-b615-4f7e-ad1a-242f26a04528",
+        "date": "11.5",
+        "date_format": "2024-05-11"
+      },
+      "report": {
+        "periods": 4,
+        "teams": {
+          "home": "Canucks",
+          "away": "Oilers"
+        },
+        "score": {
+          "home": 3,
+          "away": 4
+        },
+        "shots_total": {
+          "home": 39,
+          "away": 74
+        },
+        "shots": {
+          "home": {
+            "outsiderightcircle": 1,
+            "lowright": 2,
+            "rightpoint": 4,
+            "lowrightpoint": 1,
+            "lowslot": 3,
+            "highslot": 3,
+            "slot": 6,
+            "outsideleftcircle": 3,
+            "leftslot": 3,
+            "insiderightcircle": 2,
+            "leftpoint": 2,
+            "neutralzone": 2,
+            "downlow": 1,
+            "lowleft": 3,
+            "rightslot": 1,
+            "defensivezone": 1,
+            "lowcenterpoint": 1
+          },
+          "away": {
+            "lowleftpoint": 5,
+            "rightpoint": 5,
+            "neutralzone": 2,
+            "lowleft": 8,
+            "highslot": 7,
+            "leftpoint": 5,
+            "lowright": 6,
+            "slot": 6,
+            "insideleftcircle": 7,
+            "lowslot": 11,
+            "leftslot": 1,
+            "lowcenterpoint": 1,
+            "rightslot": 1,
+            "lowrightpoint": 1,
+            "insiderightcircle": 2,
+            "outsideleftcircle": 3,
+            "centerpoint": 2,
+            "outsiderightcircle": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 3,
+        "id": "00e153e0-e13d-4cd8-896f-e1c848c4febc",
+        "date": "13.5",
+        "date_format": "2024-05-13"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Oilers",
+          "away": "Canucks"
+        },
+        "score": {
+          "home": 3,
+          "away": 4
+        },
+        "shots_total": {
+          "home": 87,
+          "away": 33
+        },
+        "shots": {
+          "home": {
+            "outsideleftcircle": 2,
+            "leftpoint": 6,
+            "insiderightcircle": 3,
+            "rightpoint": 12,
+            "lowslot": 15,
+            "rightslot": 8,
+            "insideleftcircle": 8,
+            "-": 1,
+            "slot": 7,
+            "lowcenterpoint": 2,
+            "highslot": 4,
+            "outsiderightcircle": 3,
+            "centerpoint": 3,
+            "lowright": 2,
+            "lowrightpoint": 3,
+            "leftslot": 3,
+            "neutralzone": 4,
+            "lowleft": 1
+          },
+          "away": {
+            "lowslot": 4,
+            "rightpoint": 1,
+            "insiderightcircle": 3,
+            "outsiderightcircle": 2,
+            "leftpoint": 3,
+            "highslot": 3,
+            "neutralzone": 3,
+            "lowright": 1,
+            "slot": 4,
+            "outsideleftcircle": 1,
+            "lowcenterpoint": 1,
+            "lowrightpoint": 2,
+            "insideleftcircle": 1,
+            "lowleft": 1,
+            "leftslot": 2,
+            "defensivezone": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 4,
+        "id": "5997930f-3819-4935-bd1d-a72af9197285",
+        "date": "15.5",
+        "date_format": "2024-05-15"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Oilers",
+          "away": "Canucks"
+        },
+        "score": {
+          "home": 3,
+          "away": 2
+        },
+        "shots_total": {
+          "home": 63,
+          "away": 60
+        },
+        "shots": {
+          "home": {
+            "leftpoint": 5,
+            "lowslot": 5,
+            "rightpoint": 4,
+            "insiderightcircle": 7,
+            "lowrightpoint": 3,
+            "centerpoint": 4,
+            "insideleftcircle": 8,
+            "highslot": 3,
+            "lowright": 3,
+            "outsideleftcircle": 2,
+            "leftslot": 1,
+            "defensivezone": 2,
+            "slot": 6,
+            "rightslot": 2,
+            "lowcenterpoint": 2,
+            "lowleftpoint": 2,
+            "lowleft": 2,
+            "outsiderightcircle": 1,
+            "neutralzone": 1
+          },
+          "away": {
+            "slot": 5,
+            "rightpoint": 7,
+            "outsideleftcircle": 1,
+            "insideleftcircle": 4,
+            "lowslot": 7,
+            "highslot": 5,
+            "leftpoint": 8,
+            "leftslot": 3,
+            "lowleftpoint": 2,
+            "rightslot": 2,
+            "lowleft": 2,
+            "outsiderightcircle": 4,
+            "insiderightcircle": 4,
+            "neutralzone": 3,
+            "lowrightpoint": 1,
+            "lowcenterpoint": 1,
+            "centerpoint": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 5,
+        "id": "97f90c91-347d-4e2b-bff2-b95d5d75d9d0",
+        "date": "17.5",
+        "date_format": "2024-05-17"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Canucks",
+          "away": "Oilers"
+        },
+        "score": {
+          "home": 3,
+          "away": 2
+        },
+        "shots_total": {
+          "home": 70,
+          "away": 58
+        },
+        "shots": {
+          "home": {
+            "slot": 8,
+            "leftpoint": 6,
+            "lowslot": 14,
+            "lowleft": 1,
+            "rightpoint": 3,
+            "lowcenterpoint": 4,
+            "downlow": 1,
+            "defensivezone": 2,
+            "outsideleftcircle": 3,
+            "insiderightcircle": 2,
+            "highslot": 6,
+            "lowleftpoint": 4,
+            "insideleftcircle": 5,
+            "lowrightpoint": 2,
+            "outsiderightcircle": 2,
+            "leftslot": 2,
+            "centerpoint": 3,
+            "rightslot": 1,
+            "lowright": 1
+          },
+          "away": {
+            "slot": 2,
+            "insideleftcircle": 4,
+            "centerpoint": 5,
+            "insiderightcircle": 6,
+            "outsiderightcircle": 4,
+            "lowslot": 6,
+            "leftpoint": 4,
+            "leftslot": 2,
+            "outsideleftcircle": 3,
+            "highslot": 5,
+            "rightpoint": 5,
+            "lowrightpoint": 1,
+            "lowleftpoint": 2,
+            "neutralzone": 2,
+            "lowleft": 4,
+            "downlow": 1,
+            "rightslot": 1,
+            "lowcenterpoint": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 6,
+        "id": "e7d9a52b-34bb-4ddd-a636-a79a3c3601f5",
+        "date": "19.5",
+        "date_format": "2024-05-19"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Oilers",
+          "away": "Canucks"
+        },
+        "score": {
+          "home": 5,
+          "away": 1
+        },
+        "shots_total": {
+          "home": 63,
+          "away": 52
+        },
+        "shots": {
+          "home": {
+            "outsideleftcircle": 4,
+            "insideleftcircle": 4,
+            "rightpoint": 6,
+            "lowleftpoint": 6,
+            "centerpoint": 2,
+            "outsiderightcircle": 4,
+            "slot": 2,
+            "highslot": 4,
+            "lowcenterpoint": 2,
+            "lowrightpoint": 1,
+            "rightslot": 1,
+            "lowright": 7,
+            "lowleft": 3,
+            "insiderightcircle": 3,
+            "lowslot": 7,
+            "leftpoint": 3,
+            "neutralzone": 3,
+            "leftslot": 1
+          },
+          "away": {
+            "outsiderightcircle": 3,
+            "downlow": 1,
+            "rightpoint": 5,
+            "slot": 3,
+            "lowrightpoint": 2,
+            "outsideleftcircle": 2,
+            "lowright": 2,
+            "highslot": 6,
+            "rightslot": 5,
+            "lowleftpoint": 4,
+            "insiderightcircle": 4,
+            "lowslot": 5,
+            "lowleft": 1,
+            "neutralzone": 2,
+            "leftpoint": 4,
+            "leftslot": 1,
+            "centerpoint": 1,
+            "insideleftcircle": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 7,
+        "id": "7ddc653f-b5c4-44fe-8cf3-2e24ba0da941",
+        "date": "21.5",
+        "date_format": "2024-05-21"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Canucks",
+          "away": "Oilers"
+        },
+        "score": {
+          "home": 2,
+          "away": 3
+        },
+        "shots_total": {
+          "home": 62,
+          "away": 46
+        },
+        "shots": {
+          "home": {
+            "leftslot": 1,
+            "insiderightcircle": 7,
+            "lowslot": 8,
+            "outsiderightcircle": 2,
+            "lowrightpoint": 3,
+            "slot": 13,
+            "neutralzone": 2,
+            "insideleftcircle": 3,
+            "lowright": 1,
+            "defensivezone": 2,
+            "lowcenterpoint": 2,
+            "rightpoint": 5,
+            "highslot": 5,
+            "outsideleftcircle": 3,
+            "rightslot": 1,
+            "centerpoint": 2,
+            "lowleft": 1,
+            "lowleftpoint": 1
+          },
+          "away": {
+            "neutralzone": 2,
+            "lowrightpoint": 4,
+            "leftslot": 2,
+            "leftpoint": 1,
+            "rightslot": 3,
+            "rightpoint": 3,
+            "lowleftpoint": 4,
+            "outsideleftcircle": 2,
+            "slot": 7,
+            "insiderightcircle": 3,
+            "outsiderightcircle": 3,
+            "defensivezone": 1,
+            "insideleftcircle": 1,
+            "highslot": 2,
+            "lowleft": 2,
+            "lowslot": 5,
+            "lowright": 1
+          }
+        }
+      }
+    }
+  ]
+}

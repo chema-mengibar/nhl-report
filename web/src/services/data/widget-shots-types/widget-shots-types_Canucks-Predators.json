@@ -1,0 +1,232 @@
+{
+  "team_a": "Canucks",
+  "team_b": "Predators",
+  "round": 1,
+  "games_reports": [
+    {
+      "schedule_data": {
+        "game": 1,
+        "id": "bfdf7998-fc52-47be-b7bc-58caccfd3327",
+        "date": "22.4",
+        "date_format": "2024-04-22"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Canucks",
+          "away": "Predators"
+        },
+        "score": {
+          "home": 4,
+          "away": 2
+        },
+        "shots": {
+          "home": {
+            "wrist": 27,
+            "slap": 9,
+            "snap": 13,
+            "tip-in": 4,
+            "backhand": 2
+          },
+          "away": {
+            "snap": 6,
+            "wrist": 27,
+            "backhand": 4,
+            "tip-in": 1,
+            "slap": 11,
+            "wrap-around": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 2,
+        "id": "1e7d85f0-c9d0-4c51-b7b7-1207f60c5bba",
+        "date": "24.4",
+        "date_format": "2024-04-24"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Canucks",
+          "away": "Predators"
+        },
+        "score": {
+          "home": 1,
+          "away": 4
+        },
+        "shots": {
+          "home": {
+            "wrist": 49,
+            "slap": 13,
+            "snap": 13,
+            "tip-in": 6,
+            "backhand": 2,
+            "wrap-around": 1
+          },
+          "away": {
+            "tip-in": 5,
+            "wrist": 22,
+            "slap": 4,
+            "poke": 3,
+            "snap": 1,
+            "backhand": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 3,
+        "id": "e1da10b9-5ff2-474b-99e6-301ef7eb4cee",
+        "date": "27.4",
+        "date_format": "2024-04-27"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Predators",
+          "away": "Canucks"
+        },
+        "score": {
+          "home": 1,
+          "away": 2
+        },
+        "shots": {
+          "home": {
+            "wrist": 40,
+            "tip-in": 7,
+            "backhand": 2,
+            "slap": 13,
+            "deflected": 2,
+            "wrap-around": 1,
+            "snap": 6
+          },
+          "away": {
+            "wrist": 18,
+            "tip-in": 3,
+            "snap": 5,
+            "slap": 4,
+            "backhand": 3
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 4,
+        "id": "825b2b48-74a6-4088-8aba-68b3c4ac3d0e",
+        "date": "28.4",
+        "date_format": "2024-04-28"
+      },
+      "report": {
+        "periods": 4,
+        "teams": {
+          "home": "Predators",
+          "away": "Canucks"
+        },
+        "score": {
+          "home": 3,
+          "away": 4
+        },
+        "shots": {
+          "home": {
+            "wrist": 26,
+            "slap": 9,
+            "snap": 10,
+            "tip-in": 3,
+            "deflected": 2,
+            "backhand": 4
+          },
+          "away": {
+            "wrist": 35,
+            "slap": 1,
+            "wrap-around": 1,
+            "snap": 4,
+            "tip-in": 2,
+            "deflected": 2,
+            "backhand": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 5,
+        "id": "bd61115a-229c-4c54-9fde-f774ff31432b",
+        "date": "1.5",
+        "date_format": "2024-05-01"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Canucks",
+          "away": "Predators"
+        },
+        "score": {
+          "home": 1,
+          "away": 2
+        },
+        "shots": {
+          "home": {
+            "tip-in": 8,
+            "slap": 9,
+            "wrist": 32,
+            "deflected": 1,
+            "snap": 3,
+            "backhand": 2
+          },
+          "away": {
+            "backhand": 1,
+            "wrist": 36,
+            "slap": 8,
+            "snap": 5,
+            "wrap-around": 2,
+            "tip-in": 2,
+            "bat": 2,
+            "poke": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 6,
+        "id": "8b5940ca-4154-40ac-a6c3-034edc084e74",
+        "date": "4.5",
+        "date_format": "2024-05-04"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Predators",
+          "away": "Canucks"
+        },
+        "score": {
+          "home": 0,
+          "away": 1
+        },
+        "shots": {
+          "home": {
+            "wrist": 41,
+            "snap": 3,
+            "slap": 8,
+            "wrap-around": 1,
+            "backhand": 7,
+            "tip-in": 4,
+            "bat": 1
+          },
+          "away": {
+            "wrist": 34,
+            "slap": 13,
+            "snap": 6,
+            "tip-in": 1,
+            "backhand": 5,
+            "bat": 1
+          }
+        }
+      }
+    }
+  ]
+}

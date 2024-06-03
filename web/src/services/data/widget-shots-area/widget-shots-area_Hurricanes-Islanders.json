@@ -1,0 +1,334 @@
+{
+  "team_a": "Hurricanes",
+  "team_b": "Islanders",
+  "round": 1,
+  "games_reports": [
+    {
+      "schedule_data": {
+        "game": 1,
+        "id": "4e0a7b20-f312-46b3-aa0e-5763b7a18623",
+        "date": "20.4",
+        "date_format": "2024-04-20"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Hurricanes",
+          "away": "Islanders"
+        },
+        "score": {
+          "home": 3,
+          "away": 1
+        },
+        "shots_total": {
+          "home": 74,
+          "away": 57
+        },
+        "shots": {
+          "home": {
+            "rightpoint": 4,
+            "highslot": 6,
+            "lowleft": 3,
+            "slot": 5,
+            "lowrightpoint": 5,
+            "leftslot": 4,
+            "lowslot": 7,
+            "insiderightcircle": 1,
+            "downlow": 1,
+            "rightslot": 4,
+            "lowcenterpoint": 4,
+            "insideleftcircle": 3,
+            "neutralzone": 4,
+            "leftpoint": 7,
+            "lowleftpoint": 5,
+            "defensivezone": 1,
+            "centerpoint": 4,
+            "outsiderightcircle": 2,
+            "outsideleftcircle": 3,
+            "lowright": 1
+          },
+          "away": {
+            "lowleft": 1,
+            "defensivezone": 1,
+            "insiderightcircle": 4,
+            "rightpoint": 6,
+            "slot": 7,
+            "lowslot": 4,
+            "lowleftpoint": 5,
+            "centerpoint": 6,
+            "lowrightpoint": 1,
+            "leftpoint": 3,
+            "insideleftcircle": 1,
+            "lowright": 3,
+            "neutralzone": 2,
+            "outsiderightcircle": 1,
+            "highslot": 3,
+            "outsideleftcircle": 6,
+            "lowcenterpoint": 1,
+            "rightslot": 1,
+            "leftslot": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 2,
+        "id": "44a404ce-37b3-4247-9abd-9ea99f14af46",
+        "date": "23.4",
+        "date_format": "2024-04-23"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Hurricanes",
+          "away": "Islanders"
+        },
+        "score": {
+          "home": 5,
+          "away": 3
+        },
+        "shots_total": {
+          "home": 110,
+          "away": 28
+        },
+        "shots": {
+          "home": {
+            "leftpoint": 9,
+            "lowcenterpoint": 1,
+            "slot": 18,
+            "insideleftcircle": 9,
+            "outsideleftcircle": 3,
+            "lowrightpoint": 3,
+            "insiderightcircle": 6,
+            "lowright": 4,
+            "outsiderightcircle": 3,
+            "lowslot": 13,
+            "rightpoint": 10,
+            "centerpoint": 7,
+            "lowleft": 6,
+            "highslot": 4,
+            "lowleftpoint": 1,
+            "leftslot": 7,
+            "rightslot": 2,
+            "defensivezone": 1,
+            "downlow": 3
+          },
+          "away": {
+            "insiderightcircle": 3,
+            "leftpoint": 2,
+            "lowright": 3,
+            "highslot": 2,
+            "lowrightpoint": 1,
+            "lowslot": 8,
+            "lowcenterpoint": 3,
+            "outsideleftcircle": 1,
+            "centerpoint": 1,
+            "slot": 1,
+            "outsiderightcircle": 1,
+            "rightpoint": 1,
+            "lowleftpoint": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 3,
+        "id": "06aa6ee7-b10f-463f-a5dc-beb136825df0",
+        "date": "26.4",
+        "date_format": "2024-04-26"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Islanders",
+          "away": "Hurricanes"
+        },
+        "score": {
+          "home": 2,
+          "away": 3
+        },
+        "shots_total": {
+          "home": 66,
+          "away": 63
+        },
+        "shots": {
+          "home": {
+            "lowleft": 3,
+            "lowrightpoint": 4,
+            "lowslot": 9,
+            "insiderightcircle": 1,
+            "lowleftpoint": 2,
+            "outsiderightcircle": 5,
+            "insideleftcircle": 3,
+            "centerpoint": 2,
+            "neutralzone": 3,
+            "leftslot": 5,
+            "lowcenterpoint": 2,
+            "rightslot": 1,
+            "rightpoint": 8,
+            "leftpoint": 7,
+            "slot": 4,
+            "outsideleftcircle": 3,
+            "highslot": 3,
+            "downlow": 1
+          },
+          "away": {
+            "leftpoint": 8,
+            "slot": 3,
+            "lowright": 2,
+            "lowleftpoint": 5,
+            "lowleft": 5,
+            "highslot": 6,
+            "lowrightpoint": 4,
+            "outsideleftcircle": 3,
+            "neutralzone": 3,
+            "insideleftcircle": 3,
+            "centerpoint": 5,
+            "lowslot": 3,
+            "rightslot": 4,
+            "rightpoint": 6,
+            "lowcenterpoint": 1,
+            "leftslot": 1,
+            "outsiderightcircle": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 4,
+        "id": "729e32df-183d-475e-a37c-8c6191fcbefd",
+        "date": "27.4",
+        "date_format": "2024-04-27"
+      },
+      "report": {
+        "periods": 5,
+        "teams": {
+          "home": "Islanders",
+          "away": "Hurricanes"
+        },
+        "score": {
+          "home": 3,
+          "away": 2
+        },
+        "shots_total": {
+          "home": 78,
+          "away": 93
+        },
+        "shots": {
+          "home": {
+            "neutralzone": 4,
+            "rightpoint": 5,
+            "lowright": 4,
+            "lowrightpoint": 5,
+            "lowslot": 9,
+            "rightslot": 2,
+            "slot": 8,
+            "insiderightcircle": 4,
+            "leftpoint": 10,
+            "leftslot": 2,
+            "centerpoint": 3,
+            "lowleftpoint": 5,
+            "highslot": 5,
+            "insideleftcircle": 3,
+            "defensivezone": 1,
+            "outsiderightcircle": 2,
+            "lowcenterpoint": 1,
+            "outsideleftcircle": 1,
+            "lowleft": 2,
+            "downlow": 2
+          },
+          "away": {
+            "lowleft": 5,
+            "outsideleftcircle": 7,
+            "leftpoint": 5,
+            "insiderightcircle": 8,
+            "centerpoint": 1,
+            "lowslot": 13,
+            "leftslot": 3,
+            "highslot": 4,
+            "lowleftpoint": 2,
+            "downlow": 3,
+            "insideleftcircle": 4,
+            "neutralzone": 2,
+            "lowcenterpoint": 2,
+            "rightpoint": 7,
+            "lowright": 5,
+            "slot": 8,
+            "lowrightpoint": 3,
+            "defensivezone": 2,
+            "rightslot": 2,
+            "outsiderightcircle": 7
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 5,
+        "id": "7c3872e5-2cf7-4ce0-8e8b-9f20ad531bc5",
+        "date": "1.5",
+        "date_format": "2024-05-01"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Hurricanes",
+          "away": "Islanders"
+        },
+        "score": {
+          "home": 6,
+          "away": 3
+        },
+        "shots_total": {
+          "home": 71,
+          "away": 61
+        },
+        "shots": {
+          "home": {
+            "insideleftcircle": 8,
+            "lowleft": 4,
+            "lowleftpoint": 6,
+            "lowright": 4,
+            "lowslot": 4,
+            "outsiderightcircle": 3,
+            "insiderightcircle": 4,
+            "defensivezone": 2,
+            "leftpoint": 7,
+            "rightpoint": 6,
+            "leftslot": 3,
+            "slot": 7,
+            "outsideleftcircle": 1,
+            "centerpoint": 1,
+            "lowcenterpoint": 2,
+            "neutralzone": 3,
+            "lowrightpoint": 4,
+            "downlow": 1,
+            "highslot": 1
+          },
+          "away": {
+            "slot": 4,
+            "rightpoint": 4,
+            "leftslot": 3,
+            "leftpoint": 8,
+            "highslot": 4,
+            "insiderightcircle": 3,
+            "outsideleftcircle": 5,
+            "lowslot": 8,
+            "lowcenterpoint": 3,
+            "neutralzone": 1,
+            "lowleft": 4,
+            "lowleftpoint": 1,
+            "lowright": 2,
+            "lowrightpoint": 3,
+            "outsiderightcircle": 3,
+            "insideleftcircle": 2,
+            "centerpoint": 3
+          }
+        }
+      }
+    }
+  ]
+}

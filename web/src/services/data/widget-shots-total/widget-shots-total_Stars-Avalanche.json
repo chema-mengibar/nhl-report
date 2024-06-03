@@ -1,0 +1,181 @@
+{
+  "team_a": "Stars",
+  "team_b": "Avalanche",
+  "round": 2,
+  "games_reports": [
+    {
+      "schedule_data": {
+        "game": 1,
+        "id": "c3e715bc-dfd1-4e46-beb0-fe012abe9f6a",
+        "date": "8.5",
+        "date_format": "2024-05-08"
+      },
+      "report": {
+        "periods": 4,
+        "teams": {
+          "home": "Stars",
+          "away": "Avalanche"
+        },
+        "score": {
+          "home": 3,
+          "away": 4
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 19,
+            "shotmissed": 41
+          },
+          "away": {
+            "shotsaved": 22,
+            "shotmissed": 43
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 2,
+        "id": "6b00bce7-9ac3-4b79-9ef8-fce625318f4d",
+        "date": "10.5",
+        "date_format": "2024-05-10"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Stars",
+          "away": "Avalanche"
+        },
+        "score": {
+          "home": 5,
+          "away": 3
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 27,
+            "shotmissed": 38
+          },
+          "away": {
+            "shotsaved": 28,
+            "shotmissed": 28
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 3,
+        "id": "fd8be1d7-f572-4f58-8909-69e6a065e1fa",
+        "date": "12.5",
+        "date_format": "2024-05-12"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Avalanche",
+          "away": "Stars"
+        },
+        "score": {
+          "home": 1,
+          "away": 4
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 28,
+            "shotmissed": 43
+          },
+          "away": {
+            "shotsaved": 19,
+            "shotmissed": 23
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 4,
+        "id": "9b53c1bd-db8f-4351-8c2b-66ee8af401c6",
+        "date": "14.5",
+        "date_format": "2024-05-14"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Avalanche",
+          "away": "Stars"
+        },
+        "score": {
+          "home": 1,
+          "away": 5
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 24,
+            "shotmissed": 48
+          },
+          "away": {
+            "shotsaved": 29,
+            "shotmissed": 29
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 5,
+        "id": "2f048a2f-5006-435d-91bd-8f20124df1c1",
+        "date": "16.5",
+        "date_format": "2024-05-16"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Stars",
+          "away": "Avalanche"
+        },
+        "score": {
+          "home": 3,
+          "away": 5
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 23,
+            "shotmissed": 33
+          },
+          "away": {
+            "shotsaved": 22,
+            "shotmissed": 34
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 6,
+        "id": "9a740039-bcdd-4629-824f-949549eb7091",
+        "date": "18.5",
+        "date_format": "2024-05-18"
+      },
+      "report": {
+        "periods": 5,
+        "teams": {
+          "home": "Avalanche",
+          "away": "Stars"
+        },
+        "score": {
+          "home": 1,
+          "away": 2
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 29,
+            "shotmissed": 54
+          },
+          "away": {
+            "shotsaved": 36,
+            "shotmissed": 64
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "team_a": "Jets",
+  "team_b": "Avalanche",
+  "round": 1,
+  "games_reports": [
+    {
+      "schedule_data": {
+        "game": 1,
+        "id": "8e9516c5-ab55-4eea-8487-57d5c88dbbe4",
+        "date": "22.4",
+        "date_format": "2024-04-22"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Jets",
+          "away": "Avalanche"
+        },
+        "score": {
+          "home": 7,
+          "away": 6
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 16,
+            "shotmissed": 25
+          },
+          "away": {
+            "shotsaved": 40,
+            "shotmissed": 44
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 2,
+        "id": "0e7ea5a5-3e58-46cf-afa1-2bbd506d5ef6",
+        "date": "24.4",
+        "date_format": "2024-04-24"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Jets",
+          "away": "Avalanche"
+        },
+        "score": {
+          "home": 2,
+          "away": 5
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 28,
+            "shotmissed": 30
+          },
+          "away": {
+            "shotsaved": 27,
+            "shotmissed": 39
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 3,
+        "id": "530f5f18-c1cc-49f8-89b1-19accf6d43b8",
+        "date": "27.4",
+        "date_format": "2024-04-27"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Avalanche",
+          "away": "Jets"
+        },
+        "score": {
+          "home": 6,
+          "away": 2
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 34,
+            "shotmissed": 34
+          },
+          "away": {
+            "shotsaved": 22,
+            "shotmissed": 35
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 4,
+        "id": "e34a1460-41a8-457b-be9c-dec84d640254",
+        "date": "28.4",
+        "date_format": "2024-04-28"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Avalanche",
+          "away": "Jets"
+        },
+        "score": {
+          "home": 5,
+          "away": 1
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 30,
+            "shotmissed": 25
+          },
+          "away": {
+            "shotsaved": 26,
+            "shotmissed": 37
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 5,
+        "id": "499aa087-b75a-4f65-ad9d-bc93a0feaaaa",
+        "date": "1.5",
+        "date_format": "2024-05-01"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Jets",
+          "away": "Avalanche"
+        },
+        "score": {
+          "home": 3,
+          "away": 6
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 34,
+            "shotmissed": 38
+          },
+          "away": {
+            "shotsaved": 27,
+            "shotmissed": 29
+          }
+        }
+      }
+    }
+  ]
+}
