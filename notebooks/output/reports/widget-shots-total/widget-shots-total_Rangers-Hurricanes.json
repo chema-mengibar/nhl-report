@@ -1,0 +1,181 @@
+{
+  "team_a": "Rangers",
+  "team_b": "Hurricanes",
+  "round": 2,
+  "games_reports": [
+    {
+      "schedule_data": {
+        "game": 1,
+        "id": "40dbf88a-0209-4a70-b319-9735f081d6a2",
+        "date": "5.5",
+        "date_format": "2024-05-05"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Rangers",
+          "away": "Hurricanes"
+        },
+        "score": {
+          "home": 4,
+          "away": 3
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 19,
+            "shotmissed": 22
+          },
+          "away": {
+            "shotsaved": 22,
+            "shotmissed": 47
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 2,
+        "id": "8f36d70b-a463-452e-9f02-65dd5d37d2c9",
+        "date": "8.5",
+        "date_format": "2024-05-08"
+      },
+      "report": {
+        "periods": 5,
+        "teams": {
+          "home": "Rangers",
+          "away": "Hurricanes"
+        },
+        "score": {
+          "home": 4,
+          "away": 3
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 35,
+            "shotmissed": 58
+          },
+          "away": {
+            "shotsaved": 54,
+            "shotmissed": 59
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 3,
+        "id": "1c58cd96-db53-4a70-ae94-83235ce5db19",
+        "date": "10.5",
+        "date_format": "2024-05-10"
+      },
+      "report": {
+        "periods": 4,
+        "teams": {
+          "home": "Hurricanes",
+          "away": "Rangers"
+        },
+        "score": {
+          "home": 2,
+          "away": 3
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 45,
+            "shotmissed": 39
+          },
+          "away": {
+            "shotsaved": 22,
+            "shotmissed": 32
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 5,
+        "id": "0d4df134-96d0-4682-ad06-864dd91e3afa",
+        "date": "12.5",
+        "date_format": "2024-05-12"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Hurricanes",
+          "away": "Rangers"
+        },
+        "score": {
+          "home": 4,
+          "away": 3
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 27,
+            "shotmissed": 40
+          },
+          "away": {
+            "shotsaved": 22,
+            "shotmissed": 33
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 6,
+        "id": "568c3ab9-7b39-4f22-a80c-d5a045b57b0a",
+        "date": "14.5",
+        "date_format": "2024-05-14"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Rangers",
+          "away": "Hurricanes"
+        },
+        "score": {
+          "home": 1,
+          "away": 4
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 20,
+            "shotmissed": 31
+          },
+          "away": {
+            "shotsaved": 24,
+            "shotmissed": 39
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 7,
+        "id": "4c9a706e-b53d-484c-95a3-a9cd7105bc63",
+        "date": "17.5",
+        "date_format": "2024-05-17"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Hurricanes",
+          "away": "Rangers"
+        },
+        "score": {
+          "home": 3,
+          "away": 5
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 33,
+            "shotmissed": 27
+          },
+          "away": {
+            "shotsaved": 19,
+            "shotmissed": 43
+          }
+        }
+      }
+    }
+  ]
+}

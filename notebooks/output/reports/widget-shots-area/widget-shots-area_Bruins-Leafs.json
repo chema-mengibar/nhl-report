@@ -1,0 +1,451 @@
+{
+  "team_a": "Bruins",
+  "team_b": "Leafs",
+  "round": 1,
+  "games_reports": [
+    {
+      "schedule_data": {
+        "game": 1,
+        "id": "bd8cf25f-8574-4bcd-bae2-28203a1216aa",
+        "date": "21.4",
+        "date_format": "2024-04-21"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Bruins",
+          "away": "Maple Leafs"
+        },
+        "score": {
+          "home": 5,
+          "away": 1
+        },
+        "shots_total": {
+          "home": 49,
+          "away": 67
+        },
+        "shots": {
+          "home": {
+            "highslot": 4,
+            "insideleftcircle": 6,
+            "insiderightcircle": 3,
+            "outsiderightcircle": 1,
+            "centerpoint": 5,
+            "leftpoint": 5,
+            "slot": 5,
+            "rightpoint": 2,
+            "outsideleftcircle": 2,
+            "lowslot": 7,
+            "lowcenterpoint": 2,
+            "lowrightpoint": 2,
+            "lowright": 3,
+            "lowleft": 2
+          },
+          "away": {
+            "lowslot": 12,
+            "highslot": 7,
+            "centerpoint": 5,
+            "slot": 10,
+            "neutralzone": 5,
+            "outsiderightcircle": 2,
+            "lowcenterpoint": 1,
+            "rightpoint": 3,
+            "insiderightcircle": 2,
+            "downlow": 1,
+            "lowleft": 6,
+            "insideleftcircle": 3,
+            "lowleftpoint": 2,
+            "leftpoint": 4,
+            "lowright": 2,
+            "outsideleftcircle": 1,
+            "rightslot": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 2,
+        "id": "0e77d88b-62c4-47d0-8d0e-b9d8fcd7ba59",
+        "date": "23.4",
+        "date_format": "2024-04-23"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Bruins",
+          "away": "Maple Leafs"
+        },
+        "score": {
+          "home": 2,
+          "away": 3
+        },
+        "shots_total": {
+          "home": 57,
+          "away": 67
+        },
+        "shots": {
+          "home": {
+            "neutralzone": 3,
+            "outsideleftcircle": 4,
+            "rightpoint": 5,
+            "highslot": 9,
+            "centerpoint": 2,
+            "outsiderightcircle": 8,
+            "lowcenterpoint": 2,
+            "leftpoint": 2,
+            "lowleft": 1,
+            "rightslot": 3,
+            "defensivezone": 2,
+            "lowright": 5,
+            "insiderightcircle": 2,
+            "lowslot": 3,
+            "leftslot": 1,
+            "insideleftcircle": 2,
+            "lowleftpoint": 2,
+            "lowrightpoint": 1
+          },
+          "away": {
+            "outsideleftcircle": 5,
+            "leftpoint": 2,
+            "insideleftcircle": 4,
+            "slot": 17,
+            "neutralzone": 1,
+            "lowleftpoint": 4,
+            "lowslot": 7,
+            "highslot": 3,
+            "insiderightcircle": 2,
+            "leftslot": 2,
+            "lowleft": 4,
+            "lowrightpoint": 3,
+            "rightpoint": 4,
+            "downlow": 1,
+            "outsiderightcircle": 2,
+            "defensivezone": 2,
+            "lowcenterpoint": 1,
+            "rightslot": 3
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 3,
+        "id": "473409c1-db77-40d7-8d3d-650affdf9867",
+        "date": "25.4",
+        "date_format": "2024-04-25"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Maple Leafs",
+          "away": "Bruins"
+        },
+        "score": {
+          "home": 2,
+          "away": 4
+        },
+        "shots_total": {
+          "home": 69,
+          "away": 70
+        },
+        "shots": {
+          "home": {
+            "outsideleftcircle": 3,
+            "lowcenterpoint": 1,
+            "leftslot": 4,
+            "lowrightpoint": 3,
+            "outsiderightcircle": 6,
+            "slot": 13,
+            "lowslot": 7,
+            "insideleftcircle": 9,
+            "highslot": 1,
+            "leftpoint": 3,
+            "insiderightcircle": 3,
+            "neutralzone": 4,
+            "lowleftpoint": 4,
+            "rightpoint": 2,
+            "centerpoint": 1,
+            "lowright": 3,
+            "rightslot": 2
+          },
+          "away": {
+            "leftpoint": 4,
+            "rightpoint": 9,
+            "lowslot": 10,
+            "slot": 6,
+            "lowright": 1,
+            "lowleft": 4,
+            "highslot": 7,
+            "insideleftcircle": 5,
+            "leftslot": 3,
+            "lowleftpoint": 5,
+            "outsideleftcircle": 5,
+            "insiderightcircle": 4,
+            "outsiderightcircle": 2,
+            "neutralzone": 3,
+            "downlow": 1,
+            "defensivezone": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 4,
+        "id": "c38ba98f-af04-40ee-b7aa-3cc112f32d95",
+        "date": "28.4",
+        "date_format": "2024-04-28"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Maple Leafs",
+          "away": "Bruins"
+        },
+        "score": {
+          "home": 1,
+          "away": 3
+        },
+        "shots_total": {
+          "home": 70,
+          "away": 46
+        },
+        "shots": {
+          "home": {
+            "outsideleftcircle": 6,
+            "outsiderightcircle": 2,
+            "defensivezone": 3,
+            "highslot": 6,
+            "lowslot": 6,
+            "leftslot": 3,
+            "slot": 6,
+            "rightslot": 2,
+            "leftpoint": 7,
+            "lowleftpoint": 5,
+            "insideleftcircle": 5,
+            "insiderightcircle": 5,
+            "lowleft": 4,
+            "lowcenterpoint": 2,
+            "centerpoint": 1,
+            "rightpoint": 4,
+            "lowrightpoint": 2,
+            "neutralzone": 1
+          },
+          "away": {
+            "defensivezone": 3,
+            "lowrightpoint": 3,
+            "lowslot": 6,
+            "lowleftpoint": 3,
+            "insideleftcircle": 4,
+            "outsideleftcircle": 2,
+            "slot": 6,
+            "insiderightcircle": 2,
+            "highslot": 1,
+            "lowleft": 2,
+            "neutralzone": 3,
+            "rightpoint": 4,
+            "leftpoint": 4,
+            "centerpoint": 1,
+            "lowright": 2
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 5,
+        "id": "a92b531a-df70-4604-a919-904ee74bc333",
+        "date": "1.5",
+        "date_format": "2024-05-01"
+      },
+      "report": {
+        "periods": 4,
+        "teams": {
+          "home": "Bruins",
+          "away": "Maple Leafs"
+        },
+        "score": {
+          "home": 1,
+          "away": 2
+        },
+        "shots_total": {
+          "home": 53,
+          "away": 70
+        },
+        "shots": {
+          "home": {
+            "outsideleftcircle": 6,
+            "insiderightcircle": 2,
+            "lowleftpoint": 4,
+            "leftpoint": 5,
+            "slot": 7,
+            "highslot": 3,
+            "lowslot": 6,
+            "centerpoint": 1,
+            "lowright": 2,
+            "rightpoint": 2,
+            "lowleft": 4,
+            "rightslot": 3,
+            "lowrightpoint": 2,
+            "neutralzone": 3,
+            "insideleftcircle": 1,
+            "defensivezone": 1,
+            "outsiderightcircle": 1
+          },
+          "away": {
+            "outsideleftcircle": 3,
+            "lowslot": 4,
+            "lowrightpoint": 4,
+            "leftpoint": 3,
+            "rightpoint": 4,
+            "leftslot": 5,
+            "insiderightcircle": 3,
+            "lowleft": 5,
+            "outsiderightcircle": 4,
+            "lowright": 2,
+            "slot": 7,
+            "lowleftpoint": 4,
+            "insideleftcircle": 5,
+            "downlow": 2,
+            "highslot": 3,
+            "rightslot": 4,
+            "centerpoint": 3,
+            "neutralzone": 2,
+            "lowcenterpoint": 2,
+            "defensivezone": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 6,
+        "id": "24c9ccce-601d-4c45-9300-f170e82bb800",
+        "date": "3.5",
+        "date_format": "2024-05-03"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Maple Leafs",
+          "away": "Bruins"
+        },
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "shots_total": {
+          "home": 51,
+          "away": 71
+        },
+        "shots": {
+          "home": {
+            "rightpoint": 6,
+            "lowrightpoint": 3,
+            "lowleft": 4,
+            "leftpoint": 3,
+            "neutralzone": 3,
+            "outsideleftcircle": 3,
+            "slot": 6,
+            "lowslot": 6,
+            "downlow": 2,
+            "leftslot": 2,
+            "insiderightcircle": 3,
+            "centerpoint": 3,
+            "highslot": 1,
+            "lowleftpoint": 1,
+            "outsiderightcircle": 1,
+            "insideleftcircle": 2,
+            "lowright": 1,
+            "rightslot": 1
+          },
+          "away": {
+            "lowrightpoint": 4,
+            "outsiderightcircle": 3,
+            "insideleftcircle": 4,
+            "slot": 9,
+            "lowleftpoint": 5,
+            "leftpoint": 8,
+            "lowleft": 2,
+            "highslot": 7,
+            "outsideleftcircle": 1,
+            "lowright": 2,
+            "lowslot": 7,
+            "downlow": 3,
+            "leftslot": 3,
+            "insiderightcircle": 5,
+            "rightpoint": 4,
+            "lowcenterpoint": 2,
+            "neutralzone": 2
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 7,
+        "id": "eca1e1e3-b1f0-4658-bbe1-a832431f77e2",
+        "date": "5.5",
+        "date_format": "2024-05-05"
+      },
+      "report": {
+        "periods": 4,
+        "teams": {
+          "home": "Bruins",
+          "away": "Maple Leafs"
+        },
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "shots_total": {
+          "home": 70,
+          "away": 62
+        },
+        "shots": {
+          "home": {
+            "rightpoint": 3,
+            "insiderightcircle": 4,
+            "slot": 7,
+            "lowslot": 10,
+            "outsiderightcircle": 2,
+            "lowleft": 3,
+            "highslot": 5,
+            "rightslot": 3,
+            "centerpoint": 7,
+            "lowleftpoint": 4,
+            "leftpoint": 3,
+            "outsideleftcircle": 4,
+            "lowrightpoint": 3,
+            "lowright": 3,
+            "lowcenterpoint": 3,
+            "insideleftcircle": 4,
+            "neutralzone": 1,
+            "leftslot": 1
+          },
+          "away": {
+            "highslot": 7,
+            "lowleft": 6,
+            "outsiderightcircle": 4,
+            "downlow": 3,
+            "rightslot": 3,
+            "leftpoint": 6,
+            "lowright": 3,
+            "lowslot": 6,
+            "lowleftpoint": 4,
+            "insiderightcircle": 1,
+            "leftslot": 1,
+            "rightpoint": 2,
+            "slot": 2,
+            "lowcenterpoint": 2,
+            "centerpoint": 1,
+            "outsideleftcircle": 5,
+            "neutralzone": 1,
+            "insideleftcircle": 5
+          }
+        }
+      }
+    }
+  ]
+}

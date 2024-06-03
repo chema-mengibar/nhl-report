@@ -1,0 +1,156 @@
+{
+  "team_a": "Rangers",
+  "team_b": "Capitals",
+  "round": 1,
+  "games_reports": [
+    {
+      "schedule_data": {
+        "game": 1,
+        "id": "1c47e4e0-f9e4-4fdc-bb21-6af587dbb8ed",
+        "date": "21.4",
+        "date_format": "2024-04-21"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Rangers",
+          "away": "Capitals"
+        },
+        "score": {
+          "home": 4,
+          "away": 1
+        },
+        "shots": {
+          "home": {
+            "slap": 9,
+            "wrist": 38,
+            "deflected": 3,
+            "snap": 8,
+            "tip-in": 5,
+            "backhand": 3
+          },
+          "away": {
+            "snap": 8,
+            "slap": 8,
+            "wrist": 31,
+            "tip-in": 4,
+            "backhand": 2,
+            "deflected": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 2,
+        "id": "10c2b293-3adb-4bfa-8955-5b4d21c941ef",
+        "date": "24.4",
+        "date_format": "2024-04-24"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Rangers",
+          "away": "Capitals"
+        },
+        "score": {
+          "home": 4,
+          "away": 3
+        },
+        "shots": {
+          "home": {
+            "wrist": 35,
+            "tip-in": 4,
+            "deflected": 2,
+            "slap": 10,
+            "backhand": 2,
+            "snap": 8
+          },
+          "away": {
+            "wrist": 37,
+            "slap": 11,
+            "snap": 1,
+            "tip-in": 6,
+            "backhand": 3
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 3,
+        "id": "c936f64a-f651-4d49-ab4e-84e0400738fa",
+        "date": "27.4",
+        "date_format": "2024-04-27"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Capitals",
+          "away": "Rangers"
+        },
+        "score": {
+          "home": 1,
+          "away": 3
+        },
+        "shots": {
+          "home": {
+            "slap": 6,
+            "wrist": 42,
+            "snap": 6,
+            "tip-in": 3,
+            "deflected": 1,
+            "wrap-around": 1,
+            "backhand": 1
+          },
+          "away": {
+            "wrist": 23,
+            "snap": 9,
+            "slap": 11,
+            "tip-in": 4,
+            "deflected": 1,
+            "bat": 1,
+            "backhand": 2
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 4,
+        "id": "9f3a556e-997b-49ad-ac69-c111722c27a7",
+        "date": "29.4",
+        "date_format": "2024-04-29"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Capitals",
+          "away": "Rangers"
+        },
+        "score": {
+          "home": 2,
+          "away": 4
+        },
+        "shots": {
+          "home": {
+            "wrist": 35,
+            "backhand": 8,
+            "snap": 9,
+            "tip-in": 6,
+            "slap": 5,
+            "poke": 1,
+            "deflected": 1
+          },
+          "away": {
+            "wrist": 34,
+            "slap": 2,
+            "snap": 9,
+            "tip-in": 4,
+            "backhand": 3
+          }
+        }
+      }
+    }
+  ]
+}

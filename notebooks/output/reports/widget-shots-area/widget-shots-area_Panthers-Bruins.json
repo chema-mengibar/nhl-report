@@ -1,0 +1,382 @@
+{
+  "team_a": "Panthers",
+  "team_b": "Bruins",
+  "round": 2,
+  "games_reports": [
+    {
+      "schedule_data": {
+        "game": 1,
+        "id": "4909deea-74b0-4604-973b-530a671ac0d6",
+        "date": "7.5",
+        "date_format": "2024-05-07"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Panthers",
+          "away": "Bruins"
+        },
+        "score": {
+          "home": 1,
+          "away": 5
+        },
+        "shots_total": {
+          "home": 86,
+          "away": 53
+        },
+        "shots": {
+          "home": {
+            "outsiderightcircle": 3,
+            "lowslot": 17,
+            "lowleft": 5,
+            "leftslot": 2,
+            "insiderightcircle": 4,
+            "leftpoint": 9,
+            "outsideleftcircle": 6,
+            "highslot": 3,
+            "slot": 9,
+            "lowrightpoint": 6,
+            "insideleftcircle": 6,
+            "rightslot": 5,
+            "lowleftpoint": 3,
+            "centerpoint": 5,
+            "rightpoint": 1,
+            "lowright": 2
+          },
+          "away": {
+            "insiderightcircle": 5,
+            "lowright": 3,
+            "leftpoint": 7,
+            "slot": 7,
+            "insideleftcircle": 1,
+            "lowslot": 3,
+            "lowleft": 3,
+            "lowleftpoint": 1,
+            "rightpoint": 7,
+            "outsiderightcircle": 1,
+            "highslot": 2,
+            "leftslot": 3,
+            "outsideleftcircle": 1,
+            "centerpoint": 3,
+            "lowrightpoint": 2,
+            "defensivezone": 2,
+            "rightslot": 1,
+            "neutralzone": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 2,
+        "id": "3b4636af-c8af-4264-94ba-8b9db910ff0c",
+        "date": "9.5",
+        "date_format": "2024-05-09"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Panthers",
+          "away": "Bruins"
+        },
+        "score": {
+          "home": 6,
+          "away": 1
+        },
+        "shots_total": {
+          "home": 74,
+          "away": 35
+        },
+        "shots": {
+          "home": {
+            "highslot": 12,
+            "lowslot": 10,
+            "slot": 7,
+            "lowleftpoint": 3,
+            "lowleft": 1,
+            "insiderightcircle": 9,
+            "leftpoint": 9,
+            "rightslot": 1,
+            "rightpoint": 7,
+            "leftslot": 2,
+            "downlow": 1,
+            "lowcenterpoint": 2,
+            "outsiderightcircle": 1,
+            "centerpoint": 3,
+            "insideleftcircle": 2,
+            "outsideleftcircle": 1,
+            "neutralzone": 3
+          },
+          "away": {
+            "slot": 5,
+            "highslot": 4,
+            "rightslot": 4,
+            "outsiderightcircle": 3,
+            "centerpoint": 2,
+            "leftpoint": 3,
+            "lowslot": 5,
+            "leftslot": 1,
+            "lowcenterpoint": 1,
+            "lowleftpoint": 2,
+            "neutralzone": 1,
+            "rightpoint": 1,
+            "defensivezone": 1,
+            "lowleft": 2
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 3,
+        "id": "ed7ab7d8-b51c-4cc5-9f8f-07efd0c3e39d",
+        "date": "11.5",
+        "date_format": "2024-05-11"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Bruins",
+          "away": "Panthers"
+        },
+        "score": {
+          "home": 2,
+          "away": 6
+        },
+        "shots_total": {
+          "home": 44,
+          "away": 64
+        },
+        "shots": {
+          "home": {
+            "rightpoint": 3,
+            "slot": 7,
+            "leftslot": 3,
+            "lowslot": 7,
+            "leftpoint": 2,
+            "outsideleftcircle": 3,
+            "lowleft": 1,
+            "centerpoint": 2,
+            "lowleftpoint": 2,
+            "insiderightcircle": 3,
+            "lowcenterpoint": 2,
+            "lowrightpoint": 3,
+            "insideleftcircle": 3,
+            "highslot": 2,
+            "neutralzone": 1
+          },
+          "away": {
+            "lowrightpoint": 6,
+            "outsideleftcircle": 5,
+            "lowcenterpoint": 2,
+            "highslot": 3,
+            "lowright": 3,
+            "lowslot": 9,
+            "lowleftpoint": 5,
+            "rightslot": 2,
+            "leftpoint": 5,
+            "slot": 4,
+            "rightpoint": 5,
+            "centerpoint": 2,
+            "outsiderightcircle": 2,
+            "downlow": 1,
+            "insideleftcircle": 3,
+            "defensivezone": 1,
+            "lowleft": 3,
+            "leftslot": 2,
+            "insiderightcircle": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 4,
+        "id": "cdeade2b-fc13-4014-8b3f-f3384e1a739c",
+        "date": "13.5",
+        "date_format": "2024-05-13"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Bruins",
+          "away": "Panthers"
+        },
+        "score": {
+          "home": 2,
+          "away": 3
+        },
+        "shots_total": {
+          "home": 43,
+          "away": 80
+        },
+        "shots": {
+          "home": {
+            "lowrightpoint": 4,
+            "rightpoint": 3,
+            "leftpoint": 1,
+            "centerpoint": 4,
+            "outsiderightcircle": 2,
+            "insiderightcircle": 3,
+            "rightslot": 3,
+            "outsideleftcircle": 2,
+            "lowslot": 7,
+            "highslot": 2,
+            "neutralzone": 1,
+            "slot": 4,
+            "lowright": 1,
+            "downlow": 1,
+            "defensivezone": 2,
+            "leftslot": 1,
+            "lowleftpoint": 2
+          },
+          "away": {
+            "lowslot": 13,
+            "slot": 8,
+            "insideleftcircle": 2,
+            "outsideleftcircle": 3,
+            "insiderightcircle": 6,
+            "leftpoint": 7,
+            "rightpoint": 4,
+            "lowleftpoint": 2,
+            "outsiderightcircle": 3,
+            "lowrightpoint": 5,
+            "rightslot": 4,
+            "centerpoint": 5,
+            "defensivezone": 2,
+            "lowleft": 5,
+            "highslot": 5,
+            "lowcenterpoint": 1,
+            "leftslot": 4,
+            "neutralzone": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 5,
+        "id": "e1c9e7c1-64a8-45a7-aba8-e114df0b0ac6",
+        "date": "15.5",
+        "date_format": "2024-05-15"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Panthers",
+          "away": "Bruins"
+        },
+        "score": {
+          "home": 1,
+          "away": 2
+        },
+        "shots_total": {
+          "home": 66,
+          "away": 48
+        },
+        "shots": {
+          "home": {
+            "leftpoint": 4,
+            "lowslot": 4,
+            "lowright": 1,
+            "lowcenterpoint": 2,
+            "rightpoint": 7,
+            "slot": 5,
+            "neutralzone": 2,
+            "outsiderightcircle": 2,
+            "rightslot": 4,
+            "leftslot": 2,
+            "lowrightpoint": 2,
+            "insideleftcircle": 5,
+            "outsideleftcircle": 7,
+            "lowleftpoint": 2,
+            "lowleft": 2,
+            "insiderightcircle": 7,
+            "highslot": 5,
+            "centerpoint": 3
+          },
+          "away": {
+            "leftpoint": 7,
+            "rightpoint": 6,
+            "centerpoint": 3,
+            "lowleftpoint": 5,
+            "lowslot": 4,
+            "outsideleftcircle": 2,
+            "lowright": 1,
+            "lowrightpoint": 4,
+            "insiderightcircle": 3,
+            "rightslot": 1,
+            "lowleft": 1,
+            "slot": 6,
+            "highslot": 3,
+            "defensivezone": 1,
+            "leftslot": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 6,
+        "id": "f55669b2-ed64-44f9-98a2-ac20d1512638",
+        "date": "18.5",
+        "date_format": "2024-05-18"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Bruins",
+          "away": "Panthers"
+        },
+        "score": {
+          "home": 1,
+          "away": 2
+        },
+        "shots_total": {
+          "home": 53,
+          "away": 70
+        },
+        "shots": {
+          "home": {
+            "slot": 12,
+            "rightpoint": 4,
+            "lowleft": 5,
+            "highslot": 6,
+            "lowrightpoint": 4,
+            "leftpoint": 2,
+            "lowright": 2,
+            "centerpoint": 2,
+            "insideleftcircle": 4,
+            "insiderightcircle": 2,
+            "leftslot": 3,
+            "neutralzone": 2,
+            "lowslot": 3,
+            "rightslot": 1,
+            "outsiderightcircle": 1
+          },
+          "away": {
+            "lowright": 3,
+            "rightslot": 1,
+            "lowrightpoint": 4,
+            "slot": 11,
+            "neutralzone": 2,
+            "insideleftcircle": 5,
+            "rightpoint": 8,
+            "downlow": 1,
+            "insiderightcircle": 4,
+            "lowleft": 3,
+            "lowslot": 2,
+            "outsideleftcircle": 4,
+            "centerpoint": 3,
+            "highslot": 8,
+            "leftpoint": 4,
+            "leftslot": 2,
+            "lowleftpoint": 3,
+            "outsiderightcircle": 1,
+            "lowcenterpoint": 1
+          }
+        }
+      }
+    }
+  ]
+}

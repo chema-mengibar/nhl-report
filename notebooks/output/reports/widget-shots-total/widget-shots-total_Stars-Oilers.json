@@ -1,0 +1,152 @@
+{
+  "team_a": "Stars",
+  "team_b": "Oilers",
+  "round": 3,
+  "games_reports": [
+    {
+      "schedule_data": {
+        "game": 1,
+        "id": "ee1ec51e-bbce-44ee-973e-2975b102751b",
+        "date": "23.5",
+        "date_format": "2024-05-23"
+      },
+      "report": {
+        "periods": 5,
+        "teams": {
+          "home": "Stars",
+          "away": "Oilers"
+        },
+        "score": {
+          "home": 2,
+          "away": 3
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 31,
+            "shotmissed": 45
+          },
+          "away": {
+            "shotsaved": 35,
+            "shotmissed": 46
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 2,
+        "id": "06b5f401-20ea-4c4b-9290-1d0a6fb02507",
+        "date": "26.5",
+        "date_format": "2024-05-26"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Stars",
+          "away": "Oilers"
+        },
+        "score": {
+          "home": 3,
+          "away": 1
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 22,
+            "shotmissed": 25
+          },
+          "away": {
+            "shotsaved": 28,
+            "shotmissed": 35
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 3,
+        "id": "34046c33-1419-45d7-9b73-90938559cb48",
+        "date": "28.5",
+        "date_format": "2024-05-28"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Oilers",
+          "away": "Stars"
+        },
+        "score": {
+          "home": 3,
+          "away": 5
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 28,
+            "shotmissed": 42
+          },
+          "away": {
+            "shotsaved": 17,
+            "shotmissed": 26
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 4,
+        "id": "413282bc-8ff9-4e7b-8e9c-d787f403f2dc",
+        "date": "30.5",
+        "date_format": "2024-05-30"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Oilers",
+          "away": "Stars"
+        },
+        "score": {
+          "home": 5,
+          "away": 2
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 24,
+            "shotmissed": 30
+          },
+          "away": {
+            "shotsaved": 20,
+            "shotmissed": 28
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 5,
+        "id": "640c3761-b0a8-4c97-a0cf-821d13b37d6a",
+        "date": "1.6",
+        "date_format": "2024-06-01"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Stars",
+          "away": "Oilers"
+        },
+        "score": {
+          "home": 1,
+          "away": 3
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 19,
+            "shotmissed": 39
+          },
+          "away": {
+            "shotsaved": 23,
+            "shotmissed": 41
+          }
+        }
+      }
+    }
+  ]
+}

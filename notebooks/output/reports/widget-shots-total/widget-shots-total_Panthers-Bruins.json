@@ -1,0 +1,181 @@
+{
+  "team_a": "Panthers",
+  "team_b": "Bruins",
+  "round": 2,
+  "games_reports": [
+    {
+      "schedule_data": {
+        "game": 1,
+        "id": "4909deea-74b0-4604-973b-530a671ac0d6",
+        "date": "7.5",
+        "date_format": "2024-05-07"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Panthers",
+          "away": "Bruins"
+        },
+        "score": {
+          "home": 1,
+          "away": 5
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 38,
+            "shotmissed": 47
+          },
+          "away": {
+            "shotsaved": 24,
+            "shotmissed": 24
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 2,
+        "id": "3b4636af-c8af-4264-94ba-8b9db910ff0c",
+        "date": "9.5",
+        "date_format": "2024-05-09"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Panthers",
+          "away": "Bruins"
+        },
+        "score": {
+          "home": 6,
+          "away": 1
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 27,
+            "shotmissed": 41
+          },
+          "away": {
+            "shotsaved": 14,
+            "shotmissed": 20
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 3,
+        "id": "ed7ab7d8-b51c-4cc5-9f8f-07efd0c3e39d",
+        "date": "11.5",
+        "date_format": "2024-05-11"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Bruins",
+          "away": "Panthers"
+        },
+        "score": {
+          "home": 2,
+          "away": 6
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 15,
+            "shotmissed": 27
+          },
+          "away": {
+            "shotsaved": 27,
+            "shotmissed": 31
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 4,
+        "id": "cdeade2b-fc13-4014-8b3f-f3384e1a739c",
+        "date": "13.5",
+        "date_format": "2024-05-13"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Bruins",
+          "away": "Panthers"
+        },
+        "score": {
+          "home": 2,
+          "away": 3
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 16,
+            "shotmissed": 25
+          },
+          "away": {
+            "shotsaved": 38,
+            "shotmissed": 39
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 5,
+        "id": "e1c9e7c1-64a8-45a7-aba8-e114df0b0ac6",
+        "date": "15.5",
+        "date_format": "2024-05-15"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Panthers",
+          "away": "Bruins"
+        },
+        "score": {
+          "home": 1,
+          "away": 2
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 28,
+            "shotmissed": 37
+          },
+          "away": {
+            "shotsaved": 26,
+            "shotmissed": 20
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 6,
+        "id": "f55669b2-ed64-44f9-98a2-ac20d1512638",
+        "date": "18.5",
+        "date_format": "2024-05-18"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Bruins",
+          "away": "Panthers"
+        },
+        "score": {
+          "home": 1,
+          "away": 2
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 22,
+            "shotmissed": 30
+          },
+          "away": {
+            "shotsaved": 26,
+            "shotmissed": 42
+          }
+        }
+      }
+    }
+  ]
+}

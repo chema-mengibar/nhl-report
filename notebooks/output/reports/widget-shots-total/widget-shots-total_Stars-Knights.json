@@ -1,0 +1,210 @@
+{
+  "team_a": "Stars",
+  "team_b": "Knights",
+  "round": 1,
+  "games_reports": [
+    {
+      "schedule_data": {
+        "game": 1,
+        "id": "2c31ffd1-58bf-48a1-9c96-f357ee974072",
+        "date": "23.4",
+        "date_format": "2024-04-23"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Stars",
+          "away": "Golden Knights"
+        },
+        "score": {
+          "home": 3,
+          "away": 4
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 26,
+            "shotmissed": 39
+          },
+          "away": {
+            "shotsaved": 11,
+            "shotmissed": 33
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 2,
+        "id": "e00fd532-c67b-4846-ae6b-3d01e0e7d40a",
+        "date": "25.4",
+        "date_format": "2024-04-25"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Stars",
+          "away": "Golden Knights"
+        },
+        "score": {
+          "home": 1,
+          "away": 3
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 20,
+            "shotmissed": 45
+          },
+          "away": {
+            "shotsaved": 23,
+            "shotmissed": 35
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 3,
+        "id": "aeb8ae96-fb47-49aa-9030-4d60567107f6",
+        "date": "28.4",
+        "date_format": "2024-04-28"
+      },
+      "report": {
+        "periods": 4,
+        "teams": {
+          "home": "Golden Knights",
+          "away": "Stars"
+        },
+        "score": {
+          "home": 2,
+          "away": 3
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 32,
+            "shotmissed": 35
+          },
+          "away": {
+            "shotsaved": 43,
+            "shotmissed": 62
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 4,
+        "id": "6c78dbbb-b580-44f7-b000-d9964beaa371",
+        "date": "30.4",
+        "date_format": "2024-04-30"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Golden Knights",
+          "away": "Stars"
+        },
+        "score": {
+          "home": 2,
+          "away": 4
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 32,
+            "shotmissed": 49
+          },
+          "away": {
+            "shotsaved": 28,
+            "shotmissed": 36
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 5,
+        "id": "434eefcf-d69b-42fa-b8d9-2159cbd96a19",
+        "date": "2.5",
+        "date_format": "2024-05-02"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Stars",
+          "away": "Golden Knights"
+        },
+        "score": {
+          "home": 3,
+          "away": 2
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 22,
+            "shotmissed": 37
+          },
+          "away": {
+            "shotsaved": 25,
+            "shotmissed": 31
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 6,
+        "id": "fcb6fdd0-10fa-468f-8ddf-b3d3716af119",
+        "date": "4.5",
+        "date_format": "2024-05-04"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Golden Knights",
+          "away": "Stars"
+        },
+        "score": {
+          "home": 2,
+          "away": 0
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 28,
+            "shotmissed": 40
+          },
+          "away": {
+            "shotsaved": 23,
+            "shotmissed": 32
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 7,
+        "id": "cd0be372-99e6-4254-8531-a472194ac7cb",
+        "date": "6.5",
+        "date_format": "2024-05-06"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Stars",
+          "away": "Golden Knights"
+        },
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 22,
+            "shotmissed": 37
+          },
+          "away": {
+            "shotsaved": 22,
+            "shotmissed": 37
+          }
+        }
+      }
+    }
+  ]
+}

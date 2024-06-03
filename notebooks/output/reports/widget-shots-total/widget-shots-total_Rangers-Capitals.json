@@ -1,0 +1,123 @@
+{
+  "team_a": "Rangers",
+  "team_b": "Capitals",
+  "round": 1,
+  "games_reports": [
+    {
+      "schedule_data": {
+        "game": 1,
+        "id": "1c47e4e0-f9e4-4fdc-bb21-6af587dbb8ed",
+        "date": "21.4",
+        "date_format": "2024-04-21"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Rangers",
+          "away": "Capitals"
+        },
+        "score": {
+          "home": 4,
+          "away": 1
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 27,
+            "shotmissed": 35
+          },
+          "away": {
+            "shotsaved": 20,
+            "shotmissed": 33
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 2,
+        "id": "10c2b293-3adb-4bfa-8955-5b4d21c941ef",
+        "date": "24.4",
+        "date_format": "2024-04-24"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Rangers",
+          "away": "Capitals"
+        },
+        "score": {
+          "home": 4,
+          "away": 3
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 24,
+            "shotmissed": 33
+          },
+          "away": {
+            "shotsaved": 22,
+            "shotmissed": 33
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 3,
+        "id": "c936f64a-f651-4d49-ab4e-84e0400738fa",
+        "date": "27.4",
+        "date_format": "2024-04-27"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Capitals",
+          "away": "Rangers"
+        },
+        "score": {
+          "home": 1,
+          "away": 3
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 29,
+            "shotmissed": 30
+          },
+          "away": {
+            "shotsaved": 19,
+            "shotmissed": 29
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 4,
+        "id": "9f3a556e-997b-49ad-ac69-c111722c27a7",
+        "date": "29.4",
+        "date_format": "2024-04-29"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Capitals",
+          "away": "Rangers"
+        },
+        "score": {
+          "home": 2,
+          "away": 4
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 23,
+            "shotmissed": 40
+          },
+          "away": {
+            "shotsaved": 19,
+            "shotmissed": 29
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "team_a": "Panthers",
+  "team_b": "Lightning",
+  "round": 1,
+  "games_reports": [
+    {
+      "schedule_data": {
+        "game": 1,
+        "id": "5bb5e41f-ddeb-4f62-81d0-6838a2566e35",
+        "date": "21.4",
+        "date_format": "2024-04-21"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Panthers",
+          "away": "Lightning"
+        },
+        "score": {
+          "home": 3,
+          "away": 2
+        },
+        "shots_total": {
+          "home": 64,
+          "away": 56
+        },
+        "shots": {
+          "home": {
+            "rightslot": 2,
+            "slot": 7,
+            "leftpoint": 6,
+            "insideleftcircle": 4,
+            "lowslot": 14,
+            "leftslot": 4,
+            "lowright": 3,
+            "highslot": 4,
+            "centerpoint": 6,
+            "outsiderightcircle": 1,
+            "insiderightcircle": 2,
+            "rightpoint": 4,
+            "outsideleftcircle": 4,
+            "defensivezone": 1,
+            "neutralzone": 2
+          },
+          "away": {
+            "lowleftpoint": 3,
+            "lowslot": 5,
+            "centerpoint": 2,
+            "rightpoint": 5,
+            "leftslot": 3,
+            "leftpoint": 6,
+            "highslot": 4,
+            "lowleft": 5,
+            "downlow": 1,
+            "lowrightpoint": 3,
+            "rightslot": 1,
+            "insiderightcircle": 4,
+            "outsideleftcircle": 2,
+            "neutralzone": 1,
+            "slot": 4,
+            "insideleftcircle": 2,
+            "defensivezone": 1,
+            "lowright": 1,
+            "lowcenterpoint": 2,
+            "outsiderightcircle": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 2,
+        "id": "702a554f-67c6-4628-b468-48c9a642d8ef",
+        "date": "24.4",
+        "date_format": "2024-04-24"
+      },
+      "report": {
+        "periods": 4,
+        "teams": {
+          "home": "Panthers",
+          "away": "Lightning"
+        },
+        "score": {
+          "home": 3,
+          "away": 2
+        },
+        "shots_total": {
+          "home": 76,
+          "away": 54
+        },
+        "shots": {
+          "home": {
+            "neutralzone": 1,
+            "slot": 13,
+            "centerpoint": 1,
+            "outsiderightcircle": 2,
+            "lowslot": 15,
+            "highslot": 5,
+            "lowright": 5,
+            "rightpoint": 8,
+            "leftpoint": 3,
+            "lowleftpoint": 2,
+            "insiderightcircle": 9,
+            "leftslot": 3,
+            "rightslot": 2,
+            "lowcenterpoint": 1,
+            "insideleftcircle": 1,
+            "outsideleftcircle": 3,
+            "lowrightpoint": 1,
+            "lowleft": 1
+          },
+          "away": {
+            "insiderightcircle": 6,
+            "centerpoint": 3,
+            "leftpoint": 5,
+            "lowright": 3,
+            "outsideleftcircle": 3,
+            "lowrightpoint": 4,
+            "lowslot": 9,
+            "insideleftcircle": 3,
+            "outsiderightcircle": 3,
+            "highslot": 3,
+            "leftslot": 1,
+            "rightpoint": 2,
+            "slot": 5,
+            "lowcenterpoint": 1,
+            "lowleftpoint": 2,
+            "rightslot": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 3,
+        "id": "dda2b533-c6c2-4c6a-b9c0-5eb3f13e153d",
+        "date": "26.4",
+        "date_format": "2024-04-26"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Lightning",
+          "away": "Panthers"
+        },
+        "score": {
+          "home": 3,
+          "away": 5
+        },
+        "shots_total": {
+          "home": 64,
+          "away": 57
+        },
+        "shots": {
+          "home": {
+            "rightpoint": 6,
+            "lowleft": 4,
+            "insiderightcircle": 6,
+            "centerpoint": 5,
+            "slot": 4,
+            "leftpoint": 6,
+            "highslot": 7,
+            "insideleftcircle": 6,
+            "lowcenterpoint": 3,
+            "lowslot": 3,
+            "lowrightpoint": 3,
+            "neutralzone": 2,
+            "outsiderightcircle": 3,
+            "lowright": 2,
+            "rightslot": 1,
+            "lowleftpoint": 1,
+            "defensivezone": 1,
+            "outsideleftcircle": 1
+          },
+          "away": {
+            "lowslot": 4,
+            "leftpoint": 6,
+            "outsiderightcircle": 3,
+            "lowrightpoint": 3,
+            "lowright": 2,
+            "insideleftcircle": 8,
+            "lowleftpoint": 4,
+            "centerpoint": 2,
+            "outsideleftcircle": 3,
+            "downlow": 1,
+            "leftslot": 4,
+            "rightslot": 2,
+            "neutralzone": 2,
+            "insiderightcircle": 6,
+            "defensivezone": 1,
+            "rightpoint": 2,
+            "slot": 2,
+            "lowcenterpoint": 1,
+            "highslot": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 4,
+        "id": "e30237bc-de0c-46c6-9a34-ba26d4d4722e",
+        "date": "27.4",
+        "date_format": "2024-04-27"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Lightning",
+          "away": "Panthers"
+        },
+        "score": {
+          "home": 6,
+          "away": 3
+        },
+        "shots_total": {
+          "home": 65,
+          "away": 58
+        },
+        "shots": {
+          "home": {
+            "outsideleftcircle": 1,
+            "rightpoint": 7,
+            "slot": 8,
+            "rightslot": 3,
+            "highslot": 5,
+            "leftpoint": 5,
+            "lowslot": 10,
+            "centerpoint": 2,
+            "insideleftcircle": 4,
+            "leftslot": 2,
+            "defensivezone": 1,
+            "lowleftpoint": 5,
+            "lowright": 2,
+            "lowrightpoint": 2,
+            "lowcenterpoint": 2,
+            "insiderightcircle": 3,
+            "outsiderightcircle": 1,
+            "neutralzone": 2
+          },
+          "away": {
+            "outsiderightcircle": 4,
+            "lowslot": 6,
+            "insideleftcircle": 9,
+            "outsideleftcircle": 4,
+            "lowleft": 3,
+            "lowright": 1,
+            "insiderightcircle": 6,
+            "lowrightpoint": 2,
+            "centerpoint": 2,
+            "slot": 3,
+            "leftpoint": 5,
+            "rightpoint": 3,
+            "rightslot": 2,
+            "highslot": 6,
+            "lowcenterpoint": 1,
+            "lowleftpoint": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 5,
+        "id": "506c3ccd-61c1-4170-b19f-751e6ccae992",
+        "date": "30.4",
+        "date_format": "2024-04-30"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Panthers",
+          "away": "Lightning"
+        },
+        "score": {
+          "home": 6,
+          "away": 1
+        },
+        "shots_total": {
+          "home": 65,
+          "away": 70
+        },
+        "shots": {
+          "home": {
+            "rightslot": 4,
+            "lowleftpoint": 3,
+            "lowleft": 3,
+            "lowslot": 9,
+            "slot": 4,
+            "insideleftcircle": 6,
+            "leftpoint": 6,
+            "outsideleftcircle": 1,
+            "rightpoint": 4,
+            "highslot": 7,
+            "centerpoint": 3,
+            "lowcenterpoint": 1,
+            "leftslot": 1,
+            "insiderightcircle": 4,
+            "outsiderightcircle": 1,
+            "lowrightpoint": 3,
+            "defensivezone": 3,
+            "lowright": 1,
+            "neutralzone": 1
+          },
+          "away": {
+            "slot": 8,
+            "outsiderightcircle": 3,
+            "highslot": 5,
+            "insideleftcircle": 3,
+            "lowrightpoint": 4,
+            "insiderightcircle": 3,
+            "leftpoint": 11,
+            "neutralzone": 2,
+            "centerpoint": 4,
+            "defensivezone": 2,
+            "rightpoint": 8,
+            "lowslot": 6,
+            "rightslot": 1,
+            "lowcenterpoint": 3,
+            "leftslot": 3,
+            "lowleftpoint": 4
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "team_a": "Canucks",
+  "team_b": "Oilers",
+  "round": 2,
+  "games_reports": [
+    {
+      "schedule_data": {
+        "game": 1,
+        "id": "267c3ef4-e49a-463c-9eb6-eb2523fbc4aa",
+        "date": "9.5",
+        "date_format": "2024-05-09"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Canucks",
+          "away": "Oilers"
+        },
+        "score": {
+          "home": 5,
+          "away": 4
+        },
+        "shots": {
+          "home": {
+            "wrist": 25,
+            "bat": 1,
+            "backhand": 8,
+            "slap": 7,
+            "tip-in": 4,
+            "snap": 8,
+            "deflected": 1
+          },
+          "away": {
+            "wrist": 28,
+            "backhand": 5,
+            "snap": 3,
+            "tip-in": 2,
+            "slap": 4,
+            "wrap-around": 2,
+            "bat": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 2,
+        "id": "d8faeb20-b615-4f7e-ad1a-242f26a04528",
+        "date": "11.5",
+        "date_format": "2024-05-11"
+      },
+      "report": {
+        "periods": 4,
+        "teams": {
+          "home": "Canucks",
+          "away": "Oilers"
+        },
+        "score": {
+          "home": 3,
+          "away": 4
+        },
+        "shots": {
+          "home": {
+            "wrist": 21,
+            "snap": 7,
+            "tip-in": 4,
+            "slap": 3,
+            "backhand": 4
+          },
+          "away": {
+            "slap": 9,
+            "wrist": 41,
+            "backhand": 9,
+            "tip-in": 3,
+            "snap": 9,
+            "poke": 1,
+            "deflected": 2
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 3,
+        "id": "00e153e0-e13d-4cd8-896f-e1c848c4febc",
+        "date": "13.5",
+        "date_format": "2024-05-13"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Oilers",
+          "away": "Canucks"
+        },
+        "score": {
+          "home": 3,
+          "away": 4
+        },
+        "shots": {
+          "home": {
+            "snap": 23,
+            "wrist": 31,
+            "deflected": 3,
+            "backhand": 4,
+            "tip-in": 4,
+            "poke": 2,
+            "slap": 20
+          },
+          "away": {
+            "wrist": 12,
+            "slap": 3,
+            "snap": 11,
+            "tip-in": 6,
+            "backhand": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 4,
+        "id": "5997930f-3819-4935-bd1d-a72af9197285",
+        "date": "15.5",
+        "date_format": "2024-05-15"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Oilers",
+          "away": "Canucks"
+        },
+        "score": {
+          "home": 3,
+          "away": 2
+        },
+        "shots": {
+          "home": {
+            "slap": 6,
+            "snap": 20,
+            "wrist": 28,
+            "tip-in": 3,
+            "backhand": 5,
+            "deflected": 1
+          },
+          "away": {
+            "snap": 19,
+            "wrist": 25,
+            "backhand": 2,
+            "slap": 10,
+            "tip-in": 3,
+            "deflected": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 5,
+        "id": "97f90c91-347d-4e2b-bff2-b95d5d75d9d0",
+        "date": "17.5",
+        "date_format": "2024-05-17"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Canucks",
+          "away": "Oilers"
+        },
+        "score": {
+          "home": 3,
+          "away": 2
+        },
+        "shots": {
+          "home": {
+            "tip-in": 6,
+            "snap": 6,
+            "backhand": 4,
+            "wrist": 37,
+            "deflected": 3,
+            "poke": 1,
+            "slap": 11,
+            "wrap-around": 1,
+            "bat": 1
+          },
+          "away": {
+            "wrist": 35,
+            "slap": 5,
+            "tip-in": 4,
+            "backhand": 4,
+            "snap": 8,
+            "deflected": 1,
+            "wrap-around": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 6,
+        "id": "e7d9a52b-34bb-4ddd-a636-a79a3c3601f5",
+        "date": "19.5",
+        "date_format": "2024-05-19"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Oilers",
+          "away": "Canucks"
+        },
+        "score": {
+          "home": 5,
+          "away": 1
+        },
+        "shots": {
+          "home": {
+            "snap": 22,
+            "wrist": 23,
+            "slap": 12,
+            "backhand": 3,
+            "tip-in": 2,
+            "poke": 1
+          },
+          "away": {
+            "wrist": 16,
+            "tip-in": 10,
+            "snap": 19,
+            "backhand": 1,
+            "slap": 6
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 7,
+        "id": "7ddc653f-b5c4-44fe-8cf3-2e24ba0da941",
+        "date": "21.5",
+        "date_format": "2024-05-21"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Canucks",
+          "away": "Oilers"
+        },
+        "score": {
+          "home": 2,
+          "away": 3
+        },
+        "shots": {
+          "home": {
+            "wrist": 39,
+            "backhand": 2,
+            "tip-in": 4,
+            "snap": 8,
+            "deflected": 2,
+            "slap": 6,
+            "wrap-around": 1
+          },
+          "away": {
+            "wrist": 28,
+            "snap": 7,
+            "tip-in": 5,
+            "wrap-around": 1,
+            "slap": 3,
+            "backhand": 2
+          }
+        }
+      }
+    }
+  ]
+}

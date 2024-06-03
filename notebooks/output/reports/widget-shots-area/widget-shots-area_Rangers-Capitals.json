@@ -1,0 +1,259 @@
+{
+  "team_a": "Rangers",
+  "team_b": "Capitals",
+  "round": 1,
+  "games_reports": [
+    {
+      "schedule_data": {
+        "game": 1,
+        "id": "1c47e4e0-f9e4-4fdc-bb21-6af587dbb8ed",
+        "date": "21.4",
+        "date_format": "2024-04-21"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Rangers",
+          "away": "Capitals"
+        },
+        "score": {
+          "home": 4,
+          "away": 1
+        },
+        "shots_total": {
+          "home": 66,
+          "away": 54
+        },
+        "shots": {
+          "home": {
+            "neutralzone": 2,
+            "rightpoint": 6,
+            "leftpoint": 5,
+            "highslot": 3,
+            "lowslot": 10,
+            "lowleftpoint": 3,
+            "lowcenterpoint": 5,
+            "insiderightcircle": 3,
+            "lowleft": 1,
+            "outsiderightcircle": 3,
+            "lowright": 2,
+            "lowrightpoint": 6,
+            "slot": 5,
+            "insideleftcircle": 3,
+            "centerpoint": 2,
+            "rightslot": 3,
+            "leftslot": 1,
+            "outsideleftcircle": 2,
+            "defensivezone": 1
+          },
+          "away": {
+            "insideleftcircle": 3,
+            "highslot": 5,
+            "slot": 10,
+            "insiderightcircle": 5,
+            "neutralzone": 4,
+            "leftpoint": 4,
+            "lowrightpoint": 3,
+            "lowslot": 3,
+            "lowleftpoint": 2,
+            "rightpoint": 3,
+            "outsiderightcircle": 4,
+            "lowleft": 1,
+            "outsideleftcircle": 3,
+            "centerpoint": 1,
+            "lowcenterpoint": 2,
+            "rightslot": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 2,
+        "id": "10c2b293-3adb-4bfa-8955-5b4d21c941ef",
+        "date": "24.4",
+        "date_format": "2024-04-24"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Rangers",
+          "away": "Capitals"
+        },
+        "score": {
+          "home": 4,
+          "away": 3
+        },
+        "shots_total": {
+          "home": 61,
+          "away": 58
+        },
+        "shots": {
+          "home": {
+            "leftpoint": 8,
+            "lowleftpoint": 4,
+            "insiderightcircle": 11,
+            "rightpoint": 4,
+            "rightslot": 1,
+            "lowleft": 1,
+            "highslot": 4,
+            "lowcenterpoint": 4,
+            "outsideleftcircle": 3,
+            "lowslot": 8,
+            "defensivezone": 2,
+            "slot": 1,
+            "outsiderightcircle": 3,
+            "insideleftcircle": 3,
+            "leftslot": 2,
+            "lowright": 1,
+            "downlow": 1
+          },
+          "away": {
+            "lowrightpoint": 4,
+            "insiderightcircle": 5,
+            "outsideleftcircle": 1,
+            "neutralzone": 3,
+            "rightslot": 3,
+            "slot": 9,
+            "insideleftcircle": 4,
+            "lowslot": 6,
+            "rightpoint": 4,
+            "centerpoint": 3,
+            "lowleftpoint": 4,
+            "defensivezone": 1,
+            "highslot": 4,
+            "outsiderightcircle": 2,
+            "leftpoint": 5
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 3,
+        "id": "c936f64a-f651-4d49-ab4e-84e0400738fa",
+        "date": "27.4",
+        "date_format": "2024-04-27"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Capitals",
+          "away": "Rangers"
+        },
+        "score": {
+          "home": 1,
+          "away": 3
+        },
+        "shots_total": {
+          "home": 60,
+          "away": 51
+        },
+        "shots": {
+          "home": {
+            "leftpoint": 6,
+            "lowrightpoint": 1,
+            "neutralzone": 3,
+            "centerpoint": 3,
+            "leftslot": 4,
+            "slot": 7,
+            "rightslot": 7,
+            "lowslot": 10,
+            "insideleftcircle": 4,
+            "lowleftpoint": 3,
+            "highslot": 5,
+            "rightpoint": 2,
+            "lowright": 1,
+            "lowleft": 3,
+            "outsideleftcircle": 1
+          },
+          "away": {
+            "outsideleftcircle": 4,
+            "insideleftcircle": 1,
+            "leftslot": 2,
+            "lowright": 2,
+            "lowslot": 2,
+            "leftpoint": 7,
+            "insiderightcircle": 5,
+            "lowleft": 2,
+            "lowrightpoint": 2,
+            "slot": 5,
+            "rightpoint": 4,
+            "lowleftpoint": 3,
+            "highslot": 1,
+            "rightslot": 2,
+            "neutralzone": 3,
+            "centerpoint": 5,
+            "lowcenterpoint": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 4,
+        "id": "9f3a556e-997b-49ad-ac69-c111722c27a7",
+        "date": "29.4",
+        "date_format": "2024-04-29"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Capitals",
+          "away": "Rangers"
+        },
+        "score": {
+          "home": 2,
+          "away": 4
+        },
+        "shots_total": {
+          "home": 65,
+          "away": 52
+        },
+        "shots": {
+          "home": {
+            "outsideleftcircle": 5,
+            "centerpoint": 4,
+            "slot": 7,
+            "lowslot": 8,
+            "rightslot": 5,
+            "insideleftcircle": 8,
+            "neutralzone": 1,
+            "insiderightcircle": 3,
+            "downlow": 1,
+            "rightpoint": 5,
+            "lowright": 1,
+            "leftpoint": 5,
+            "highslot": 3,
+            "outsiderightcircle": 2,
+            "leftslot": 1,
+            "defensivezone": 1,
+            "lowrightpoint": 2,
+            "lowcenterpoint": 2,
+            "lowleftpoint": 1
+          },
+          "away": {
+            "highslot": 4,
+            "insiderightcircle": 2,
+            "lowleftpoint": 2,
+            "centerpoint": 5,
+            "rightpoint": 5,
+            "lowslot": 4,
+            "outsiderightcircle": 3,
+            "lowleft": 2,
+            "lowrightpoint": 3,
+            "insideleftcircle": 5,
+            "lowcenterpoint": 1,
+            "leftpoint": 5,
+            "rightslot": 1,
+            "slot": 6,
+            "neutralzone": 1,
+            "downlow": 1,
+            "lowright": 1,
+            "outsideleftcircle": 1
+          }
+        }
+      }
+    }
+  ]
+}

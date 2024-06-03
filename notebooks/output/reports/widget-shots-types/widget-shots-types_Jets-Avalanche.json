@@ -1,0 +1,196 @@
+{
+  "team_a": "Jets",
+  "team_b": "Avalanche",
+  "round": 1,
+  "games_reports": [
+    {
+      "schedule_data": {
+        "game": 1,
+        "id": "8e9516c5-ab55-4eea-8487-57d5c88dbbe4",
+        "date": "22.4",
+        "date_format": "2024-04-22"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Jets",
+          "away": "Avalanche"
+        },
+        "score": {
+          "home": 7,
+          "away": 6
+        },
+        "shots": {
+          "home": {
+            "wrist": 31,
+            "slap": 9,
+            "backhand": 2,
+            "tip-in": 3,
+            "snap": 3
+          },
+          "away": {
+            "wrist": 65,
+            "backhand": 6,
+            "tip-in": 7,
+            "deflected": 2,
+            "slap": 4,
+            "snap": 5,
+            "bat": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 2,
+        "id": "0e7ea5a5-3e58-46cf-afa1-2bbd506d5ef6",
+        "date": "24.4",
+        "date_format": "2024-04-24"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Jets",
+          "away": "Avalanche"
+        },
+        "score": {
+          "home": 2,
+          "away": 5
+        },
+        "shots": {
+          "home": {
+            "wrist": 38,
+            "tip-in": 7,
+            "snap": 4,
+            "slap": 6,
+            "backhand": 5
+          },
+          "away": {
+            "wrist": 41,
+            "tip-in": 5,
+            "slap": 8,
+            "deflected": 1,
+            "snap": 12,
+            "backhand": 4
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 3,
+        "id": "530f5f18-c1cc-49f8-89b1-19accf6d43b8",
+        "date": "27.4",
+        "date_format": "2024-04-27"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Avalanche",
+          "away": "Jets"
+        },
+        "score": {
+          "home": 6,
+          "away": 2
+        },
+        "shots": {
+          "home": {
+            "wrist": 46,
+            "backhand": 3,
+            "tip-in": 9,
+            "snap": 8,
+            "slap": 6,
+            "deflected": 1,
+            "wrap-around": 1
+          },
+          "away": {
+            "wrist": 34,
+            "wrap-around": 1,
+            "tip-in": 8,
+            "backhand": 5,
+            "snap": 6,
+            "slap": 5
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 4,
+        "id": "e34a1460-41a8-457b-be9c-dec84d640254",
+        "date": "28.4",
+        "date_format": "2024-04-28"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Avalanche",
+          "away": "Jets"
+        },
+        "score": {
+          "home": 5,
+          "away": 1
+        },
+        "shots": {
+          "home": {
+            "wrist": 35,
+            "backhand": 6,
+            "slap": 5,
+            "snap": 5,
+            "tip-in": 5,
+            "deflected": 2,
+            "poke": 1,
+            "bat": 1
+          },
+          "away": {
+            "wrist": 43,
+            "tip-in": 4,
+            "slap": 8,
+            "snap": 6,
+            "backhand": 3
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 5,
+        "id": "499aa087-b75a-4f65-ad9d-bc93a0feaaaa",
+        "date": "1.5",
+        "date_format": "2024-05-01"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Jets",
+          "away": "Avalanche"
+        },
+        "score": {
+          "home": 3,
+          "away": 6
+        },
+        "shots": {
+          "home": {
+            "wrist": 49,
+            "backhand": 5,
+            "": 1,
+            "slap": 9,
+            "snap": 3,
+            "tip-in": 6,
+            "wrap-around": 1,
+            "deflected": 1
+          },
+          "away": {
+            "wrist": 45,
+            "deflected": 1,
+            "backhand": 5,
+            "tip-in": 4,
+            "snap": 5,
+            "": 1,
+            "slap": 1
+          }
+        }
+      }
+    }
+  ]
+}

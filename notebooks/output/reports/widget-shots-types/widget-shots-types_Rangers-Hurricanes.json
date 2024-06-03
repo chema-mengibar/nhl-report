@@ -1,0 +1,234 @@
+{
+  "team_a": "Rangers",
+  "team_b": "Hurricanes",
+  "round": 2,
+  "games_reports": [
+    {
+      "schedule_data": {
+        "game": 1,
+        "id": "40dbf88a-0209-4a70-b319-9735f081d6a2",
+        "date": "5.5",
+        "date_format": "2024-05-05"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Rangers",
+          "away": "Hurricanes"
+        },
+        "score": {
+          "home": 4,
+          "away": 3
+        },
+        "shots": {
+          "home": {
+            "wrist": 31,
+            "snap": 2,
+            "slap": 4,
+            "backhand": 6,
+            "deflected": 1,
+            "poke": 1
+          },
+          "away": {
+            "wrist": 52,
+            "slap": 12,
+            "snap": 5,
+            "tip-in": 2,
+            "backhand": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 2,
+        "id": "8f36d70b-a463-452e-9f02-65dd5d37d2c9",
+        "date": "8.5",
+        "date_format": "2024-05-08"
+      },
+      "report": {
+        "periods": 5,
+        "teams": {
+          "home": "Rangers",
+          "away": "Hurricanes"
+        },
+        "score": {
+          "home": 4,
+          "away": 3
+        },
+        "shots": {
+          "home": {
+            "snap": 15,
+            "wrist": 50,
+            "tip-in": 13,
+            "backhand": 7,
+            "deflected": 2,
+            "slap": 10
+          },
+          "away": {
+            "slap": 20,
+            "wrist": 65,
+            "tip-in": 8,
+            "snap": 13,
+            "wrap-around": 1,
+            "backhand": 8,
+            "poke": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 3,
+        "id": "1c58cd96-db53-4a70-ae94-83235ce5db19",
+        "date": "10.5",
+        "date_format": "2024-05-10"
+      },
+      "report": {
+        "periods": 4,
+        "teams": {
+          "home": "Hurricanes",
+          "away": "Rangers"
+        },
+        "score": {
+          "home": 2,
+          "away": 3
+        },
+        "shots": {
+          "home": {
+            "wrist": 41,
+            "snap": 21,
+            "bat": 3,
+            "backhand": 2,
+            "slap": 6,
+            "deflected": 2,
+            "tip-in": 10,
+            "wrap-around": 1
+          },
+          "away": {
+            "snap": 18,
+            "wrist": 27,
+            "slap": 1,
+            "tip-in": 4,
+            "backhand": 7
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 5,
+        "id": "0d4df134-96d0-4682-ad06-864dd91e3afa",
+        "date": "12.5",
+        "date_format": "2024-05-12"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Hurricanes",
+          "away": "Rangers"
+        },
+        "score": {
+          "home": 4,
+          "away": 3
+        },
+        "shots": {
+          "home": {
+            "wrist": 30,
+            "snap": 20,
+            "backhand": 5,
+            "tip-in": 4,
+            "slap": 9,
+            "wrap-around": 1,
+            "bat": 1,
+            "deflected": 1
+          },
+          "away": {
+            "wrist": 34,
+            "slap": 4,
+            "snap": 13,
+            "backhand": 2,
+            "tip-in": 4,
+            "deflected": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 6,
+        "id": "568c3ab9-7b39-4f22-a80c-d5a045b57b0a",
+        "date": "14.5",
+        "date_format": "2024-05-14"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Rangers",
+          "away": "Hurricanes"
+        },
+        "score": {
+          "home": 1,
+          "away": 4
+        },
+        "shots": {
+          "home": {
+            "snap": 18,
+            "wrist": 21,
+            "deflected": 1,
+            "tip-in": 6,
+            "backhand": 3,
+            "wrap-around": 1,
+            "slap": 2
+          },
+          "away": {
+            "wrist": 44,
+            "tip-in": 5,
+            "wrap-around": 1,
+            "backhand": 2,
+            "slap": 9,
+            "snap": 6
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 7,
+        "id": "4c9a706e-b53d-484c-95a3-a9cd7105bc63",
+        "date": "17.5",
+        "date_format": "2024-05-17"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Hurricanes",
+          "away": "Rangers"
+        },
+        "score": {
+          "home": 3,
+          "away": 5
+        },
+        "shots": {
+          "home": {
+            "wrist": 33,
+            "slap": 5,
+            "snap": 15,
+            "backhand": 7,
+            "tip-in": 2,
+            "wrap-around": 1
+          },
+          "away": {
+            "wrist": 30,
+            "slap": 6,
+            "snap": 18,
+            "backhand": 5,
+            "tip-in": 6,
+            "deflected": 1,
+            "wrap-around": 1
+          }
+        }
+      }
+    }
+  ]
+}

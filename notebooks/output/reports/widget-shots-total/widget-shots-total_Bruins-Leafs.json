@@ -1,0 +1,210 @@
+{
+  "team_a": "Bruins",
+  "team_b": "Leafs",
+  "round": 1,
+  "games_reports": [
+    {
+      "schedule_data": {
+        "game": 1,
+        "id": "bd8cf25f-8574-4bcd-bae2-28203a1216aa",
+        "date": "21.4",
+        "date_format": "2024-04-21"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Bruins",
+          "away": "Maple Leafs"
+        },
+        "score": {
+          "home": 5,
+          "away": 1
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 20,
+            "shotmissed": 24
+          },
+          "away": {
+            "shotsaved": 35,
+            "shotmissed": 31
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 2,
+        "id": "0e77d88b-62c4-47d0-8d0e-b9d8fcd7ba59",
+        "date": "23.4",
+        "date_format": "2024-04-23"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Bruins",
+          "away": "Maple Leafs"
+        },
+        "score": {
+          "home": 2,
+          "away": 3
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 27,
+            "shotmissed": 28
+          },
+          "away": {
+            "shotsaved": 31,
+            "shotmissed": 33
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 3,
+        "id": "473409c1-db77-40d7-8d3d-650affdf9867",
+        "date": "25.4",
+        "date_format": "2024-04-25"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Maple Leafs",
+          "away": "Bruins"
+        },
+        "score": {
+          "home": 2,
+          "away": 4
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 28,
+            "shotmissed": 39
+          },
+          "away": {
+            "shotsaved": 30,
+            "shotmissed": 36
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 4,
+        "id": "c38ba98f-af04-40ee-b7aa-3cc112f32d95",
+        "date": "28.4",
+        "date_format": "2024-04-28"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Maple Leafs",
+          "away": "Bruins"
+        },
+        "score": {
+          "home": 1,
+          "away": 3
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 24,
+            "shotmissed": 45
+          },
+          "away": {
+            "shotsaved": 19,
+            "shotmissed": 24
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 5,
+        "id": "a92b531a-df70-4604-a919-904ee74bc333",
+        "date": "1.5",
+        "date_format": "2024-05-01"
+      },
+      "report": {
+        "periods": 4,
+        "teams": {
+          "home": "Bruins",
+          "away": "Maple Leafs"
+        },
+        "score": {
+          "home": 1,
+          "away": 2
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 27,
+            "shotmissed": 25
+          },
+          "away": {
+            "shotsaved": 31,
+            "shotmissed": 37
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 6,
+        "id": "24c9ccce-601d-4c45-9300-f170e82bb800",
+        "date": "3.5",
+        "date_format": "2024-05-03"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Maple Leafs",
+          "away": "Bruins"
+        },
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 24,
+            "shotmissed": 25
+          },
+          "away": {
+            "shotsaved": 22,
+            "shotmissed": 48
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 7,
+        "id": "eca1e1e3-b1f0-4658-bbe1-a832431f77e2",
+        "date": "5.5",
+        "date_format": "2024-05-05"
+      },
+      "report": {
+        "periods": 4,
+        "teams": {
+          "home": "Bruins",
+          "away": "Maple Leafs"
+        },
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 30,
+            "shotmissed": 38
+          },
+          "away": {
+            "shotsaved": 30,
+            "shotmissed": 31
+          }
+        }
+      }
+    }
+  ]
+}

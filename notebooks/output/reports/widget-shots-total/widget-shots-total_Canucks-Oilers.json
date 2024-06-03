@@ -1,0 +1,210 @@
+{
+  "team_a": "Canucks",
+  "team_b": "Oilers",
+  "round": 2,
+  "games_reports": [
+    {
+      "schedule_data": {
+        "game": 1,
+        "id": "267c3ef4-e49a-463c-9eb6-eb2523fbc4aa",
+        "date": "9.5",
+        "date_format": "2024-05-09"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Canucks",
+          "away": "Oilers"
+        },
+        "score": {
+          "home": 5,
+          "away": 4
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 19,
+            "shotmissed": 30
+          },
+          "away": {
+            "shotsaved": 14,
+            "shotmissed": 27
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 2,
+        "id": "d8faeb20-b615-4f7e-ad1a-242f26a04528",
+        "date": "11.5",
+        "date_format": "2024-05-11"
+      },
+      "report": {
+        "periods": 4,
+        "teams": {
+          "home": "Canucks",
+          "away": "Oilers"
+        },
+        "score": {
+          "home": 3,
+          "away": 4
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 16,
+            "shotmissed": 20
+          },
+          "away": {
+            "shotsaved": 27,
+            "shotmissed": 43
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 3,
+        "id": "00e153e0-e13d-4cd8-896f-e1c848c4febc",
+        "date": "13.5",
+        "date_format": "2024-05-13"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Oilers",
+          "away": "Canucks"
+        },
+        "score": {
+          "home": 3,
+          "away": 4
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 42,
+            "shotmissed": 42
+          },
+          "away": {
+            "shotsaved": 14,
+            "shotmissed": 15
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 4,
+        "id": "5997930f-3819-4935-bd1d-a72af9197285",
+        "date": "15.5",
+        "date_format": "2024-05-15"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Oilers",
+          "away": "Canucks"
+        },
+        "score": {
+          "home": 3,
+          "away": 2
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 27,
+            "shotmissed": 33
+          },
+          "away": {
+            "shotsaved": 19,
+            "shotmissed": 39
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 5,
+        "id": "97f90c91-347d-4e2b-bff2-b95d5d75d9d0",
+        "date": "17.5",
+        "date_format": "2024-05-17"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Canucks",
+          "away": "Oilers"
+        },
+        "score": {
+          "home": 3,
+          "away": 2
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 32,
+            "shotmissed": 35
+          },
+          "away": {
+            "shotsaved": 21,
+            "shotmissed": 35
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 6,
+        "id": "e7d9a52b-34bb-4ddd-a636-a79a3c3601f5",
+        "date": "19.5",
+        "date_format": "2024-05-19"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Oilers",
+          "away": "Canucks"
+        },
+        "score": {
+          "home": 5,
+          "away": 1
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 22,
+            "shotmissed": 36
+          },
+          "away": {
+            "shotsaved": 14,
+            "shotmissed": 37
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 7,
+        "id": "7ddc653f-b5c4-44fe-8cf3-2e24ba0da941",
+        "date": "21.5",
+        "date_format": "2024-05-21"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Canucks",
+          "away": "Oilers"
+        },
+        "score": {
+          "home": 2,
+          "away": 3
+        },
+        "shots": {
+          "home": {
+            "shotsaved": 15,
+            "shotmissed": 45
+          },
+          "away": {
+            "shotsaved": 26,
+            "shotmissed": 17
+          }
+        }
+      }
+    }
+  ]
+}

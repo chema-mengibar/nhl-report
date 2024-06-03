@@ -1,0 +1,196 @@
+{
+  "team_a": "Stars",
+  "team_b": "Oilers",
+  "round": 3,
+  "games_reports": [
+    {
+      "schedule_data": {
+        "game": 1,
+        "id": "ee1ec51e-bbce-44ee-973e-2975b102751b",
+        "date": "23.5",
+        "date_format": "2024-05-23"
+      },
+      "report": {
+        "periods": 5,
+        "teams": {
+          "home": "Stars",
+          "away": "Oilers"
+        },
+        "score": {
+          "home": 2,
+          "away": 3
+        },
+        "shots": {
+          "home": {
+            "wrist": 42,
+            "snap": 20,
+            "backhand": 6,
+            "slap": 2,
+            "tip-in": 6,
+            "poke": 1,
+            "wrap-around": 1
+          },
+          "away": {
+            "slap": 11,
+            "wrist": 41,
+            "deflected": 2,
+            "snap": 16,
+            "tip-in": 4,
+            "backhand": 9,
+            "bat": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 2,
+        "id": "06b5f401-20ea-4c4b-9290-1d0a6fb02507",
+        "date": "26.5",
+        "date_format": "2024-05-26"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Stars",
+          "away": "Oilers"
+        },
+        "score": {
+          "home": 3,
+          "away": 1
+        },
+        "shots": {
+          "home": {
+            "wrist": 26,
+            "snap": 15,
+            "slap": 2,
+            "tip-in": 4,
+            "backhand": 2,
+            "wrap-around": 1
+          },
+          "away": {
+            "snap": 18,
+            "wrist": 26,
+            "tip-in": 2,
+            "backhand": 9,
+            "deflected": 2,
+            "bat": 1,
+            "slap": 6
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 3,
+        "id": "34046c33-1419-45d7-9b73-90938559cb48",
+        "date": "28.5",
+        "date_format": "2024-05-28"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Oilers",
+          "away": "Stars"
+        },
+        "score": {
+          "home": 3,
+          "away": 5
+        },
+        "shots": {
+          "home": {
+            "backhand": 6,
+            "wrist": 33,
+            "deflected": 2,
+            "snap": 21,
+            "slap": 7,
+            "tip-in": 3,
+            "": 1
+          },
+          "away": {
+            "snap": 15,
+            "wrist": 22,
+            "backhand": 4,
+            "tip-in": 2,
+            "slap": 4,
+            "deflected": 1
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 4,
+        "id": "413282bc-8ff9-4e7b-8e9c-d787f403f2dc",
+        "date": "30.5",
+        "date_format": "2024-05-30"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Oilers",
+          "away": "Stars"
+        },
+        "score": {
+          "home": 5,
+          "away": 2
+        },
+        "shots": {
+          "home": {
+            "wrist": 23,
+            "snap": 17,
+            "slap": 6,
+            "backhand": 8,
+            "tip-in": 3,
+            "deflected": 1,
+            "wrap-around": 1
+          },
+          "away": {
+            "snap": 22,
+            "wrist": 16,
+            "slap": 4,
+            "backhand": 5,
+            "tip-in": 3
+          }
+        }
+      }
+    },
+    {
+      "schedule_data": {
+        "game": 5,
+        "id": "640c3761-b0a8-4c97-a0cf-821d13b37d6a",
+        "date": "1.6",
+        "date_format": "2024-06-01"
+      },
+      "report": {
+        "periods": 3,
+        "teams": {
+          "home": "Stars",
+          "away": "Oilers"
+        },
+        "score": {
+          "home": 1,
+          "away": 3
+        },
+        "shots": {
+          "home": {
+            "snap": 15,
+            "wrist": 27,
+            "slap": 6,
+            "tip-in": 6,
+            "backhand": 4,
+            "wrap-around": 1
+          },
+          "away": {
+            "wrist": 33,
+            "tip-in": 4,
+            "snap": 17,
+            "slap": 8,
+            "backhand": 4,
+            "wrap-around": 1
+          }
+        }
+      }
+    }
+  ]
+}
