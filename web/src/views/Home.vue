@@ -77,19 +77,30 @@ export default {
 
       <div class="col-12-md col-9">
         <div class="cell h1">
-          <div class="cell-header">PLACEHOLDER</div>
-        </div>
-      </div>
-    </div>
-
-    <div class="row">
-      <div class="col-12">
-        <div class="cell h1">
           <div class="cell-header">SHOTS : MISSED  / SAVED</div>
           <WidgetShotsTotal  :id="`shots-total_${groupKey}`"  :groupKey="groupKey"/>
         </div>
       </div>
     </div>
+
+    <div class="row scrollable">
+      <div
+        class="col-md-6 col-3"
+        v-bind:key="`WidgetShotsCounter_${groupKey}_${idx}`"
+        v-for="idx in this.numGames"
+      >
+        <div class="cell h2">
+          <div class="cell-header">SHOTS COUNTER by GAME: {{ idx}}</div>
+          <WidgetShotsCounter
+            :gameIdx="idx - 1"
+            :id="`shots-counter_${groupKey}_${idx}`"
+            :groupKey="groupKey"
+          />
+        </div>
+      </div>
+    </div>
+
+   
 
     <div class="row">
       <div class="col-12">
@@ -121,21 +132,6 @@ export default {
 
 
 
-    <div class="row scrollable">
-      <div
-        class="col-md-6 col-3"
-        v-bind:key="`WidgetShotsCounter_${groupKey}_${idx}`"
-        v-for="idx in this.numGames"
-      >
-        <div class="cell h2">
-          <div class="cell-header">SHOTS COUNTER by GAME: {{ idx}}</div>
-          <WidgetShotsCounter
-            :gameIdx="idx - 1"
-            :id="`shots-counter_${groupKey}_${idx}`"
-            :groupKey="groupKey"
-          />
-        </div>
-      </div>
-    </div>
+   
   </div>
 </template>
