@@ -2,5 +2,19 @@
   min-height: auto;
   width:100%;
   flex: 1;
+
+
+
 }
 
+
+.svg-label{
+  font-family: var(--font-copy);
+  fill: var(--grey-z_rgb);
+  font-size: 14px;
+  text-transform: uppercase;
+
+  &.small{
+    font-size: 10px;
+  }
+}

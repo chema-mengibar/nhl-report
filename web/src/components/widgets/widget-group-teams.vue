@@ -53,10 +53,18 @@ export default {
 @import "../../styles/media";
 
 .widget-group-teams {
+
+  display: flex;
+  flex-direction: column;
+
+  flex-grow: 1;
+
   .teams-wrapper {
     display:flex;
     gap:20px;
     justify-content: space-around;
+    align-items: center;
+    flex:1;
   }
 
   .team-item {
@@ -89,7 +97,7 @@ export default {
     margin-top:15px;
     border-top: 1px solid var(--grey-2_rgb);
     text-align: center;
-    padding: 7px;
+    padding-top: 15px;
   }
 }
 </style>

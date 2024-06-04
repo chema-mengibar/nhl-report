@@ -15,9 +15,13 @@ export default {
     t: () => {},
     groupKey: null,
     isLoading: true,
-    numGames: 0
+    numGames: 0,
   }),
   methods: {
+    getDefaultData: function () {
+      const groupId = this.$services.toolService.getRoundGroups(3)[0];
+      this.$router.push('/' + groupId)
+    },
     check: function () {
       const groupId = this.$route.params.groupId;
       if (groupId) {
@@ -25,14 +29,16 @@ export default {
         if (found) {
           this.groupKey = key;
 
-          this.$services.toolService.getSerieNumGames(groupId, true).then( resp =>{
-            this.numGames = resp
-          })
-          
+          this.$services.toolService
+            .getSerieNumGames(groupId, true)
+            .then((resp) => {
+              this.numGames = resp;
+            });
         } else {
-          this.groupKey = null;
-          this.numGames = [];
+          this.getDefaultData();
         }
+      } else {
+        this.getDefaultData();
       }
     },
   },
@@ -70,27 +76,30 @@ export default {
     <div class="row">
       <div class="col-12-md col-3">
         <div class="cell">
-          <div class="cell-header">TEAMS</div>
+          <div class="cell-header">SERIE</div>
           <WidgetGroupTeams :groupKey="groupKey" />
         </div>
       </div>
 
       <div class="col-12-md col-9">
         <div class="cell h1">
-          <div class="cell-header">SHOTS : MISSED  / SAVED</div>
-          <WidgetShotsTotal  :id="`shots-total_${groupKey}`"  :groupKey="groupKey"/>
+          <div class="cell-header">SHOTS : MISSED / SAVED</div>
+          <WidgetShotsTotal
+            :id="`shots-total_${groupKey}`"
+            :groupKey="groupKey"
+          />
         </div>
       </div>
     </div>
 
     <div class="row scrollable">
       <div
-        class="col-md-6 col-3"
+        class="col-md-9 col-3"
         v-bind:key="`WidgetShotsCounter_${groupKey}_${idx}`"
         v-for="idx in this.numGames"
       >
         <div class="cell h2">
-          <div class="cell-header">SHOTS COUNTER by GAME: {{ idx}}</div>
+          <div class="cell-header">SHOTS COUNTER by GAME: {{ idx }}</div>
           <WidgetShotsCounter
             :gameIdx="idx - 1"
             :id="`shots-counter_${groupKey}_${idx}`"
@@ -100,13 +109,11 @@ export default {
       </div>
     </div>
 
-   
-
     <div class="row">
       <div class="col-12">
         <div class="cell">
           <div class="cell-header">WidgetShotsTypes</div>
-          <WidgetShotsTypes  :groupKey="groupKey"/>
+          <WidgetShotsTypes :groupKey="groupKey" />
         </div>
       </div>
     </div>
@@ -115,7 +122,7 @@ export default {
       <div class="col-12">
         <div class="cell">
           <div class="cell-header">WidgetShotsArea</div>
-          <WidgetShotsArea  :groupKey="groupKey"/>
+          <WidgetShotsArea :groupKey="groupKey" />
         </div>
       </div>
     </div>
@@ -124,14 +131,9 @@ export default {
       <div class="col-12">
         <div class="cell">
           <div class="cell-header">WidgetShotsDistance</div>
-          <WidgetShotsDistance  :groupKey="groupKey"/>
+          <WidgetShotsDistance :groupKey="groupKey" />
         </div>
       </div>
     </div>
-
-
-
-
-   
   </div>
 </template>
