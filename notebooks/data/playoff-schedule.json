@@ -762,28 +762,59 @@
               "date": "1.6",
               "id": "640c3761-b0a8-4c97-a0cf-821d13b37d6a",
               "game": 5
-            }
-           
+            },
+			{
+              "score": "1:5",
+              "lead": "2-4",
+              "lead_team": "Oilers",
+              "date": "2.6",
+              "id": "6b65a1f3-bcff-4697-adc6-87aded4dce34",
+              "game": 6
+            }           
           ]
         }
       ]
     }
   ],
-  "last":[
-   {
+  "final":{
+	  
+          "teams": [
+            "Oilers",
+            "Panthers"
+          ],
+          "games": [
+			{
               "score": "0:0",
               "lead": "0-0",
-              "lead_team": "XXX",
-              "date": "2.6",
-              "id": "6b65a1f3-bcff-4697-adc6-87aded4dce34",
-              "game": 6
+              "lead_team": "xxx",
+              "date": "9.6",
+              "game": 1,
+              "id": "27ef7b5a-c150-4f7b-9584-7d003375f161"
             },
-            {
+			{
               "score": "0:0",
               "lead": "0-0",
-              "lead_team": "XXX",
-              "date": "4.6",
-              "id": "365b0374-55bf-482c-939e-aed326062227",
-              "game": 7
-            }]
+              "lead_team": "xxx",
+              "date": "11.6",
+              "game": 2,
+              "id": "bf7da94c-5ea2-4467-b940-240c101d487a"
+            },
+			{
+              "score": "0:0",
+              "lead": "0-0",
+              "lead_team": "xxx",
+              "date": "13.6",
+              "game": 3,
+              "id": "ad473e94-3654-447d-a5ba-52de87eb0976"
+            },
+			{
+              "score": "0:0",
+              "lead": "0-0",
+              "lead_team": "xxx",
+              "date": "16.6",
+              "game": 4,
+              "id": "ab9c7558-cb00-488d-829e-83ed7c228a4c"
+            },
+		  ]
+  }
 }
