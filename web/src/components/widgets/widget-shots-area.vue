@@ -54,6 +54,7 @@ export default {
 
     },
     setDataByTeamKey: function (teamKey) {
+      
 
       const teamName = this.dataSet[teamKey];
 
@@ -62,7 +63,7 @@ export default {
       const teamSideKey = reportObj.report.teams.home.includes(teamName) ? 'home' : 'away';
       const objShots = reportObj.report.shots[teamSideKey]
 
-      const teamColor = '#ffffff'; // this.$services.toolService.getTeamColor(teamName)
+      const teamColor = this.$services.toolService.getTeamColor(teamName)  // '#ffffff'; //
 
       const darkerColor = d3.rgb(teamColor).darker(7).formatHex()
 
