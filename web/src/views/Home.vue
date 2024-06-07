@@ -73,6 +73,8 @@ export default {
 <template>
   <Header />
   <div class="app-layout-body dashboard">
+  
+    
     <div class="row">
       <div class="col-12-md col-3">
         <div class="cell">
@@ -94,7 +96,7 @@ export default {
 
     <div class="row scrollable">
       <div
-        class="col-md-9 col-3"
+        class="col-11-sm col-9-md col-3"
         v-bind:key="`WidgetShotsCounter_${groupKey}_${idx}`"
         v-for="idx in this.numGames"
       >
@@ -110,6 +112,24 @@ export default {
     </div>
 
     <div class="row">
+      <div class="col-12-md col-6">
+        <div class="cell h1">
+          
+          <WidgetShotsArea
+              :id="`shots-area_${groupKey}`"
+              :groupKey="groupKey"
+          />
+        </div>
+      </div>
+      <div class="col-12-md col-6">
+        <div class="cell h1">
+          <div class="cell-header">-</div>
+          
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
       <div class="col-12">
         <div class="cell">
           <div class="cell-header">WidgetShotsTypes</div>
@@ -118,14 +138,7 @@ export default {
       </div>
     </div>
 
-    <div class="row">
-      <div class="col-12">
-        <div class="cell">
-          <div class="cell-header">WidgetShotsArea</div>
-          <WidgetShotsArea :groupKey="groupKey" />
-        </div>
-      </div>
-    </div>
+   
 
     <div class="row">
       <div class="col-12">

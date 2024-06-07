@@ -5,6 +5,7 @@ export default {
   inject: ["$services"],
   name: "WidgetGroupTeams",
   props: {
+    id: { type: String, default: null },
     groupKey: { type: String, default: null },
   },
   data: () => ({

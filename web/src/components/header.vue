@@ -8,7 +8,7 @@ export default {
   props: {},
   data: () => ({
     t: {},
-    groups: [{ label: "op", value: 1 }],
+    groups: [{label: "op", value: 1}],
     model: {
       group: null,
     },
@@ -36,18 +36,16 @@ export default {
   },
   computed: {},
   mounted() {
-
     const groupId = this.$route.params.groupId;
-    console.log('#######', groupId)
     if (groupId) {
-        const { found, key } = this.$services.toolService.checkGroupId(groupId);
-        if (found) {
-          this.model.group = groupId;
-        } else {
-          this.model.group = null;
-        }
+      const {found, key} = this.$services.toolService.checkGroupId(groupId);
+      if (found) {
+        this.model.group = groupId;
+      } else {
+        this.model.group = null;
       }
-    
+    }
+
   },
 };
 </script>
@@ -91,16 +89,16 @@ export default {
 
     <div class="wrapper">
       <select class="dropdown" v-model="model.group" @change="onChangeCallback" placeholder="-- Select a serie --">
-        <option value=""  disabled selected>-- Select a serie --</option>
+        <option value="" disabled selected>-- Select a serie --</option>
         <optgroup
-          v-for="round in [1, 2, 3]"
-          :key="`round-${round}`"
-          :label="`Round ${round}`"
+            v-for="round in [1, 2, 3]"
+            :key="`round-${round}`"
+            :label="`Round ${round}`"
         >
           <option
-            v-for="group in this.$services.toolService.getRoundGroups(round)"
-            :key="group"
-            :value="group"
+              v-for="group in this.$services.toolService.getRoundGroups(round)"
+              :key="group"
+              :value="group"
           >
             {{ group }}
           </option>

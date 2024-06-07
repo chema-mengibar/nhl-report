@@ -5,12 +5,38 @@ const dataSets = import.meta.glob('./data/**/*.json')
 
 export default class ToolService {
 
+
+    teamsColors = {
+        Knights: '#eca200', // 236, 162, 0
+        'Golden-Knights': '#eca200', // 236, 162, 0
+        Predators: '#FFB81C', // 255, 184, 28
+        Hurricanes: '#CC0000', // 204, 0, 0
+        Islanders: '#00468B', // 0, 70, 139
+        Jets: '#05458a', //  4, 30, 66
+        Avalanche: '#a13459', // 111, 38, 61
+        Capitals: '#C8102E', // 200, 16, 46
+        Kings: '#A2AAAD', // 162, 170, 173
+        Lightning: '#122797', // 18, 39, 151
+        Panthers: '#C8102E', // 200, 16, 46
+        Rangers: '#0033A0', // 0, 51, 160
+        Stars: '#00fa00', // 0, 250, 0
+        Oilers: '#FC4C03', // 252, 76, 3
+        Canucks: '#114bb2', // 0, 32, 91
+        Bruins: '#FEC215', // 254, 194, 21
+        Leafs: '#025afc', // 0, 32, 91
+        'Maple-Leafs': '#025afc', // 0, 32, 91
+    }
+
     constructor() {
         this._data = reactive({
             state: '', // loading, loaded
         })
     }
 
+    getTeamColor(teamName){
+        return this.teamsColors[teamName]
+    }
+    
     async getDataSet(group, widget) {
         try {
             const key = `./data/${widget}/${widget}_${group}.json`
@@ -83,6 +109,31 @@ export default class ToolService {
             if (timer) clearTimeout(timer);
             timer = setTimeout(func, time, event);
         };
+    }
+
+
+    rinkDefaultArea() {
+        return {
+            rightpoint: null,
+            lowrightpoint: null,
+            insiderightcircle: null,
+            rightslot: null,
+            leftslot: null,
+            outsiderightcircle: null,
+            lowright: null,
+            insideleftcircle: null,
+            outsideleftcircle: null,
+            lowleft: null,
+            leftpoint: null,
+            lowleftpoint: null,
+            centerpoint: null,
+            neutralzone: null,
+            lowcp: null,
+            slot: null,
+            highslot: null,
+            lowslot: null,
+            downlow: null,
+        }
     }
 
 

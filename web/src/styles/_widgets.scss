@@ -1,20 +1,51 @@
-.widget{
+.widget {
   min-height: auto;
-  width:100%;
+  width: 100%;
   flex: 1;
-
 
 
 }
 
 
-.svg-label{
+.svg-label {
   font-family: var(--font-copy);
   fill: var(--grey-z_rgb);
   font-size: 14px;
   text-transform: uppercase;
 
-  &.small{
+  &.small {
     font-size: 10px;
   }
 }
+
+
+.rink-areas {
+
+  
+  .area-label{
+    fill: black;
+  }
+  
+  .base {
+    path {
+      fill: var(--rink-bg-base);
+    }
+  }
+
+  .areas {
+    rect, path {
+      // stroke: red;
+      // stroke-width: 1px;
+      //fill: black;
+    }
+  }
+
+  .lines {
+    path {
+      stroke: rgba(255,255,255, .5);
+      stroke-width: 1px;
+      fill: none;
+    }
+  }
+}
+

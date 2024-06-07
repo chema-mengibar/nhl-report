@@ -190,81 +190,121 @@ $breakpoint-large: 60em; // 960px
         scrollbar-width: thin;
         flex-wrap: inherit !important;
         overflow-x: scroll;
-        @media only screen and (min-width: $breakpoint-med) {
-            .col-md-1 {
+
+        .col-1 {
+            min-width: calc( ($width / 12));
+        }
+        .col-2 {
+            min-width: calc(100vw / 6);
+        }
+        .col-3 {
+            min-width: calc(100vw / 4);
+        }
+        .col-4 {
+            min-width: calc(100vw / 3);
+        }
+        .col-5 {
+            min-width: calc(100vw / (12 / 5));
+        }
+        .col-6 {
+            min-width: calc(100vw / 2);
+        }
+        .col-7 {
+            min-width: calc(100vw / (12 / 7));
+        }
+        .col-8 {
+            min-width: calc(100vw / (12 / 8));
+        }
+        .col-9 {
+            min-width: calc(100vw / (12 / 9));
+        }
+        .col-10 {
+            min-width: calc(100vw / (12 / 10));
+        }
+        .col-11 {
+            min-width: calc(100vw / (12 / 11));
+        }
+        .col-12 {
+            min-width: 100vw;
+        }
+        
+        @media only screen and (max-width: $breakpoint-med) {
+            .col-1-md {
                 min-width: calc( ($width / 12));
             }
-            .col-md-2 {
+            .col-2-md {
                 min-width: calc(100vw / 6);
             }
-            .col-md-3 {
+            .col-3-md {
                 min-width: calc(100vw / 4);
             }
-            .col-md-4 {
+            .col-4-md {
                 min-width: calc(100vw / 3);
             }
-            .col-md-5 {
+            .col-5-md {
                 min-width: calc(100vw / (12 / 5));
             }
-            .col-md-6 {
+            .col-6-md {
                 min-width: calc(100vw / 2);
             }
-            .col-md-7 {
+            .col-7-md {
                 min-width: calc(100vw / (12 / 7));
             }
-            .col-md-8 {
+            .col-8-md {
                 min-width: calc(100vw / (12 / 8));
             }
-            .col-md-9 {
+            .col-9-md {
                 min-width: calc(100vw / (12 / 9));
             }
-            .col-md-10 {
+            .col-10-md {
                 min-width: calc(100vw / (12 / 10));
             }
-            .col-md-11 {
+            .col-11-md {
                 min-width: calc(100vw / (12 / 11));
             }
-            .col-md-12 {
+            .col-12-md {
                 min-width: 100vw;
             }
         }
-        @media only screen and (min-width: $breakpoint-large) {
-            .col-1 {
+
+        @media only screen and (max-width: $breakpoint-small) {
+            .col-1-sm {
                 min-width: calc( ($width / 12));
             }
-            .col-2 {
+            .col-2-sm {
                 min-width: calc(100vw / 6);
             }
-            .col-3 {
+            .col-3-sm {
                 min-width: calc(100vw / 4);
             }
-            .col-4 {
+            .col-4-sm {
                 min-width: calc(100vw / 3);
             }
-            .col-5 {
+            .col-5-sm {
                 min-width: calc(100vw / (12 / 5));
             }
-            .col-6 {
+            .col-6-sm {
                 min-width: calc(100vw / 2);
             }
-            .col-7 {
+            .col-7-sm {
                 min-width: calc(100vw / (12 / 7));
             }
-            .col-8 {
+            .col-8-sm {
                 min-width: calc(100vw / (12 / 8));
             }
-            .col-9 {
+            .col-9-sm {
                 min-width: calc(100vw / (12 / 9));
             }
-            .col-10 {
+            .col-10-sm {
                 min-width: calc(100vw / (12 / 10));
             }
-            .col-11 {
+            .col-11-sm {
                 min-width: calc(100vw / (12 / 11));
             }
-            .col-12 {
+            .col-12-sm {
                 min-width: 100vw;
             }
         }
+      
     }
 }
