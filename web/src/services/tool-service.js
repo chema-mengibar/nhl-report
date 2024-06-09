@@ -48,8 +48,32 @@ export default class ToolService {
         }
     }
 
+
+    async getFinalDataSet( widget) {
+        try {
+            const key = `./data/${widget}/${widget}.json`
+            const dataPromise = dataSets[key]
+            const data = await dataPromise()
+            return data.default
+        } catch (e) {
+            return null
+        }
+    }
+
     dict() {
         return ReportsDictionary
+    }
+
+    getLimitByProp( propName ){
+        const maxs = {
+            faceoff_win: 100,
+            hit: 80,
+            giveaway: 30,
+            takeaway: 30,
+            penalty: 15,
+        }
+
+        return maxs[propName]
     }
 
 

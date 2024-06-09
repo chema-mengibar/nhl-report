@@ -3,7 +3,10 @@
   width: 100%;
   flex: 1;
 
-
+  &.scrollable{
+    overflow-x: auto;
+    overflow-y: hidden;
+  }
 }
 
 
@@ -19,7 +22,7 @@
 }
 
 
-.rink-areas {
+.rink-areas, .rink {
 
   
   .area-label{

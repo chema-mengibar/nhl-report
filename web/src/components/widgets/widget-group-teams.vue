@@ -21,18 +21,16 @@ export default {
   },
   components: {  },
   mounted() {
-    console.log("[widget-group-teams] groupKey:", this.groupKey);
+    // console.log("[widget-group-teams] groupKey:", this.groupKey);
   },
   watch: {
     groupKey: function (newVal, oldVal) {
       if (newVal) {
-        console.log('--->' , newVal)
         try {
           this.$services.toolService
             .getDataSet(newVal, "widget-group-teams")
             .then((resp) => {
               this.dataSet = resp;
-              console.log(resp)
             })
             .finally(() => {
               this.loading = false;

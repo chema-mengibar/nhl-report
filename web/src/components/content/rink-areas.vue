@@ -5,6 +5,7 @@
        :height="h"
        :viewBox="`0 0 263 259`"
        :id="id"
+        transform="rotate(0 0 0 )"
   >
 
 
@@ -34,7 +35,7 @@
       <path data-area="downlow"  :fill="areas.downlow || 'var(--rink-area-bg-default)'" d="M16.8915 236.115L9.76576 223.548H254.777L247.845 236.119L237.37 245.682L224.401 252.805L208.321 256.858H132.265H70.5865H57.0459L40.7555 252.804L27.5761 245.68L16.8915 236.115Z" />
     </g>
     
-    <g>
+    <g :style="{display:'none'}">
       <text class="area-label" v-if="values.rightpoint" data-area="right_point" x="50" y="100" dominant-baseline="middle" text-anchor="middle">{{ values.rightpoint }}</text>
       <text class="area-label" v-if="values.lowrightpoint" data-area="lowrightpoint" x="3.94971" y="107.494" dominant-baseline="middle" text-anchor="middle">{{ values.lowrightpoint }}</text>
       <text class="area-label" v-if="values.insiderightcircle" data-area="inside_right_circle" x="68.3103" y="126.239" dominant-baseline="middle" text-anchor="middle">{{ values.insiderightcircle }}</text>

@@ -3,8 +3,6 @@
 }
 
 
-
-
 .input-group{
   margin: 10px 0;
   
@@ -13,15 +11,10 @@
     align-items: center;
     cursor:pointer;
   }
-
 }
 
 label{
-  margin: 0 0 20px 0;
-  display: block;
   cursor:pointer;
-  font-size: 22px;
-  font-family: var(--font-hl);
 }
 
 
@@ -56,21 +49,6 @@ input[type="range"] {
   padding:  0 7px;
 }
 
-
-datalist {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-
-  width: 100%;
-
-  option {
-    margin-top: 2px;
-    width: 20px;
-    text-align: center;
-    font-family: var(--font-hl);
-  }
-}
 
 
 select{
@@ -115,33 +93,7 @@ button[type="button"]{
   font-size: 22px;
   box-shadow: 0px 1px 10px -3px rgba(0, 0, 0, 0.4);
   outline: 2px solid white;
-  
-  &:before{
-    content:'';
-    background: url("/assets/images/button-deco.png");
-    background-size: contain;
-    background-repeat: no-repeat;
-    width: inherit;
-    height: 30px;
-    top: 6px;
-    position: absolute;
-    left: 6px;
-    opacity: 0.7;
-  }
+
 }
 
 
-.alert{
-  padding: 20px;
-  border-radius:7px;
-  width: 100%;
-  font-size: 16px;
-  font-family: var(--font-hl);
-  border: 3px solid rgba(0,0,0,.1);
-
-  
-  &.success{
-    background-color: var(--color-success);
-    color: var(--text-success);
-  }
-}

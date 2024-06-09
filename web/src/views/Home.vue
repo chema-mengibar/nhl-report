@@ -20,7 +20,7 @@ export default {
   methods: {
     getDefaultData: function () {
       const groupId = this.$services.toolService.getRoundGroups(3)[0];
-      this.$router.push('/' + groupId)
+      this.$router.push("/" + groupId);
     },
     check: function () {
       const groupId = this.$route.params.groupId;
@@ -73,8 +73,9 @@ export default {
 <template>
   <Header />
   <div class="app-layout-body dashboard">
-  
-    
+   
+
+
     <div class="row">
       <div class="col-12-md col-3">
         <div class="cell">
@@ -94,9 +95,39 @@ export default {
       </div>
     </div>
 
+        <div class="row">
+      <div class="col-12-md col-6">
+        <div class="cell h0">
+          <WidgetShotsArea
+            :id="`shots-area_${groupKey}`"
+            :groupKey="groupKey"
+          />
+        </div>
+      </div>
+
+      <div class="col-6-md col-3">
+        <div class="cell h0">
+          <WidgetShotsDistance
+            teamKey="team_a"
+            :id="`shots-distance-1_${groupKey}`"
+            :groupKey="groupKey"
+          />
+        </div>
+      </div>
+      <div class="col-6-md col-3">
+        <div class="cell h0">
+          <WidgetShotsDistance
+            teamKey="team_b"
+            :id="`shots-distance-2_${groupKey}`"
+            :groupKey="groupKey"
+          />
+        </div>
+      </div>
+    </div>
+
     <div class="row scrollable">
       <div
-        class="col-11-sm col-9-md col-3"
+        class="col-9-sm col-9-md col-3"
         v-bind:key="`WidgetShotsCounter_${groupKey}_${idx}`"
         v-for="idx in this.numGames"
       >
@@ -112,39 +143,10 @@ export default {
     </div>
 
     <div class="row">
-      <div class="col-12-md col-6">
-        <div class="cell h1">
-          
-          <WidgetShotsArea
-              :id="`shots-area_${groupKey}`"
-              :groupKey="groupKey"
-          />
-        </div>
-      </div>
-      <div class="col-12-md col-6">
-        <div class="cell h1">
-          <div class="cell-header">-</div>
-          
-        </div>
-      </div>
-    </div>
-
-    <div class="row">
       <div class="col-12">
         <div class="cell">
           <div class="cell-header">WidgetShotsTypes</div>
           <WidgetShotsTypes :groupKey="groupKey" />
-        </div>
-      </div>
-    </div>
-
-   
-
-    <div class="row">
-      <div class="col-12">
-        <div class="cell">
-          <div class="cell-header">WidgetShotsDistance</div>
-          <WidgetShotsDistance :groupKey="groupKey" />
         </div>
       </div>
     </div>

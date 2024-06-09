@@ -24,7 +24,9 @@ export default {
         'widget-shots-types',
         'widget-shots-area',
         'widget-shots-distance',
-        'widget-shots-total'
+        'widget-shots-total',
+        "widget-prefinal-events",
+        "widget-prefinal-goalies",
     ],
     groups_round_1: [
         'Bruins-Leafs',

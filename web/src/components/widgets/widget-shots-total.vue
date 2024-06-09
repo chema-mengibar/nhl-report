@@ -19,7 +19,7 @@ export default {
     attr: {
       width: 0,
       height: 0,
-      viewBox: "0 0 0 0",
+      viewBox: '', //"0 0 0 0",
       marginTop: 0,
       marginRight: 0,
       marginBottom: 0,
@@ -45,9 +45,11 @@ export default {
 
       const numGames = this.dataSet.games_reports.length;
 
-      const spacingW = divWidth / numGames;
+      const spacingW = Math.max(100, divWidth / numGames);
 
-      const radiusW = divWidth / numGames / 2;
+      this.attr.width = spacingW * numGames;
+
+      const radiusW = spacingW / 2;
       const radiusH = divHeight / 3 / 2;
 
       const _a = this.dataSet.team_a;
@@ -220,7 +222,7 @@ export default {
     // IconBase,
   },
   mounted() {
-    console.log("[widget-shots-counter] groupKey:", this.groupKey);
+    // console.log("[widget-shots-counter] groupKey:", this.groupKey);
     this.build();
     window.addEventListener(
       "resize",
@@ -248,7 +250,7 @@ export default {
 </style>
 
 <template>
-  <div :id="id" class="widget widget-shots-total" :data-cy="$options.name">
+  <div :id="id" class="widget scrollable widget-shots-total" :data-cy="$options.name">
     <template v-if="!dataSet && !loading"> NO data</template>
     <template v-if="!dataSet && loading"> loading</template>
     <template v-if="dataSet && !loading">
@@ -256,7 +258,7 @@ export default {
         :id="`${id}-svg`"
         :width="attr.width"
         :height="attr.height"
-        :viewBox="attr.viewBox"
+ 
       ></svg>
     </template>
   </div>
