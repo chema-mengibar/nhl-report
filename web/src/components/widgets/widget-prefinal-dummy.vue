@@ -104,17 +104,18 @@ export default {
         .attr("height", y.bandwidth())
         .attr("fill", color);
 
-      this.svg
-        .append("g")
-        .attr("transform", "translate(0," + (divHeight - bottomSpacing) + ")")
-        .call(d3.axisBottom(x))
-        .selectAll("text")
-        .attr("transform", "translate(-10,0)rotate(-45)")
-        .style("text-anchor", "end");
+      // this.svg
+      //   .append("g")
+      //   .attr("transform", "translate(0," + (divHeight - bottomSpacing) + ")")
+      //   .call(d3.axisBottom(x))
+      //   .selectAll("text")
+      //   .attr("transform", "translate(-10,0)rotate(-45)")
+      //   .style("text-anchor", "end");
 
       this.svg.append("g")
       .attr('class', 'y-axis')
       .call(d3.axisRight(y))
+      
     },
     build: function () {
       try {

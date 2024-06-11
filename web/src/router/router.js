@@ -2,6 +2,10 @@ import * as vueRouter from 'vue-router';
 
 const routes = [
     {
+        path: '/box',
+        name: 'Box',
+        component: () => (import('../views/Box.vue')),
+    },{
         path: '/:groupId?',
         name: 'Home',
         component: () => (import('../views/Home.vue')),

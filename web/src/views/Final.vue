@@ -1,7 +1,8 @@
 <script>
 import Header from "../components/header.vue";
 import WidgetPrefinalDummy from "../components/widgets/widget-prefinal-dummy.vue";
-
+import WidgetPrefinalSpider from "../components/widgets/widget-prefinal-spider.vue";
+import WidgetFinalTeams from "../components/widgets/widget-final-teams.vue";
 export default {
   name: "Final",
   inject: ["$services"],
@@ -17,7 +18,10 @@ export default {
   mounted() {},
   components: {
     Header,
-    WidgetPrefinalDummy
+    WidgetPrefinalDummy,
+    WidgetPrefinalSpider,
+    WidgetFinalTeams,
+    
   },
   watch: {},
 };
@@ -33,77 +37,52 @@ export default {
 
 
     <div class="row">
-      <div class="col-12-md col-3">
+      <div class="col-12-md col-6">
         <div class="cell h2">
-          <div class="cell-header">FACEOFFS (winned)</div>
-          <WidgetPrefinalDummy teamName="Panthers" propName="faceoff_win" id="dummy1" />
+          <div class="cell-header">FINAL TEAMS</div>
+            <WidgetFinalTeams id="final-teams" />
         </div>
       </div>
-      <div class="col-12-md col-3">
+      <div class="col-12-md col-6">
         <div class="cell h2">
-          <div class="cell-header">FACEOFFS (winned)</div>
-          <WidgetPrefinalDummy teamName="Oilers" propName="faceoff_win" id="dummy2" />
+          <div class="cell-header">TEAM COMPARISON</div>
+          <WidgetPrefinalSpider  id="spider-1" />
         </div>
       </div>
+      
 
-       <div class="col-12-md col-3">
-        <div class="cell h2">
-          <div class="cell-header">HITS</div>
-          <WidgetPrefinalDummy teamName="Panthers" propName="hit" id="dummy3" />
-        </div>
-      </div>
-
-      <div class="col-12-md col-3">
-        <div class="cell h2">
-          <div class="cell-header">HITS </div>
-          <WidgetPrefinalDummy teamName="Oilers" propName="hit" id="dummy4" />
-        </div>
-      </div>
+      
     </div>
 
 
-    <div class="row">
-      <div class="col-12-md col-3">
-        <div class="cell h2">
-          <div class="cell-header">GIVEAWAY </div>
-          <WidgetPrefinalDummy teamName="Panthers" propName="giveaway" id="dummy21" />
-        </div>
-      </div>
-      <div class="col-12-md col-3">
-        <div class="cell h2">
-          <div class="cell-header">GIVEAWAY </div>
-          <WidgetPrefinalDummy teamName="Oilers" propName="giveaway" id="dummy22" />
-        </div>
-      </div>
-
-       <div class="col-12-md col-3">
-        <div class="cell h2">
-          <div class="cell-header">TAKEAWAY</div>
-          <WidgetPrefinalDummy teamName="Panthers" propName="takeaway" id="dummy23" />
-        </div>
-      </div>
-
-      <div class="col-12-md col-3">
-        <div class="cell h2">
-          <div class="cell-header">TAKEAWAY </div>
-          <WidgetPrefinalDummy teamName="Oilers" propName="takeaway" id="dummy24" />
-        </div>
-      </div>
-    </div>
+   
 
 
 
     <div class="row">
       <div class="col-12-md col-3">
         <div class="cell h2">
-          <div class="cell-header">PENALTY </div>
-          <WidgetPrefinalDummy teamName="Panthers" propName="penalty" id="dummy31" />
+          <div class="cell-header">PENALTIES (in playoffs) </div>
+          <WidgetPrefinalDummy teamName="Panthers" propName="penalty" id="penalty1" />
         </div>
       </div>
       <div class="col-12-md col-3">
         <div class="cell h2">
-          <div class="cell-header">PENALTY </div>
-          <WidgetPrefinalDummy teamName="Oilers" propName="penalty" id="dummy32" />
+          <div class="cell-header">PENALTIES (in playoffs) </div>
+          <WidgetPrefinalDummy teamName="Oilers" propName="penalty" id="penalty2" />
+        </div>
+      </div>
+      
+      <div class="col-12-md col-3">
+        <div class="cell h2">
+          <div class="cell-header">HITS (in playoffs)</div>
+          <WidgetPrefinalDummy teamName="Panthers" propName="hit" id="hit1" />
+        </div>
+      </div>
+      <div class="col-12-md col-3">
+        <div class="cell h2">
+          <div class="cell-header">HITS (in playoffs) </div>
+          <WidgetPrefinalDummy teamName="Oilers" propName="hit" id="hit2" />
         </div>
       </div>
 
