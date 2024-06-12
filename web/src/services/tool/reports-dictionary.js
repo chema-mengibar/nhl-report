@@ -27,6 +27,7 @@ export default {
         'widget-shots-total',
         "widget-prefinal-events",
         "widget-prefinal-goalies",
+        "widget-final-shots-counter"
     ],
     groups_round_1: [
         'Bruins-Leafs',

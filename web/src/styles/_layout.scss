@@ -83,6 +83,15 @@
         justify-content: space-between;
         margin-bottom: 7px;
 
+        &.with-legend{
+            flex-direction:column;
+
+            small{
+                font-size: 11px;
+                font-style: italic;
+            }
+        }
+
     }
     
 

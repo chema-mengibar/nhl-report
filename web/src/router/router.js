@@ -2,6 +2,11 @@ import * as vueRouter from 'vue-router';
 
 const routes = [
     {
+        path: '/final',
+        name: 'Final',
+        component: () => (import('../views/Final.vue')),
+    },
+    {
         path: '/box',
         name: 'Box',
         component: () => (import('../views/Box.vue')),
@@ -10,11 +15,7 @@ const routes = [
         name: 'Home',
         component: () => (import('../views/Home.vue')),
     },
-    {
-        path: '/final',
-        name: 'Final',
-        component: () => (import('../views/Final.vue')),
-    },
+ 
     {
         path: '/about',
         name: 'About',

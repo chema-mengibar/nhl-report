@@ -1,6 +1,6 @@
 <script>
 import Header from "../components/header.vue";
-import WidgetPrefinalSpider from "../components/widgets/widget-prefinal-spider.vue";
+import WidgetFinalShotsCounter from "../components/widgets/widget-final-shots-counter.vue";
 
 export default {
   name: "Box",
@@ -17,7 +17,7 @@ export default {
   mounted() {},
   components: {
     Header,
-    WidgetPrefinalSpider
+    WidgetFinalShotsCounter 
   },
   watch: {},
 };
@@ -36,7 +36,11 @@ export default {
       <div class="col-12-md col-3">
         <div class="cell h2">
           <div class="cell-header">-</div>
-          <WidgetPrefinalSpider  id="dummy1" />
+         <WidgetFinalShotsCounter
+            :gameIdx="1"
+            :id="`widget-final-shots-counter`"
+            groupKey="Oilers-Panthers"
+          />
         </div>
       </div>
       </div>

@@ -1,12 +1,13 @@
 <script>
-import Header from "../components/header.vue";
-import WidgetShotsCounter from "../components/widgets/widget-shots-counter.vue";
-import WidgetGroupTeams from "../components/widgets/widget-group-teams.vue";
-import HeadlineTeams from "../components/content/headline-teams.vue";
+import Header from "@/components/header.vue";
+import WidgetShotsCounter from "@/components/widgets/widget-shots-counter.vue";
+import WidgetGroupTeams from "@/components/widgets/widget-group-teams.vue";
+import HeadlineTeams from "@/components/content/headline-teams.vue";
 import WidgetShotsTotal from "@/components/widgets/widget-shots-total.vue";
 import WidgetShotsArea from "@/components/widgets/widget-shots-area.vue";
 import WidgetShotsDistance from "@/components/widgets/widget-shots-distance.vue";
 import WidgetShotsTypes from "@/components/widgets/widget-shots-types.vue";
+
 
 export default {
   name: "Home",
@@ -16,13 +17,19 @@ export default {
     groupKey: null,
     isLoading: true,
     numGames: 0,
+    
   }),
   methods: {
+    unwatch : ()=>{},
     getDefaultData: function () {
       const groupId = this.$services.toolService.getRoundGroups(3)[0];
       this.$router.push("/" + groupId);
     },
     check: function () {
+
+      if(this.$route.name !== 'Home'){
+        return
+      }
       const groupId = this.$route.params.groupId;
       if (groupId) {
         const { found, key } = this.$services.toolService.checkGroupId(groupId);
@@ -47,6 +54,14 @@ export default {
   },
   mounted() {
     this.check();
+
+    this.unwatch =  this.$watch('$route', function(newVal, oldVal) {
+      this.check();
+    })
+  },
+  beforeUnmount() {
+    // todo: check this , not works
+    this.unwatch()
   },
   components: {
     WidgetShotsTypes,
@@ -58,11 +73,7 @@ export default {
     WidgetGroupTeams,
     HeadlineTeams,
   },
-  watch: {
-    $route(to, from) {
-      this.check();
-    },
-  },
+  
 };
 </script>
 

@@ -1,15 +1,12 @@
 {
-  "rounds": [
-    {
+  "rounds": [{
       "round": 1,
-      "groups": [
-        {
+      "groups": [{
           "teams": [
             "Hurricanes",
             "Islanders"
           ],
-          "games": [
-            {
+          "games": [{
               "score": "3:1",
               "lead": "1-0",
               "lead_team": "Hurricanes",
@@ -56,8 +53,7 @@
             "Bruins",
             "Leafs"
           ],
-          "games": [
-            {
+          "games": [{
               "score": "5:1",
               "lead": "1-0",
               "lead_team": "Bruins",
@@ -120,8 +116,7 @@
             "Panthers",
             "Lightning"
           ],
-          "games": [
-            {
+          "games": [{
               "score": "3:2",
               "lead": "1-0",
               "lead_team": "Panthers",
@@ -168,8 +163,7 @@
             "Rangers",
             "Capitals"
           ],
-          "games": [
-            {
+          "games": [{
               "score": "4:1",
               "lead": "1-0",
               "lead_team": "Rangers",
@@ -208,8 +202,7 @@
             "Jets",
             "Avalanche"
           ],
-          "games": [
-            {
+          "games": [{
               "score": "7:6",
               "lead": "1-0",
               "lead_team": "Jets",
@@ -256,8 +249,7 @@
             "Canucks",
             "Predators"
           ],
-          "games": [
-            {
+          "games": [{
               "score": "4:2",
               "lead": "1-0",
               "lead_team": "Canucks",
@@ -312,8 +304,7 @@
             "Stars",
             "Knights"
           ],
-          "games": [
-            {
+          "games": [{
               "score": "3:4",
               "lead": "0-1",
               "lead_team": "Knights",
@@ -376,8 +367,7 @@
             "Oilers",
             "Kings"
           ],
-          "games": [
-            {
+          "games": [{
               "score": "7:4",
               "lead": "1-0",
               "lead_team": "Oilers",
@@ -423,14 +413,12 @@
     },
     {
       "round": 2,
-      "groups": [
-        {
+      "groups": [{
           "teams": [
             "Rangers",
             "Hurricanes"
           ],
-          "games": [
-            {
+          "games": [{
               "score": "4:3",
               "lead": "1-0",
               "lead_team": "Rangers",
@@ -485,8 +473,7 @@
             "Panthers",
             "Bruins"
           ],
-          "games": [
-            {
+          "games": [{
               "score": "1:5",
               "lead": "0-1",
               "lead_team": "Bruins",
@@ -524,7 +511,7 @@
               "lead_team": "Panthers",
               "date": "15.5",
               "id": "e1c9e7c1-64a8-45a7-aba8-e114df0b0ac6",
-              "game":5
+              "game": 5
             },
             {
               "score": "2:1",
@@ -532,8 +519,8 @@
               "lead_team": "Panthers",
               "date": "18.5",
               "id": "f55669b2-ed64-44f9-98a2-ac20d1512638",
-              "game":6
-            } 
+              "game": 6
+            }
           ]
         },
         {
@@ -541,8 +528,7 @@
             "Stars",
             "Avalanche"
           ],
-          "games": [
-            {
+          "games": [{
               "score": "3:4",
               "lead": "0-1",
               "lead_team": "Avalanche",
@@ -597,8 +583,7 @@
             "Canucks",
             "Oilers"
           ],
-          "games": [
-            {
+          "games": [{
               "score": "5:4",
               "lead": "1-0",
               "lead_team": "Canucks",
@@ -637,7 +622,7 @@
               "date": "17.5",
               "id": "97f90c91-347d-4e2b-bff2-b95d5d75d9d0",
               "game": 5
-            } ,
+            },
             {
               "score": "1:5",
               "lead": "3-3",
@@ -660,14 +645,12 @@
     },
     {
       "round": 3,
-      "groups": [
-        {
+      "groups": [{
           "teams": [
             "Rangers",
             "Panthers"
           ],
-          "games": [
-            {
+          "games": [{
               "score": "0:3",
               "lead": "0-1",
               "lead_team": "Panthers",
@@ -691,7 +674,7 @@
               "id": "04a92a0a-5155-4eca-beea-43745e27644c",
               "game": 3
             },
-  
+
             {
               "score": "2:3",
               "lead": "2-2",
@@ -707,7 +690,7 @@
               "date": "31.5",
               "id": "68db71ad-614a-4c27-870e-4244d6ab68a9",
               "game": 5
-            },{
+            }, {
               "score": "1:2",
               "lead": "2-4",
               "lead_team": "Panthers",
@@ -722,14 +705,13 @@
             "Stars",
             "Oilers"
           ],
-          "games": [
-            {
+          "games": [{
               "score": "2:3",
               "lead": "0-1",
               "lead_team": "Oilers",
               "date": "23.5",
               "game": 1,
-               "id": "ee1ec51e-bbce-44ee-973e-2975b102751b"
+              "id": "ee1ec51e-bbce-44ee-973e-2975b102751b"
             },
             {
               "score": "3:1",
@@ -763,58 +745,57 @@
               "id": "640c3761-b0a8-4c97-a0cf-821d13b37d6a",
               "game": 5
             },
-			{
+            {
               "score": "1:5",
               "lead": "2-4",
               "lead_team": "Oilers",
               "date": "2.6",
               "id": "6b65a1f3-bcff-4697-adc6-87aded4dce34",
               "game": 6
-            }           
+            }
           ]
         }
       ]
     }
   ],
-  "final":{
-	  
-          "teams": [
-            "Oilers",
-            "Panthers"
-          ],
-          "games": [
-			{
-              "score": "0:0",
-              "lead": "0-0",
-              "lead_team": "xxx",
-              "date": "9.6",
-              "game": 1,
-              "id": "27ef7b5a-c150-4f7b-9584-7d003375f161"
-            },
-			{
-              "score": "0:0",
-              "lead": "0-0",
-              "lead_team": "xxx",
-              "date": "11.6",
-              "game": 2,
-              "id": "bf7da94c-5ea2-4467-b940-240c101d487a"
-            },
-			{
-              "score": "0:0",
-              "lead": "0-0",
-              "lead_team": "xxx",
-              "date": "13.6",
-              "game": 3,
-              "id": "ad473e94-3654-447d-a5ba-52de87eb0976"
-            },
-			{
-              "score": "0:0",
-              "lead": "0-0",
-              "lead_team": "xxx",
-              "date": "16.6",
-              "game": 4,
-              "id": "ab9c7558-cb00-488d-829e-83ed7c228a4c"
-            },
-		  ]
+  "final": {
+
+    "teams": [
+      "Oilers",
+      "Panthers"
+    ],
+    "games": [{
+        "score": "0:3",
+        "lead": "0-1",
+        "lead_team": "Panthers",
+        "date": "9.6",
+        "game": 1,
+        "id": "27ef7b5a-c150-4f7b-9584-7d003375f161"
+      },
+      {
+        "score": "1:4",
+        "lead": "0-2",
+        "lead_team": "Panthers",
+        "date": "11.6",
+        "game": 2,
+        "id": "bf7da94c-5ea2-4467-b940-240c101d487a"
+      },
+      {
+        "score": "0:0",
+        "lead": "0-0",
+        "lead_team": "xxx",
+        "date": "13.6",
+        "game": 3,
+        "id": "ad473e94-3654-447d-a5ba-52de87eb0976"
+      },
+      {
+        "score": "0:0",
+        "lead": "0-0",
+        "lead_team": "xxx",
+        "date": "16.6",
+        "game": 4,
+        "id": "ab9c7558-cb00-488d-829e-83ed7c228a4c"
+      }
+    ]
   }
 }
