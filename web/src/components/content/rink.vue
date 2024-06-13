@@ -1,5 +1,6 @@
 <template>
   <svg
+
     xmlns="http://www.w3.org/2000/svg"
     :class="$options.name + ' rink'"
     :width="w"
@@ -14,7 +15,7 @@
       />
     </g>
 
-    <g class="canvas"></g>
+    <g class="canvas"  transform="translate(30,5)"></g>
 
     <g class="lines" transform="rotate(90 131.5  129.5)">
       <path

@@ -61,6 +61,15 @@
               "time_game_seconds": 180,
               "time_period_seconds": 180,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 204,
+                "coord_y": 384,
+                "action_area": "rightslot"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 12
+              },
               "shot_counter_onclock": 1,
               "period_number": 1,
               "period_type": "period",
@@ -72,6 +81,16 @@
               "time_game_seconds": 239,
               "time_period_seconds": 239,
               "shot_type": "goal",
+              "location": {
+                "coord_x": 252,
+                "coord_y": 564,
+                "action_area": "slot"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "goal_zone": "lower left",
+                "distance": 11
+              },
               "shot_counter_onclock": 2,
               "period_number": 1,
               "period_type": "period",
@@ -83,6 +102,15 @@
               "time_game_seconds": 283,
               "time_period_seconds": 283,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 708,
+                "coord_y": 516,
+                "action_area": "centerpoint"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 48
+              },
               "shot_counter_onclock": 3,
               "period_number": 1,
               "period_type": "period",
@@ -94,6 +122,15 @@
               "time_game_seconds": 314,
               "time_period_seconds": 314,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 612,
+                "coord_y": 600,
+                "action_area": "lowcenterpoint"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 41
+              },
               "shot_counter_onclock": 4,
               "period_number": 1,
               "period_type": "period",
@@ -105,6 +142,15 @@
               "time_game_seconds": 320,
               "time_period_seconds": 320,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 276,
+                "coord_y": 432,
+                "action_area": "slot"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 14
+              },
               "shot_counter_onclock": 5,
               "period_number": 1,
               "period_type": "period",
@@ -116,6 +162,15 @@
               "time_game_seconds": 512,
               "time_period_seconds": 512,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 312,
+                "coord_y": 648,
+                "action_area": "leftslot"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 19
+              },
               "shot_counter_onclock": 6,
               "period_number": 1,
               "period_type": "period",
@@ -127,6 +182,15 @@
               "time_game_seconds": 567,
               "time_period_seconds": 567,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 552,
+                "coord_y": 192,
+                "action_area": "lowrightpoint"
+              },
+              "details": {
+                "shot_type": "snap",
+                "distance": 44
+              },
               "shot_counter_onclock": 7,
               "period_number": 1,
               "period_type": "period",
@@ -138,6 +202,16 @@
               "time_game_seconds": 717,
               "time_period_seconds": 717,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 372,
+                "coord_y": 120,
+                "action_area": "outsiderightcircle"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "reason": "wide left",
+                "distance": 38
+              },
               "shot_counter_onclock": 8,
               "period_number": 1,
               "period_type": "period",
@@ -149,6 +223,16 @@
               "time_game_seconds": 737,
               "time_period_seconds": 737,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 504,
+                "coord_y": 420,
+                "action_area": "highslot"
+              },
+              "details": {
+                "shot_type": "snap",
+                "reason": "above crossbar",
+                "distance": 31
+              },
               "shot_counter_onclock": 9,
               "period_number": 1,
               "period_type": "period",
@@ -160,6 +244,15 @@
               "time_game_seconds": 806,
               "time_period_seconds": 806,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 384,
+                "coord_y": 720,
+                "action_area": "insideleftcircle"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 27
+              },
               "shot_counter_onclock": 10,
               "period_number": 1,
               "period_type": "period",
@@ -171,6 +264,15 @@
               "time_game_seconds": 1068,
               "time_period_seconds": 1068,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 264,
+                "coord_y": 852,
+                "action_area": "lowleft"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 31
+              },
               "shot_counter_onclock": 11,
               "period_number": 1,
               "period_type": "period",
@@ -182,6 +284,15 @@
               "time_game_seconds": 1115,
               "time_period_seconds": 1115,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 432,
+                "coord_y": 888,
+                "action_area": "outsideleftcircle"
+              },
+              "details": {
+                "shot_type": "snap",
+                "distance": 41
+              },
               "shot_counter_onclock": 12,
               "period_number": 1,
               "period_type": "period",
@@ -193,6 +304,16 @@
               "time_game_seconds": 1336,
               "time_period_seconds": 136,
               "shot_type": "goal",
+              "location": {
+                "coord_x": 2040,
+                "coord_y": 588,
+                "action_area": "highslot"
+              },
+              "details": {
+                "shot_type": "snap",
+                "goal_zone": "upper middle",
+                "distance": 19
+              },
               "shot_counter_onclock": 13,
               "period_number": 2,
               "period_type": "period",
@@ -204,6 +325,15 @@
               "time_game_seconds": 1508,
               "time_period_seconds": 308,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 1968,
+                "coord_y": 456,
+                "action_area": "highslot"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 23
+              },
               "shot_counter_onclock": 14,
               "period_number": 2,
               "period_type": "period",
@@ -215,6 +345,15 @@
               "time_game_seconds": 1577,
               "time_period_seconds": 377,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 2064,
+                "coord_y": 300,
+                "action_area": "insideleftcircle"
+              },
+              "details": {
+                "shot_type": "snap",
+                "distance": 23
+              },
               "shot_counter_onclock": 15,
               "period_number": 2,
               "period_type": "period",
@@ -226,6 +365,15 @@
               "time_game_seconds": 1617,
               "time_period_seconds": 417,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 2088,
+                "coord_y": 600,
+                "action_area": "slot"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 15
+              },
               "shot_counter_onclock": 16,
               "period_number": 2,
               "period_type": "period",
@@ -237,6 +385,16 @@
               "time_game_seconds": 1618,
               "time_period_seconds": 418,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 2136,
+                "coord_y": 600,
+                "action_area": "slot"
+              },
+              "details": {
+                "shot_type": "backhand",
+                "reason": "wide right",
+                "distance": 12
+              },
               "shot_counter_onclock": 17,
               "period_number": 2,
               "period_type": "period",
@@ -248,6 +406,15 @@
               "time_game_seconds": 1619,
               "time_period_seconds": 419,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 2208,
+                "coord_y": 552,
+                "action_area": "lowslot"
+              },
+              "details": {
+                "shot_type": "snap",
+                "distance": 5
+              },
               "shot_counter_onclock": 18,
               "period_number": 2,
               "period_type": "period",
@@ -259,6 +426,15 @@
               "time_game_seconds": 1632,
               "time_period_seconds": 432,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 2208,
+                "coord_y": 588,
+                "action_area": "lowslot"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 7
+              },
               "shot_counter_onclock": 19,
               "period_number": 2,
               "period_type": "period",
@@ -270,6 +446,16 @@
               "time_game_seconds": 1650,
               "time_period_seconds": 450,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 2028,
+                "coord_y": 660,
+                "action_area": "insiderightcircle"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "reason": "wide left",
+                "distance": 22
+              },
               "shot_counter_onclock": 20,
               "period_number": 2,
               "period_type": "period",
@@ -281,6 +467,15 @@
               "time_game_seconds": 1661,
               "time_period_seconds": 461,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 1980,
+                "coord_y": 876,
+                "action_area": "outsiderightcircle"
+              },
+              "details": {
+                "shot_type": "snap",
+                "distance": 38
+              },
               "shot_counter_onclock": 21,
               "period_number": 2,
               "period_type": "period",
@@ -292,6 +487,16 @@
               "time_game_seconds": 1664,
               "time_period_seconds": 464,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 1740,
+                "coord_y": 888,
+                "action_area": "rightpoint"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "reason": "wide left",
+                "distance": 54
+              },
               "shot_counter_onclock": 22,
               "period_number": 2,
               "period_type": "period",
@@ -303,6 +508,15 @@
               "time_game_seconds": 1723,
               "time_period_seconds": 523,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 1920,
+                "coord_y": 876,
+                "action_area": "outsiderightcircle"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 41
+              },
               "shot_counter_onclock": 23,
               "period_number": 2,
               "period_type": "period",
@@ -314,6 +528,15 @@
               "time_game_seconds": 1759,
               "time_period_seconds": 559,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 1968,
+                "coord_y": 552,
+                "action_area": "highslot"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 24
+              },
               "shot_counter_onclock": 24,
               "period_number": 2,
               "period_type": "period",
@@ -325,6 +548,15 @@
               "time_game_seconds": 2083,
               "time_period_seconds": 883,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 1968,
+                "coord_y": 240,
+                "action_area": "outsideleftcircle"
+              },
+              "details": {
+                "shot_type": "snap",
+                "distance": 32
+              },
               "shot_counter_onclock": 25,
               "period_number": 2,
               "period_type": "period",
@@ -336,6 +568,15 @@
               "time_game_seconds": 2086,
               "time_period_seconds": 886,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 2100,
+                "coord_y": 408,
+                "action_area": "slot"
+              },
+              "details": {
+                "shot_type": "snap",
+                "distance": 15
+              },
               "shot_counter_onclock": 26,
               "period_number": 2,
               "period_type": "period",
@@ -347,6 +588,15 @@
               "time_game_seconds": 2235,
               "time_period_seconds": 1035,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 1368,
+                "coord_y": 924,
+                "action_area": "neutralzone"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 81
+              },
               "shot_counter_onclock": 27,
               "period_number": 2,
               "period_type": "period",
@@ -358,6 +608,15 @@
               "time_game_seconds": 2355,
               "time_period_seconds": 1155,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 1944,
+                "coord_y": 708,
+                "action_area": "insiderightcircle"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 30
+              },
               "shot_counter_onclock": 28,
               "period_number": 2,
               "period_type": "period",
@@ -369,6 +628,16 @@
               "time_game_seconds": 2538,
               "time_period_seconds": 138,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 156,
+                "coord_y": 732,
+                "action_area": "lowleft"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "reason": "wide right",
+                "distance": 19
+              },
               "shot_counter_onclock": 29,
               "period_number": 3,
               "period_type": "period",
@@ -380,6 +649,16 @@
               "time_game_seconds": 2580,
               "time_period_seconds": 180,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 288,
+                "coord_y": 360,
+                "action_area": "rightslot"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "reason": "above crossbar",
+                "distance": 17
+              },
               "shot_counter_onclock": 30,
               "period_number": 3,
               "period_type": "period",
@@ -391,6 +670,15 @@
               "time_game_seconds": 2628,
               "time_period_seconds": 228,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 156,
+                "coord_y": 384,
+                "action_area": "rightslot"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 10
+              },
               "shot_counter_onclock": 31,
               "period_number": 3,
               "period_type": "period",
@@ -402,6 +690,16 @@
               "time_game_seconds": 2647,
               "time_period_seconds": 247,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 852,
+                "coord_y": 900,
+                "action_area": "leftpoint"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "reason": "wide left",
+                "distance": 68
+              },
               "shot_counter_onclock": 32,
               "period_number": 3,
               "period_type": "period",
@@ -413,6 +711,15 @@
               "time_game_seconds": 2777,
               "time_period_seconds": 377,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 456,
+                "coord_y": 756,
+                "action_area": "insideleftcircle"
+              },
+              "details": {
+                "shot_type": "snap",
+                "distance": 35
+              },
               "shot_counter_onclock": 33,
               "period_number": 3,
               "period_type": "period",
@@ -424,6 +731,15 @@
               "time_game_seconds": 2780,
               "time_period_seconds": 380,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 396,
+                "coord_y": 708,
+                "action_area": "insideleftcircle"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 28
+              },
               "shot_counter_onclock": 34,
               "period_number": 3,
               "period_type": "period",
@@ -435,6 +751,15 @@
               "time_game_seconds": 2917,
               "time_period_seconds": 517,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 276,
+                "coord_y": 600,
+                "action_area": "slot"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 14
+              },
               "shot_counter_onclock": 35,
               "period_number": 3,
               "period_type": "period",
@@ -446,6 +771,15 @@
               "time_game_seconds": 3194,
               "time_period_seconds": 794,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 348,
+                "coord_y": 324,
+                "action_area": "insiderightcircle"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 24
+              },
               "shot_counter_onclock": 36,
               "period_number": 3,
               "period_type": "period",
@@ -457,6 +791,15 @@
               "time_game_seconds": 3338,
               "time_period_seconds": 938,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 408,
+                "coord_y": 240,
+                "action_area": "outsiderightcircle"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 33
+              },
               "shot_counter_onclock": 37,
               "period_number": 3,
               "period_type": "period",
@@ -468,6 +811,15 @@
               "time_game_seconds": 3349,
               "time_period_seconds": 949,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 168,
+                "coord_y": 420,
+                "action_area": "lowslot"
+              },
+              "details": {
+                "shot_type": "snap",
+                "distance": 8
+              },
               "shot_counter_onclock": 38,
               "period_number": 3,
               "period_type": "period",
@@ -479,6 +831,15 @@
               "time_game_seconds": 3364,
               "time_period_seconds": 964,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 312,
+                "coord_y": 612,
+                "action_area": "slot"
+              },
+              "details": {
+                "shot_type": "tip-in",
+                "distance": 18
+              },
               "shot_counter_onclock": 39,
               "period_number": 3,
               "period_type": "period",
@@ -490,6 +851,15 @@
               "time_game_seconds": 3540,
               "time_period_seconds": 1140,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 996,
+                "coord_y": 948,
+                "action_area": "neutralzone"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 81
+              },
               "shot_counter_onclock": 40,
               "period_number": 3,
               "period_type": "period",
@@ -501,6 +871,16 @@
               "time_game_seconds": 3595,
               "time_period_seconds": 1195,
               "shot_type": "emptynetgoal",
+              "location": {
+                "coord_x": 1164,
+                "coord_y": 936,
+                "action_area": "neutralzone"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "goal_zone": "lower right",
+                "distance": 94
+              },
               "shot_counter_onclock": 41,
               "period_number": 3,
               "period_type": "period",
@@ -514,6 +894,15 @@
               "time_game_seconds": 15,
               "time_period_seconds": 15,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 840,
+                "coord_y": 24,
+                "action_area": "defensivezone"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 125
+              },
               "shot_counter_onclock": 1,
               "period_number": 1,
               "period_type": "period",
@@ -525,6 +914,15 @@
               "time_game_seconds": 20,
               "time_period_seconds": 20,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 2052,
+                "coord_y": 684,
+                "action_area": "insiderightcircle"
+              },
+              "details": {
+                "shot_type": "snap",
+                "distance": 22
+              },
               "shot_counter_onclock": 2,
               "period_number": 1,
               "period_type": "period",
@@ -536,6 +934,16 @@
               "time_game_seconds": 161,
               "time_period_seconds": 161,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 1596,
+                "coord_y": 684,
+                "action_area": "rightpoint"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "reason": "above crossbar",
+                "distance": 57
+              },
               "shot_counter_onclock": 3,
               "period_number": 1,
               "period_type": "period",
@@ -547,6 +955,15 @@
               "time_game_seconds": 259,
               "time_period_seconds": 259,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 1980,
+                "coord_y": 408,
+                "action_area": "highslot"
+              },
+              "details": {
+                "shot_type": "tip-in",
+                "distance": 24
+              },
               "shot_counter_onclock": 4,
               "period_number": 1,
               "period_type": "period",
@@ -558,6 +975,15 @@
               "time_game_seconds": 349,
               "time_period_seconds": 349,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 2148,
+                "coord_y": 576,
+                "action_area": "slot"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 10
+              },
               "shot_counter_onclock": 5,
               "period_number": 1,
               "period_type": "period",
@@ -569,6 +995,15 @@
               "time_game_seconds": 382,
               "time_period_seconds": 382,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 2256,
+                "coord_y": 564,
+                "action_area": "lowslot"
+              },
+              "details": {
+                "shot_type": "wrap-around",
+                "distance": 5
+              },
               "shot_counter_onclock": 6,
               "period_number": 1,
               "period_type": "period",
@@ -580,6 +1015,16 @@
               "time_game_seconds": 420,
               "time_period_seconds": 420,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 2220,
+                "coord_y": 252,
+                "action_area": "lowleft"
+              },
+              "details": {
+                "shot_type": "snap",
+                "reason": "wide left",
+                "distance": 21
+              },
               "shot_counter_onclock": 7,
               "period_number": 1,
               "period_type": "period",
@@ -591,6 +1036,15 @@
               "time_game_seconds": 593,
               "time_period_seconds": 593,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 1512,
+                "coord_y": 804,
+                "action_area": "rightpoint"
+              },
+              "details": {
+                "shot_type": "slap",
+                "distance": 66
+              },
               "shot_counter_onclock": 8,
               "period_number": 1,
               "period_type": "period",
@@ -602,6 +1056,16 @@
               "time_game_seconds": 607,
               "time_period_seconds": 607,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 1704,
+                "coord_y": 300,
+                "action_area": "leftpoint"
+              },
+              "details": {
+                "shot_type": "slap",
+                "reason": "wide right",
+                "distance": 48
+              },
               "shot_counter_onclock": 9,
               "period_number": 1,
               "period_type": "period",
@@ -613,6 +1077,15 @@
               "time_game_seconds": 613,
               "time_period_seconds": 613,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 1680,
+                "coord_y": 612,
+                "action_area": "centerpoint"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 48
+              },
               "shot_counter_onclock": 10,
               "period_number": 1,
               "period_type": "period",
@@ -624,6 +1097,15 @@
               "time_game_seconds": 618,
               "time_period_seconds": 618,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 1836,
+                "coord_y": 816,
+                "action_area": "lowrightpoint"
+              },
+              "details": {
+                "shot_type": "snap",
+                "distance": 43
+              },
               "shot_counter_onclock": 11,
               "period_number": 1,
               "period_type": "period",
@@ -635,6 +1117,15 @@
               "time_game_seconds": 622,
               "time_period_seconds": 622,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 2112,
+                "coord_y": 468,
+                "action_area": "slot"
+              },
+              "details": {
+                "shot_type": "backhand",
+                "distance": 11
+              },
               "shot_counter_onclock": 12,
               "period_number": 1,
               "period_type": "period",
@@ -646,6 +1137,16 @@
               "time_game_seconds": 641,
               "time_period_seconds": 641,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 1596,
+                "coord_y": 588,
+                "action_area": "centerpoint"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "reason": "wide right",
+                "distance": 55
+              },
               "shot_counter_onclock": 13,
               "period_number": 1,
               "period_type": "period",
@@ -657,6 +1158,15 @@
               "time_game_seconds": 681,
               "time_period_seconds": 681,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 1740,
+                "coord_y": 996,
+                "action_area": "rightpoint"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 59
+              },
               "shot_counter_onclock": 14,
               "period_number": 1,
               "period_type": "period",
@@ -668,6 +1178,16 @@
               "time_game_seconds": 828,
               "time_period_seconds": 828,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 1908,
+                "coord_y": 888,
+                "action_area": "outsiderightcircle"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "reason": "wide left",
+                "distance": 43
+              },
               "shot_counter_onclock": 15,
               "period_number": 1,
               "period_type": "period",
@@ -679,6 +1199,15 @@
               "time_game_seconds": 862,
               "time_period_seconds": 862,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 2124,
+                "coord_y": 564,
+                "action_area": "slot"
+              },
+              "details": {
+                "shot_type": "backhand",
+                "distance": 12
+              },
               "shot_counter_onclock": 16,
               "period_number": 1,
               "period_type": "period",
@@ -690,6 +1219,15 @@
               "time_game_seconds": 933,
               "time_period_seconds": 933,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 2124,
+                "coord_y": 444,
+                "action_area": "slot"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 12
+              },
               "shot_counter_onclock": 17,
               "period_number": 1,
               "period_type": "period",
@@ -701,6 +1239,15 @@
               "time_game_seconds": 958,
               "time_period_seconds": 958,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 2148,
+                "coord_y": 540,
+                "action_area": "slot"
+              },
+              "details": {
+                "shot_type": "backhand",
+                "distance": 8
+              },
               "shot_counter_onclock": 18,
               "period_number": 1,
               "period_type": "period",
@@ -712,6 +1259,16 @@
               "time_game_seconds": 968,
               "time_period_seconds": 968,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 2256,
+                "coord_y": 456,
+                "action_area": "lowslot"
+              },
+              "details": {
+                "shot_type": "backhand",
+                "reason": "wide left",
+                "distance": 4
+              },
               "shot_counter_onclock": 19,
               "period_number": 1,
               "period_type": "period",
@@ -723,6 +1280,15 @@
               "time_game_seconds": 1162,
               "time_period_seconds": 1162,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 2136,
+                "coord_y": 432,
+                "action_area": "slot"
+              },
+              "details": {
+                "shot_type": "snap",
+                "distance": 11
+              },
               "shot_counter_onclock": 20,
               "period_number": 1,
               "period_type": "period",
@@ -734,6 +1300,16 @@
               "time_game_seconds": 1174,
               "time_period_seconds": 1174,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 1548,
+                "coord_y": 156,
+                "action_area": "leftpoint"
+              },
+              "details": {
+                "shot_type": "slap",
+                "reason": "wide right",
+                "distance": 65
+              },
               "shot_counter_onclock": 21,
               "period_number": 1,
               "period_type": "period",
@@ -745,6 +1321,15 @@
               "time_game_seconds": 1193,
               "time_period_seconds": 1193,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 2148,
+                "coord_y": 180,
+                "action_area": "lowleft"
+              },
+              "details": {
+                "shot_type": "snap",
+                "distance": 28
+              },
               "shot_counter_onclock": 22,
               "period_number": 1,
               "period_type": "period",
@@ -756,6 +1341,15 @@
               "time_game_seconds": 1196,
               "time_period_seconds": 1196,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 1932,
+                "coord_y": 324,
+                "action_area": "insideleftcircle"
+              },
+              "details": {
+                "shot_type": "slap",
+                "distance": 30
+              },
               "shot_counter_onclock": 23,
               "period_number": 1,
               "period_type": "period",
@@ -767,6 +1361,15 @@
               "time_game_seconds": 1197,
               "time_period_seconds": 1197,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 1824,
+                "coord_y": 480,
+                "action_area": "lowcenterpoint"
+              },
+              "details": {
+                "shot_type": "snap",
+                "distance": 36
+              },
               "shot_counter_onclock": 24,
               "period_number": 1,
               "period_type": "period",
@@ -778,6 +1381,16 @@
               "time_game_seconds": 1247,
               "time_period_seconds": 47,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 204,
+                "coord_y": 480,
+                "action_area": "lowslot"
+              },
+              "details": {
+                "shot_type": "backhand",
+                "reason": "above crossbar",
+                "distance": 7
+              },
               "shot_counter_onclock": 25,
               "period_number": 2,
               "period_type": "period",
@@ -789,6 +1402,15 @@
               "time_game_seconds": 1378,
               "time_period_seconds": 178,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 552,
+                "coord_y": 288,
+                "action_area": "lowrightpoint"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 40
+              },
               "shot_counter_onclock": 26,
               "period_number": 2,
               "period_type": "period",
@@ -800,6 +1422,16 @@
               "time_game_seconds": 1379,
               "time_period_seconds": 179,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 276,
+                "coord_y": 492,
+                "action_area": "slot"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "reason": "wide right",
+                "distance": 12
+              },
               "shot_counter_onclock": 27,
               "period_number": 2,
               "period_type": "period",
@@ -811,6 +1443,15 @@
               "time_game_seconds": 1400,
               "time_period_seconds": 200,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 636,
+                "coord_y": 504,
+                "action_area": "centerpoint"
+              },
+              "details": {
+                "shot_type": "snap",
+                "distance": 42
+              },
               "shot_counter_onclock": 28,
               "period_number": 2,
               "period_type": "period",
@@ -822,6 +1463,15 @@
               "time_game_seconds": 1448,
               "time_period_seconds": 248,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 564,
+                "coord_y": 864,
+                "action_area": "lowleftpoint"
+              },
+              "details": {
+                "shot_type": "slap",
+                "distance": 47
+              },
               "shot_counter_onclock": 29,
               "period_number": 2,
               "period_type": "period",
@@ -833,6 +1483,15 @@
               "time_game_seconds": 1477,
               "time_period_seconds": 277,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 288,
+                "coord_y": 324,
+                "action_area": "rightslot"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 20
+              },
               "shot_counter_onclock": 30,
               "period_number": 2,
               "period_type": "period",
@@ -844,6 +1503,15 @@
               "time_game_seconds": 1478,
               "time_period_seconds": 278,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 180,
+                "coord_y": 420,
+                "action_area": "lowslot"
+              },
+              "details": {
+                "shot_type": "snap",
+                "distance": 8
+              },
               "shot_counter_onclock": 31,
               "period_number": 2,
               "period_type": "period",
@@ -855,6 +1523,15 @@
               "time_game_seconds": 1550,
               "time_period_seconds": 350,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 312,
+                "coord_y": 420,
+                "action_area": "slot"
+              },
+              "details": {
+                "shot_type": "tip-in",
+                "distance": 17
+              },
               "shot_counter_onclock": 32,
               "period_number": 2,
               "period_type": "period",
@@ -866,6 +1543,15 @@
               "time_game_seconds": 1558,
               "time_period_seconds": 358,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 480,
+                "coord_y": 504,
+                "action_area": "highslot"
+              },
+              "details": {
+                "shot_type": "snap",
+                "distance": 29
+              },
               "shot_counter_onclock": 33,
               "period_number": 2,
               "period_type": "period",
@@ -877,6 +1563,16 @@
               "time_game_seconds": 1689,
               "time_period_seconds": 489,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 432,
+                "coord_y": 996,
+                "action_area": "outsideleftcircle"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "reason": "wide right",
+                "distance": 48
+              },
               "shot_counter_onclock": 34,
               "period_number": 2,
               "period_type": "period",
@@ -888,6 +1584,15 @@
               "time_game_seconds": 1822,
               "time_period_seconds": 622,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 252,
+                "coord_y": 576,
+                "action_area": "slot"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 12
+              },
               "shot_counter_onclock": 35,
               "period_number": 2,
               "period_type": "period",
@@ -899,6 +1604,15 @@
               "time_game_seconds": 1856,
               "time_period_seconds": 656,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 288,
+                "coord_y": 612,
+                "action_area": "slot"
+              },
+              "details": {
+                "shot_type": "backhand",
+                "distance": 16
+              },
               "shot_counter_onclock": 36,
               "period_number": 2,
               "period_type": "period",
@@ -910,6 +1624,15 @@
               "time_game_seconds": 1862,
               "time_period_seconds": 662,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 420,
+                "coord_y": 564,
+                "action_area": "highslot"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 25
+              },
               "shot_counter_onclock": 37,
               "period_number": 2,
               "period_type": "period",
@@ -921,6 +1644,15 @@
               "time_game_seconds": 1881,
               "time_period_seconds": 681,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 192,
+                "coord_y": 480,
+                "action_area": "lowslot"
+              },
+              "details": {
+                "shot_type": "backhand",
+                "distance": 6
+              },
               "shot_counter_onclock": 38,
               "period_number": 2,
               "period_type": "period",
@@ -932,6 +1664,15 @@
               "time_game_seconds": 1894,
               "time_period_seconds": 694,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 360,
+                "coord_y": 300,
+                "action_area": "insiderightcircle"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 26
+              },
               "shot_counter_onclock": 39,
               "period_number": 2,
               "period_type": "period",
@@ -943,6 +1684,16 @@
               "time_game_seconds": 1895,
               "time_period_seconds": 695,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 324,
+                "coord_y": 756,
+                "action_area": "leftslot"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "reason": "high and wide right",
+                "distance": 26
+              },
               "shot_counter_onclock": 40,
               "period_number": 2,
               "period_type": "period",
@@ -954,6 +1705,15 @@
               "time_game_seconds": 1905,
               "time_period_seconds": 705,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 468,
+                "coord_y": 492,
+                "action_area": "highslot"
+              },
+              "details": {
+                "shot_type": "snap",
+                "distance": 28
+              },
               "shot_counter_onclock": 41,
               "period_number": 2,
               "period_type": "period",
@@ -965,6 +1725,15 @@
               "time_game_seconds": 1930,
               "time_period_seconds": 730,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 624,
+                "coord_y": 348,
+                "action_area": "rightpoint"
+              },
+              "details": {
+                "shot_type": "slap",
+                "distance": 43
+              },
               "shot_counter_onclock": 42,
               "period_number": 2,
               "period_type": "period",
@@ -976,6 +1745,15 @@
               "time_game_seconds": 1974,
               "time_period_seconds": 774,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 252,
+                "coord_y": 552,
+                "action_area": "slot"
+              },
+              "details": {
+                "shot_type": "tip-in",
+                "distance": 11
+              },
               "shot_counter_onclock": 43,
               "period_number": 2,
               "period_type": "period",
@@ -987,6 +1765,15 @@
               "time_game_seconds": 1985,
               "time_period_seconds": 785,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 456,
+                "coord_y": 396,
+                "action_area": "insiderightcircle"
+              },
+              "details": {
+                "shot_type": "snap",
+                "distance": 29
+              },
               "shot_counter_onclock": 44,
               "period_number": 2,
               "period_type": "period",
@@ -998,6 +1785,15 @@
               "time_game_seconds": 1994,
               "time_period_seconds": 794,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 696,
+                "coord_y": 564,
+                "action_area": "centerpoint"
+              },
+              "details": {
+                "shot_type": "snap",
+                "distance": 48
+              },
               "shot_counter_onclock": 45,
               "period_number": 2,
               "period_type": "period",
@@ -1009,6 +1805,15 @@
               "time_game_seconds": 2203,
               "time_period_seconds": 1003,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 624,
+                "coord_y": 168,
+                "action_area": "rightpoint"
+              },
+              "details": {
+                "shot_type": "slap",
+                "distance": 50
+              },
               "shot_counter_onclock": 46,
               "period_number": 2,
               "period_type": "period",
@@ -1020,6 +1825,15 @@
               "time_game_seconds": 2322,
               "time_period_seconds": 1122,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 204,
+                "coord_y": 192,
+                "action_area": "lowright"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 27
+              },
               "shot_counter_onclock": 47,
               "period_number": 2,
               "period_type": "period",
@@ -1031,6 +1845,15 @@
               "time_game_seconds": 2327,
               "time_period_seconds": 1127,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 648,
+                "coord_y": 840,
+                "action_area": "leftpoint"
+              },
+              "details": {
+                "shot_type": "snap",
+                "distance": 52
+              },
               "shot_counter_onclock": 48,
               "period_number": 2,
               "period_type": "period",
@@ -1042,6 +1865,15 @@
               "time_game_seconds": 2347,
               "time_period_seconds": 1147,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 300,
+                "coord_y": 480,
+                "action_area": "slot"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 14
+              },
               "shot_counter_onclock": 49,
               "period_number": 2,
               "period_type": "period",
@@ -1053,6 +1885,15 @@
               "time_game_seconds": 2368,
               "time_period_seconds": 1168,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 408,
+                "coord_y": 492,
+                "action_area": "highslot"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 24
+              },
               "shot_counter_onclock": 50,
               "period_number": 2,
               "period_type": "period",
@@ -1064,6 +1905,15 @@
               "time_game_seconds": 2671,
               "time_period_seconds": 271,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 2088,
+                "coord_y": 336,
+                "action_area": "leftslot"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 19
+              },
               "shot_counter_onclock": 51,
               "period_number": 3,
               "period_type": "period",
@@ -1075,6 +1925,15 @@
               "time_game_seconds": 2694,
               "time_period_seconds": 294,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 1848,
+                "coord_y": 228,
+                "action_area": "lowleftpoint"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 41
+              },
               "shot_counter_onclock": 52,
               "period_number": 3,
               "period_type": "period",
@@ -1086,6 +1945,15 @@
               "time_game_seconds": 2789,
               "time_period_seconds": 389,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 1968,
+                "coord_y": 864,
+                "action_area": "outsiderightcircle"
+              },
+              "details": {
+                "shot_type": "slap",
+                "distance": 38
+              },
               "shot_counter_onclock": 53,
               "period_number": 3,
               "period_type": "period",
@@ -1097,6 +1965,15 @@
               "time_game_seconds": 2880,
               "time_period_seconds": 480,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 1968,
+                "coord_y": 348,
+                "action_area": "insideleftcircle"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 27
+              },
               "shot_counter_onclock": 54,
               "period_number": 3,
               "period_type": "period",
@@ -1108,6 +1985,15 @@
               "time_game_seconds": 2984,
               "time_period_seconds": 584,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 2064,
+                "coord_y": 624,
+                "action_area": "insiderightcircle"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 18
+              },
               "shot_counter_onclock": 55,
               "period_number": 3,
               "period_type": "period",
@@ -1119,6 +2005,15 @@
               "time_game_seconds": 2986,
               "time_period_seconds": 586,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 2232,
+                "coord_y": 564,
+                "action_area": "lowslot"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 5
+              },
               "shot_counter_onclock": 56,
               "period_number": 3,
               "period_type": "period",
@@ -1130,6 +2025,16 @@
               "time_game_seconds": 2991,
               "time_period_seconds": 591,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 1716,
+                "coord_y": 240,
+                "action_area": "leftpoint"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "reason": "wide right",
+                "distance": 50
+              },
               "shot_counter_onclock": 57,
               "period_number": 3,
               "period_type": "period",
@@ -1141,6 +2046,16 @@
               "time_game_seconds": 3081,
               "time_period_seconds": 681,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 2196,
+                "coord_y": 456,
+                "action_area": "lowslot"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "reason": "wide left",
+                "distance": 6
+              },
               "shot_counter_onclock": 58,
               "period_number": 3,
               "period_type": "period",
@@ -1152,6 +2067,15 @@
               "time_game_seconds": 3140,
               "time_period_seconds": 740,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 1968,
+                "coord_y": 396,
+                "action_area": "insideleftcircle"
+              },
+              "details": {
+                "shot_type": "snap",
+                "distance": 25
+              },
               "shot_counter_onclock": 59,
               "period_number": 3,
               "period_type": "period",
@@ -1163,6 +2087,15 @@
               "time_game_seconds": 3155,
               "time_period_seconds": 755,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 1848,
+                "coord_y": 732,
+                "action_area": "lowrightpoint"
+              },
+              "details": {
+                "shot_type": "slap",
+                "distance": 38
+              },
               "shot_counter_onclock": 60,
               "period_number": 3,
               "period_type": "period",
@@ -1174,6 +2107,16 @@
               "time_game_seconds": 3161,
               "time_period_seconds": 761,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 1956,
+                "coord_y": 264,
+                "action_area": "insideleftcircle"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "reason": "wide left",
+                "distance": 31
+              },
               "shot_counter_onclock": 61,
               "period_number": 3,
               "period_type": "period",
@@ -1185,6 +2128,16 @@
               "time_game_seconds": 3248,
               "time_period_seconds": 848,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 1620,
+                "coord_y": 180,
+                "action_area": "leftpoint"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "reason": "wide left",
+                "distance": 59
+              },
               "shot_counter_onclock": 62,
               "period_number": 3,
               "period_type": "period",
@@ -1196,6 +2149,15 @@
               "time_game_seconds": 3258,
               "time_period_seconds": 858,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 1992,
+                "coord_y": 252,
+                "action_area": "insideleftcircle"
+              },
+              "details": {
+                "shot_type": "slap",
+                "distance": 30
+              },
               "shot_counter_onclock": 63,
               "period_number": 3,
               "period_type": "period",
@@ -1207,6 +2169,16 @@
               "time_game_seconds": 3317,
               "time_period_seconds": 917,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 2244,
+                "coord_y": 564,
+                "action_area": "lowslot"
+              },
+              "details": {
+                "shot_type": "wrap-around",
+                "reason": "wide left",
+                "distance": 5
+              },
               "shot_counter_onclock": 64,
               "period_number": 3,
               "period_type": "period",
@@ -1218,6 +2190,15 @@
               "time_game_seconds": 3438,
               "time_period_seconds": 1038,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 2208,
+                "coord_y": 600,
+                "action_area": "lowslot"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 8
+              },
               "shot_counter_onclock": 65,
               "period_number": 3,
               "period_type": "period",
@@ -1229,6 +2210,15 @@
               "time_game_seconds": 3461,
               "time_period_seconds": 1061,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 1284,
+                "coord_y": 816,
+                "action_area": "neutralzone"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 84
+              },
               "shot_counter_onclock": 66,
               "period_number": 3,
               "period_type": "period",
@@ -1240,6 +2230,16 @@
               "time_game_seconds": 3502,
               "time_period_seconds": 1102,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 1644,
+                "coord_y": 708,
+                "action_area": "rightpoint"
+              },
+              "details": {
+                "shot_type": "slap",
+                "reason": "wide right",
+                "distance": 53
+              },
               "shot_counter_onclock": 67,
               "period_number": 3,
               "period_type": "period",
@@ -1251,6 +2251,15 @@
               "time_game_seconds": 3516,
               "time_period_seconds": 1116,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 2340,
+                "coord_y": 768,
+                "action_area": "downlow"
+              },
+              "details": {
+                "shot_type": "backhand",
+                "distance": 23
+              },
               "shot_counter_onclock": 68,
               "period_number": 3,
               "period_type": "period",
@@ -1262,6 +2271,15 @@
               "time_game_seconds": 3534,
               "time_period_seconds": 1134,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 1992,
+                "coord_y": 792,
+                "action_area": "outsiderightcircle"
+              },
+              "details": {
+                "shot_type": "snap",
+                "distance": 32
+              },
               "shot_counter_onclock": 69,
               "period_number": 3,
               "period_type": "period",
@@ -1273,6 +2291,15 @@
               "time_game_seconds": 3589,
               "time_period_seconds": 1189,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 1668,
+                "coord_y": 828,
+                "action_area": "rightpoint"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 55
+              },
               "shot_counter_onclock": 70,
               "period_number": 3,
               "period_type": "period",
@@ -1341,6 +2368,15 @@
               "time_game_seconds": 32,
               "time_period_seconds": 32,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 780,
+                "coord_y": 816,
+                "action_area": "leftpoint"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 60
+              },
               "shot_counter_onclock": 1,
               "period_number": 1,
               "period_type": "period",
@@ -1352,6 +2388,15 @@
               "time_game_seconds": 77,
               "time_period_seconds": 77,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 528,
+                "coord_y": 192,
+                "action_area": "lowrightpoint"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 42
+              },
               "shot_counter_onclock": 2,
               "period_number": 1,
               "period_type": "period",
@@ -1363,6 +2408,15 @@
               "time_game_seconds": 125,
               "time_period_seconds": 125,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 684,
+                "coord_y": 684,
+                "action_area": "leftpoint"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 48
+              },
               "shot_counter_onclock": 3,
               "period_number": 1,
               "period_type": "period",
@@ -1374,6 +2428,15 @@
               "time_game_seconds": 161,
               "time_period_seconds": 161,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 396,
+                "coord_y": 96,
+                "action_area": "outsiderightcircle"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 41
+              },
               "shot_counter_onclock": 4,
               "period_number": 1,
               "period_type": "period",
@@ -1385,6 +2448,15 @@
               "time_game_seconds": 228,
               "time_period_seconds": 228,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 420,
+                "coord_y": 120,
+                "action_area": "outsiderightcircle"
+              },
+              "details": {
+                "shot_type": "backhand",
+                "distance": 41
+              },
               "shot_counter_onclock": 5,
               "period_number": 1,
               "period_type": "period",
@@ -1396,6 +2468,15 @@
               "time_game_seconds": 232,
               "time_period_seconds": 232,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 756,
+                "coord_y": 324,
+                "action_area": "rightpoint"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 55
+              },
               "shot_counter_onclock": 6,
               "period_number": 1,
               "period_type": "period",
@@ -1407,6 +2488,15 @@
               "time_game_seconds": 266,
               "time_period_seconds": 266,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 324,
+                "coord_y": 600,
+                "action_area": "slot"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 18
+              },
               "shot_counter_onclock": 7,
               "period_number": 1,
               "period_type": "period",
@@ -1418,6 +2508,15 @@
               "time_game_seconds": 285,
               "time_period_seconds": 285,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 240,
+                "coord_y": 372,
+                "action_area": "rightslot"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 14
+              },
               "shot_counter_onclock": 8,
               "period_number": 1,
               "period_type": "period",
@@ -1429,6 +2528,15 @@
               "time_game_seconds": 303,
               "time_period_seconds": 303,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 720,
+                "coord_y": 960,
+                "action_area": "leftpoint"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 63
+              },
               "shot_counter_onclock": 9,
               "period_number": 1,
               "period_type": "period",
@@ -1440,6 +2548,15 @@
               "time_game_seconds": 306,
               "time_period_seconds": 306,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 828,
+                "coord_y": 120,
+                "action_area": "rightpoint"
+              },
+              "details": {
+                "shot_type": "slap",
+                "distance": 67
+              },
               "shot_counter_onclock": 10,
               "period_number": 1,
               "period_type": "period",
@@ -1451,6 +2568,15 @@
               "time_game_seconds": 501,
               "time_period_seconds": 501,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 492,
+                "coord_y": 852,
+                "action_area": "outsideleftcircle"
+              },
+              "details": {
+                "shot_type": "slap",
+                "distance": 42
+              },
               "shot_counter_onclock": 11,
               "period_number": 1,
               "period_type": "period",
@@ -1462,6 +2588,15 @@
               "time_game_seconds": 527,
               "time_period_seconds": 527,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 276,
+                "coord_y": 180,
+                "action_area": "lowright"
+              },
+              "details": {
+                "shot_type": "snap",
+                "distance": 29
+              },
               "shot_counter_onclock": 12,
               "period_number": 1,
               "period_type": "period",
@@ -1473,6 +2608,15 @@
               "time_game_seconds": 596,
               "time_period_seconds": 596,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 360,
+                "coord_y": 624,
+                "action_area": "insideleftcircle"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 21
+              },
               "shot_counter_onclock": 13,
               "period_number": 1,
               "period_type": "period",
@@ -1484,6 +2628,16 @@
               "time_game_seconds": 696,
               "time_period_seconds": 696,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 444,
+                "coord_y": 756,
+                "action_area": "insideleftcircle"
+              },
+              "details": {
+                "shot_type": "snap",
+                "reason": "hit crossbar",
+                "distance": 34
+              },
               "shot_counter_onclock": 14,
               "period_number": 1,
               "period_type": "period",
@@ -1495,6 +2649,15 @@
               "time_game_seconds": 727,
               "time_period_seconds": 727,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 300,
+                "coord_y": 324,
+                "action_area": "rightslot"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 20
+              },
               "shot_counter_onclock": 15,
               "period_number": 1,
               "period_type": "period",
@@ -1506,6 +2669,16 @@
               "time_game_seconds": 731,
               "time_period_seconds": 731,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 216,
+                "coord_y": 852,
+                "action_area": "lowleft"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "reason": "wide right",
+                "distance": 30
+              },
               "shot_counter_onclock": 16,
               "period_number": 1,
               "period_type": "period",
@@ -1517,6 +2690,16 @@
               "time_game_seconds": 736,
               "time_period_seconds": 736,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 768,
+                "coord_y": 348,
+                "action_area": "rightpoint"
+              },
+              "details": {
+                "shot_type": "slap",
+                "reason": "short",
+                "distance": 55
+              },
               "shot_counter_onclock": 17,
               "period_number": 1,
               "period_type": "period",
@@ -1528,6 +2711,15 @@
               "time_game_seconds": 792,
               "time_period_seconds": 792,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 768,
+                "coord_y": 360,
+                "action_area": "rightpoint"
+              },
+              "details": {
+                "shot_type": "snap",
+                "distance": 54
+              },
               "shot_counter_onclock": 18,
               "period_number": 1,
               "period_type": "period",
@@ -1539,6 +2731,15 @@
               "time_game_seconds": 997,
               "time_period_seconds": 997,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 324,
+                "coord_y": 312,
+                "action_area": "rightslot"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 23
+              },
               "shot_counter_onclock": 19,
               "period_number": 1,
               "period_type": "period",
@@ -1550,6 +2751,15 @@
               "time_game_seconds": 1053,
               "time_period_seconds": 1053,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 216,
+                "coord_y": 492,
+                "action_area": "lowslot"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 8
+              },
               "shot_counter_onclock": 20,
               "period_number": 1,
               "period_type": "period",
@@ -1561,6 +2771,16 @@
               "time_game_seconds": 1172,
               "time_period_seconds": 1172,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 768,
+                "coord_y": 552,
+                "action_area": "centerpoint"
+              },
+              "details": {
+                "shot_type": "slap",
+                "reason": "wide right",
+                "distance": 53
+              },
               "shot_counter_onclock": 21,
               "period_number": 1,
               "period_type": "period",
@@ -1572,6 +2792,15 @@
               "time_game_seconds": 1268,
               "time_period_seconds": 68,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 2004,
+                "coord_y": 228,
+                "action_area": "outsideleftcircle"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 31
+              },
               "shot_counter_onclock": 22,
               "period_number": 2,
               "period_type": "period",
@@ -1583,6 +2812,16 @@
               "time_game_seconds": 1350,
               "time_period_seconds": 150,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 2064,
+                "coord_y": 384,
+                "action_area": "insideleftcircle"
+              },
+              "details": {
+                "shot_type": "snap",
+                "reason": "wide right",
+                "distance": 18
+              },
               "shot_counter_onclock": 23,
               "period_number": 2,
               "period_type": "period",
@@ -1594,6 +2833,16 @@
               "time_game_seconds": 1378,
               "time_period_seconds": 178,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 2004,
+                "coord_y": 456,
+                "action_area": "highslot"
+              },
+              "details": {
+                "shot_type": "backhand",
+                "reason": "wide left",
+                "distance": 20
+              },
               "shot_counter_onclock": 24,
               "period_number": 2,
               "period_type": "period",
@@ -1605,6 +2854,15 @@
               "time_game_seconds": 1382,
               "time_period_seconds": 182,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 1920,
+                "coord_y": 408,
+                "action_area": "highslot"
+              },
+              "details": {
+                "shot_type": "slap",
+                "distance": 29
+              },
               "shot_counter_onclock": 25,
               "period_number": 2,
               "period_type": "period",
@@ -1616,6 +2874,15 @@
               "time_game_seconds": 1388,
               "time_period_seconds": 188,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 1788,
+                "coord_y": 876,
+                "action_area": "lowrightpoint"
+              },
+              "details": {
+                "shot_type": "slap",
+                "distance": 50
+              },
               "shot_counter_onclock": 26,
               "period_number": 2,
               "period_type": "period",
@@ -1627,6 +2894,15 @@
               "time_game_seconds": 1392,
               "time_period_seconds": 192,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 1728,
+                "coord_y": 816,
+                "action_area": "rightpoint"
+              },
+              "details": {
+                "shot_type": "slap",
+                "distance": 51
+              },
               "shot_counter_onclock": 27,
               "period_number": 2,
               "period_type": "period",
@@ -1638,6 +2914,15 @@
               "time_game_seconds": 1400,
               "time_period_seconds": 200,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 1728,
+                "coord_y": 120,
+                "action_area": "leftpoint"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 54
+              },
               "shot_counter_onclock": 28,
               "period_number": 2,
               "period_type": "period",
@@ -1649,6 +2934,15 @@
               "time_game_seconds": 1484,
               "time_period_seconds": 284,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 1908,
+                "coord_y": 876,
+                "action_area": "outsiderightcircle"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 42
+              },
               "shot_counter_onclock": 29,
               "period_number": 2,
               "period_type": "period",
@@ -1660,6 +2954,15 @@
               "time_game_seconds": 1495,
               "time_period_seconds": 295,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 1812,
+                "coord_y": 288,
+                "action_area": "lowleftpoint"
+              },
+              "details": {
+                "shot_type": "snap",
+                "distance": 41
+              },
               "shot_counter_onclock": 30,
               "period_number": 2,
               "period_type": "period",
@@ -1671,6 +2974,16 @@
               "time_game_seconds": 1541,
               "time_period_seconds": 341,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 1584,
+                "coord_y": 408,
+                "action_area": "centerpoint"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "reason": "wide right",
+                "distance": 55
+              },
               "shot_counter_onclock": 31,
               "period_number": 2,
               "period_type": "period",
@@ -1682,6 +2995,16 @@
               "time_game_seconds": 1774,
               "time_period_seconds": 574,
               "shot_type": "goal",
+              "location": {
+                "coord_x": 1776,
+                "coord_y": 384,
+                "action_area": "leftpoint"
+              },
+              "details": {
+                "shot_type": "snap",
+                "goal_zone": "lower right",
+                "distance": 40
+              },
               "shot_counter_onclock": 32,
               "period_number": 2,
               "period_type": "period",
@@ -1693,6 +3016,16 @@
               "time_game_seconds": 1781,
               "time_period_seconds": 581,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 1740,
+                "coord_y": 972,
+                "action_area": "rightpoint"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "reason": "short",
+                "distance": 58
+              },
               "shot_counter_onclock": 33,
               "period_number": 2,
               "period_type": "period",
@@ -1704,6 +3037,15 @@
               "time_game_seconds": 1816,
               "time_period_seconds": 616,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 2064,
+                "coord_y": 456,
+                "action_area": "highslot"
+              },
+              "details": {
+                "shot_type": "slap",
+                "distance": 16
+              },
               "shot_counter_onclock": 34,
               "period_number": 2,
               "period_type": "period",
@@ -1715,6 +3057,15 @@
               "time_game_seconds": 1845,
               "time_period_seconds": 645,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 1200,
+                "coord_y": 84,
+                "action_area": "neutralzone"
+              },
+              "details": {
+                "shot_type": "tip-in",
+                "distance": 94
+              },
               "shot_counter_onclock": 35,
               "period_number": 2,
               "period_type": "period",
@@ -1726,6 +3077,15 @@
               "time_game_seconds": 1919,
               "time_period_seconds": 719,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 2040,
+                "coord_y": 456,
+                "action_area": "highslot"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 18
+              },
               "shot_counter_onclock": 36,
               "period_number": 2,
               "period_type": "period",
@@ -1737,6 +3097,16 @@
               "time_game_seconds": 1923,
               "time_period_seconds": 723,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 2160,
+                "coord_y": 420,
+                "action_area": "slot"
+              },
+              "details": {
+                "shot_type": "tip-in",
+                "reason": "wide left",
+                "distance": 10
+              },
               "shot_counter_onclock": 37,
               "period_number": 2,
               "period_type": "period",
@@ -1748,6 +3118,15 @@
               "time_game_seconds": 1935,
               "time_period_seconds": 735,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 2148,
+                "coord_y": 192,
+                "action_area": "lowleft"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 28
+              },
               "shot_counter_onclock": 38,
               "period_number": 2,
               "period_type": "period",
@@ -1759,6 +3138,15 @@
               "time_game_seconds": 2176,
               "time_period_seconds": 976,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 1836,
+                "coord_y": 84,
+                "action_area": "lowleftpoint"
+              },
+              "details": {
+                "shot_type": "snap",
+                "distance": 49
+              },
               "shot_counter_onclock": 39,
               "period_number": 2,
               "period_type": "period",
@@ -1770,6 +3158,15 @@
               "time_game_seconds": 2260,
               "time_period_seconds": 1060,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 2100,
+                "coord_y": 240,
+                "action_area": "lowleft"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 25
+              },
               "shot_counter_onclock": 40,
               "period_number": 2,
               "period_type": "period",
@@ -1781,6 +3178,15 @@
               "time_game_seconds": 2269,
               "time_period_seconds": 1069,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 2124,
+                "coord_y": 528,
+                "action_area": "slot"
+              },
+              "details": {
+                "shot_type": "snap",
+                "distance": 10
+              },
               "shot_counter_onclock": 41,
               "period_number": 2,
               "period_type": "period",
@@ -1792,6 +3198,15 @@
               "time_game_seconds": 2357,
               "time_period_seconds": 1157,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 1860,
+                "coord_y": 96,
+                "action_area": "lowleftpoint"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 47
+              },
               "shot_counter_onclock": 42,
               "period_number": 2,
               "period_type": "period",
@@ -1803,6 +3218,15 @@
               "time_game_seconds": 2373,
               "time_period_seconds": 1173,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 2028,
+                "coord_y": 804,
+                "action_area": "outsiderightcircle"
+              },
+              "details": {
+                "shot_type": "snap",
+                "distance": 31
+              },
               "shot_counter_onclock": 43,
               "period_number": 2,
               "period_type": "period",
@@ -1814,6 +3238,16 @@
               "time_game_seconds": 2591,
               "time_period_seconds": 191,
               "shot_type": "goal",
+              "location": {
+                "coord_x": 480,
+                "coord_y": 780,
+                "action_area": "outsideleftcircle"
+              },
+              "details": {
+                "shot_type": "snap",
+                "goal_zone": "upper left",
+                "distance": 37
+              },
               "shot_counter_onclock": 44,
               "period_number": 3,
               "period_type": "period",
@@ -1825,6 +3259,15 @@
               "time_game_seconds": 2677,
               "time_period_seconds": 277,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 564,
+                "coord_y": 660,
+                "action_area": "lowleftpoint"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 39
+              },
               "shot_counter_onclock": 45,
               "period_number": 3,
               "period_type": "period",
@@ -1836,6 +3279,15 @@
               "time_game_seconds": 2760,
               "time_period_seconds": 360,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 312,
+                "coord_y": 768,
+                "action_area": "lowleft"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 26
+              },
               "shot_counter_onclock": 46,
               "period_number": 3,
               "period_type": "period",
@@ -1847,6 +3299,15 @@
               "time_game_seconds": 2784,
               "time_period_seconds": 384,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 492,
+                "coord_y": 600,
+                "action_area": "highslot"
+              },
+              "details": {
+                "shot_type": "snap",
+                "distance": 32
+              },
               "shot_counter_onclock": 47,
               "period_number": 3,
               "period_type": "period",
@@ -1858,6 +3319,15 @@
               "time_game_seconds": 2798,
               "time_period_seconds": 398,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 696,
+                "coord_y": 24,
+                "action_area": "rightpoint"
+              },
+              "details": {
+                "shot_type": "snap",
+                "distance": 62
+              },
               "shot_counter_onclock": 48,
               "period_number": 3,
               "period_type": "period",
@@ -1869,6 +3339,15 @@
               "time_game_seconds": 2806,
               "time_period_seconds": 406,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 276,
+                "coord_y": 528,
+                "action_area": "slot"
+              },
+              "details": {
+                "shot_type": "tip-in",
+                "distance": 13
+              },
               "shot_counter_onclock": 49,
               "period_number": 3,
               "period_type": "period",
@@ -1880,6 +3359,15 @@
               "time_game_seconds": 2840,
               "time_period_seconds": 440,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 432,
+                "coord_y": 360,
+                "action_area": "insiderightcircle"
+              },
+              "details": {
+                "shot_type": "tip-in",
+                "distance": 28
+              },
               "shot_counter_onclock": 50,
               "period_number": 3,
               "period_type": "period",
@@ -1891,6 +3379,16 @@
               "time_game_seconds": 3045,
               "time_period_seconds": 645,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 324,
+                "coord_y": 804,
+                "action_area": "lowleft"
+              },
+              "details": {
+                "shot_type": "tip-in",
+                "reason": "wide left",
+                "distance": 30
+              },
               "shot_counter_onclock": 51,
               "period_number": 3,
               "period_type": "period",
@@ -1902,6 +3400,15 @@
               "time_game_seconds": 3051,
               "time_period_seconds": 651,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 360,
+                "coord_y": 564,
+                "action_area": "highslot"
+              },
+              "details": {
+                "shot_type": "snap",
+                "distance": 19
+              },
               "shot_counter_onclock": 52,
               "period_number": 3,
               "period_type": "period",
@@ -1913,6 +3420,16 @@
               "time_game_seconds": 3071,
               "time_period_seconds": 671,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 264,
+                "coord_y": 732,
+                "action_area": "lowleft"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "reason": "above crossbar",
+                "distance": 23
+              },
               "shot_counter_onclock": 53,
               "period_number": 3,
               "period_type": "period",
@@ -1924,6 +3441,16 @@
               "time_game_seconds": 3090,
               "time_period_seconds": 690,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 252,
+                "coord_y": 432,
+                "action_area": "slot"
+              },
+              "details": {
+                "shot_type": "tip-in",
+                "reason": "wide left",
+                "distance": 12
+              },
               "shot_counter_onclock": 54,
               "period_number": 3,
               "period_type": "period",
@@ -1935,6 +3462,16 @@
               "time_game_seconds": 3120,
               "time_period_seconds": 720,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 228,
+                "coord_y": 444,
+                "action_area": "lowslot"
+              },
+              "details": {
+                "shot_type": "tip-in",
+                "reason": "wide right",
+                "distance": 10
+              },
               "shot_counter_onclock": 55,
               "period_number": 3,
               "period_type": "period",
@@ -1946,6 +3483,16 @@
               "time_game_seconds": 3146,
               "time_period_seconds": 746,
               "shot_type": "goal",
+              "location": {
+                "coord_x": 252,
+                "coord_y": 600,
+                "action_area": "slot"
+              },
+              "details": {
+                "shot_type": "tip-in",
+                "goal_zone": "lower right",
+                "distance": 13
+              },
               "shot_counter_onclock": 56,
               "period_number": 3,
               "period_type": "period",
@@ -1957,6 +3504,16 @@
               "time_game_seconds": 3237,
               "time_period_seconds": 837,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 108,
+                "coord_y": 564,
+                "action_area": "downlow"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "reason": "wide right",
+                "distance": 5
+              },
               "shot_counter_onclock": 57,
               "period_number": 3,
               "period_type": "period",
@@ -1968,6 +3525,16 @@
               "time_game_seconds": 3238,
               "time_period_seconds": 838,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 120,
+                "coord_y": 600,
+                "action_area": "downlow"
+              },
+              "details": {
+                "shot_type": "poke",
+                "reason": "hit left post",
+                "distance": 8
+              },
               "shot_counter_onclock": 58,
               "period_number": 3,
               "period_type": "period",
@@ -1979,6 +3546,16 @@
               "time_game_seconds": 3452,
               "time_period_seconds": 1052,
               "shot_type": "emptynetgoal",
+              "location": {
+                "coord_x": 1356,
+                "coord_y": 36,
+                "action_area": "neutralzone"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "goal_zone": "lower left",
+                "distance": 110
+              },
               "shot_counter_onclock": 59,
               "period_number": 3,
               "period_type": "period",
@@ -1990,6 +3567,15 @@
               "time_game_seconds": 3484,
               "time_period_seconds": 1084,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 444,
+                "coord_y": 396,
+                "action_area": "insiderightcircle"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 27
+              },
               "shot_counter_onclock": 60,
               "period_number": 3,
               "period_type": "period",
@@ -2001,6 +3587,15 @@
               "time_game_seconds": 3495,
               "time_period_seconds": 1095,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 420,
+                "coord_y": 576,
+                "action_area": "highslot"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 25
+              },
               "shot_counter_onclock": 61,
               "period_number": 3,
               "period_type": "period",
@@ -2012,6 +3607,15 @@
               "time_game_seconds": 3510,
               "time_period_seconds": 1110,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 384,
+                "coord_y": 528,
+                "action_area": "highslot"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 22
+              },
               "shot_counter_onclock": 62,
               "period_number": 3,
               "period_type": "period",
@@ -2023,6 +3627,15 @@
               "time_game_seconds": 3521,
               "time_period_seconds": 1121,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 216,
+                "coord_y": 516,
+                "action_area": "lowslot"
+              },
+              "details": {
+                "shot_type": "tip-in",
+                "distance": 8
+              },
               "shot_counter_onclock": 63,
               "period_number": 3,
               "period_type": "period",
@@ -2036,6 +3649,15 @@
               "time_game_seconds": 206,
               "time_period_seconds": 206,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 2028,
+                "coord_y": 672,
+                "action_area": "insiderightcircle"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 23
+              },
               "shot_counter_onclock": 1,
               "period_number": 1,
               "period_type": "period",
@@ -2047,6 +3669,15 @@
               "time_game_seconds": 273,
               "time_period_seconds": 273,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 1680,
+                "coord_y": 420,
+                "action_area": "centerpoint"
+              },
+              "details": {
+                "shot_type": "snap",
+                "distance": 48
+              },
               "shot_counter_onclock": 2,
               "period_number": 1,
               "period_type": "period",
@@ -2058,6 +3689,16 @@
               "time_game_seconds": 677,
               "time_period_seconds": 677,
               "shot_type": "goal",
+              "location": {
+                "coord_x": 1764,
+                "coord_y": 300,
+                "action_area": "leftpoint"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "goal_zone": "lower middle",
+                "distance": 44
+              },
               "shot_counter_onclock": 3,
               "period_number": 1,
               "period_type": "period",
@@ -2069,6 +3710,16 @@
               "time_game_seconds": 760,
               "time_period_seconds": 760,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 1836,
+                "coord_y": 492,
+                "action_area": "lowcenterpoint"
+              },
+              "details": {
+                "shot_type": "snap",
+                "reason": "wide left",
+                "distance": 34
+              },
               "shot_counter_onclock": 4,
               "period_number": 1,
               "period_type": "period",
@@ -2080,6 +3731,15 @@
               "time_game_seconds": 818,
               "time_period_seconds": 818,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 1968,
+                "coord_y": 516,
+                "action_area": "highslot"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 24
+              },
               "shot_counter_onclock": 5,
               "period_number": 1,
               "period_type": "period",
@@ -2091,6 +3751,15 @@
               "time_game_seconds": 909,
               "time_period_seconds": 909,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 2196,
+                "coord_y": 312,
+                "action_area": "lowleft"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 17
+              },
               "shot_counter_onclock": 6,
               "period_number": 1,
               "period_type": "period",
@@ -2102,6 +3771,16 @@
               "time_game_seconds": 984,
               "time_period_seconds": 984,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 1992,
+                "coord_y": 672,
+                "action_area": "insiderightcircle"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "reason": "wide left",
+                "distance": 25
+              },
               "shot_counter_onclock": 7,
               "period_number": 1,
               "period_type": "period",
@@ -2113,6 +3792,15 @@
               "time_game_seconds": 1007,
               "time_period_seconds": 1007,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 2052,
+                "coord_y": 216,
+                "action_area": "outsideleftcircle"
+              },
+              "details": {
+                "shot_type": "slap",
+                "distance": 29
+              },
               "shot_counter_onclock": 8,
               "period_number": 1,
               "period_type": "period",
@@ -2124,6 +3812,16 @@
               "time_game_seconds": 1088,
               "time_period_seconds": 1088,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 1980,
+                "coord_y": 912,
+                "action_area": "outsiderightcircle"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "reason": "wide left",
+                "distance": 41
+              },
               "shot_counter_onclock": 9,
               "period_number": 1,
               "period_type": "period",
@@ -2135,6 +3833,15 @@
               "time_game_seconds": 1118,
               "time_period_seconds": 1118,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 1860,
+                "coord_y": 912,
+                "action_area": "lowrightpoint"
+              },
+              "details": {
+                "shot_type": "snap",
+                "distance": 47
+              },
               "shot_counter_onclock": 10,
               "period_number": 1,
               "period_type": "period",
@@ -2146,6 +3853,15 @@
               "time_game_seconds": 1305,
               "time_period_seconds": 105,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 204,
+                "coord_y": 324,
+                "action_area": "lowright"
+              },
+              "details": {
+                "shot_type": "slap",
+                "distance": 16
+              },
               "shot_counter_onclock": 11,
               "period_number": 2,
               "period_type": "period",
@@ -2157,6 +3873,15 @@
               "time_game_seconds": 1337,
               "time_period_seconds": 137,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 480,
+                "coord_y": 324,
+                "action_area": "insiderightcircle"
+              },
+              "details": {
+                "shot_type": "slap",
+                "distance": 33
+              },
               "shot_counter_onclock": 12,
               "period_number": 2,
               "period_type": "period",
@@ -2168,6 +3893,15 @@
               "time_game_seconds": 1581,
               "time_period_seconds": 381,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 228,
+                "coord_y": 588,
+                "action_area": "lowslot"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 11
+              },
               "shot_counter_onclock": 13,
               "period_number": 2,
               "period_type": "period",
@@ -2179,6 +3913,15 @@
               "time_game_seconds": 1585,
               "time_period_seconds": 385,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 804,
+                "coord_y": 912,
+                "action_area": "leftpoint"
+              },
+              "details": {
+                "shot_type": "slap",
+                "distance": 65
+              },
               "shot_counter_onclock": 14,
               "period_number": 2,
               "period_type": "period",
@@ -2190,6 +3933,16 @@
               "time_game_seconds": 1615,
               "time_period_seconds": 415,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 900,
+                "coord_y": 348,
+                "action_area": "neutralzone"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "reason": "wide left",
+                "distance": 66
+              },
               "shot_counter_onclock": 15,
               "period_number": 2,
               "period_type": "period",
@@ -2201,6 +3954,15 @@
               "time_game_seconds": 1731,
               "time_period_seconds": 531,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 276,
+                "coord_y": 672,
+                "action_area": "leftslot"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 19
+              },
               "shot_counter_onclock": 16,
               "period_number": 2,
               "period_type": "period",
@@ -2212,6 +3974,15 @@
               "time_game_seconds": 1948,
               "time_period_seconds": 748,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 852,
+                "coord_y": 240,
+                "action_area": "rightpoint"
+              },
+              "details": {
+                "shot_type": "slap",
+                "distance": 64
+              },
               "shot_counter_onclock": 17,
               "period_number": 2,
               "period_type": "period",
@@ -2223,6 +3994,15 @@
               "time_game_seconds": 2040,
               "time_period_seconds": 840,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 312,
+                "coord_y": 384,
+                "action_area": "rightslot"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 18
+              },
               "shot_counter_onclock": 18,
               "period_number": 2,
               "period_type": "period",
@@ -2234,6 +4014,16 @@
               "time_game_seconds": 2074,
               "time_period_seconds": 874,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 708,
+                "coord_y": 420,
+                "action_area": "centerpoint"
+              },
+              "details": {
+                "shot_type": "slap",
+                "reason": "hit left post",
+                "distance": 49
+              },
               "shot_counter_onclock": 19,
               "period_number": 2,
               "period_type": "period",
@@ -2245,6 +4035,15 @@
               "time_game_seconds": 2096,
               "time_period_seconds": 896,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 132,
+                "coord_y": 228,
+                "action_area": "lowright"
+              },
+              "details": {
+                "shot_type": "slap",
+                "distance": 23
+              },
               "shot_counter_onclock": 20,
               "period_number": 2,
               "period_type": "period",
@@ -2256,6 +4055,15 @@
               "time_game_seconds": 2152,
               "time_period_seconds": 952,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 468,
+                "coord_y": 372,
+                "action_area": "insiderightcircle"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 31
+              },
               "shot_counter_onclock": 21,
               "period_number": 2,
               "period_type": "period",
@@ -2267,6 +4075,16 @@
               "time_game_seconds": 2158,
               "time_period_seconds": 958,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 564,
+                "coord_y": 696,
+                "action_area": "lowleftpoint"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "reason": "hit crossbar",
+                "distance": 39
+              },
               "shot_counter_onclock": 22,
               "period_number": 2,
               "period_type": "period",
@@ -2278,6 +4096,15 @@
               "time_game_seconds": 2162,
               "time_period_seconds": 962,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 432,
+                "coord_y": 120,
+                "action_area": "outsiderightcircle"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 41
+              },
               "shot_counter_onclock": 23,
               "period_number": 2,
               "period_type": "period",
@@ -2289,6 +4116,15 @@
               "time_game_seconds": 2227,
               "time_period_seconds": 1027,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 720,
+                "coord_y": 384,
+                "action_area": "rightpoint"
+              },
+              "details": {
+                "shot_type": "slap",
+                "distance": 50
+              },
               "shot_counter_onclock": 24,
               "period_number": 2,
               "period_type": "period",
@@ -2300,6 +4136,15 @@
               "time_game_seconds": 2350,
               "time_period_seconds": 1150,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 600,
+                "coord_y": 360,
+                "action_area": "lowrightpoint"
+              },
+              "details": {
+                "shot_type": "slap",
+                "distance": 41
+              },
               "shot_counter_onclock": 25,
               "period_number": 2,
               "period_type": "period",
@@ -2311,6 +4156,15 @@
               "time_game_seconds": 2417,
               "time_period_seconds": 17,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 2184,
+                "coord_y": 720,
+                "action_area": "lowright"
+              },
+              "details": {
+                "shot_type": "snap",
+                "distance": 19
+              },
               "shot_counter_onclock": 26,
               "period_number": 3,
               "period_type": "period",
@@ -2322,6 +4176,15 @@
               "time_game_seconds": 2426,
               "time_period_seconds": 26,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 1776,
+                "coord_y": 456,
+                "action_area": "centerpoint"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 39
+              },
               "shot_counter_onclock": 27,
               "period_number": 3,
               "period_type": "period",
@@ -2333,6 +4196,15 @@
               "time_game_seconds": 2468,
               "time_period_seconds": 68,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 1716,
+                "coord_y": 336,
+                "action_area": "leftpoint"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 47
+              },
               "shot_counter_onclock": 28,
               "period_number": 3,
               "period_type": "period",
@@ -2344,6 +4216,15 @@
               "time_game_seconds": 2478,
               "time_period_seconds": 78,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 2016,
+                "coord_y": 444,
+                "action_area": "highslot"
+              },
+              "details": {
+                "shot_type": "snap",
+                "distance": 19
+              },
               "shot_counter_onclock": 29,
               "period_number": 3,
               "period_type": "period",
@@ -2355,6 +4236,15 @@
               "time_game_seconds": 2635,
               "time_period_seconds": 235,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 1536,
+                "coord_y": 384,
+                "action_area": "leftpoint"
+              },
+              "details": {
+                "shot_type": "slap",
+                "distance": 60
+              },
               "shot_counter_onclock": 30,
               "period_number": 3,
               "period_type": "period",
@@ -2366,6 +4256,15 @@
               "time_game_seconds": 2667,
               "time_period_seconds": 267,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 1596,
+                "coord_y": 768,
+                "action_area": "rightpoint"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 59
+              },
               "shot_counter_onclock": 31,
               "period_number": 3,
               "period_type": "period",
@@ -2377,6 +4276,15 @@
               "time_game_seconds": 2725,
               "time_period_seconds": 325,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 1704,
+                "coord_y": 108,
+                "action_area": "leftpoint"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 56
+              },
               "shot_counter_onclock": 32,
               "period_number": 3,
               "period_type": "period",
@@ -2388,6 +4296,15 @@
               "time_game_seconds": 2742,
               "time_period_seconds": 342,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 2028,
+                "coord_y": 564,
+                "action_area": "highslot"
+              },
+              "details": {
+                "shot_type": "slap",
+                "distance": 19
+              },
               "shot_counter_onclock": 33,
               "period_number": 3,
               "period_type": "period",
@@ -2399,6 +4316,15 @@
               "time_game_seconds": 2747,
               "time_period_seconds": 347,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 1620,
+                "coord_y": 156,
+                "action_area": "leftpoint"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 60
+              },
               "shot_counter_onclock": 34,
               "period_number": 3,
               "period_type": "period",
@@ -2410,6 +4336,15 @@
               "time_game_seconds": 2826,
               "time_period_seconds": 426,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 1776,
+                "coord_y": 48,
+                "action_area": "leftpoint"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 55
+              },
               "shot_counter_onclock": 35,
               "period_number": 3,
               "period_type": "period",
@@ -2421,6 +4356,15 @@
               "time_game_seconds": 2901,
               "time_period_seconds": 501,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 1536,
+                "coord_y": 276,
+                "action_area": "leftpoint"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 62
+              },
               "shot_counter_onclock": 36,
               "period_number": 3,
               "period_type": "period",
@@ -2432,6 +4376,15 @@
               "time_game_seconds": 2961,
               "time_period_seconds": 561,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 1728,
+                "coord_y": 312,
+                "action_area": "leftpoint"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 46
+              },
               "shot_counter_onclock": 37,
               "period_number": 3,
               "period_type": "period",
@@ -2443,6 +4396,15 @@
               "time_game_seconds": 2997,
               "time_period_seconds": 597,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 1764,
+                "coord_y": 84,
+                "action_area": "leftpoint"
+              },
+              "details": {
+                "shot_type": "snap",
+                "distance": 53
+              },
               "shot_counter_onclock": 38,
               "period_number": 3,
               "period_type": "period",
@@ -2454,6 +4416,16 @@
               "time_game_seconds": 2998,
               "time_period_seconds": 598,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 1740,
+                "coord_y": 48,
+                "action_area": "leftpoint"
+              },
+              "details": {
+                "shot_type": "snap",
+                "reason": "above crossbar",
+                "distance": 57
+              },
               "shot_counter_onclock": 39,
               "period_number": 3,
               "period_type": "period",
@@ -2465,6 +4437,15 @@
               "time_game_seconds": 3189,
               "time_period_seconds": 789,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 1944,
+                "coord_y": 312,
+                "action_area": "insideleftcircle"
+              },
+              "details": {
+                "shot_type": "slap",
+                "distance": 30
+              },
               "shot_counter_onclock": 40,
               "period_number": 3,
               "period_type": "period",
@@ -2476,6 +4457,15 @@
               "time_game_seconds": 3192,
               "time_period_seconds": 792,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 2064,
+                "coord_y": 72,
+                "action_area": "outsideleftcircle"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 39
+              },
               "shot_counter_onclock": 41,
               "period_number": 3,
               "period_type": "period",
@@ -2487,6 +4477,15 @@
               "time_game_seconds": 3201,
               "time_period_seconds": 801,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 1752,
+                "coord_y": 684,
+                "action_area": "rightpoint"
+              },
+              "details": {
+                "shot_type": "slap",
+                "distance": 43
+              },
               "shot_counter_onclock": 42,
               "period_number": 3,
               "period_type": "period",
@@ -2498,6 +4497,15 @@
               "time_game_seconds": 3244,
               "time_period_seconds": 844,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 2100,
+                "coord_y": 492,
+                "action_area": "slot"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 13
+              },
               "shot_counter_onclock": 43,
               "period_number": 3,
               "period_type": "period",
@@ -2509,6 +4517,15 @@
               "time_game_seconds": 3281,
               "time_period_seconds": 881,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 2160,
+                "coord_y": 756,
+                "action_area": "lowright"
+              },
+              "details": {
+                "shot_type": "snap",
+                "distance": 22
+              },
               "shot_counter_onclock": 44,
               "period_number": 3,
               "period_type": "period",
@@ -2520,6 +4537,16 @@
               "time_game_seconds": 3378,
               "time_period_seconds": 978,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 1944,
+                "coord_y": 384,
+                "action_area": "insideleftcircle"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "reason": "above crossbar",
+                "distance": 27
+              },
               "shot_counter_onclock": 45,
               "period_number": 3,
               "period_type": "period",
@@ -2531,6 +4558,16 @@
               "time_game_seconds": 3396,
               "time_period_seconds": 996,
               "shot_type": "shotmissed",
+              "location": {
+                "coord_x": 1968,
+                "coord_y": 852,
+                "action_area": "outsiderightcircle"
+              },
+              "details": {
+                "shot_type": "slap",
+                "reason": "wide right",
+                "distance": 37
+              },
               "shot_counter_onclock": 46,
               "period_number": 3,
               "period_type": "period",
@@ -2542,6 +4579,15 @@
               "time_game_seconds": 3467,
               "time_period_seconds": 1067,
               "shot_type": "shotsaved",
+              "location": {
+                "coord_x": 1152,
+                "coord_y": 720,
+                "action_area": "neutralzone"
+              },
+              "details": {
+                "shot_type": "wrist",
+                "distance": 94
+              },
               "shot_counter_onclock": 47,
               "period_number": 3,
               "period_type": "period",
