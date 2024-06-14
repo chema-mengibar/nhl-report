@@ -57,12 +57,12 @@ a:visited,
 a:active {
   text-decoration: underline;
   color: var(--accent-rgb);
-  font-family: var(--font-hl);
+  font-family: inherit;
 }
 
 a:hover {
-  text-decoration: none;
-  color: var(--secondary-color-rgb);
+  margin-left: 10px;
+  // color: var(--secondary-color-rgb);
 }
 
 

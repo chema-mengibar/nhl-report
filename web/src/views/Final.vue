@@ -1,5 +1,6 @@
 <script>
 import Header from "../components/header.vue";
+import Footer from "../components/footer.vue";
 import WidgetPrefinalDummy from "../components/widgets/widget-prefinal-dummy.vue";
 import WidgetPrefinalSpider from "../components/widgets/widget-prefinal-spider.vue";
 import WidgetFinalTeams from "../components/widgets/widget-final-teams.vue";
@@ -30,7 +31,8 @@ export default {
     WidgetPrefinalDummy,
     WidgetPrefinalSpider,
     WidgetFinalTeams,
-    WidgetFinalShotsCounter
+    WidgetFinalShotsCounter,
+    Footer
 
   },
   watch: {},
@@ -137,7 +139,7 @@ export default {
 
     
     <div class="row">
-      <div class="col-12-md col-3">
+      <div class="col-12-md col-6">
         <div class="cell h1">
           <WidgetFinalShotsDistance
               teamKey="team_a"
@@ -146,7 +148,7 @@ export default {
           />
         </div>
       </div>
-      <div class="col-12-md col-3">
+      <div class="col-12-md col-6">
         <div class="cell h1">
           <WidgetFinalShotsDistance
               teamKey="team_b"
@@ -155,25 +157,26 @@ export default {
         </div>
       </div>
 
-      <div class="col-12-md col-6">
-        <div class="row scrollable">
-          <div
-              class="col-9-sm col-9-md col-3"
-              v-bind:key="`WidgetFinalShotsCounter_${idx}`"
-              v-for="idx in [0,1]"
-          >
-            <div class="cell h2">
-              <div class="cell-header with-legend">
-                SHOTS by GAME: {{ idx + 1 }}
-                <small>(saved, missed, goal)</small>
-              </div>
-              <WidgetFinalShotsCounter
-                  :gameIdx="idx"
-                  :id="`widget-final-shots-counter_${idx}`"
-                  groupKey="Oilers-Panthers"
-              />
-            </div>
+   
+    </div>
+
+
+    <div class="row scrollable">
+      <div
+          class="col-9-sm col-9-md col-3"
+          v-bind:key="`WidgetFinalShotsCounter_${idx}`"
+          v-for="idx in [0,1]"
+      >
+        <div class="cell h2">
+          <div class="cell-header with-legend">
+            SHOTS by GAME: {{ idx + 1 }}
+            <small>(saved, missed, goal)</small>
           </div>
+          <WidgetFinalShotsCounter
+              :gameIdx="idx"
+              :id="`widget-final-shots-counter_${idx}`"
+              groupKey="Oilers-Panthers"
+          />
         </div>
       </div>
     </div>
@@ -185,4 +188,5 @@ export default {
 
 
   </div>
+  <Footer />
 </template>

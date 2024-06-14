@@ -1,5 +1,6 @@
 <script>
 import Header from "@/components/header.vue";
+import Footer from "@/components/footer.vue";
 import WidgetShotsCounter from "@/components/widgets/widget-shots-counter.vue";
 import WidgetGroupTeams from "@/components/widgets/widget-group-teams.vue";
 import HeadlineTeams from "@/components/content/headline-teams.vue";
@@ -72,6 +73,7 @@ export default {
     WidgetShotsCounter,
     WidgetGroupTeams,
     HeadlineTeams,
+    Footer
   },
   
 };
@@ -83,6 +85,7 @@ export default {
 
 <template>
   <Header />
+   
   <div class="app-layout-body dashboard">
    
 
@@ -153,13 +156,7 @@ export default {
       </div>
     </div>
 
-    <div class="row">
-      <div class="col-12">
-        <div class="cell">
-          <div class="cell-header">WidgetShotsTypes</div>
-          <WidgetShotsTypes :groupKey="groupKey" />
-        </div>
-      </div>
-    </div>
+    
   </div>
+  <Footer />
 </template>

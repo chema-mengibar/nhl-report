@@ -89,9 +89,10 @@ export default {
 
 <template>
   <div class="app-layout-header header-container">
-    <h1 class="header-logo" v-on:click="goHome()">Nhl Playoffs report</h1>
+    <h1 class="header-logo" v-on:click="goHome()">Nhl Playoffs ´24 report</h1>
 
     <div class="wrapper">
+      <label>SELECT a SERIE:</label> 
       <select
         class="dropdown"
         v-model="model.group"
