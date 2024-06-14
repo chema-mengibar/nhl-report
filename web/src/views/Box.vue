@@ -1,12 +1,13 @@
 <script>
 import Header from "../components/header.vue";
-import WidgetFinalShotsCounter from "../components/widgets/widget-final-shots-counter.vue";
+import WidgetPrefinalGoalie from "@/components/widgets/widget-prefinal-goalie.vue";
 
 export default {
   name: "Box",
   inject: ["$services"],
   data: () => ({
-    t: () => {},
+    t: () => {
+    },
     isLoading: true,
     numGames: 0,
   }),
@@ -14,10 +15,11 @@ export default {
   created() {
     this.t = this.$services.localeService.t();
   },
-  mounted() {},
+  mounted() {
+  },
   components: {
+    WidgetPrefinalGoalie,
     Header,
-    WidgetFinalShotsCounter 
   },
   watch: {},
 };
@@ -34,17 +36,34 @@ export default {
 
     <div class="row">
       <div class="col-12-md col-3">
-        <div class="cell h2">
-          <div class="cell-header">-</div>
-         <WidgetFinalShotsCounter
-            :gameIdx="1"
-            :id="`widget-final-shots-counter`"
-            groupKey="Oilers-Panthers"
+        <div class="cell h0">
+          <WidgetPrefinalGoalie
+              :id="`widget-prefinal-goalie-1`"
+              teamKey="Panthers"
+              :goalieIdx="0"
           />
         </div>
       </div>
+      <div class="col-12-md col-3">
+        <div class="cell h0">
+          <WidgetPrefinalGoalie
+              :id="`widget-prefinal-goalie-2`"
+              teamKey="Oilers"
+              :goalieIdx="0"
+          />
+        </div>
       </div>
-      
+      <div class="col-12-md col-3">
+        <div class="cell h0">
+          <WidgetPrefinalGoalie
+              :id="`widget-prefinal-goalie-2`"
+              teamKey="Oilers"
+              :goalieIdx="1"
+          />
+        </div>
+      </div>
+    </div>
+
 
   </div>
 </template>

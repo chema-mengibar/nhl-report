@@ -5,6 +5,7 @@ import WidgetPrefinalSpider from "../components/widgets/widget-prefinal-spider.v
 import WidgetFinalTeams from "../components/widgets/widget-final-teams.vue";
 import WidgetFinalShotsCounter from "../components/widgets/widget-final-shots-counter.vue";
 import WidgetFinalShotsDistance from "@/components/widgets/widget-final-shots-distance.vue";
+import WidgetPrefinalGoalie from "@/components/widgets/widget-prefinal-goalie.vue";
 
 
 export default {
@@ -23,6 +24,7 @@ export default {
   mounted() {
   },
   components: {
+    WidgetPrefinalGoalie,
     WidgetFinalShotsDistance,
     Header,
     WidgetPrefinalDummy,
@@ -97,6 +99,37 @@ export default {
 
 
     <div class="row">
+      <div class="col-12-md col-4">
+        <div class="cell h1">
+          <WidgetPrefinalGoalie
+              :id="`widget-prefinal-goalie-1`"
+              teamKey="Panthers"
+              :goalieIdx="0"
+          />
+        </div>
+      </div>
+      <div class="col-12-md col-4">
+        <div class="cell h1">
+          <WidgetPrefinalGoalie
+              :id="`widget-prefinal-goalie-2`"
+              teamKey="Oilers"
+              :goalieIdx="0"
+          />
+        </div>
+      </div>
+      <div class="col-12-md col-4">
+        <div class="cell h1">
+          <WidgetPrefinalGoalie
+              :id="`widget-prefinal-goalie-2`"
+              teamKey="Oilers"
+              :goalieIdx="1"
+          />
+        </div>
+      </div>
+    </div>
+
+
+    <div class="row">
       <div class="col-12">
         <h2>Final Games</h2>
       </div>
@@ -105,7 +138,7 @@ export default {
     
     <div class="row">
       <div class="col-12-md col-3">
-        <div class="cell h0">
+        <div class="cell h1">
           <WidgetFinalShotsDistance
               teamKey="team_a"
               :id="`shots-distance-1`"
@@ -114,7 +147,7 @@ export default {
         </div>
       </div>
       <div class="col-12-md col-3">
-        <div class="cell h0">
+        <div class="cell h1">
           <WidgetFinalShotsDistance
               teamKey="team_b"
               :id="`shots-distance-2`"

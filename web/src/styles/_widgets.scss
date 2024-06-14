@@ -3,7 +3,7 @@
   width: 100%;
   flex: 1;
 
-  &.scrollable{
+  &.scrollable {
     overflow-x: auto;
     overflow-y: hidden;
   }
@@ -24,11 +24,11 @@
 
 .rink-areas, .rink {
 
-  
-  .area-label{
+
+  .area-label {
     fill: black;
   }
-  
+
   .base {
     path {
       fill: var(--rink-bg-base);
@@ -45,10 +45,20 @@
 
   .lines {
     path {
-      stroke: rgba(255,255,255, .5);
+      stroke: rgba(255, 255, 255, .5);
       stroke-width: 1px;
       fill: none;
     }
   }
 }
 
+
+.goal {
+  #goalie {
+    fill: var(--grey-3_rgb);
+  }
+
+  #goal-line {
+    fill: var(--grey-3_rgb);
+  }
+}

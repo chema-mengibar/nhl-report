@@ -106,8 +106,8 @@ export default {
       const container = document.getElementById(this.id);
       if (container) {
         const numCols = this.teamKey ? 1 : 2;
-        this.h = (document.getElementById(this.id).offsetWidth ) ;
-        this.w = (document.getElementById(this.id).offsetHeight * 0.8) ;
+        this.w = (document.getElementById(this.id).offsetWidth ) ;
+        this.h = (document.getElementById(this.id).offsetHeight * 0.8) ;
       }
 
       this.setDataByTeamKey(this.teamKey);
@@ -179,6 +179,7 @@ export default {
     margin: 0 20px 7px;
     padding-bottom: 7px;
     text-align: center;
+    min-width: 50%;
   }
 
   .team-border {
@@ -210,8 +211,8 @@ export default {
         </div>
       </div>
 
-      <div class="wrapper-rinks">
-        <div v-show="show">
+
+        <div class="cell-body" v-show="show">
           <div
               class="team-name"
               :class="{ 'team-border': true, [dataSet[teamKey]]: true }"
@@ -220,7 +221,7 @@ export default {
           </div>
           <Rink :w="w" :h="h" :id="`${id}-svg`"/>
         </div>
-      </div>
+
     </template>
   </div>
 </template>
