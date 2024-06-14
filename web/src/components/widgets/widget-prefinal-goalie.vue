@@ -47,11 +47,10 @@ export default {
       this.svg = d3.select(`#${this.id}-svg`);
     },
     render: function () {
-      const container = document.getElementById(this.id);
-      if (container) {
-
-        this.w = (document.getElementById(this.id).offsetWidth) * 0.8;
-        this.h = (document.getElementById(this.id).offsetHeight)* 0.8;
+      const item = d3.select(`#${this.id} .cell-body`);
+      if (item) {
+        this.w = (item.node().offsetWidth ) ;
+        this.h = (item.node().offsetHeight * 0.8) ;
       }
 
       this.goalieName = Object.keys(this.dataSet[this.teamKey])[this.goalieIdx]
@@ -86,8 +85,6 @@ export default {
           }
         }
       })
-
-      console.log(_maxGoalsXArea)
 
       // Colors
 
