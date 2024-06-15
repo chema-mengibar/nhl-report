@@ -165,12 +165,16 @@ export default {
       <div
           class="col-9-sm col-9-md col-3"
           v-bind:key="`WidgetFinalShotsCounter_${idx}`"
-          v-for="idx in [0,1]"
+          v-for="idx in [0,1,2,3]"
       >
         <div class="cell h2">
           <div class="cell-header with-legend">
             SHOTS by GAME: {{ idx + 1 }}
-            <small>(saved, missed, goal)</small>
+            <small class="legend">
+                <span class="finalteams">saved </span>,
+                <span class="b-b_missed">missed</span>, 
+                <span class="b-b_goal">goal</span>
+           </small>
           </div>
           <WidgetFinalShotsCounter
               :gameIdx="idx"

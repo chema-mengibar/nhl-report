@@ -37,14 +37,6 @@
     }
   }
 
-  .areas {
-    rect, path {
-      // stroke: red;
-      // stroke-width: 1px;
-      //fill: black;
-    }
-  }
-
   .lines {
     path {
       stroke: rgba(255, 255, 255, .5);
@@ -54,7 +46,6 @@
   }
 }
 
-
 .goal {
   #goalie {
     fill: var(--grey-3_rgb);
@@ -63,4 +54,37 @@
   #goal-line {
     fill: var(--grey-3_rgb);
   }
+}
+
+
+.legend {
+  font-size: 11px;
+  font-style: italic;
+  margin-top: 10px;
+
+  span{
+    position: relative;
+  
+    &::before{
+      display:inline-block;
+      content:'';
+      margin-right: 7px;
+      width: 12px;
+      height: 12px;
+      border-radius: 6px;;
+    }
+
+    &.b-b_missed{
+      &::before{ background-color: var(--color-shotmissed);}
+    }
+    &.b-b_goal{
+      &::before{ background-color: var(--color-goal);}
+    }
+
+    &.finalteams{
+      &::before{ 
+        background: linear-gradient(137deg, var(--color-Panthers) 51%, var(--color-Oilers) 51%);}
+    }
+  }
+
 }

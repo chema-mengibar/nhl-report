@@ -47,6 +47,7 @@ export default {
       const svgData = {
         home: [],
         away: [],
+ 
       };
 
       let maxX = 3600; // seconds in game -> 20*3 * 60
@@ -154,9 +155,9 @@ export default {
         .attr("class", "line")
         .attr("d", line)
         .style("fill", "none")
-        .style("stroke", colorHome)
-        .style("stroke-opacity", ".8")
-        .style("stroke-width", 4);
+        .style("stroke", 'white') // colorHome
+        .style("stroke-opacity", "1")
+        .style("stroke-width", 1);
 
       this.svg
         .append("g")
@@ -176,9 +177,9 @@ export default {
         .attr("class", "line")
         .attr("d", line)
         .style("fill", "none")
-        .style("stroke", colorAway)
-        .style("stroke-opacity", ".8")
-        .style("stroke-width", 4);
+        .style("stroke", 'white') // colorAway
+        .style("stroke-opacity", "1")
+        .style("stroke-width", 1);
 
       this.svg
         .append("g")
