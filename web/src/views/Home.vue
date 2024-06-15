@@ -23,8 +23,8 @@ export default {
   methods: {
     unwatch : ()=>{},
     getDefaultData: function () {
-      const groupId = this.$services.toolService.getRoundGroups(3)[0];
-      this.$router.push("/" + groupId);
+      // const groupId = this.$services.toolService.getRoundGroups(3)[0];
+      this.$router.push("/final"); // + groupId
     },
     check: function () {
 
