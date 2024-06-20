@@ -1,5 +1,5 @@
 {
-  "date": "2024-06-15",
+  "date": "2024-06-18",
   "league": {
     "id": "fd560107-a85b-4388-ab0d-655ad022aff7",
     "name": "NHL",
@@ -7,26 +7,26 @@
   },
   "games": [
     {
-      "id": "ab9c7558-cb00-488d-829e-83ed7c228a4c",
-      "title": "Game 4",
+      "id": "18d4add9-6e6b-45ed-88bd-84198cbc84ca",
+      "title": "Game 5",
       "status": "closed",
       "coverage": "full",
-      "scheduled": "2024-06-16T00:00:00Z",
-      "home_points": 8,
-      "away_points": 1,
-      "sr_id": "sr:match:49470513",
-      "reference": "30414",
+      "scheduled": "2024-06-19T00:00:00Z",
+      "home_points": 3,
+      "away_points": 5,
+      "sr_id": "sr:match:49470509",
+      "reference": "30415",
       "venue": {
-        "id": "5d6670d2-01ea-4bc2-ae88-93563620328d",
-        "name": "Rogers Place",
-        "capacity": 18641,
-        "address": "10214 104 Avenue NW",
-        "city": "Edmonton",
-        "state": "AB",
-        "zip": "T5J 0H6",
-        "country": "CAN",
-        "time_zone": "US/Mountain",
-        "sr_id": "sr:venue:18335"
+        "id": "7cc8e88f-9196-4dbc-aa6a-d6f1a0550673",
+        "name": "Amerant Bank Arena",
+        "capacity": 19250,
+        "address": "1 Panther Parkway",
+        "city": "Sunrise",
+        "state": "FL",
+        "zip": "33323",
+        "country": "USA",
+        "time_zone": "US/Eastern",
+        "sr_id": "sr:venue:6004"
       },
       "broadcasts": [
         {
@@ -56,20 +56,20 @@
         }
       ],
       "home": {
-        "id": "4415ea6c-0f24-11e2-8525-18a905767e44",
-        "name": "Edmonton Oilers",
-        "alias": "EDM",
-        "seed": 5,
-        "sr_id": "sr:team:3686",
-        "reference": "22"
-      },
-      "away": {
         "id": "4418464d-0f24-11e2-8525-18a905767e44",
         "name": "Florida Panthers",
         "alias": "FLA",
         "seed": 3,
         "sr_id": "sr:team:3687",
         "reference": "13"
+      },
+      "away": {
+        "id": "4415ea6c-0f24-11e2-8525-18a905767e44",
+        "name": "Edmonton Oilers",
+        "alias": "EDM",
+        "seed": 5,
+        "sr_id": "sr:team:3686",
+        "reference": "22"
       }
     }
   ]
