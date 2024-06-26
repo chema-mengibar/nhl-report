@@ -1,0 +1,4068 @@
+{
+  "team_a": "Oilers",
+  "team_b": "Panthers",
+  "round": "final",
+  "games": [
+    {
+      "schedule_data": {
+        "score": "0:3",
+        "lead": "0-1",
+        "lead_team": "Panthers",
+        "date": "9.6",
+        "game": 1,
+        "id": "27ef7b5a-c150-4f7b-9584-7d003375f161"
+      },
+      "report": {
+        "teams": {
+          "home": {
+            "reference": "13",
+            "name": "Panthers",
+            "market": "Florida"
+          },
+          "away": {
+            "reference": "22",
+            "name": "Oilers",
+            "market": "Edmonton"
+          }
+        },
+        "scoring": {
+          "total": {
+            "home": 3,
+            "away": 0
+          },
+          "periods": [
+            {
+              "home": 1,
+              "away": 0,
+              "period_sequence": 1,
+              "period_number": 1,
+              "period_type": "period"
+            },
+            {
+              "home": 1,
+              "away": 0,
+              "period_sequence": 2,
+              "period_number": 2,
+              "period_type": "period"
+            },
+            {
+              "home": 1,
+              "away": 0,
+              "period_sequence": 3,
+              "period_number": 3,
+              "period_type": "period"
+            }
+          ]
+        },
+        "goals": [
+          {
+            "strength": "even",
+            "game": 1,
+            "period": 1,
+            "clock_in_period": "16:01",
+            "time_game_seconds": 239,
+            "time_period_seconds": 239,
+            "shot_type": "goal",
+            "location": {
+              "coord_x": 252,
+              "coord_y": 564,
+              "action_area": "slot"
+            },
+            "details": {
+              "shot_type": "wrist",
+              "goal_zone": "lower left",
+              "distance": 11
+            },
+            "shot_counter_onclock": 1,
+            "period_number": 1,
+            "period_type": "period",
+            "period_sequence": 1,
+            "attribution": "home",
+            "attribution_name": "Panthers",
+            "on_ice": {
+              "Oilers": [
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Cody Ceci"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Ryan Nugent-Hopkins"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Darnell Nurse"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Stuart Skinner"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Connor McDavid"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Zach Hyman"
+                }
+              ],
+              "Panthers": [
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Gustav Forsling"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Sam Reinhart"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Sergei Bobrovsky"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Aleksander Barkov"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Niko Mikkola"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Carter Verhaeghe"
+                }
+              ]
+            }
+          },
+          {
+            "strength": "even",
+            "game": 1,
+            "period": 2,
+            "clock_in_period": "17:44",
+            "time_game_seconds": 1336,
+            "time_period_seconds": 136,
+            "shot_type": "goal",
+            "location": {
+              "coord_x": 2040,
+              "coord_y": 588,
+              "action_area": "highslot"
+            },
+            "details": {
+              "shot_type": "snap",
+              "goal_zone": "upper middle",
+              "distance": 19
+            },
+            "shot_counter_onclock": 1,
+            "period_number": 2,
+            "period_type": "period",
+            "period_sequence": 2,
+            "attribution": "home",
+            "attribution_name": "Panthers",
+            "on_ice": {
+              "Oilers": [
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Cody Ceci"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Ryan McLeod"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Darnell Nurse"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Stuart Skinner"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Evander Kane"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Corey Perry"
+                }
+              ],
+              "Panthers": [
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Brandon Montour"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Sergei Bobrovsky"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Evan Rodrigues"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Sam Bennett"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Oliver Ekman-Larsson"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Matthew Tkachuk"
+                }
+              ]
+            }
+          },
+          {
+            "strength": "even",
+            "game": 1,
+            "period": 3,
+            "clock_in_period": "00:05",
+            "time_game_seconds": 3595,
+            "time_period_seconds": 1195,
+            "shot_type": "emptynetgoal",
+            "location": {
+              "coord_x": 1164,
+              "coord_y": 936,
+              "action_area": "neutralzone"
+            },
+            "details": {
+              "shot_type": "wrist",
+              "goal_zone": "lower right",
+              "distance": 94
+            },
+            "shot_counter_onclock": 1,
+            "period_number": 3,
+            "period_type": "period",
+            "period_sequence": 3,
+            "attribution": "home",
+            "attribution_name": "Panthers",
+            "on_ice": {
+              "Oilers": [
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Ryan Nugent-Hopkins"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Evan Bouchard"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Connor McDavid"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Mattias Ekholm"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Zach Hyman"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Leon Draisaitl"
+                }
+              ],
+              "Panthers": [
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Gustav Forsling"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Sam Reinhart"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Sergei Bobrovsky"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Aleksander Barkov"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Niko Mikkola"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Eetu Luostarinen"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "schedule_data": {
+        "score": "1:4",
+        "lead": "0-2",
+        "lead_team": "Panthers",
+        "date": "11.6",
+        "game": 2,
+        "id": "bf7da94c-5ea2-4467-b940-240c101d487a"
+      },
+      "report": {
+        "teams": {
+          "home": {
+            "reference": "13",
+            "name": "Panthers",
+            "market": "Florida"
+          },
+          "away": {
+            "reference": "22",
+            "name": "Oilers",
+            "market": "Edmonton"
+          }
+        },
+        "scoring": {
+          "total": {
+            "home": 4,
+            "away": 1
+          },
+          "periods": [
+            {
+              "home": 0,
+              "away": 1,
+              "period_sequence": 1,
+              "period_number": 1,
+              "period_type": "period"
+            },
+            {
+              "home": 1,
+              "away": 0,
+              "period_sequence": 2,
+              "period_number": 2,
+              "period_type": "period"
+            },
+            {
+              "home": 3,
+              "away": 0,
+              "period_sequence": 3,
+              "period_number": 3,
+              "period_type": "period"
+            }
+          ]
+        },
+        "goals": [
+          {
+            "strength": "even",
+            "game": 2,
+            "period": 1,
+            "clock_in_period": "8:43",
+            "time_game_seconds": 677,
+            "time_period_seconds": 677,
+            "shot_type": "goal",
+            "location": {
+              "coord_x": 1764,
+              "coord_y": 300,
+              "action_area": "leftpoint"
+            },
+            "details": {
+              "shot_type": "wrist",
+              "goal_zone": "lower middle",
+              "distance": 44
+            },
+            "shot_counter_onclock": 1,
+            "period_number": 1,
+            "period_type": "period",
+            "period_sequence": 1,
+            "attribution": "away",
+            "attribution_name": "Oilers",
+            "on_ice": {
+              "Oilers": [
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Leon Draisaitl"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Connor McDavid"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Stuart Skinner"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Mattias Ekholm"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Evan Bouchard"
+                }
+              ],
+              "Panthers": [
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Sergei Bobrovsky"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Aleksander Barkov"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Gustav Forsling"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Sam Reinhart"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Aaron Ekblad"
+                }
+              ]
+            }
+          },
+          {
+            "strength": "even",
+            "game": 2,
+            "period": 2,
+            "clock_in_period": "10:26",
+            "time_game_seconds": 1774,
+            "time_period_seconds": 574,
+            "shot_type": "goal",
+            "location": {
+              "coord_x": 1776,
+              "coord_y": 384,
+              "action_area": "leftpoint"
+            },
+            "details": {
+              "shot_type": "snap",
+              "goal_zone": "lower right",
+              "distance": 40
+            },
+            "shot_counter_onclock": 1,
+            "period_number": 2,
+            "period_type": "period",
+            "period_sequence": 2,
+            "attribution": "home",
+            "attribution_name": "Panthers",
+            "on_ice": {
+              "Oilers": [
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Brett Kulak"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Connor Brown"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Vincent Desharnais"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Stuart Skinner"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Evander Kane"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Ryan McLeod"
+                }
+              ],
+              "Panthers": [
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Niko Mikkola"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Sergei Bobrovsky"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Brandon Montour"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Vladimir Tarasenko"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Eetu Luostarinen"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Anton Lundell"
+                }
+              ]
+            }
+          },
+          {
+            "strength": "even",
+            "game": 2,
+            "period": 3,
+            "clock_in_period": "16:49",
+            "time_game_seconds": 2591,
+            "time_period_seconds": 191,
+            "shot_type": "goal",
+            "location": {
+              "coord_x": 480,
+              "coord_y": 780,
+              "action_area": "outsideleftcircle"
+            },
+            "details": {
+              "shot_type": "snap",
+              "goal_zone": "upper left",
+              "distance": 37
+            },
+            "shot_counter_onclock": 1,
+            "period_number": 3,
+            "period_type": "period",
+            "period_sequence": 3,
+            "attribution": "home",
+            "attribution_name": "Panthers",
+            "on_ice": {
+              "Oilers": [
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Connor Brown"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Stuart Skinner"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Mattias Ekholm"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Evan Bouchard"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Evander Kane"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Ryan McLeod"
+                }
+              ],
+              "Panthers": [
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Evan Rodrigues"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Sergei Bobrovsky"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Aleksander Barkov"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Kyle Okposo"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Gustav Forsling"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Aaron Ekblad"
+                }
+              ]
+            }
+          },
+          {
+            "strength": "powerplay",
+            "game": 2,
+            "period": 3,
+            "clock_in_period": "7:34",
+            "time_game_seconds": 3146,
+            "time_period_seconds": 746,
+            "shot_type": "goal",
+            "location": {
+              "coord_x": 252,
+              "coord_y": 600,
+              "action_area": "slot"
+            },
+            "details": {
+              "shot_type": "tip-in",
+              "goal_zone": "lower right",
+              "distance": 13
+            },
+            "shot_counter_onclock": 1,
+            "period_number": 3,
+            "period_type": "period",
+            "period_sequence": 3,
+            "attribution": "home",
+            "attribution_name": "Panthers",
+            "on_ice": {
+              "Oilers": [
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Brett Kulak"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Connor Brown"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Stuart Skinner"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Evan Bouchard"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Mattias Janmark"
+                }
+              ],
+              "Panthers": [
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Evan Rodrigues"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Sergei Bobrovsky"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Oliver Ekman-Larsson"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Vladimir Tarasenko"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Anton Lundell"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Aaron Ekblad"
+                }
+              ]
+            }
+          },
+          {
+            "strength": "even",
+            "game": 2,
+            "period": 3,
+            "clock_in_period": "2:28",
+            "time_game_seconds": 3452,
+            "time_period_seconds": 1052,
+            "shot_type": "emptynetgoal",
+            "location": {
+              "coord_x": 1356,
+              "coord_y": 36,
+              "action_area": "neutralzone"
+            },
+            "details": {
+              "shot_type": "wrist",
+              "goal_zone": "lower left",
+              "distance": 110
+            },
+            "shot_counter_onclock": 1,
+            "period_number": 3,
+            "period_type": "period",
+            "period_sequence": 3,
+            "attribution": "home",
+            "attribution_name": "Panthers",
+            "on_ice": {
+              "Oilers": [
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Leon Draisaitl"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Zach Hyman"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Evan Bouchard"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Adam Henrique"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Evander Kane"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Ryan Nugent-Hopkins"
+                }
+              ],
+              "Panthers": [
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Carter Verhaeghe"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Sergei Bobrovsky"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Matthew Tkachuk"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Sam Bennett"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Gustav Forsling"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Aaron Ekblad"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "schedule_data": {
+        "score": "3:4",
+        "lead": "0-3",
+        "lead_team": "Panthers",
+        "date": "13.6",
+        "game": 3,
+        "id": "ad473e94-3654-447d-a5ba-52de87eb0976"
+      },
+      "report": {
+        "teams": {
+          "home": {
+            "reference": "22",
+            "name": "Oilers",
+            "market": "Edmonton"
+          },
+          "away": {
+            "reference": "13",
+            "name": "Panthers",
+            "market": "Florida"
+          }
+        },
+        "scoring": {
+          "total": {
+            "home": 3,
+            "away": 4
+          },
+          "periods": [
+            {
+              "home": 0,
+              "away": 1,
+              "period_sequence": 1,
+              "period_number": 1,
+              "period_type": "period"
+            },
+            {
+              "home": 1,
+              "away": 3,
+              "period_sequence": 2,
+              "period_number": 2,
+              "period_type": "period"
+            },
+            {
+              "home": 2,
+              "away": 0,
+              "period_sequence": 3,
+              "period_number": 3,
+              "period_type": "period"
+            }
+          ]
+        },
+        "goals": [
+          {
+            "strength": "even",
+            "game": 3,
+            "period": 1,
+            "clock_in_period": "1:02",
+            "time_game_seconds": 1138,
+            "time_period_seconds": 1138,
+            "shot_type": "goal",
+            "location": {
+              "coord_x": 240,
+              "coord_y": 468,
+              "action_area": "slot"
+            },
+            "details": {
+              "shot_type": "tip-in",
+              "goal_zone": "lower right",
+              "distance": 10
+            },
+            "shot_counter_onclock": 1,
+            "period_number": 1,
+            "period_type": "period",
+            "period_sequence": 1,
+            "attribution": "away",
+            "attribution_name": "Panthers",
+            "on_ice": {
+              "Oilers": [
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Mattias Ekholm"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Stuart Skinner"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Leon Draisaitl"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Connor McDavid"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Evan Bouchard"
+                }
+              ],
+              "Panthers": [
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Gustav Forsling"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Aleksander Barkov"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Sam Reinhart"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Aaron Ekblad"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Sergei Bobrovsky"
+                }
+              ]
+            }
+          },
+          {
+            "strength": "even",
+            "game": 3,
+            "period": 2,
+            "clock_in_period": "18:11",
+            "time_game_seconds": 1309,
+            "time_period_seconds": 109,
+            "shot_type": "goal",
+            "location": {
+              "coord_x": 444,
+              "coord_y": 600,
+              "action_area": "highslot"
+            },
+            "details": {
+              "shot_type": "wrist",
+              "goal_zone": "lower right",
+              "distance": 28
+            },
+            "shot_counter_onclock": 1,
+            "period_number": 2,
+            "period_type": "period",
+            "period_sequence": 2,
+            "attribution": "home",
+            "attribution_name": "Oilers",
+            "on_ice": {
+              "Oilers": [
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Zach Hyman"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Stuart Skinner"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Warren Foegele"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Philip Broberg"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Darnell Nurse"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Adam Henrique"
+                }
+              ],
+              "Panthers": [
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Sam Bennett"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Matthew Tkachuk"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Dmitry Kulikov"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Niko Mikkola"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Sergei Bobrovsky"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Carter Verhaeghe"
+                }
+              ]
+            }
+          },
+          {
+            "strength": "even",
+            "game": 3,
+            "period": 2,
+            "clock_in_period": "10:48",
+            "time_game_seconds": 1752,
+            "time_period_seconds": 552,
+            "shot_type": "goal",
+            "location": {
+              "coord_x": 2148,
+              "coord_y": 468,
+              "action_area": "slot"
+            },
+            "details": {
+              "shot_type": "wrist",
+              "goal_zone": "upper right",
+              "distance": 9
+            },
+            "shot_counter_onclock": 1,
+            "period_number": 2,
+            "period_type": "period",
+            "period_sequence": 2,
+            "attribution": "away",
+            "attribution_name": "Panthers",
+            "on_ice": {
+              "Oilers": [
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Stuart Skinner"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Warren Foegele"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Leon Draisaitl"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Dylan Holloway"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Brett Kulak"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Cody Ceci"
+                }
+              ],
+              "Panthers": [
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Vladimir Tarasenko"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Dmitry Kulikov"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Eetu Luostarinen"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Anton Lundell"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Oliver Ekman-Larsson"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Sergei Bobrovsky"
+                }
+              ]
+            }
+          },
+          {
+            "strength": "even",
+            "game": 3,
+            "period": 2,
+            "clock_in_period": "6:03",
+            "time_game_seconds": 2037,
+            "time_period_seconds": 837,
+            "shot_type": "goal",
+            "location": {
+              "coord_x": 2136,
+              "coord_y": 456,
+              "action_area": "slot"
+            },
+            "details": {
+              "shot_type": "snap",
+              "goal_zone": "upper left",
+              "distance": 11
+            },
+            "shot_counter_onclock": 1,
+            "period_number": 2,
+            "period_type": "period",
+            "period_sequence": 2,
+            "attribution": "away",
+            "attribution_name": "Panthers",
+            "on_ice": {
+              "Oilers": [
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Stuart Skinner"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Warren Foegele"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Derek Ryan"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Dylan Holloway"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Philip Broberg"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Darnell Nurse"
+                }
+              ],
+              "Panthers": [
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Sam Bennett"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Matthew Tkachuk"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Niko Mikkola"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Oliver Ekman-Larsson"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Evan Rodrigues"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Sergei Bobrovsky"
+                }
+              ]
+            }
+          },
+          {
+            "strength": "even",
+            "game": 3,
+            "period": 2,
+            "clock_in_period": "4:29",
+            "time_game_seconds": 2131,
+            "time_period_seconds": 931,
+            "shot_type": "goal",
+            "location": {
+              "coord_x": 1944,
+              "coord_y": 480,
+              "action_area": "highslot"
+            },
+            "details": {
+              "shot_type": "snap",
+              "goal_zone": "upper left",
+              "distance": 25
+            },
+            "shot_counter_onclock": 1,
+            "period_number": 2,
+            "period_type": "period",
+            "period_sequence": 2,
+            "attribution": "away",
+            "attribution_name": "Panthers",
+            "on_ice": {
+              "Oilers": [
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Mattias Ekholm"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Stuart Skinner"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Warren Foegele"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Leon Draisaitl"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Corey Perry"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Evan Bouchard"
+                }
+              ],
+              "Panthers": [
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Aleksander Barkov"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Niko Mikkola"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Brandon Montour"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Sam Reinhart"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Evan Rodrigues"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Sergei Bobrovsky"
+                }
+              ]
+            }
+          },
+          {
+            "strength": "even",
+            "game": 3,
+            "period": 3,
+            "clock_in_period": "13:58",
+            "time_game_seconds": 2762,
+            "time_period_seconds": 362,
+            "shot_type": "goal",
+            "location": {
+              "coord_x": 2016,
+              "coord_y": 756,
+              "action_area": "insiderightcircle"
+            },
+            "details": {
+              "shot_type": "snap",
+              "goal_zone": "lower left",
+              "distance": 28
+            },
+            "shot_counter_onclock": 1,
+            "period_number": 3,
+            "period_type": "period",
+            "period_sequence": 3,
+            "attribution": "home",
+            "attribution_name": "Oilers",
+            "on_ice": {
+              "Oilers": [
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Stuart Skinner"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Leon Draisaitl"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Philip Broberg"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Connor McDavid"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Darnell Nurse"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Corey Perry"
+                }
+              ],
+              "Panthers": [
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Sam Bennett"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Matthew Tkachuk"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Niko Mikkola"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Brandon Montour"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Sergei Bobrovsky"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Carter Verhaeghe"
+                }
+              ]
+            }
+          },
+          {
+            "strength": "even",
+            "game": 3,
+            "period": 3,
+            "clock_in_period": "5:17",
+            "time_game_seconds": 3283,
+            "time_period_seconds": 883,
+            "shot_type": "goal",
+            "location": {
+              "coord_x": 2076,
+              "coord_y": 372,
+              "action_area": "leftslot"
+            },
+            "details": {
+              "shot_type": "tip-in",
+              "goal_zone": "lower middle",
+              "distance": 18
+            },
+            "shot_counter_onclock": 1,
+            "period_number": 3,
+            "period_type": "period",
+            "period_sequence": 3,
+            "attribution": "home",
+            "attribution_name": "Oilers",
+            "on_ice": {
+              "Oilers": [
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Stuart Skinner"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Leon Draisaitl"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Connor McDavid"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Ryan McLeod"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Brett Kulak"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Cody Ceci"
+                }
+              ],
+              "Panthers": [
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Sam Bennett"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Matthew Tkachuk"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Niko Mikkola"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Brandon Montour"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Sergei Bobrovsky"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Carter Verhaeghe"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "schedule_data": {
+        "score": "8:1",
+        "lead": "1-3",
+        "lead_team": "Panthers",
+        "date": "16.6",
+        "game": 4,
+        "id": "ab9c7558-cb00-488d-829e-83ed7c228a4c"
+      },
+      "report": {
+        "teams": {
+          "home": {
+            "reference": "22",
+            "name": "Oilers",
+            "market": "Edmonton"
+          },
+          "away": {
+            "reference": "13",
+            "name": "Panthers",
+            "market": "Florida"
+          }
+        },
+        "scoring": {
+          "total": {
+            "home": 8,
+            "away": 1
+          },
+          "periods": [
+            {
+              "home": 3,
+              "away": 1,
+              "period_sequence": 1,
+              "period_number": 1,
+              "period_type": "period"
+            },
+            {
+              "home": 3,
+              "away": 0,
+              "period_sequence": 2,
+              "period_number": 2,
+              "period_type": "period"
+            },
+            {
+              "home": 2,
+              "away": 0,
+              "period_sequence": 3,
+              "period_number": 3,
+              "period_type": "period"
+            }
+          ]
+        },
+        "goals": [
+          {
+            "strength": "shorthanded",
+            "game": 4,
+            "period": 1,
+            "clock_in_period": "16:49",
+            "time_game_seconds": 191,
+            "time_period_seconds": 191,
+            "shot_type": "goal",
+            "location": {
+              "coord_x": 2184,
+              "coord_y": 516,
+              "action_area": "lowslot"
+            },
+            "details": {
+              "shot_type": "backhand",
+              "goal_zone": "lower middle",
+              "distance": 5
+            },
+            "shot_counter_onclock": 1,
+            "period_number": 1,
+            "period_type": "period",
+            "period_sequence": 1,
+            "attribution": "home",
+            "attribution_name": "Oilers",
+            "on_ice": {
+              "Oilers": [
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Cody Ceci"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Mattias Janmark"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Stuart Skinner"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Connor Brown"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Philip Broberg"
+                }
+              ],
+              "Panthers": [
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Matthew Tkachuk"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Aleksander Barkov"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Carter Verhaeghe"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Sergei Bobrovsky"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Sam Reinhart"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Brandon Montour"
+                }
+              ]
+            }
+          },
+          {
+            "strength": "even",
+            "game": 4,
+            "period": 1,
+            "clock_in_period": "12:12",
+            "time_game_seconds": 468,
+            "time_period_seconds": 468,
+            "shot_type": "goal",
+            "location": {
+              "coord_x": 2160,
+              "coord_y": 492,
+              "action_area": "slot"
+            },
+            "details": {
+              "shot_type": "tip-in",
+              "goal_zone": "upper right",
+              "distance": 7
+            },
+            "shot_counter_onclock": 1,
+            "period_number": 1,
+            "period_type": "period",
+            "period_sequence": 1,
+            "attribution": "home",
+            "attribution_name": "Oilers",
+            "on_ice": {
+              "Oilers": [
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Cody Ceci"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Brett Kulak"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Mattias Janmark"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Adam Henrique"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Stuart Skinner"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Connor Brown"
+                }
+              ],
+              "Panthers": [
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Anton Lundell"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Vladimir Tarasenko"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Sergei Bobrovsky"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Niko Mikkola"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Brandon Montour"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Eetu Luostarinen"
+                }
+              ]
+            }
+          },
+          {
+            "strength": "even",
+            "game": 4,
+            "period": 1,
+            "clock_in_period": "8:34",
+            "time_game_seconds": 686,
+            "time_period_seconds": 686,
+            "shot_type": "goal",
+            "location": {
+              "coord_x": 324,
+              "coord_y": 576,
+              "action_area": "slot"
+            },
+            "details": {
+              "shot_type": "tip-in",
+              "goal_zone": "lower right",
+              "distance": 18
+            },
+            "shot_counter_onclock": 1,
+            "period_number": 1,
+            "period_type": "period",
+            "period_sequence": 1,
+            "attribution": "away",
+            "attribution_name": "Panthers",
+            "on_ice": {
+              "Oilers": [
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Cody Ceci"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Brett Kulak"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Stuart Skinner"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Leon Draisaitl"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Ryan Nugent-Hopkins"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Connor McDavid"
+                }
+              ],
+              "Panthers": [
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Anton Lundell"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Gustav Forsling"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Vladimir Tarasenko"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Sergei Bobrovsky"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Niko Mikkola"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Eetu Luostarinen"
+                }
+              ]
+            }
+          },
+          {
+            "strength": "even",
+            "game": 4,
+            "period": 1,
+            "clock_in_period": "5:12",
+            "time_game_seconds": 888,
+            "time_period_seconds": 888,
+            "shot_type": "goal",
+            "location": {
+              "coord_x": 2148,
+              "coord_y": 540,
+              "action_area": "slot"
+            },
+            "details": {
+              "shot_type": "backhand",
+              "goal_zone": "lower right",
+              "distance": 8
+            },
+            "shot_counter_onclock": 1,
+            "period_number": 1,
+            "period_type": "period",
+            "period_sequence": 1,
+            "attribution": "home",
+            "attribution_name": "Oilers",
+            "on_ice": {
+              "Oilers": [
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Cody Ceci"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Brett Kulak"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Mattias Janmark"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Stuart Skinner"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Dylan Holloway"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Leon Draisaitl"
+                }
+              ],
+              "Panthers": [
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Kevin Stenlund"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Gustav Forsling"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Aaron Ekblad"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Kyle Okposo"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Sergei Bobrovsky"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Steven Lorentz"
+                }
+              ]
+            }
+          },
+          {
+            "strength": "even",
+            "game": 4,
+            "period": 2,
+            "clock_in_period": "18:47",
+            "time_game_seconds": 1273,
+            "time_period_seconds": 73,
+            "shot_type": "goal",
+            "location": {
+              "coord_x": 384,
+              "coord_y": 648,
+              "action_area": "insideleftcircle"
+            },
+            "details": {
+              "shot_type": "snap",
+              "goal_zone": "lower left",
+              "distance": 24
+            },
+            "shot_counter_onclock": 1,
+            "period_number": 2,
+            "period_type": "period",
+            "period_sequence": 2,
+            "attribution": "home",
+            "attribution_name": "Oilers",
+            "on_ice": {
+              "Oilers": [
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Mattias Ekholm"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Warren Foegele"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Stuart Skinner"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Zach Hyman"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Connor McDavid"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Evan Bouchard"
+                }
+              ],
+              "Panthers": [
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Matthew Tkachuk"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Gustav Forsling"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Aaron Ekblad"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Carter Verhaeghe"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Sergei Bobrovsky"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Sam Bennett"
+                }
+              ]
+            }
+          },
+          {
+            "strength": "even",
+            "game": 4,
+            "period": 2,
+            "clock_in_period": "15:01",
+            "time_game_seconds": 1499,
+            "time_period_seconds": 299,
+            "shot_type": "goal",
+            "location": {
+              "coord_x": 540,
+              "coord_y": 576,
+              "action_area": "lowcenterpoint"
+            },
+            "details": {
+              "shot_type": "snap",
+              "goal_zone": "upper left",
+              "distance": 35
+            },
+            "shot_counter_onclock": 1,
+            "period_number": 2,
+            "period_type": "period",
+            "period_sequence": 2,
+            "attribution": "home",
+            "attribution_name": "Oilers",
+            "on_ice": {
+              "Oilers": [
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Warren Foegele"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Stuart Skinner"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Zach Hyman"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Darnell Nurse"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Connor McDavid"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Philip Broberg"
+                }
+              ],
+              "Panthers": [
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Aaron Ekblad"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Aleksander Barkov"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Vladimir Tarasenko"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Sergei Bobrovsky"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Oliver Ekman-Larsson"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Eetu Luostarinen"
+                }
+              ]
+            }
+          },
+          {
+            "strength": "powerplay",
+            "game": 4,
+            "period": 2,
+            "clock_in_period": "6:57",
+            "time_game_seconds": 1983,
+            "time_period_seconds": 783,
+            "shot_type": "goal",
+            "location": {
+              "coord_x": 192,
+              "coord_y": 468,
+              "action_area": "lowslot"
+            },
+            "details": {
+              "shot_type": "wrist",
+              "goal_zone": "lower middle",
+              "distance": 6
+            },
+            "shot_counter_onclock": 1,
+            "period_number": 2,
+            "period_type": "period",
+            "period_sequence": 2,
+            "attribution": "home",
+            "attribution_name": "Oilers",
+            "on_ice": {
+              "Oilers": [
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Stuart Skinner"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Leon Draisaitl"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Zach Hyman"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Ryan Nugent-Hopkins"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Connor McDavid"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Evan Bouchard"
+                }
+              ],
+              "Panthers": [
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Kevin Stenlund"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Gustav Forsling"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Aaron Ekblad"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Anthony Stolarz"
+                }
+              ]
+            }
+          },
+          {
+            "strength": "even",
+            "game": 4,
+            "period": 3,
+            "clock_in_period": "5:49",
+            "time_game_seconds": 3251,
+            "time_period_seconds": 851,
+            "shot_type": "goal",
+            "location": {
+              "coord_x": 2184,
+              "coord_y": 480,
+              "action_area": "lowslot"
+            },
+            "details": {
+              "shot_type": "wrist",
+              "goal_zone": "upper middle",
+              "distance": 6
+            },
+            "shot_counter_onclock": 1,
+            "period_number": 3,
+            "period_type": "period",
+            "period_sequence": 3,
+            "attribution": "home",
+            "attribution_name": "Oilers",
+            "on_ice": {
+              "Oilers": [
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Cody Ceci"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Stuart Skinner"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Corey Perry"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Dylan Holloway"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Darnell Nurse"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Connor McDavid"
+                }
+              ],
+              "Panthers": [
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Anton Lundell"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Gustav Forsling"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Aaron Ekblad"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Kyle Okposo"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Anthony Stolarz"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Sam Bennett"
+                }
+              ]
+            }
+          },
+          {
+            "strength": "even",
+            "game": 4,
+            "period": 3,
+            "clock_in_period": "3:19",
+            "time_game_seconds": 3401,
+            "time_period_seconds": 1001,
+            "shot_type": "goal",
+            "location": {
+              "coord_x": 1956,
+              "coord_y": 384,
+              "action_area": "insideleftcircle"
+            },
+            "details": {
+              "shot_type": "slap",
+              "goal_zone": "upper right",
+              "distance": 26
+            },
+            "shot_counter_onclock": 1,
+            "period_number": 3,
+            "period_type": "period",
+            "period_sequence": 3,
+            "attribution": "home",
+            "attribution_name": "Oilers",
+            "on_ice": {
+              "Oilers": [
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Warren Foegele"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Ryan McLeod"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Stuart Skinner"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Dylan Holloway"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Darnell Nurse"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Philip Broberg"
+                }
+              ],
+              "Panthers": [
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Dmitry Kulikov"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Matthew Tkachuk"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Carter Verhaeghe"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Anthony Stolarz"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Niko Mikkola"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Sam Bennett"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "schedule_data": {
+        "score": "5:3",
+        "lead": "2-3",
+        "lead_team": "Panthers",
+        "date": "19.6",
+        "game": 5,
+        "id": "18d4add9-6e6b-45ed-88bd-84198cbc84ca"
+      },
+      "report": {
+        "teams": {
+          "home": {
+            "reference": "13",
+            "name": "Panthers",
+            "market": "Florida"
+          },
+          "away": {
+            "reference": "22",
+            "name": "Oilers",
+            "market": "Edmonton"
+          }
+        },
+        "scoring": {
+          "total": {
+            "home": 3,
+            "away": 5
+          },
+          "periods": [
+            {
+              "home": 0,
+              "away": 1,
+              "period_sequence": 1,
+              "period_number": 1,
+              "period_type": "period"
+            },
+            {
+              "home": 2,
+              "away": 3,
+              "period_sequence": 2,
+              "period_number": 2,
+              "period_type": "period"
+            },
+            {
+              "home": 1,
+              "away": 1,
+              "period_sequence": 3,
+              "period_number": 3,
+              "period_type": "period"
+            }
+          ]
+        },
+        "goals": [
+          {
+            "strength": "shorthanded",
+            "game": 5,
+            "period": 1,
+            "clock_in_period": "14:30",
+            "time_game_seconds": 330,
+            "time_period_seconds": 330,
+            "shot_type": "goal",
+            "location": {
+              "coord_x": 2148,
+              "coord_y": 504,
+              "action_area": "slot"
+            },
+            "details": {
+              "shot_type": "backhand",
+              "goal_zone": "lower left",
+              "distance": 8
+            },
+            "shot_counter_onclock": 1,
+            "period_number": 1,
+            "period_type": "period",
+            "period_sequence": 1,
+            "attribution": "away",
+            "attribution_name": "Oilers",
+            "on_ice": {
+              "Oilers": [
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Connor Brown"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Stuart Skinner"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Darnell Nurse"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Philip Broberg"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Mattias Janmark"
+                }
+              ],
+              "Panthers": [
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Sam Reinhart"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Carter Verhaeghe"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Aleksander Barkov"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Sergei Bobrovsky"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Matthew Tkachuk"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Brandon Montour"
+                }
+              ]
+            }
+          },
+          {
+            "strength": "powerplay",
+            "game": 5,
+            "period": 2,
+            "clock_in_period": "18:02",
+            "time_game_seconds": 1318,
+            "time_period_seconds": 118,
+            "shot_type": "goal",
+            "location": {
+              "coord_x": 216,
+              "coord_y": 492,
+              "action_area": "lowslot"
+            },
+            "details": {
+              "shot_type": "deflected",
+              "goal_zone": "lower left",
+              "distance": 8
+            },
+            "shot_counter_onclock": 1,
+            "period_number": 2,
+            "period_type": "period",
+            "period_sequence": 2,
+            "attribution": "away",
+            "attribution_name": "Oilers",
+            "on_ice": {
+              "Oilers": [
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Connor McDavid"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Evan Bouchard"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Stuart Skinner"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Ryan Nugent-Hopkins"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Leon Draisaitl"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Zach Hyman"
+                }
+              ],
+              "Panthers": [
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Sam Reinhart"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Aaron Ekblad"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Aleksander Barkov"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Sergei Bobrovsky"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Gustav Forsling"
+                }
+              ]
+            }
+          },
+          {
+            "strength": "even",
+            "game": 5,
+            "period": 2,
+            "clock_in_period": "15:00",
+            "time_game_seconds": 1500,
+            "time_period_seconds": 300,
+            "shot_type": "goal",
+            "location": {
+              "coord_x": 168,
+              "coord_y": 744,
+              "action_area": "lowleft"
+            },
+            "details": {
+              "shot_type": "wrist",
+              "goal_zone": "lower left",
+              "distance": 20
+            },
+            "shot_counter_onclock": 1,
+            "period_number": 2,
+            "period_type": "period",
+            "period_sequence": 2,
+            "attribution": "away",
+            "attribution_name": "Oilers",
+            "on_ice": {
+              "Oilers": [
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Mattias Ekholm"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Connor McDavid"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Evan Bouchard"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Warren Foegele"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Stuart Skinner"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Zach Hyman"
+                }
+              ],
+              "Panthers": [
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Kevin Stenlund"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Aaron Ekblad"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Carter Verhaeghe"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Sergei Bobrovsky"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Gustav Forsling"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Kyle Okposo"
+                }
+              ]
+            }
+          },
+          {
+            "strength": "even",
+            "game": 5,
+            "period": 2,
+            "clock_in_period": "13:07",
+            "time_game_seconds": 1613,
+            "time_period_seconds": 413,
+            "shot_type": "goal",
+            "location": {
+              "coord_x": 2004,
+              "coord_y": 420,
+              "action_area": "highslot"
+            },
+            "details": {
+              "shot_type": "snap",
+              "goal_zone": "upper right",
+              "distance": 21
+            },
+            "shot_counter_onclock": 1,
+            "period_number": 2,
+            "period_type": "period",
+            "period_sequence": 2,
+            "attribution": "home",
+            "attribution_name": "Panthers",
+            "on_ice": {
+              "Oilers": [
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Mattias Ekholm"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Evan Bouchard"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Stuart Skinner"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Ryan Nugent-Hopkins"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Leon Draisaitl"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Dylan Holloway"
+                }
+              ],
+              "Panthers": [
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Aaron Ekblad"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Evan Rodrigues"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Sergei Bobrovsky"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Sam Bennett"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Matthew Tkachuk"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Gustav Forsling"
+                }
+              ]
+            }
+          },
+          {
+            "strength": "powerplay",
+            "game": 5,
+            "period": 2,
+            "clock_in_period": "8:06",
+            "time_game_seconds": 1914,
+            "time_period_seconds": 714,
+            "shot_type": "goal",
+            "location": {
+              "coord_x": 204,
+              "coord_y": 456,
+              "action_area": "lowslot"
+            },
+            "details": {
+              "shot_type": "wrist",
+              "goal_zone": "lower middle",
+              "distance": 8
+            },
+            "shot_counter_onclock": 1,
+            "period_number": 2,
+            "period_type": "period",
+            "period_sequence": 2,
+            "attribution": "away",
+            "attribution_name": "Oilers",
+            "on_ice": {
+              "Oilers": [
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Connor McDavid"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Evan Bouchard"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Corey Perry"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Stuart Skinner"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Ryan Nugent-Hopkins"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Leon Draisaitl"
+                }
+              ],
+              "Panthers": [
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Dmitry Kulikov"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Niko Mikkola"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Kevin Stenlund"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Eetu Luostarinen"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Sergei Bobrovsky"
+                }
+              ]
+            }
+          },
+          {
+            "strength": "even",
+            "game": 5,
+            "period": 2,
+            "clock_in_period": "7:52",
+            "time_game_seconds": 1928,
+            "time_period_seconds": 728,
+            "shot_type": "goal",
+            "location": {
+              "coord_x": 2220,
+              "coord_y": 528,
+              "action_area": "lowslot"
+            },
+            "details": {
+              "shot_type": "wrist",
+              "goal_zone": "lower middle",
+              "distance": 3
+            },
+            "shot_counter_onclock": 1,
+            "period_number": 2,
+            "period_type": "period",
+            "period_sequence": 2,
+            "attribution": "home",
+            "attribution_name": "Panthers",
+            "on_ice": {
+              "Oilers": [
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Derek Ryan"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Ryan McLeod"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Corey Perry"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Stuart Skinner"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Darnell Nurse"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Philip Broberg"
+                }
+              ],
+              "Panthers": [
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Niko Mikkola"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Evan Rodrigues"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Sergei Bobrovsky"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Sam Bennett"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Matthew Tkachuk"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Brandon Montour"
+                }
+              ]
+            }
+          },
+          {
+            "strength": "even",
+            "game": 5,
+            "period": 3,
+            "clock_in_period": "15:56",
+            "time_game_seconds": 2644,
+            "time_period_seconds": 244,
+            "shot_type": "goal",
+            "location": {
+              "coord_x": 468,
+              "coord_y": 696,
+              "action_area": "insideleftcircle"
+            },
+            "details": {
+              "shot_type": "snap",
+              "goal_zone": "upper right",
+              "distance": 33
+            },
+            "shot_counter_onclock": 1,
+            "period_number": 3,
+            "period_type": "period",
+            "period_sequence": 3,
+            "attribution": "home",
+            "attribution_name": "Panthers",
+            "on_ice": {
+              "Oilers": [
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Connor Brown"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Cody Ceci"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Stuart Skinner"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Adam Henrique"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Mattias Janmark"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Brett Kulak"
+                }
+              ],
+              "Panthers": [
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Dmitry Kulikov"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Oliver Ekman-Larsson"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Evan Rodrigues"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Sergei Bobrovsky"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Sam Bennett"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Matthew Tkachuk"
+                }
+              ]
+            }
+          },
+          {
+            "strength": "even",
+            "game": 5,
+            "period": 3,
+            "clock_in_period": "00:19",
+            "time_game_seconds": 3581,
+            "time_period_seconds": 1181,
+            "shot_type": "emptynetgoal",
+            "location": {
+              "coord_x": 2100,
+              "coord_y": 276,
+              "action_area": "leftslot"
+            },
+            "details": {
+              "shot_type": "wrist",
+              "goal_zone": "lower middle",
+              "distance": 23
+            },
+            "shot_counter_onclock": 1,
+            "period_number": 3,
+            "period_type": "period",
+            "period_sequence": 3,
+            "attribution": "away",
+            "attribution_name": "Oilers",
+            "on_ice": {
+              "Oilers": [
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Mattias Ekholm"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Connor McDavid"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Evan Bouchard"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Stuart Skinner"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Leon Draisaitl"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Zach Hyman"
+                }
+              ],
+              "Panthers": [
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Sam Reinhart"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Oliver Ekman-Larsson"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Carter Verhaeghe"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Aleksander Barkov"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Sam Bennett"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Matthew Tkachuk"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "schedule_data": {
+        "score": "5:1",
+        "lead": "3-3",
+        "lead_team": "-",
+        "date": "22.6",
+        "game": 6,
+        "id": "bc8b6ed3-35b9-49b6-a08f-bcf5d29d5c26"
+      },
+      "report": {
+        "teams": {
+          "home": {
+            "reference": "22",
+            "name": "Oilers",
+            "market": "Edmonton"
+          },
+          "away": {
+            "reference": "13",
+            "name": "Panthers",
+            "market": "Florida"
+          }
+        },
+        "scoring": {
+          "total": {
+            "home": 5,
+            "away": 1
+          },
+          "periods": [
+            {
+              "home": 1,
+              "away": 0,
+              "period_sequence": 1,
+              "period_number": 1,
+              "period_type": "period"
+            },
+            {
+              "home": 2,
+              "away": 0,
+              "period_sequence": 2,
+              "period_number": 2,
+              "period_type": "period"
+            },
+            {
+              "home": 2,
+              "away": 1,
+              "period_sequence": 3,
+              "period_number": 3,
+              "period_type": "period"
+            }
+          ]
+        },
+        "goals": [
+          {
+            "strength": "even",
+            "game": 6,
+            "period": 1,
+            "clock_in_period": "12:33",
+            "time_game_seconds": 447,
+            "time_period_seconds": 447,
+            "shot_type": "goal",
+            "location": {
+              "coord_x": 2172,
+              "coord_y": 360,
+              "action_area": "leftslot"
+            },
+            "details": {
+              "shot_type": "snap",
+              "goal_zone": "upper right",
+              "distance": 14
+            },
+            "shot_counter_onclock": 1,
+            "period_number": 1,
+            "period_type": "period",
+            "period_sequence": 1,
+            "attribution": "home",
+            "attribution_name": "Oilers",
+            "on_ice": {
+              "Oilers": [
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Cody Ceci"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Warren Foegele"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Philip Broberg"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Leon Draisaitl"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Dylan Holloway"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Stuart Skinner"
+                }
+              ],
+              "Panthers": [
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Gustav Forsling"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Sergei Bobrovsky"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Aleksander Barkov"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Sam Reinhart"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Aaron Ekblad"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Carter Verhaeghe"
+                }
+              ]
+            }
+          },
+          {
+            "strength": "even",
+            "game": 6,
+            "period": 2,
+            "clock_in_period": "19:14",
+            "time_game_seconds": 1246,
+            "time_period_seconds": 46,
+            "shot_type": "goal",
+            "location": {
+              "coord_x": 348,
+              "coord_y": 408,
+              "action_area": "highslot"
+            },
+            "details": {
+              "shot_type": "wrist",
+              "goal_zone": "lower left",
+              "distance": 20
+            },
+            "shot_counter_onclock": 1,
+            "period_number": 2,
+            "period_type": "period",
+            "period_sequence": 2,
+            "attribution": "home",
+            "attribution_name": "Oilers",
+            "on_ice": {
+              "Oilers": [
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Mattias Ekholm"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Adam Henrique"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Dylan Holloway"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Stuart Skinner"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Mattias Janmark"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Evan Bouchard"
+                }
+              ],
+              "Panthers": [
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Sam Bennett"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Gustav Forsling"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Sergei Bobrovsky"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Evan Rodrigues"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Dmitry Kulikov"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Sam Reinhart"
+                }
+              ]
+            }
+          },
+          {
+            "strength": "even",
+            "game": 6,
+            "period": 2,
+            "clock_in_period": "1:40",
+            "time_game_seconds": 2300,
+            "time_period_seconds": 1100,
+            "shot_type": "goal",
+            "location": {
+              "coord_x": 252,
+              "coord_y": 576,
+              "action_area": "slot"
+            },
+            "details": {
+              "shot_type": "backhand",
+              "goal_zone": "lower middle",
+              "distance": 12
+            },
+            "shot_counter_onclock": 1,
+            "period_number": 2,
+            "period_type": "period",
+            "period_sequence": 2,
+            "attribution": "home",
+            "attribution_name": "Oilers",
+            "on_ice": {
+              "Oilers": [
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Connor McDavid"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Mattias Ekholm"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Ryan Nugent-Hopkins"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Zach Hyman"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Stuart Skinner"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Evan Bouchard"
+                }
+              ],
+              "Panthers": [
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Sam Bennett"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Matthew Tkachuk"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Gustav Forsling"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Sergei Bobrovsky"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Evan Rodrigues"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Aaron Ekblad"
+                }
+              ]
+            }
+          },
+          {
+            "strength": "even",
+            "game": 6,
+            "period": 3,
+            "clock_in_period": "18:32",
+            "time_game_seconds": 2488,
+            "time_period_seconds": 88,
+            "shot_type": "goal",
+            "location": {
+              "coord_x": 192,
+              "coord_y": 504,
+              "action_area": "lowslot"
+            },
+            "details": {
+              "shot_type": "wrist",
+              "goal_zone": "lower middle",
+              "distance": 6
+            },
+            "shot_counter_onclock": 1,
+            "period_number": 3,
+            "period_type": "period",
+            "period_sequence": 3,
+            "attribution": "away",
+            "attribution_name": "Panthers",
+            "on_ice": {
+              "Oilers": [
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Cody Ceci"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Warren Foegele"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Brett Kulak"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Leon Draisaitl"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Derek Ryan"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Stuart Skinner"
+                }
+              ],
+              "Panthers": [
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Sergei Bobrovsky"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Dmitry Kulikov"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Aleksander Barkov"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Sam Reinhart"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Carter Verhaeghe"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Oliver Ekman-Larsson"
+                }
+              ]
+            }
+          },
+          {
+            "strength": "even",
+            "game": 6,
+            "period": 3,
+            "clock_in_period": "3:15",
+            "time_game_seconds": 3405,
+            "time_period_seconds": 1005,
+            "shot_type": "emptynetgoal",
+            "location": {
+              "coord_x": 1536,
+              "coord_y": 984,
+              "action_area": "rightpoint"
+            },
+            "details": {
+              "shot_type": "backhand",
+              "goal_zone": "lower middle",
+              "distance": 72
+            },
+            "shot_counter_onclock": 1,
+            "period_number": 3,
+            "period_type": "period",
+            "period_sequence": 3,
+            "attribution": "home",
+            "attribution_name": "Oilers",
+            "on_ice": {
+              "Oilers": [
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Darnell Nurse"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Warren Foegele"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Ryan McLeod"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Philip Broberg"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Leon Draisaitl"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Stuart Skinner"
+                }
+              ],
+              "Panthers": [
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Sam Bennett"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Matthew Tkachuk"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Aleksander Barkov"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Sam Reinhart"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Carter Verhaeghe"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Oliver Ekman-Larsson"
+                }
+              ]
+            }
+          },
+          {
+            "strength": "even",
+            "game": 6,
+            "period": 3,
+            "clock_in_period": "3:03",
+            "time_game_seconds": 3417,
+            "time_period_seconds": 1017,
+            "shot_type": "emptynetgoal",
+            "location": {
+              "coord_x": 420,
+              "coord_y": 444,
+              "action_area": "defensivezone"
+            },
+            "details": {
+              "shot_type": "wrist",
+              "goal_zone": "lower middle",
+              "distance": 153
+            },
+            "shot_counter_onclock": 1,
+            "period_number": 3,
+            "period_type": "period",
+            "period_sequence": 3,
+            "attribution": "home",
+            "attribution_name": "Oilers",
+            "on_ice": {
+              "Oilers": [
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Darnell Nurse"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Connor Brown"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Philip Broberg"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Adam Henrique"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Stuart Skinner"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Mattias Janmark"
+                }
+              ],
+              "Panthers": [
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Sam Bennett"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Matthew Tkachuk"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Brandon Montour"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Aleksander Barkov"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Sam Reinhart"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Carter Verhaeghe"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "schedule_data": {
+        "score": "1:2",
+        "lead": "3-4",
+        "lead_team": "-",
+        "date": "24.6",
+        "game": 7,
+        "id": "5c39dd5c-1953-42b9-9cf1-47001d62c7bf"
+      },
+      "report": {
+        "teams": {
+          "home": {
+            "reference": "13",
+            "name": "Panthers",
+            "market": "Florida"
+          },
+          "away": {
+            "reference": "22",
+            "name": "Oilers",
+            "market": "Edmonton"
+          }
+        },
+        "scoring": {
+          "total": {
+            "home": 2,
+            "away": 1
+          },
+          "periods": [
+            {
+              "home": 1,
+              "away": 1,
+              "period_sequence": 1,
+              "period_number": 1,
+              "period_type": "period"
+            },
+            {
+              "home": 1,
+              "away": 0,
+              "period_sequence": 2,
+              "period_number": 2,
+              "period_type": "period"
+            },
+            {
+              "home": 0,
+              "away": 0,
+              "period_sequence": 3,
+              "period_number": 3,
+              "period_type": "period"
+            }
+          ]
+        },
+        "goals": [
+          {
+            "strength": "even",
+            "game": 7,
+            "period": 1,
+            "clock_in_period": "15:33",
+            "time_game_seconds": 267,
+            "time_period_seconds": 267,
+            "shot_type": "goal",
+            "location": {
+              "coord_x": 192,
+              "coord_y": 576,
+              "action_area": "lowslot"
+            },
+            "details": {
+              "shot_type": "tip-in",
+              "goal_zone": "lower middle",
+              "distance": 8
+            },
+            "shot_counter_onclock": 1,
+            "period_number": 1,
+            "period_type": "period",
+            "period_sequence": 1,
+            "attribution": "home",
+            "attribution_name": "Panthers",
+            "on_ice": {
+              "Oilers": [
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Ryan McLeod"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Stuart Skinner"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Warren Foegele"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Evan Bouchard"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Brett Kulak"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Ryan Nugent-Hopkins"
+                }
+              ],
+              "Panthers": [
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Anton Lundell"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Evan Rodrigues"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Carter Verhaeghe"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Sam Bennett"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Sergei Bobrovsky"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Brandon Montour"
+                }
+              ]
+            }
+          },
+          {
+            "strength": "even",
+            "game": 7,
+            "period": 1,
+            "clock_in_period": "13:16",
+            "time_game_seconds": 404,
+            "time_period_seconds": 404,
+            "shot_type": "goal",
+            "location": {
+              "coord_x": 2112,
+              "coord_y": 528,
+              "action_area": "slot"
+            },
+            "details": {
+              "shot_type": "wrist",
+              "goal_zone": "upper left",
+              "distance": 12
+            },
+            "shot_counter_onclock": 1,
+            "period_number": 1,
+            "period_type": "period",
+            "period_sequence": 1,
+            "attribution": "away",
+            "attribution_name": "Oilers",
+            "on_ice": {
+              "Oilers": [
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Stuart Skinner"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Cody Ceci"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Mattias Janmark"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Evan Bouchard"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Connor Brown"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Adam Henrique"
+                }
+              ],
+              "Panthers": [
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Gustav Forsling"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Anton Lundell"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Vladimir Tarasenko"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Aaron Ekblad"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Sergei Bobrovsky"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Eetu Luostarinen"
+                }
+              ]
+            }
+          },
+          {
+            "strength": "even",
+            "game": 7,
+            "period": 2,
+            "clock_in_period": "4:49",
+            "time_game_seconds": 2111,
+            "time_period_seconds": 911,
+            "shot_type": "goal",
+            "location": {
+              "coord_x": 1920,
+              "coord_y": 804,
+              "action_area": "outsiderightcircle"
+            },
+            "details": {
+              "shot_type": "wrist",
+              "goal_zone": "lower right",
+              "distance": 37
+            },
+            "shot_counter_onclock": 1,
+            "period_number": 2,
+            "period_type": "period",
+            "period_sequence": 2,
+            "attribution": "home",
+            "attribution_name": "Panthers",
+            "on_ice": {
+              "Oilers": [
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Ryan McLeod"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Stuart Skinner"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Warren Foegele"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Cody Ceci"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Brett Kulak"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Leon Draisaitl"
+                }
+              ],
+              "Panthers": [
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Sam Reinhart"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Carter Verhaeghe"
+                },
+                {
+                  "position": "F",
+                  "primary_position": "F",
+                  "full_name": "Aleksander Barkov"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Niko Mikkola"
+                },
+                {
+                  "position": "D",
+                  "primary_position": "D",
+                  "full_name": "Oliver Ekman-Larsson"
+                },
+                {
+                  "position": "G",
+                  "primary_position": "G",
+                  "full_name": "Sergei Bobrovsky"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

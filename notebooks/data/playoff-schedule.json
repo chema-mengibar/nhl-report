@@ -803,6 +803,22 @@
         "date": "19.6",
         "game": 5,
         "id": "18d4add9-6e6b-45ed-88bd-84198cbc84ca"
+      },
+      {
+        "score": "5:1",
+        "lead": "3-3",
+        "lead_team": "-",
+        "date": "22.6",
+        "game": 6,
+        "id": "bc8b6ed3-35b9-49b6-a08f-bcf5d29d5c26"
+      },
+      {
+        "score": "1:2",
+        "lead": "3-4",
+        "lead_team": "Panthers",
+        "date": "24.6",
+        "game": 7,
+        "id": "5c39dd5c-1953-42b9-9cf1-47001d62c7bf"
       }
     ]
   }

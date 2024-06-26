@@ -167,7 +167,7 @@ export default {
         .append("circle")
         .attr("cx", (d) => xScale(d[0]))
         .attr("cy", (d) => yScale(d[1]))
-        .attr("r", 3)
+        .attr("r", 2)
         .style("fill-opacity", "1")
         .style("fill", (d) => d[2] || colorHome);
 
@@ -189,7 +189,7 @@ export default {
         .append("circle")
         .attr("cx", (d) => xScale(d[0]))
         .attr("cy", (d) => yScale(d[1]))
-        .attr("r", 3)
+        .attr("r", 2)
         .style("fill-opacity", "1")
         .style("fill", (d) => d[2] || colorAway);
     },
